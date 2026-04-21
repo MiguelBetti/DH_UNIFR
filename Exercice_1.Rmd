@@ -1,0 +1,128 @@
+---
+title: "De la page à la carte - Université de Fribourg"
+author: "Miguel Betti"
+date: "29/04/2026"
+output: html_document
+---
+
+#O. Setup
+
+```{r}
+#Load the working data: Session -> Set working directory -> Choose directory... [my directory]
+setwd("/Users/miguelbetti/Desktop/DH_FRIBOURG")
+```
+
+```{r}
+#I check that I am in the correct folder
+getwd()
+```
+
+```{r}
+#Install the necessary libraries and packages
+if(!require("leaflet"))
+install.packages("leaflet")
+library(leaflet)
+library(leaflet.extras)
+
+if(!require("dplyr"))
+install.packages("dplyr")
+library(dplyr)
+
+if(!require("htmlwidgets"))
+install.packages
+library(htmlwidgets)
+
+```
+
+
+#I. Trial: my first map with leaflet
+
+```{r}
+#I create my first trial map
+map <- leaflet() %>% addTiles() %>% 
+    #Set the position and the zoom
+      setView(7.15, lat = 46.80, zoom = 13)
+#Open the map
+map
+```
+
+```{r}
+#I add a marker with a popup: Université de Fribourg - Beauregard
+map <- leaflet() %>% addTiles() %>% 
+      setView(7.15, lat = 46.80, zoom = 13) %>% 
+      addMarkers(lng = 7.146065736643453, lat = 46.802408523089895, popup = "Université de Fribourg - Beauregard")
+map
+```
+
+#2. My first literary map: "El mapa del Quijote"
+
+
+```{r}
+#I create two objets with my data (toponyms and coordinates)
+parte_I <- read.csv("data/Parte_I.csv") #Primera parte del Quijote
+parte_II <- read.csv("data/Parte_II.csv") #Segunda parte del Quijote
+```
+
+
+```{r}
+#Create the leaflet map object
+dq_map <- leaflet() %>%
+
+  #1.Add a satellite imagery basemap from Esri (not the basic Leaflet one)
+  addProviderTiles(providers$Esri.WorldImagery) %>%
+
+  #2.Set the initial view: centered on the Mediterranean
+setView(lng = 14, lat = 38, zoom = 4) %>%
+  
+  #3.Add markers
+
+  #PART I markers
+  addCircles(data = parte_I,          #Use the parte_I data frame as the source
+             lng = ~lng, lat = ~lat,  #Map the lng and lat columns to coordinates
+             group = "Primera parte (1605)",       #Layer group name for the toggle control
+             radius = ~sqrt(menciones) * 10,       #Circle size scaled by mention count "menciones"
+             color = "blue", weight = 5,           #color and thickness
+             fill = TRUE, fillColor = "blue", fillOpacity = 0.5,  # Opacity
+             popup = ~paste0("Lugar: ", lugar, "<br>Menciones: ", menciones)) %>%  #click popup with place name and count
+
+  #PART II markers
+  addCircles(data = parte_II,         
+             lng = ~lng, lat = ~lat,
+             group = "Segunda parte (1615)",
+             radius = ~sqrt(menciones) * 1000,
+             color = "red", weight = 5,
+             fill = TRUE, fillColor = "red", fillOpacity = 0.5,
+             popup = ~paste0("Lugar: ", lugar, "<br>Menciones: ", menciones)) %>%
+
+  #Add a toggle control so users can show/hide each part's layer independently
+  addLayersControl(
+    baseGroups = c("Don Quijote de la Mancha"),              #the basemap label
+    overlayGroups = c("Primera parte (1605)", "Segunda parte (1615)"),  #toggleable layers
+    options = layersControlOptions(collapsed = TRUE))        #control starts collapsed
+
+#Open the map
+dq_map
+```
+
+
+```{r}
+#I can save the map as a HTML file in my working directory
+saveWidget(dq_map, file="Cervantes_map.html")
+browseURL("Cervantes_map.html")
+```
+
+#Exercice
+
+1. Change the basemap:
+  # addProviderTiles(providers$OpenStreetMap) %>%         # Classic street map
+  # addProviderTiles(providers$Esri.NatGeoWorldMap) %>%   # National Geographic
+  # addProviderTiles(providers$CartoDB.Positron) %>%      # Minimal light grey
+
+2. Zoom to Spain (coordinates? Zoom size?)
+
+3. Change colours and circle size
+
+4. Add information to the pop_up (obra? tipo?)
+
+
+

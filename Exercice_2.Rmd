@@ -1,0 +1,108 @@
+---
+title: "De la page à la carte - Université de Fribourg"
+author: "Miguel Betti"
+date: "29/04/2026"
+output: html_document
+---
+
+#I load the working data
+
+Session -> Set working directory -> Choose directory... [mon dossier]
+
+```{r}
+setwd("/Users/miguelbetti/Desktop/DH_FRIBOURG")
+```
+
+#I check that I am in the correct folder
+
+```{r}
+getwd()
+```
+
+#I install the necessary libraries and packages
+
+```{r}
+if(!require("leaflet"))
+install.packages("leaflet")
+library(leaflet)
+library(leaflet.extras)
+
+if(!require("dplyr"))
+install.packages("dplyr")
+library(dplyr)
+
+if(!require("htmlwidgets"))
+install.packages
+library(htmlwidgets)
+
+if(!require("readxl"))
+install.packages("readxl")
+library(readxl)
+```
+
+#Read the CSV files and create new objects
+```{r}
+corpus <- read_excel("data/corpus.xlsx")
+```
+
+# Group by place: one row per place, all works listed
+```{r}
+corpus_grouped <- corpus %>%
+  group_by(place, lat, lng) %>%
+  summarise(
+    works = paste(title, collapse = "<br>"),
+    .groups = "drop"
+  )
+```
+
+#Create the map
+```{r}
+#Create the leaflet map object
+corpus_map <- leaflet() %>%
+
+  #1. Add a satellite imagery basemap from Esri
+  addProviderTiles(providers$OpenStreetMap) %>%
+
+  #2. Set the initial view: centered on Spain
+  setView(lng = -3.7038, lat = 40.4150, zoom = 14) %>%
+
+  #3. Circles
+  addCircles(data = corpus_grouped,         
+             lng = ~lng, lat = ~lat,
+             group = "Works",
+             color = "red", weight = 1,
+             radius = 20,
+             fillOpacity = 0.4,
+             popup = ~paste0("<b>Place:</b> ", place, "<br>","<b>Work(s):</b><br>", works)) %>%
+
+# Add a static legend
+addControl(
+  html = "<div style='background:white; padding:8px; border-radius:4px; border:1px solid #ccc;'>
+            <b>Madrid de Lope de Vega (1562-1635)</b><br>
+            <span style='color:red;'>●</span> Places mentioned
+          </div>",
+  position = "bottomright"
+)
+
+#Print the map to the RStudio Viewer pane
+corpus_map
+```
+
+
+
+#Save the map as a standalone HTML file in your working directory
+```{r}
+saveWidget(corpus_map, file="corpus_map.html")
+browseURL("corpus_map.html")
+```
+
+#Excercices
+
+1. Load your corpus
+
+2. Zoom to Sevilla (coordinates? zoom size?)
+
+3. Change labels
+
+
+
