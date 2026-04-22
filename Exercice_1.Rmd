@@ -9,7 +9,7 @@ output: html_document
 
 ```{r}
 #Load the working data: Session -> Set working directory -> Choose directory... [my directory]
-setwd("/Users/miguelbetti/Desktop/DH_FRIBOURG")
+setwd("/Users/miguelbetti/Desktop/Git/DH_FRIBOURG")
 ```
 
 ```{r}
@@ -40,7 +40,7 @@ library(htmlwidgets)
 ```{r}
 #I create my first trial map
 map <- leaflet() %>% addTiles() %>% 
-    #Set the position and the zoom
+    #Set the position and the zoom on Fribourg
       setView(7.15, lat = 46.80, zoom = 13)
 #Open the map
 map
@@ -50,15 +50,30 @@ map
 #I add a marker with a popup: Université de Fribourg - Beauregard
 map <- leaflet() %>% addTiles() %>% 
       setView(7.15, lat = 46.80, zoom = 13) %>% 
-      addMarkers(lng = 7.146065736643453, lat = 46.802408523089895, popup = "Université de Fribourg - Beauregard")
+      addMarkers(lng = 7.146065736643453, lat = 46.802408523089895)
+map
+```
+
+```{r}
+#I add a a popup with more information
+map <- leaflet() %>% addTiles() %>% 
+      setView(7.15, lat = 46.80, zoom = 13) %>% 
+      addMarkers(lng = 7.146065736643453,
+                 lat = 46.802408523089895,
+                 popup = "<b>Université de Fribourg</b><br>
+                          Site Beauregard (BQC)<br>
+                          Avenue de Beauregard 11<br>
+                          CH-1700 Fribourg<br>
+                          Salle 2.525")
 map
 ```
 
 #2. My first literary map: "El mapa del Quijote"
 
+#Data can be imported into R in a variety of formats, including CSV, JSON, plain text, and spreadsheet files. In this exercise, we will work with two CSV files already prepared, containing all the places mentioned in the two parts of El Quijote by Miguel de Cervantes.
 
 ```{r}
-#I create two objets with my data (toponyms and coordinates)
+##I create two objects with my data (books, toponyms and coordinates). I split them into two groups because I want to display them separately on the map.
 parte_I <- read.csv("data/Parte_I.csv") #Primera parte del Quijote
 parte_II <- read.csv("data/Parte_II.csv") #Segunda parte del Quijote
 ```
@@ -120,7 +135,7 @@ browseURL("Cervantes_map.html")
 
 2. Zoom to Spain (coordinates? Zoom size?)
 
-3. Change colours and circle size
+3. Play with colour and circle size
 
 4. Add information to the pop_up (obra? tipo?)
 

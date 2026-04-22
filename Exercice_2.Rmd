@@ -5,23 +5,20 @@ date: "29/04/2026"
 output: html_document
 ---
 
-#I load the working data
-
-Session -> Set working directory -> Choose directory... [mon dossier]
+#0. Préparation
 
 ```{r}
-setwd("/Users/miguelbetti/Desktop/DH_FRIBOURG")
+#I load the working data: Session -> Set working directory -> Choose directory... [my directory]
+setwd("/Users/miguelbetti/Desktop/Git/DH_FRIBOURG")
 ```
 
-#I check that I am in the correct folder
-
 ```{r}
+#I check that I am in the correct folder
 getwd()
 ```
 
-#I install the necessary libraries and packages
-
 ```{r}
+#I install the necessary libraries and packages
 if(!require("leaflet"))
 install.packages("leaflet")
 library(leaflet)
@@ -39,13 +36,15 @@ if(!require("readxl"))
 install.packages("readxl")
 library(readxl)
 ```
+#Data can be imported into R in a variety of formats, including CSV, JSON, plain text, and spreadsheet files. In this exercise, we will work with an Excel file (.xlsx), which we load using the read_excel() function from the readxl package. If you want to load your own data, simply change the path highlighted in green (e.g., "data/sevilla.xlsx").
 
-#Read the CSV files and create new objects
 ```{r}
+#Read the CSV files and create new objects
 corpus <- read_excel("data/corpus.xlsx")
 ```
 
-# Group by place: one row per place, all works listed
+#Some places appear in more than one work. To avoid duplicates on the map, we group the data by location, so that each place is represented by a single row listing all the works that mention it:
+
 ```{r}
 corpus_grouped <- corpus %>%
   group_by(place, lat, lng) %>%
@@ -55,7 +54,9 @@ corpus_grouped <- corpus %>%
   )
 ```
 
-#Create the map
+
+#1. Create the map: "El Madrid de Lope de Vega" (or your own project)
+
 ```{r}
 #Create the leaflet map object
 corpus_map <- leaflet() %>%
@@ -98,11 +99,15 @@ browseURL("corpus_map.html")
 
 #Excercices
 
-1. Load your corpus
+1. Load your own corpus, if you have one.
 
-2. Zoom to Sevilla (coordinates? zoom size?)
+2. Adjust the zoom to focus on Sevilla or Spain. 
 
-3. Change labels
+3. Modify the labels.
+
+4. Add a toggle control.
+
+
 
 
 
