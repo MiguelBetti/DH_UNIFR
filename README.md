@@ -45,5 +45,16 @@ Atelier pratique en humanités numériques et cartographie, ouvert à l'ensemble
 | 17:00 | 🥂 Apéro |
 
 ---
+## Instalar R y RSTUDIO
+
+A. Instalar R (lenguaje de programación):
+Windows:https://cran.r-project.org/bin/windows/base
+Mac: https://cran.r-project.org/bin/macosx
+Descargar el archivo y seguir los pasos de la instalación
+B. Instalar R-Studio (entorno de programación)
+https://rstudio.com/products/rstudio/download/#download
+Descargar el archivo y seguir los pasos de la instalación
+
+---
 
 *Workshop organisé avec le soutien du Fonds d'innovation pédagogique — Faculté des lettres, Université de Fribourg.*
