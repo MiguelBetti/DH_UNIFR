@@ -47,12 +47,18 @@ Atelier pratique en humanités numériques et cartographie, ouvert à l'ensemble
 ---
 ## Instalar R y RSTUDIO
 
-A. Instalar R (lenguaje de programación):
+*A. Instalar R (lenguaje de programación)*:
+
 Windows:https://cran.r-project.org/bin/windows/base
+
 Mac: https://cran.r-project.org/bin/macosx
+
 Descargar el archivo y seguir los pasos de la instalación
-B. Instalar R-Studio (entorno de programación)
+
+*B. Instalar R-Studio (entorno de programación)*:
+
 https://rstudio.com/products/rstudio/download/#download
+
 Descargar el archivo y seguir los pasos de la instalación
 
 ---
