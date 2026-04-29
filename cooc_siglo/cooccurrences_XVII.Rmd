@@ -188,9 +188,7 @@ cat("Taille :", nchar(full_data), "caractères\n")
 corrections_orthographe <- c(
   " Argél "   = " Argel ",
   " Argél,"   = " Argel,",
-  " Argél\\." = " Argel.",
-  "ˇ"         = "¡",
-  "ż"         = "¿"
+  " Argél\\." = " Argel."
 )
 
 full_data <- stringr::str_replace_all(full_data, corrections_orthographe)
@@ -350,8 +348,9 @@ corrections_post_lemmat <- c(
   "Antonio"     = " ",            # Prénom, début de phrase
   " Antonio "   = " ",            # Prénom, milieu de phrase
   " antonio "   = " ",            # Prénom, lemme en minuscule
-  " dario "     = " dromedario",   # Correction de lemmatisation erronée
-  " á "         = " "            # Artefact OCR/encodage non couvert par les stopwords
+  " dario "     = " dromedario",  # Correction de lemmatisation erronée
+  " á "         = " ",            # Artefact OCR/encodage non couvert par les stopwords
+  " capítulo " = " "              # Artefact OCR/encodage non couvert par les stopwords
 )
 
 full_data_sentences_lemmatised <- stringr::str_replace_all(
@@ -608,7 +607,7 @@ ggplot(coocdf, aes(x = ID, y = CollStrength)) +
 # On sélectionne les N mots les plus fortement associés au terme cible
 # pour visualiser leur structure de proximité par clustering hiérarchique.
 # Ajuster N_TOP selon la lisibilité souhaitée.
-N_TOP <- 10
+N_TOP <- 35
 
 redux_dfm <- quanteda::dfm_select(
   text_dfm,
