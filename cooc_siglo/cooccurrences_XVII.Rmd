@@ -188,7 +188,9 @@ cat("Taille :", nchar(full_data), "caractères\n")
 corrections_orthographe <- c(
   " Argél "   = " Argel ",
   " Argél,"   = " Argel,",
-  " Argél\\." = " Argel."
+  " Argél\\." = " Argel.",
+  "ˇ"         = "¡",
+  "ż"         = "¿"
 )
 
 full_data <- stringr::str_replace_all(full_data, corrections_orthographe)
