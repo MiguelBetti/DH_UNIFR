@@ -1,1 +1,2 @@
 cooc_siglo/cache_udpipe_annotated.rds filter=lfs diff=lfs merge=lfs -text
+tp_siglo/cache_udpipe_topics.rds filter=lfs diff=lfs merge=lfs -text
