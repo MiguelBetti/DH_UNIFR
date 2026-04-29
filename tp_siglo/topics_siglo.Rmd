@@ -1,0 +1,794 @@
+---
+title: "Pliego — Modélisation thématique (version optimisée)"
+author: "Simon Gabay"
+date: "`r Sys.Date()`"
+output:
+  html_document:
+    highlight: pygments
+    toc: true
+    toc_float:
+      toc_collapsed: true
+    theme: united
+---
+
+# Bibliographie
+
+- <https://cran.r-project.org/web/packages/ldatuning/vignettes/topics.html>
+- <https://ldavis.cpsievert.me/reviews/reviews.html>
+- <https://quantdev.ssri.psu.edu/sites/qdev/files/topic_modeling_tutorial-Gutenberg-chapter_as_document.html>
+- <https://www.r-bloggers.com/2015/05/a-link-between-topicmodels-lda-and-ldavis/>
+- <https://tm4ss.github.io/docs/Tutorial_6_Topic_Models.html>
+
+
+---
+
+
+# 1. Configuration globale
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(
+  cache   = TRUE,   # Met en cache les chunks coûteux — évite de tout recalculer à chaque knit
+  message = FALSE,
+  warning = FALSE
+)
+
+# --- Options globales R ---
+# Évite la conversion automatique des chaînes en facteurs
+options(stringsAsFactors = FALSE)
+# Désactive la notation scientifique (affiche 10000 et non 1e+04)
+options(scipen = 999)
+# Limite l'affichage console
+options(max.print = 1000)
+
+# --- Parallélisme ---
+# Détecte le nombre de cœurs CPU et en réserve un pour le système.
+# Fonctionne de la même façon sur Mac et Windows.
+# N_CORES est placé ici dans le chunk setup — seul chunk toujours exécuté
+# par knitr même avec cache=TRUE — pour éviter l'erreur "object not found".
+N_CORES <- max(1L, parallel::detectCores() - 1L)
+cat("Cœurs disponibles :", N_CORES, "\n")
+```
+
+
+---
+
+
+# 2. Installation et chargement des packages
+
+```{r packages, results=FALSE, message=FALSE, warning=FALSE}
+# Fonction utilitaire : installe un package s'il est absent, puis le charge.
+# Évite les erreurs au premier lancement sur une machine vierge.
+installer_si_absent <- function(pkg, repos = "http://cran.us.r-project.org") {
+  if (!requireNamespace(pkg, quietly = TRUE)) {
+    install.packages(pkg, repos = repos)
+  }
+  library(pkg, character.only = TRUE)
+}
+
+packages_cran <- c(
+  "parallel",       # Parallélisme natif (inclus dans R de base)
+  "FactoMineR",     # Analyse factorielle
+  "factoextra",     # Visualisation FactoMineR
+  "flextable",      # Tableaux formatés
+  "GGally",         # Extensions ggplot2
+  "ggdendro",       # Dendrogrammes
+  "igraph",         # Graphes et réseaux
+  "network",        # Objets réseau
+  "Matrix",         # Matrices creuses (sparse)
+  "data.table",     # Backend rapide pour quanteda
+  "quanteda",       # Traitement de corpus
+  "quanteda.textstats",
+  "quanteda.textplots",
+  "dplyr",          # Manipulation de données
+  "stringr",        # Manipulation de chaînes
+  "tm",             # Text Mining
+  "sna",            # Analyse de réseaux sociaux
+  "magrittr",       # Opérateur pipe %>%
+  "stopwords",      # Listes de stopwords multilingues
+  "udpipe",         # Annotation NLP (lemmatisation)
+  "infotheo",       # Information mutuelle
+  "ldatuning",      # Sélection du nombre de topics LDA
+  "ggplot2",        # Visualisations
+  "topicmodels",    # Modèles LDA
+  "wordcloud",      # Nuages de mots
+  "wordcloud2",     # Nuages de mots interactifs
+  "RColorBrewer",   # Palettes de couleurs
+  "stringi",        # Traitement avancé de chaînes
+  "LDAvis",         # Visualisation interactive des topics
+  "tsne",           # Réduction de dimension t-SNE
+  "servr",          # Serveur HTTP local pour LDAvis
+  "tidytext",       # Analyse de texte tidy
+  "remotes"         # Installation depuis GitHub
+)
+
+invisible(lapply(packages_cran, installer_si_absent))
+
+# collostructions est hébergé hors CRAN
+if (!requireNamespace("collostructions", quietly = TRUE)) {
+  install.packages(
+    "https://sfla.ch/wp-content/uploads/2021/02/collostructions_0.2.0.tar.gz",
+    repos = NULL,
+    type  = "source"
+  )
+}
+library(collostructions)
+
+# klippy : bouton copier-coller dans les documents RMarkdown
+if (!requireNamespace("klippy", quietly = TRUE)) {
+  remotes::install_github("rlesur/klippy")
+}
+# klippy::klippy()  # Décommenter pour activer dans le HTML final
+```
+
+
+---
+
+
+# 3. Chargement des données
+
+```{r chargement}
+# On récupère la liste de tous les fichiers .txt dans le dossier /samples
+# recursive = TRUE permet de chercher dans les sous-dossiers également
+liste_fichiers <- list.files(
+  path       = "./samples",
+  recursive  = TRUE,
+  pattern    = "\\.txt$",
+  full.names = TRUE
+)
+
+cat("Nombre de fichiers trouvés :", length(liste_fichiers), "\n")
+print(liste_fichiers)
+
+# Chargement de chaque fichier : scan() lit mot par mot,
+# paste(..., collapse=" ") reconstitue une seule chaîne par fichier.
+# lapply() remplace la boucle for — plus rapide et plus lisible.
+datalist <- lapply(
+  liste_fichiers,
+  function(x) paste(scan(x, what = "character", sep = "", fileEncoding = "UTF-8"),
+                    collapse = " ")
+)
+
+cat("Corpus chargé :", length(datalist), "document(s)\n")
+```
+
+
+---
+
+
+# 4. Corrections orthographiques
+
+```{r corrections-ortho}
+# OPTIMISATION : str_replace_all() avec un vecteur nommé remplace tous les
+# gsub() séquentiels en un seul passage sur le texte.
+# Format : c("pattern" = "remplacement", ...)
+#
+# Ces corrections normalisent l'orthographe ancienne espagnole :
+#   - fué/fuí → fue/fui (conjugaisons sans accent selon la norme moderne)
+#   - muger → mujer (graphie ancienne du /x/)
+#   - per → por (latinisme fréquent dans les textes du XVIe)
+
+corrections_ortho <- c(
+  " fué "     = " fue ",
+  " fué,"     = " fue,",
+  " fué;"     = " fue;",
+  " fuí "     = " fui ",
+  " fuí,"     = " fui,",
+  " fuí;"     = " fui;",
+  " muger "   = " mujer ",
+  " muger,"   = " mujer,",
+  " muger;"   = " mujer;",
+  " mugeres " = " mujeres ",
+  " mugeres," = " mujeres,",
+  " Muger "   = " Mujer ",
+  " Muger,"   = " Mujer,",
+  " Mugeres " = " Mujeres ",
+  " Mugeres," = " Mujeres,",
+  " muger\\." = " mujer.",
+  " per "     = " por ",
+  "ˇ"         = "¡",
+  "ż"         = "¿"
+)
+
+datalist <- lapply(datalist, function(x) stringr::str_replace_all(x, corrections_ortho))
+
+# Sauvegarde pour contrôle visuel
+writeLines(as.character(datalist), "corpus_clean.txt")
+cat("Corpus corrigé sauvegardé dans corpus_clean.txt\n")
+```
+
+
+---
+
+
+# 5. Lemmatisation avec udpipe — version parallélisée
+
+La lemmatisation est l'étape la plus coûteuse. Le code original traitait les
+documents **un par un dans une boucle `for`**. On envoie ici tout le corpus
+en un seul appel avec `parallel.cores`.
+
+Un **cache RDS** est sauvegardé après annotation : si le script plante ou si
+l'on veut rejouer uniquement les étapes suivantes, on recharge sans recalculer.
+
+## Chargement du modèle
+
+```{r chargement-modele}
+# Télécharger le modèle depuis : http://hdl.handle.net/11234/1-3131
+# Ajuster le nom du fichier si vous utilisez un autre modèle
+udmodel <- udpipe_load_model(file = "models/spanish-gsd-ud-2.5-191206.udpipe")
+```
+
+## Annotation
+
+```{r lemmatisation, cache=TRUE}
+CACHE_UDPIPE <- "cache_udpipe_topics.rds"
+
+if (file.exists(CACHE_UDPIPE)) {
+  # Cache trouvé : rechargement direct
+  cat("Cache trouvé, chargement de", CACHE_UDPIPE, "...\n")
+  x_df_list <- readRDS(CACHE_UDPIPE)
+
+} else {
+  cat("Annotation udpipe sur", N_CORES, "cœurs...\n")
+
+  # On annote chaque document séparément pour conserver la structure
+  # document par document (nécessaire pour le LDA : 1 ligne = 1 document)
+  x_df_list <- lapply(seq_along(datalist), function(i) {
+    cat("  Document", i, "/", length(datalist), "\n")
+    ann <- udpipe_annotate(
+      udmodel,
+      x              = datalist[[i]],
+      doc_id         = i,
+      parallel.cores = N_CORES
+    )
+    as.data.frame(ann)
+  })
+
+  saveRDS(x_df_list, CACHE_UDPIPE)
+  cat("Cache sauvegardé dans", CACHE_UDPIPE, "\n")
+}
+```
+
+## Reconstruction des textes lemmatisés
+
+```{r reconstruction-lemmes}
+# OPTIMISATION : dplyr::summarise() remplace la double boucle for originale.
+# On reconstitue un texte lemmatisé par document.
+
+corpus_lemmatise <- sapply(x_df_list, function(x_df) {
+  x_df %>%
+    dplyr::filter(!is.na(lemma)) %>%   # Retire les tokens sans lemme
+    dplyr::pull(lemma) %>%             # Extrait uniquement les lemmes
+    paste(collapse = " ")              # Reconstitue le texte
+})
+
+cat("Documents lemmatisés :", length(corpus_lemmatise), "\n")
+cat("Aperçu du premier document (500 premiers caractères) :\n")
+cat(substr(corpus_lemmatise[1], 1, 500), "\n")
+```
+
+
+---
+
+
+# 6. Corrections post-lemmatisation
+
+```{r corrections-post-lemmat}
+# OPTIMISATION : un seul appel str_replace_all() avec vecteur nommé
+# remplace les gsub() séquentiels d'origine.
+#
+# Ces corrections ciblent :
+#   - des artefacts de lemmatisation (ex : "coraz" → "corazón")
+#   - des noms propres non pertinents pour l'analyse thématique
+#   - des tokens parasites issus de la mise en page
+
+corrections_post_lemmat <- c(
+  " coraz "    = " corazón ",   # Lemmatisation tronquée de "corazón"
+  " coraz,"    = " corazón,",
+  " habiar "   = " ",           # Artefact de lemmatisation
+  " habiar,"   = " ",
+  " habio "    = " ",
+  " habio,"    = " ",
+  " alc "      = " ",           # Token parasite (abréviation)
+  " ser "      = " ",           # Verbe trop fréquent, peu informatif
+  " san "      = " ",           # Titre hagiographique (bruit)
+  " juan "     = " ",           # Prénom très fréquent
+  "—Juan "     = " ",
+  " Rosaura "  = " ",           # Nom de personnage
+  " esposa "   = " esposo ",    # Normalisation du genre pour l'analyse
+  " esposa,"   = " esposo,"
+)
+
+corpus_lemmatise <- stringr::str_replace_all(corpus_lemmatise, corrections_post_lemmat)
+
+# Sauvegarde pour contrôle et correction manuelle
+writeLines(as.character(corpus_lemmatise), "corpus_clean_lemmatise.txt")
+cat("Corpus lemmatisé exporté dans corpus_clean_lemmatise.txt\n")
+cat("→ Inspectez ce fichier, corrigez si nécessaire,\n")
+cat("  puis rechargez avec readLines() ci-dessous.\n")
+
+# Rechargement après correction manuelle (décommenter si nécessaire) :
+# corpus_lemmatise <- readLines("corpus_clean_lemmatise.txt", encoding = "UTF-8")
+```
+
+
+---
+
+
+# 7. Construction du tableau de données
+
+```{r construction-df}
+# On associe chaque texte lemmatisé à son nom de fichier source
+document    <- liste_fichiers
+texte_lemmatise <- unlist(corpus_lemmatise)
+
+df <- data.frame(document, texte_lemmatise, stringsAsFactors = FALSE)
+
+# On ne garde que le nom du fichier, sans le chemin complet
+df <- df %>%
+  dplyr::mutate(document = word(document, -1, sep = "/"))
+
+# Nettoyage : suppression de la ponctuation et des chiffres
+# (ils ne contribuent pas à la modélisation thématique)
+df$texte_lemmatise <- gsub("[[:punct:] ]+", " ", df$texte_lemmatise)
+df$texte_lemmatise <- gsub("[[:digit:] ]+", " ", df$texte_lemmatise)
+
+print(df)
+```
+
+
+---
+
+
+# 8. Construction de la DTM (Document-Term Matrix)
+
+```{r construction-corpus-tm}
+# Création du corpus tm
+corpusTM <- tm::Corpus(
+  tm::VectorSource(df$texte_lemmatise),
+  readerControl = list(language = "es")
+)
+
+cat("Nombre de documents :", length(corpusTM), "\n")
+cat("Aperçu du premier document :\n")
+cat(substr(corpusTM[[1]][[1]], 1, 300), "\n")
+```
+
+## Suppression des stopwords
+
+```{r suppression-stopwords}
+# Chargement de la liste de stopwords espagnols
+stopword_enLigne <- read.csv(
+  "stopwords-es.csv",
+  header           = FALSE,
+  stringsAsFactors = FALSE
+)[, 1]
+
+# Ajout de tokens accentués parasites non couverts par le fichier
+# (artefacts d'encodage fréquents sur les corpus du XVIe siècle)
+stopword_enLigne <- c(stopword_enLigne, "á", "à", "â", "ã")
+
+corpus_clean <- tm::tm_map(corpusTM, tm::removeWords, stopword_enLigne)
+
+cat("Stopwords supprimés\n")
+cat("Aperçu :\n")
+cat(substr(corpus_clean[[1]][[1]], 1, 300), "\n")
+
+# Sauvegarde pour contrôle
+writeLines(as.character(corpus_clean), "corpus_clean_lemmatise.txt")
+```
+
+## Création de la DTM initiale
+
+```{r dtm-initiale}
+dtm <- tm::DocumentTermMatrix(corpus_clean)
+rownames(dtm) <- df$document
+
+cat("DTM :", nrow(dtm), "documents ×", ncol(dtm), "termes\n")
+```
+
+
+---
+
+
+# 9. Analyse de la fréquence des termes
+
+## Distribution des fréquences (loi de Zipf)
+
+```{r distribution-frequences, fig.width=8, fig.height=4}
+freq <- as.data.frame(colSums(as.matrix(dtm)))
+colnames(freq) <- c("frequence")
+
+ggplot(freq, aes(x = frequence)) +
+  geom_density(fill = "steelblue", alpha = 0.5) +
+  theme_bw() +
+  labs(
+    title = "Distribution des fréquences des termes",
+    subtitle = "La courbe en cloche très asymétrique est caractéristique de la loi de Zipf",
+    x = "Fréquence",
+    y = "Densité"
+  )
+```
+
+## Termes peu fréquents
+
+```{r termes-peu-frequents}
+# On identifie les termes apparaissant moins de 50 fois.
+# Ces termes sont trop rares pour être informatifs dans un LDA
+# et gonflent inutilement la DTM — on les retirera.
+#
+# EXCEPTION : certains termes rares mais importants pour l'analyse
+# peuvent être explicitement préservés (ex : "canarias", "argel")
+
+mots_peu_frequents <- tm::findFreqTerms(dtm, 0, 50)
+
+# Préservation explicite de termes rares mais analytiquement importants
+mots_a_preserver <- c("canarias", "argel")
+mots_peu_frequents <- mots_peu_frequents[!mots_peu_frequents %in% mots_a_preserver]
+
+cat("Termes peu fréquents (< 50 occ.) à retirer :", length(mots_peu_frequents), "\n")
+head(mots_peu_frequents, 50)
+```
+
+## Termes très fréquents
+
+```{r termes-tres-frequents}
+mots_tres_frequents <- tm::findFreqTerms(dtm, 51, Inf)
+cat("Termes fréquents (≥ 51 occ.) conservés :", length(mots_tres_frequents), "\n")
+head(mots_tres_frequents, 50)
+```
+
+
+---
+
+
+# 10. Nettoyage approfondi de la DTM
+
+```{r nettoyage-approfondi}
+# On retire les termes peu fréquents par lots de 500 pour éviter de
+# saturer la mémoire avec une regex trop longue.
+
+grand_menage <- function(corpus_a_nettoyer, mots_peu_importants) {
+  chunk <- 500
+  n <- length(mots_peu_importants)
+  r <- rep(1:ceiling(n / chunk), each = chunk)[1:n]
+  d <- split(mots_peu_importants, r)
+  for (i in seq_along(d)) {
+    corpus_a_nettoyer <- tm::tm_map(
+      corpus_a_nettoyer,
+      tm::removeWords,
+      paste(d[[i]])
+    )
+  }
+  return(corpus_a_nettoyer)
+}
+
+corpus_super_clean <- grand_menage(corpus_clean, mots_peu_frequents)
+cat("Nettoyage approfondi terminé\n")
+```
+
+## Stopwords manuels supplémentaires
+
+```{r stopwords-manuels}
+# Tokens résiduels non couverts par les listes automatiques.
+# À compléter selon les résultats observés.
+mes_stopwords <- c("Paj", "paj", "etc", "nin", "mes", "sen")
+corpus_super_clean <- tm::tm_map(corpus_super_clean, tm::removeWords, mes_stopwords)
+
+cat("Aperçu après nettoyage :\n")
+tm::inspect(corpus_super_clean[1])
+
+# Sauvegarde pour contrôle
+writeLines(as.character(corpus_super_clean), "corpus_clean_lemmatise.txt")
+```
+
+## Reconstruction de la DTM finale
+
+```{r dtm-finale}
+dtm <- tm::DocumentTermMatrix(corpus_super_clean)
+rownames(dtm) <- df$document
+
+freq <- as.data.frame(colSums(as.matrix(dtm)))
+colnames(freq) <- c("frequence")
+
+ggplot(freq, aes(x = frequence)) +
+  geom_density(fill = "darkorange", alpha = 0.5) +
+  theme_bw() +
+  labs(
+    title = "Distribution après nettoyage",
+    x = "Fréquence",
+    y = "Densité"
+  )
+
+# Suppression des documents vides (sans aucun terme après nettoyage)
+# Un document vide ferait planter le LDA
+totaux_lignes <- apply(dtm, 1, sum)
+dtm_clean <- dtm[totaux_lignes > 0, ]
+
+cat("DTM finale :", nrow(dtm_clean), "documents ×", ncol(dtm_clean), "termes\n")
+
+# Sauvegarde
+saveRDS(dtm_clean, "cache_dtm_clean.rds")
+# Rechargement : dtm_clean <- readRDS("cache_dtm_clean.rds")
+```
+
+
+---
+
+
+# 11. Recherche du nombre optimal de topics (k)
+
+```{r recherche-k, cache=TRUE}
+# FindTopicsNumber entraîne un modèle LDA pour chaque valeur de k testée
+# et calcule plusieurs métriques pour aider à choisir le meilleur k.
+#
+# OPTIMISATION 1 : parallel = TRUE — FindTopicsNumber le supporte nativement,
+# les k sont distribués sur N_CORES cœurs.
+#
+# OPTIMISATION 2 : on teste d'abord par pas de 5 (exploration rapide),
+# puis on affine autour du meilleur k dans un second passage.
+# Tester 26 valeurs (pas de 1, de 5 à 30) × 3 métriques × Gibbs est très lent.
+#
+# STRATÉGIE EN DEUX PASSES :
+#   Passe 1 (ci-dessous) : pas de 5 → 6 modèles au lieu de 26
+#   Passe 2 (commentée)  : affiner autour du k retenu
+
+# --- PASSE 1 : exploration large ---
+resultats_k <- ldatuning::FindTopicsNumber(
+  dtm_clean,
+  topics  = seq(from = 5, to = 30, by = 5),   # 6 valeurs au lieu de 26
+  metrics = c("CaoJuan2009", "Arun2010", "Deveaud2014"),
+  method  = "Gibbs",
+  control = list(seed = 42),                   # seed unique pour la reproductibilité
+  mc.cores = N_CORES,                          # parallélisme natif
+  verbose = TRUE
+)
+
+ldatuning::FindTopicsNumber_plot(resultats_k)
+
+# --- PASSE 2 : affinement (décommenter après avoir identifié le meilleur k) ---
+# Exemple : si la passe 1 suggère k ≈ 15, on affine entre 12 et 18
+# resultats_k_fin <- ldatuning::FindTopicsNumber(
+#   dtm_clean,
+#   topics   = seq(from = 12, to = 18, by = 1),
+#   metrics  = c("CaoJuan2009", "Arun2010", "Deveaud2014"),
+#   method   = "Gibbs",
+#   control  = list(seed = 42),
+#   mc.cores = N_CORES,
+#   verbose  = TRUE
+# )
+# ldatuning::FindTopicsNumber_plot(resultats_k_fin)
+```
+
+
+---
+
+
+# 12. Modèle LDA (Gibbs)
+
+```{r lda-gibbs, cache=TRUE}
+# --- Paramètres du modèle ---
+# Deux jeux de paramètres sont proposés : test rapide et production.
+# Décommenter le jeu souhaité.
+
+# PARAMÈTRES TEST (rapide — pour vérifier que le code tourne)
+burnin <- 500    # Itérations "de chauffe" avant enregistrement
+iter   <- 500    # Itérations enregistrées
+thin   <- 100    # On n'enregistre qu'une itération sur thin
+
+# PARAMÈTRES PRODUCTION (résultats fiables — décommenter pour l'analyse finale)
+# burnin <- 2000
+# iter   <- 2000
+# thin   <- 500
+
+# Nombre de topics — à ajuster après FindTopicsNumber
+# k est redéfini ici pour ne pas écraser le k de la section co-occurrences
+k_topics <- 13
+
+# Un seul seed suffit pour la reproductibilité.
+# L'original utilisait 5 seeds (nstart=5) ce qui multiplie par 5 le temps
+# de calcul. En production, augmenter nstart à 3-5 pour plus de stabilité.
+SEED   <- 42
+nstart <- 1     # Passer à 3 ou 5 pour la version finale
+
+cat("Entraînement du LDA avec k =", k_topics, "topics...\n")
+cat("burnin =", burnin, "| iter =", iter, "| thin =", thin, "\n")
+
+lda_gibbs <- topicmodels::LDA(
+  dtm_clean,
+  k_topics,
+  method  = "Gibbs",
+  control = list(
+    nstart = nstart,
+    seed   = SEED,
+    best   = TRUE,
+    burnin = burnin,
+    iter   = iter,
+    thin   = thin
+  )
+)
+
+cat("Modèle LDA entraîné\n")
+
+# Sauvegarde du modèle (long à entraîner)
+saveRDS(lda_gibbs, "cache_lda_gibbs.rds")
+# Rechargement : lda_gibbs <- readRDS("cache_lda_gibbs.rds")
+```
+
+
+---
+
+
+# 13. Exploration des résultats
+
+## Termes principaux par topic
+
+```{r termes-par-topic}
+# Affiche les 13 termes les plus caractéristiques de chacun des k topics
+termes_topics <- as.data.frame(topicmodels::terms(lda_gibbs, 13))
+print(termes_topics)
+```
+
+## Graphique en barres par topic
+
+```{r graphique-topics, fig.width=14, fig.height=10}
+# On récupère les scores β (probabilité terme|topic) pour chaque token
+# β élevé = le terme est très caractéristique du topic
+topics_tidy <- tidytext::tidy(lda_gibbs, matrix = "beta")
+
+# On garde les 10 termes avec le β le plus élevé par topic
+top_termes <- topics_tidy %>%
+  dplyr::group_by(topic) %>%
+  dplyr::top_n(10, beta) %>%
+  dplyr::ungroup() %>%
+  dplyr::arrange(topic, -beta)
+
+# Visualisation
+top_termes %>%
+  dplyr::mutate(term = tidytext::reorder_within(term, beta, topic)) %>%
+  ggplot(aes(term, beta, fill = factor(topic))) +
+  geom_col(show.legend = FALSE) +
+  facet_wrap(~ topic, scales = "free") +
+  coord_flip() +
+  tidytext::scale_x_reordered() +
+  theme_bw() +
+  labs(
+    title = paste("Top 10 termes par topic (k =", k_topics, ")"),
+    x     = "Terme",
+    y     = "Score β (probabilité terme | topic)"
+  )
+```
+
+
+---
+
+
+# 14. Nuages de mots par topic
+
+```{r nuages-de-mots, fig.width=30, fig.height=20}
+# On associe chaque token à son score β pour le topic courant,
+# puis on génère un nuage de mots pour chacun des k topics.
+
+tm_posterior <- topicmodels::posterior(lda_gibbs)$terms
+donnees_wc   <- data.frame(terme = colnames(tm_posterior))
+
+for (topic in seq(k_topics)) {
+  donnees_wc$score <- tm_posterior[topic, ]
+
+  wordcloud::wordcloud(
+    words        = donnees_wc$terme,
+    freq         = donnees_wc$score,
+    min.freq     = 0.0002,  # Seuil minimal — augmenter si trop de mots
+    max.words    = 20,      # Nombre maximum de mots affichés
+    random.order = FALSE,   # Mots les plus fréquents au centre
+    rot.per      = 0.35,    # 35% des mots affichés à 90°
+    scale        = c(1.3, 1.3),
+    colors       = RColorBrewer::brewer.pal(5, "Dark2"),
+    main         = paste("Topic", topic)
+  )
+}
+```
+
+
+---
+
+
+# 15. Visualisation interactive LDAvis
+
+```{r ldavis-preparation}
+# Préparation des données pour LDAvis
+
+# phi : matrice termes × topics (scores β)
+phi <- topicmodels::posterior(lda_gibbs)$terms %>% as.matrix()
+
+# theta : matrice documents × topics (scores γ)
+theta <- topicmodels::posterior(lda_gibbs)$topics %>% as.matrix()
+
+# Vocabulaire
+vocab <- colnames(phi)
+
+# Longueur de chaque document (en nombre de tokens)
+# On parcourt corpus_clean pour compter les tokens de chaque document
+longueur_docs <- vapply(
+  seq_along(corpus_clean),
+  function(i) {
+    temp <- paste(corpus_clean[[i]]$content, collapse = " ")
+    stringi::stri_count(temp, regex = "\\S+")
+  },
+  integer(1)
+)
+
+# Fréquence de chaque terme dans la DTM finale
+frequences_termes <- colSums(as.matrix(
+  dtm_clean[1:dtm_clean$nrow, 1:dtm_clean$ncol]
+))
+```
+
+```{r ldavis-visualisation}
+# Création du JSON LDAvis et lancement de la visualisation interactive.
+# La visualisation s'ouvre dans le navigateur et est sauvegardée dans /LDAvis.
+#
+# NOTE : svd_tsne est une alternative à la réduction MDS par défaut.
+# Elle est commentée car plus lente — décommenter pour de meilleurs résultats
+# sur des corpus avec beaucoup de topics.
+
+# svd_tsne <- function(x) tsne::tsne(svd(x)$u)
+
+json_lda <- LDAvis::createJSON(
+  phi            = phi,
+  theta          = theta,
+  vocab          = vocab,
+  doc.length     = longueur_docs,
+  term.frequency = frequences_termes
+  # mds.method   = svd_tsne   # Décommenter pour utiliser t-SNE
+)
+
+LDAvis::serVis(
+  json_lda,
+  out.dir      = "LDAvis",
+  open.browser = TRUE,
+  stand.alone  = TRUE
+)
+
+cat("Visualisation LDAvis sauvegardée dans le dossier /LDAvis\n")
+```
+
+```{r ldavis-note, echo=FALSE}
+# NOTE IMPORTANTE : Le code original contenait un chunk Python (pyLDAvis.gensim)
+# qui ne peut pas fonctionner dans un notebook R.
+# pyLDAvis est l'équivalent Python de LDAvis — si vous souhaitez l'utiliser,
+# il faut l'exécuter dans un notebook Jupyter Python séparé.
+# La visualisation LDAvis ci-dessus (en R) produit un résultat équivalent.
+```
+
+
+---
+
+
+# 16. Sauvegarde finale
+
+```{r sauvegarde-finale}
+# OPTIMISATION : saveRDS() par objet est préférable à save.image() car :
+#   - save.image() sérialise TOUT l'environnement (modèles, objets temporaires…)
+#     → fichier très lourd et rechargement lent
+#   - saveRDS() sauvegarde uniquement les objets utiles
+#     → fichier léger et rechargement sélectif
+
+saveRDS(corpus_lemmatise, "cache_corpus_lemmatise.rds")
+saveRDS(dtm_clean,        "cache_dtm_clean.rds")
+saveRDS(lda_gibbs,        "cache_lda_gibbs.rds")
+saveRDS(resultats_k,      "cache_resultats_k.rds")
+
+# Rechargement individuel si besoin :
+# corpus_lemmatise <- readRDS("cache_corpus_lemmatise.rds")
+# dtm_clean        <- readRDS("cache_dtm_clean.rds")
+# lda_gibbs        <- readRDS("cache_lda_gibbs.rds")
+# resultats_k      <- readRDS("cache_resultats_k.rds")
+
+cat("Fichiers produits :\n")
+cat("  cache_udpipe_topics.rds     — annotation udpipe\n")
+cat("  cache_corpus_lemmatise.rds  — corpus lemmatisé\n")
+cat("  cache_dtm_clean.rds         — DTM nettoyée\n")
+cat("  cache_lda_gibbs.rds         — modèle LDA\n")
+cat("  cache_resultats_k.rds       — résultats FindTopicsNumber\n")
+cat("  LDAvis/                     — visualisation interactive\n")
+```
