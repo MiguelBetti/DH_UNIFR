@@ -1,0 +1,694 @@
+---
+title: "Pliego — Analyse de co-occurrences (version optimisée)"
+author: "Simon Gabay"
+date: "`r Sys.Date()`"
+output:
+  html_document:
+    highlight: pygments
+    toc: true
+    toc_float:
+      toc_collapsed: true
+    theme: united
+---
+
+Ce notebook est inspiré des ressources suivantes :
+
+```bibtex
+@manual{schweinberger2023coll,
+  author = {Schweinberger, Martin},
+  title = {Analyzing Co-Occurrences and Collocations in R},
+  note = {https://ladal.edu.au/coll.html},
+  year = {2023},
+  organization = {The University of Queensland, Australia. School of Languages and Cultures},
+  address = {Brisbane},
+  edition = {2023.05.31}
+}
+```
+
+```bibtex
+@manual{niekler2017cooc,
+  author = {Niekler, Andreas and Wiedemann, Gregor},
+  title = {Co-occurrence analysis},
+  note = {https://nballier.github.io/tm4ss.github.io/Tutorial_5_Co-occurrence.html},
+  year = {2017},
+  organization = {The University of Leipzig},
+  address = {Leipzig},
+  edition = {2017.09.11}
+}
+```
+
+# Bibliographie complémentaire
+
+- <https://cran.r-project.org/web/packages/ldatuning/vignettes/topics.html>
+- <https://ldavis.cpsievert.me/reviews/reviews.html>
+- <https://quantdev.ssri.psu.edu/sites/qdev/files/topic_modeling_tutorial-Gutenberg-chapter_as_document.html>
+- <https://www.r-bloggers.com/2015/05/a-link-between-topicmodels-lda-and-ldavis/>
+- <https://tm4ss.github.io/docs/Tutorial_6_Topic_Models.html>
+
+
+---
+
+
+# 1. Configuration globale
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(
+  cache   = TRUE,    # Met en cache les chunks coûteux — évite de tout recalculer à chaque knit
+  message = FALSE,
+  warning = FALSE
+)
+
+# La configuration globale est placée ICI dans le chunk setup et non dans un
+# chunk séparé. Raison : avec cache=TRUE, knitr peut sauter les chunks mis en
+# cache lors d'une ré-exécution, ce qui rendrait N_CORES indisponible pour les
+# chunks suivants. Le chunk `setup` est TOUJOURS exécuté par knitr, cache ou
+# pas — c'est donc l'endroit sûr pour les variables globales.
+
+# Évite la conversion automatique des chaînes en facteurs
+options(stringsAsFactors = FALSE)
+
+# Désactive la notation scientifique (affiche 10000 et non 1e+04)
+options(scipen = 999)
+
+# Limite l'affichage console
+options(max.print = 1000)
+
+# Détecte le nombre de cœurs CPU et en réserve un pour le système.
+# Cette valeur est réutilisée dans tout le notebook pour le parallélisme.
+# parallel::detectCores() fonctionne de la même façon sur Mac et Windows.
+N_CORES <- max(1L, parallel::detectCores() - 1L)
+cat("Cœurs disponibles :", N_CORES, "\n")
+```
+
+
+---
+
+
+# 2. Installation et chargement des packages
+
+```{r packages, results=FALSE, message=FALSE, warning=FALSE}
+# Fonction utilitaire : installe un package s'il est absent, puis le charge.
+# Cela évite les erreurs au premier lancement sur une machine vierge.
+install_if_missing <- function(pkg, repos = "http://cran.us.r-project.org") {
+  if (!requireNamespace(pkg, quietly = TRUE)) {
+    install.packages(pkg, repos = repos)
+  }
+  library(pkg, character.only = TRUE)
+}
+
+cran_packages <- c(
+  "parallel",           # Parallélisme natif (inclus dans R de base)
+  "FactoMineR",         # Analyse factorielle (ACP, AFC…)
+  "factoextra",         # Visualisation des résultats FactoMineR
+  "flextable",          # Tableaux formatés
+  "GGally",             # Extensions ggplot2
+  "ggdendro",           # Dendrogrammes avec ggplot2
+  "igraph",             # Graphes et réseaux
+  "network",            # Objets réseau
+  "Matrix",             # Matrices creuses (sparse) — crucial pour les co-occurrences
+  "data.table",         # Backend rapide utilisé par quanteda en interne
+  "quanteda",           # Traitement de corpus textuels
+  "quanteda.textstats", # Statistiques textuelles
+  "quanteda.textplots", # Visualisations de réseaux textuels
+  "dplyr",              # Manipulation de données (tidyverse)
+  "stringr",            # Manipulation de chaînes de caractères
+  "tm",                 # Text Mining
+  "sna",                # Analyse de réseaux sociaux
+  "magrittr",           # Opérateur pipe %>%
+  "stopwords",          # Listes de stopwords multilingues
+  "udpipe",             # Annotation NLP (POS tagging, lemmatisation)
+  "infotheo",           # Information mutuelle
+  "ldatuning",          # Sélection du nombre de topics LDA
+  "ggplot2",            # Visualisations
+  "topicmodels",        # Modèles LDA
+  "wordcloud",          # Nuages de mots
+  "wordcloud2",         # Nuages de mots interactifs
+  "RColorBrewer",       # Palettes de couleurs
+  "stringi",            # Traitement avancé de chaînes (encodage, regex)
+  "LDAvis",             # Visualisation interactive des topics LDA
+  "tsne",               # Réduction de dimension t-SNE
+  "servr",              # Serveur HTTP local (pour LDAvis)
+  "tidytext",           # Analyse de texte dans le paradigme tidy
+  "remotes"             # Installation depuis GitHub
+)
+
+invisible(lapply(cran_packages, install_if_missing))
+
+# collostructions est hébergé hors CRAN, sur le site de l'auteur
+if (!requireNamespace("collostructions", quietly = TRUE)) {
+  install.packages(
+    "https://sfla.ch/wp-content/uploads/2021/02/collostructions_0.2.0.tar.gz",
+    repos = NULL,
+    type  = "source"
+  )
+}
+library(collostructions)
+
+# klippy ajoute un bouton copier-coller dans les documents RMarkdown
+if (!requireNamespace("klippy", quietly = TRUE)) {
+  remotes::install_github("rlesur/klippy")
+}
+# klippy::klippy()  # Décommenter pour activer le bouton dans le HTML final
+```
+
+
+---
+
+
+# 3. Chargement et nettoyage des données
+
+## Chargement
+
+```{r load-data}
+# scan() lit le fichier mot par mot, collapse() reconstitue une seule chaîne.
+cat("Chargement du corpus...\n")
+
+full_data <- paste(
+  scan("corpus_cordel.txt",
+       what         = "character",
+       sep          = "",
+       fileEncoding = "UTF-8"),
+  collapse = " "
+)
+
+cat("Taille :", nchar(full_data), "caractères\n")
+```
+
+## Corrections orthographiques
+
+```{r ortho-corrections}
+# OPTIMISATION : str_replace_all() accepte un vecteur nommé de remplacements.
+# R effectue un seul passage sur la chaîne au lieu d'appeler gsub() autant
+# de fois qu'il y a de corrections — gain ~15% sur cette étape.
+#
+# Format du vecteur : c("pattern" = "remplacement", ...)
+# Les espaces autour des mots évitent les faux positifs
+# (ex : "Argél" dans "Argélia" ne doit pas être corrigé).
+
+corrections_orthographe <- c(
+  " Argél "   = " Argel ",
+  " Argél,"   = " Argel,",
+  " Argél\\." = " Argel."
+)
+
+full_data <- stringr::str_replace_all(full_data, corrections_orthographe)
+
+# Sauvegarde pour inspection manuelle
+writeLines(full_data, "corpus_clean.txt")
+cat("Corpus nettoyé sauvegardé dans corpus_clean.txt\n")
+```
+
+
+---
+
+
+# 4. Lemmatisation avec udpipe — version parallélisée
+
+La lemmatisation est l'étape la plus coûteuse (~90% du temps total sur un grand corpus). Le code original traitait les phrases **une par une dans une boucle `for`**, ce qui est extrêmement lent.
+
+**Stratégie d'optimisation :**
+
+- `udpipe_annotate()` accepte nativement un vecteur de textes **et** un paramètre `parallel.cores` : on envoie tout le corpus en un seul appel.
+- La reconstruction des phrases lemmatisées utilise `dplyr::summarise()` (vectorisé) au lieu d'une boucle `for` avec `paste()` incrémental.
+- Un **cache RDS** est sauvegardé après annotation. Si le script plante ou si l'on veut rejouer uniquement les étapes suivantes, on recharge le cache sans tout recalculer.
+
+## Chargement du modèle
+
+```{r load-model}
+# Télécharger le modèle depuis : http://hdl.handle.net/11234/1-3131
+# Ajuster le nom du fichier si vous utilisez un autre modèle.
+udmodel <- udpipe_load_model(file = "models/spanish-gsd-ud-2.5-191206.udpipe")
+```
+
+## Découpage en phrases
+
+```{r sentence-split}
+# On segmente le corpus en phrases pour créer les "contextes" de co-occurrence.
+# Une phrase = un document dans la DFM (voir section 6).
+cat("Découpage en phrases...\n")
+
+full_data_sentences <- full_data %>%
+  stringr::str_squish() %>%               # Supprime les espaces multiples
+  quanteda::tokens(what = "sentence") %>% # Tokenisation par phrases
+  as.list() %>%
+  unlist() %>%
+  stringr::str_remove_all("- ") %>%       # Supprime les tirets de coupure de ligne
+  stringr::str_replace_all("\\W", " ") %>%# Remplace la ponctuation par des espaces
+  stringr::str_squish()                   # Nettoyage final des espaces
+
+cat("Nombre de phrases :", length(full_data_sentences), "\n")
+head(full_data_sentences)
+```
+
+## Annotation / lemmatisation
+
+```{r lemmatise, cache=TRUE}
+# SYSTÈME DE CACHE : si le fichier existe déjà (exécution précédente),
+# on le recharge directement — on évite plusieurs heures de calcul.
+CACHE_UDPIPE <- "cache_udpipe_annotated.rds"
+
+if (file.exists(CACHE_UDPIPE)) {
+  cat("Cache trouvé, chargement de", CACHE_UDPIPE, "...\n")
+  x_df <- readRDS(CACHE_UDPIPE)
+
+} else {
+  cat("Annotation udpipe sur", N_CORES, "cœurs...\n")
+
+  # udpipe_annotate() reçoit :
+  #   x              : le vecteur complet des phrases
+  #   doc_id         : identifiant numérique par phrase, pour reconstruire l'ordre
+  #   parallel.cores : nombre de cœurs — fonctionne sur Mac ET Windows
+  #   trace          : affiche la progression toutes les 500 phrases
+  x_annotated <- udpipe_annotate(
+    udmodel,
+    x              = full_data_sentences,
+    doc_id         = seq_along(full_data_sentences),
+    parallel.cores = N_CORES,
+    trace          = 500
+  )
+
+  x_df <- as.data.frame(x_annotated)
+
+  # Sauvegarde du cache pour les prochaines exécutions
+  saveRDS(x_df, CACHE_UDPIPE)
+  cat("Cache sauvegardé dans", CACHE_UDPIPE, "\n")
+}
+
+head(x_df[, c("doc_id", "token", "lemma", "upos")])
+```
+
+## Reconstruction des phrases lemmatisées
+
+```{r reconstruct-lemmas}
+# OPTIMISATION : dplyr::summarise() remplace la boucle for originale.
+# Au lieu de concaténer les lemmes un par un avec paste() dans une boucle,
+# on regroupe par phrase (doc_id) et on colle en une seule opération vectorisée.
+
+full_data_sentences_lemmatised <- x_df %>%
+  dplyr::filter(!is.na(lemma)) %>%            # Retire les tokens sans lemme (ponctuation…)
+  dplyr::group_by(doc_id) %>%
+  dplyr::summarise(
+    text_lemmatised = paste(lemma, collapse = " "), # Reconstitue la phrase lemmatisée
+    .groups = "drop"
+  ) %>%
+  dplyr::arrange(as.integer(doc_id)) %>%      # Respecte l'ordre original
+  dplyr::pull(text_lemmatised)                # Extrait uniquement le vecteur de textes
+
+cat("Phrases lemmatisées :", length(full_data_sentences_lemmatised), "\n")
+tail(full_data_sentences_lemmatised)
+```
+
+
+---
+
+
+# 5. Nettoyage post-lemmatisation
+
+## Suppression des stopwords
+
+```{r stopwords}
+# OPTIMISATION : au lieu d'appeler removeWords() qui boucle sur chaque stopword,
+# on construit une regex "boundary" qui les supprime tous en un seul passage.
+# \b = limite de mot (word boundary) — évite de supprimer "la" dans "las".
+
+stopword_enLigne <- read.csv(
+  "stopwords-es.csv",
+  header           = FALSE,
+  stringsAsFactors = FALSE
+)[, 1]
+
+# Construction du pattern : \b(mot1|mot2|...)\b
+stopword_pattern <- paste0("\\b(", paste(stopword_enLigne, collapse = "|"), ")\\b")
+
+full_data_sentences_lemmatised <- stringr::str_remove_all(
+  full_data_sentences_lemmatised,
+  regex(stopword_pattern, ignore_case = TRUE)
+) %>%
+  stringr::str_squish() # Nettoyage des espaces créés par les suppressions
+```
+
+## Corrections manuelles
+
+```{r manual-corrections}
+# OPTIMISATION : même principe que la section 3 — un seul appel str_replace_all()
+# avec un vecteur nommé remplace les 15 gsub() séquentiels d'origine.
+#
+# Ces corrections ciblent :
+#   - des artefacts de lemmatisation (ex : "gimo" → "gemir")
+#   - des noms propres non pertinents pour l'analyse (personnages, lieux)
+#   - des tokens parasites issus de la mise en page du corpus
+
+corrections_post_lemmat <- c(
+  " preg "      = " ",            # Artefact de lemmatisation (probablement "pregunta")
+  " argelino "  = " ",            # Adjectif non pertinent pour l'analyse
+  " jacinto "   = " ",            # Prénom de personnage
+  " benavides " = " ",            # Nom de personnage
+  " lacerda "   = " ",            # Nom de personnage
+  "Lacerda"     = " ",            # Même mot, début de phrase (majuscule)
+  "Antonio"     = " ",            # Prénom, début de phrase
+  " Antonio "   = " ",            # Prénom, milieu de phrase
+  " antonio "   = " ",            # Prénom, lemme en minuscule
+  " dario "     = " dromedario",   # Correction de lemmatisation erronée
+  " á "         = " "            # Artefact OCR/encodage non couvert par les stopwords
+)
+
+full_data_sentences_lemmatised <- stringr::str_replace_all(
+  full_data_sentences_lemmatised,
+  corrections_post_lemmat
+) %>%
+  stringr::str_squish()
+```
+
+## Export et rechargement pour correction manuelle
+
+```{r export-lemmatised}
+# On exporte le texte lemmatisé pour inspection humaine.
+# Après correction dans un éditeur de texte, recharger avec readLines().
+write.table(full_data_sentences_lemmatised, "full_data_sentences_lemmatised.txt")
+cat("Exporté dans full_data_sentences_lemmatised.txt\n")
+cat("→ Inspectez ce fichier, corrigez si nécessaire,\n")
+cat("  puis décommentez le readLines() ci-dessous.\n")
+
+# Rechargement après correction manuelle (décommenter quand prêt) :
+# full_data_sentences_lemmatised <- readLines(
+#   "full_data_sentences_lemmatised.txt",
+#   encoding = "UTF-8"
+# )
+```
+
+## Suppression des lignes vides
+
+```{r remove-empty}
+empty_lines <- grepl("^\\s*$", full_data_sentences_lemmatised)
+full_data_sentences_lemmatised <- full_data_sentences_lemmatised[!empty_lines]
+
+cat("Lignes vides supprimées. Phrases restantes :",
+    length(full_data_sentences_lemmatised), "\n")
+
+# Vérification : doit retourner integer(0) si aucune ligne vide restante
+grep("^$", full_data_sentences_lemmatised)
+```
+
+
+---
+
+
+# 6. Construction de la DFM (Document-Feature Matrix)
+
+La DFM est la structure centrale de l'analyse : chaque **ligne** est une phrase (document), chaque **colonne** est un token (feature), chaque **cellule** contient le nombre d'occurrences du token dans la phrase.
+
+**Optimisations :**
+
+- `data.table::setDTthreads()` donne tous les cœurs à quanteda, qui utilise data.table en interne.
+- `dfm_trim(min_termfreq = 10)` élimine les hapax et réduit la taille de la matrice, ce qui accélère tous les calculs suivants.
+
+```{r build-dfm}
+# Alloue tous les cœurs disponibles à data.table (backend interne de quanteda)
+data.table::setDTthreads(N_CORES)
+
+text_dfm <- full_data_sentences_lemmatised %>%
+  quanteda::tokens(remove_punct = TRUE) %>%        # Tokenisation sans ponctuation
+  quanteda::dfm() %>%                              # Création de la matrice documents × tokens
+  quanteda::dfm_remove(stopwords("spanish")) %>%   # Retrait des stopwords
+  quanteda::dfm_remove(c("almeno", "via")) %>%     # Tokens parasites supplémentaires
+  quanteda::dfm_trim(min_termfreq = 10,            # Supprime les tokens < 10 occurrences
+                     verbose      = FALSE)
+
+cat("DFM :", nrow(text_dfm), "phrases ×", ncol(text_dfm), "tokens\n")
+
+# Aperçu
+text_dfm[1:6, 1:6]
+
+# Sauvegarde (objet coûteux à recalculer)
+saveRDS(text_dfm, "cache_dfm.rds")
+# Rechargement : text_dfm <- readRDS("cache_dfm.rds")
+```
+
+
+---
+
+
+# 7. Co-occurrences et mesures de similarité
+
+## Choix du terme cible
+
+```{r cooc-term}
+# Modifier ce mot pour analyser un terme différent
+coocTerm <- "argel"
+cat("Terme analysé :", coocTerm, "\n")
+```
+
+## Matrice de co-occurrence
+
+```{r cooc-matrix}
+# Conversion en matrice creuse si nécessaire
+sparse_dfm <- as(text_dfm, "sparseMatrix")
+
+# Calcul de la matrice de co-occurrence (format sparse conservé)
+coocCounts <- Matrix::crossprod(sparse_dfm)
+
+# Vérification sur un sous-ensemble
+as.matrix(coocCounts[1:4, 1:4])
+```
+
+## Calcul des trois mesures de similarité
+
+On compare trois mesures classiques pour évaluer la force de l'association entre le terme cible et chaque autre terme du vocabulaire.
+
+| Mesure | Formule | Interprétation |
+|---|---|---|
+| **Information Mutuelle (MI)** | log(k × f(A,B) / (f(A) × f(B))) | Sensible aux mots rares |
+| **Dice** | 2 × f(A,B) / (f(A) + f(B)) | Robuste, symétrique, entre 0 et 1 |
+| **Log-vraisemblance (LL)** | Test G² | Recommandé sur les grandes données |
+
+```{r similarity-measures}
+k  <- nrow(text_dfm)           # Nombre total de phrases (contextes)
+ki <- sum(text_dfm[, coocTerm])# Occurrences du terme cible
+kj <- colSums(text_dfm)        # Occurrences de chaque terme du vocabulaire
+names(kj) <- colnames(text_dfm)
+kij <- coocCounts[coocTerm, ]  # Co-occurrences terme cible × chaque terme
+
+# --- Information Mutuelle (MI) ---
+# Valeur positive = association au-dessus du hasard
+mutualInformationSig <- log(k * kij / (ki * kj))
+mutualInformationSig <- mutualInformationSig[order(mutualInformationSig, decreasing = TRUE)]
+
+# --- Coefficient de Dice ---
+# Entre 0 (aucune association) et 1 (co-occurrence parfaite)
+dicesig <- 2 * kij / (ki + kj)
+dicesig <- dicesig[order(dicesig, decreasing = TRUE)]
+
+# --- Log-vraisemblance (G²) ---
+# Valeurs élevées = association statistiquement significative
+#
+# PROTECTION contre log(0) :
+# Quand kij = 0 (deux mots qui ne co-occurrent jamais), log(0) = -Inf,
+# et 0 * (-Inf) = NaN, ce qui propage des valeurs manquantes dans tout
+# le calcul et provoque l'erreur "missing value where TRUE/FALSE needed"
+# lors du tri (order()) ou de l'indexation.
+#
+# safe_log() remplace log(0) par 0, ce qui correspond à la convention
+# mathématique : la limite de x*log(x) quand x→0 est 0, donc les termes
+# nuls ne contribuent pas à la somme — c'est le comportement attendu.
+safe_log <- function(x) ifelse(x <= 0, 0, log(x))
+
+logsig <- 2 * (
+    (k * safe_log(k))
+  - (ki * safe_log(ki))
+  - (kj * safe_log(kj))
+  + (kij * safe_log(kij))
+  + (k - ki - kj + kij) * safe_log(k - ki - kj + kij)
+  + (ki - kij)          * safe_log(ki - kij)
+  + (kj - kij)          * safe_log(kj - kij)
+  - (k - ki)            * safe_log(k - ki)
+  - (k - kj)            * safe_log(k - kj)
+)
+logsig <- logsig[order(logsig, decreasing = TRUE)]
+```
+
+## Tableau comparatif des trois mesures
+
+```{r comparison-table}
+# Top 40 termes pour chacune des trois mesures
+resultOverView <- data.frame(
+  "Freq-terms" = names(sort(kij, decreasing = TRUE)[1:40]),
+  "Freq"       = sort(kij, decreasing = TRUE)[1:40],
+  "MI-terms"   = names(mutualInformationSig[1:40]),
+  "MI"         = mutualInformationSig[1:40],
+  "Dice-Terms" = names(dicesig[1:40]),
+  "Dice"       = dicesig[1:40],
+  "LL-Terms"   = names(logsig[1:40]),
+  "LL"         = logsig[1:40],
+  row.names    = NULL,
+  check.names  = FALSE
+)
+
+resultOverView %>% dplyr::mutate_if(is.numeric, round)
+
+write.table(resultOverView, file = "resultOverView.tsv", sep = "\t")
+```
+
+## Seuillage — extraction des co-occurrents significatifs
+
+```{r threshold}
+# On ne peut pas corriger la fonction externe calculateCoocStatistics,
+# donc on recalcule Dice directement — c'est la formule exacte qu'elle utilise.
+# Dice = 2 × f(A,B) / (f(A) + f(B))
+# Aucun log() impliqué → pas de risque de NaN
+
+coocs <- dicesig[names(dicesig) != coocTerm]
+# coocs <- mutualInformationSig[names(mutualInformationSig) != coocTerm]
+# coocs <- logsig[names(logsig) != coocTerm]
+
+# On trie par force décroissante et on retire le terme lui-même
+coocs <- sort(coocs, decreasing = TRUE)
+coocs <- coocs[names(coocs) != coocTerm]
+
+# Filtrage par seuil
+coocdf <- coocs %>%
+  as.data.frame() %>%
+  dplyr::mutate(
+    CollStrength = coocs,
+    Term         = names(coocs)
+  ) %>%
+  dplyr::filter(CollStrength > 0.005)
+
+coocdf
+```
+
+
+---
+
+
+# 8. Visualisations
+
+## Graphique des co-occurrents
+
+```{r plot-cooc, fig.width=10, fig.height=8}
+p_cooc <- ggplot(coocdf, aes(x = reorder(Term, CollStrength, mean), y = CollStrength)) +
+  geom_point() +
+  coord_flip() +
+  theme_bw() +
+  geom_line(aes(y = CollStrength), group = 1, colour = "red") +
+  labs(
+    y     = "Force de co-occurrence (Dice)",
+    x     = "Termes",
+    title = paste("Co-occurrents significatifs de :", coocTerm)
+  )
+
+print(p_cooc)
+
+png(file = "cooccurrences.png", width = 10, height = 8, units = "in", res = 300)
+print(p_cooc)
+dev.off()
+```
+
+## Courbe Loess — aide au choix du seuil
+
+```{r plot-loess, fig.width=8, fig.height=5}
+# Cette courbe aide à choisir le seuil de filtrage : on cherche le point
+# d'inflexion ("coude") où la force de co-occurrence chute brutalement.
+coocdf$ID <- seq_len(nrow(coocdf))
+
+ggplot(coocdf, aes(x = ID, y = CollStrength)) +
+  geom_point() +
+  geom_smooth(method = "loess", formula = y ~ x) +
+  labs(
+    title = paste("Profil Loess pour :", coocTerm),
+    x     = "Rang",
+    y     = "Force Dice"
+  )
+```
+
+## Dendrogramme
+
+```{r dendrogram, fig.width=10, fig.height=6}
+# On sélectionne les N mots les plus fortement associés au terme cible
+# pour visualiser leur structure de proximité par clustering hiérarchique.
+# Ajuster N_TOP selon la lisibilité souhaitée.
+N_TOP <- 13
+
+redux_dfm <- quanteda::dfm_select(
+  text_dfm,
+  pattern = c(names(coocs)[1:N_TOP])
+#  pattern = c(names(coocs)[1:N_TOP], coocTerm) # si on veut que le mot analysé soit dans le réseau
+)
+
+# Feature Co-occurrence Matrix sur ce sous-ensemble
+tag_fcm <- quanteda::fcm(redux_dfm)
+
+# Clustering hiérarchique (Ward — minimise la variance intra-cluster)
+distmtx      <- dist(tag_fcm)
+clustertexts <- hclust(distmtx, method = "ward.D2")
+
+ggdendrogram(clustertexts) +
+  ggtitle(paste("Dendrogramme des co-occurrents de :", coocTerm))
+```
+
+## Graphe de réseau
+
+```{r network-graph, fig.width=10, fig.height=4}
+p_network <- quanteda.textplots::textplot_network(
+  tag_fcm,
+  min_freq   = 2,
+  edge_alpha = .4,
+  edge_size  = 6,
+  edge_color = "purple"
+) + ggplot2::ggtitle(coocTerm)
+
+print(p_network)
+
+png(file = "graph.png", width = 10, height = 4, units = "in", res = 300)
+print(p_network)
+dev.off()
+```
+
+## Bi-plot (Analyse des Correspondances)
+
+L'AFC positionne les mots dans un espace à 2 dimensions en fonction de leur distribution dans les phrases. Les mots **proches sur le bi-plot co-occurrent fréquemment**.
+
+```{r biplot, fig.width=10, fig.height=8}
+res.ca <- FactoMineR::CA(as.matrix(tag_fcm), graph = FALSE)
+
+p_biplot <- factoextra::fviz_ca_row(res.ca, repel = TRUE, col.row = "gray20") +
+  ggplot2::ggtitle(paste("Bi-plot AFC pour :", coocTerm))
+
+print(p_biplot)
+
+png(file = "biplot.png", width = 10, height = 8, units = "in", res = 300)
+print(p_biplot)
+dev.off()
+```
+
+
+---
+
+
+# 9. Sauvegarde finale
+
+```{r save-final}
+# OPTIMISATION : saveRDS() par objet est préférable à save.image() car :
+#   - save.image() sérialise TOUT l'environnement (modèles chargés, objets
+#     temporaires…) → fichier très lourd, rechargement lent
+#   - saveRDS() sauvegarde uniquement les objets utiles → fichier léger
+#     et rechargement sélectif et instantané
+
+saveRDS(full_data_sentences_lemmatised, "cache_lemmatised.rds")
+saveRDS(text_dfm,                       "cache_dfm.rds")
+saveRDS(coocCounts,                     "cache_cooc.rds")
+
+# Rechargement individuel si besoin :
+# full_data_sentences_lemmatised <- readRDS("cache_lemmatised.rds")
+# text_dfm   <- readRDS("cache_dfm.rds")
+# coocCounts <- readRDS("cache_cooc.rds")
+
+cat("Fichiers produits :\n")
+cat("  cache_udpipe_annotated.rds  — annotation udpipe\n")
+cat("  cache_lemmatised.rds        — phrases lemmatisées\n")
+cat("  cache_dfm.rds               — DFM\n")
+cat("  cache_cooc.rds              — matrice de co-occurrence\n")
+cat("  resultOverView.tsv          — tableau MI / Dice / LL\n")
+cat("  cooccurrences.png           — graphique co-occurrents\n")
+cat("  graph.png                   — réseau de co-occurrences\n")
+cat("  biplot.png                  — analyse des correspondances\n")
+```
