@@ -1,7 +1,4 @@
-
-
 La villana de la Sagra
-
 Tirso de Molina
 Personas della:
 
@@ -13,9 +10,9 @@ CARRASCO, lacayo.
 
 CACHOPO, lacayo.
 
-DO�A IN�S.
+DOÑA INÉS.
 
-ANG�LICA, aldeana.
+ANGÉLICA, aldeana.
 
 [FULGENCIO].
 
@@ -42,18 +39,16 @@ Un escribano.
 [Aldeanos y aldeanas].
 
 
-
 Jornada primera
-
 
 Salen CARRASCO y CACHOPO, de lacayos.
 
-
+ 
 
 
 
 CARRASCO.
-  Pues juegan nuestros se�ores,
+  Pues juegan nuestros señores,
 
 
 
@@ -69,15 +64,15 @@ los hijos son bailadores;
 
 
 
-  y ans�, yo tah�r te llamo,
+  y ansí, yo tahúr te llamo,
 5
 
 
-Carrasco, en esta ocasi�n;
+Carrasco, en esta ocasión;
 
 
 
-que siempre la inclinaci�n
+que siempre la inclinación
 
 
 
@@ -85,7 +80,7 @@ sigue quien sirve, de su amo.
 
 
 
-  Jugando all� dentro est�n,
+  Jugando allá dentro están,
 
 
 
@@ -97,11 +92,11 @@ Sirva este poyo de mesa,
 
 
 
-y de sala este zagu�n,
+y de sala este zaguán,
 
 
 
-  aquestas capas de sillas
+  aquestas capas de sillas
 
 
 
@@ -109,11 +104,11 @@ o en pie juguemos.
 
 
 CACHOPO.
-               Raz�n
+               Razón
 
 
 
-tienes, que a tal devoci�n
+tienes, que a tal devoción
 15
 
 
@@ -121,7 +116,7 @@ no es mucho estar de rodillas.
 
 
 CARRASCO.
-  Saca aquesa cifra, llena
+  Saca aquesa cifra, llena
 
 
 
@@ -133,15 +128,15 @@ que con ella me alborotas.
 
 
 
-�Ah preciosa cuarentena,
+¡Ah preciosa cuarentena,
 20
 
 
-  en quien sin duda ninguna
+  en quien sin duda ninguna
 
 
 
-hall� penitencia tanta,
+halló penitencia tanta,
 
 
 
@@ -149,11 +144,11 @@ que sin ser semana santa,
 
 
 
-m�s de un pr�digo te ayuna!
+más de un pródigo te ayuna!
 
 
 
-  �Qu� de hidalgos principales,
+  ¡Qué de hidalgos principales,
 25
 
 
@@ -169,7 +164,7 @@ vienen a verse sin reales!
 
 
 
-  �Qu� de ellos por ser andantes
+  ¡Qué de ellos por ser andantes
 
 
 
@@ -185,7 +180,7 @@ se hicieron diciplinantes!
 
 
 
-  �Qu� de ellos llevan la cruz
+  ¡Qué de ellos llevan la cruz
 
 
 
@@ -193,7 +188,7 @@ en ti de su pobre trato!
 
 
 
-�Qu� de ellos por el barato
+¡Qué de ellos por el barato
 35
 
 
@@ -201,7 +196,7 @@ son tus cofrades de luz!
 
 
 CACHOPO.
-  �Qu� hemos de jugar?
+  ¿Qué hemos de jugar?
 
 
 CARRASCO.
@@ -217,7 +212,7 @@ Yo soy de tu propio humor.
 
 
 CARRASCO.
-Pues tendr�s humor de loco.
+Pues tendrás humor de loco.
 40
 
 CACHOPO.
@@ -237,15 +232,15 @@ con la copa.
 
 
 CACHOPO.
-          Si una guinda
+          Si una guinda
 
 
 
-est� hecho, no fue en vano.
+está hecho, no fue en vano.
 
 
 
-  �Muy largas faldas son estas!
+  ¡Muy largas faldas son estas!
 45
 
 
@@ -253,7 +248,7 @@ El rey de bastos; no es malo.
 
 
 CARRASCO.
-Ser� el rey Sardanapalo,
+Será el rey Sardanapalo,
 
 
 
@@ -261,7 +256,7 @@ pues que lleva un palo a cuestas.
 
 
 
-  El naipe es suyo: alzo, y paro
+  El naipe es suyo: alzo, y paro
 
 
 
@@ -269,7 +264,7 @@ un real y otro.
 
 
 CACHOPO.
-           �Bien por Dios!
+           ¡Bien por Dios!
 50
 
 
@@ -277,7 +272,7 @@ Digo.
 
 
 CARRASCO.
-     Un caballo.
+     Un caballo.
 
 
 CACHOPO.
@@ -285,11 +280,11 @@ CACHOPO.
 
 
 
-Sac�la fuera.
+Sacóla fuera.
 
 
 CARRASCO.
-          �Qu� avaro
+          ¡Qué avaro
 
 
 
@@ -309,7 +304,7 @@ Y el dos antes.
 
 
 CARRASCO.
-            �Vive Cristo!
+            ¡Vive Cristo!
 55
 
 CACHOPO.
@@ -317,7 +312,7 @@ Y pinta: tiro el dinero.
 
 
 CARRASCO.
-  �Qu� presto que se alborota!
+  ¡Qué presto que se alborota!
 
 
 
@@ -333,11 +328,11 @@ Digo.
 
 
 CARRASCO.
-     C�pome una sota.
+     Cúpome una sota.
 60
 
 
-  �Qu� me quieres, desollada?
+  ¿Qué me quieres, desollada?
 
 
 CACHOPO.
@@ -345,7 +340,7 @@ El as de oros reverendo
 
 
 
-es m�o, y otro voy viendo.
+es mío, y otro voy viendo.
 
 
 CARRASCO.
@@ -353,11 +348,11 @@ Ande.
 
 
 CACHOPO.
-     Vaya a la trocada.
+     Vaya a la trocada.
 
 
 CARRASCO.
-  No quiero, que la veo ya,
+  No quiero, que la veo ya,
 65
 
 
@@ -368,15 +363,15 @@ Es verdad, la sota es;
 
 
 
-pero encima el as est�.
+pero encima el as está.
 
 
 CARRASCO.
-  Quiero quitar este encuentro,
+  Quiero quitar este encuentro,
 
 
 
-�qu� tira? que no par�
+¿qué tira? que no paré
 70
 
 
@@ -384,49 +379,49 @@ sino un real.
 
 
 CACHOPO.
-         �Buen cuento, a fe!
+         ¡Buen cuento, a fe!
 
 
 CARRASCO.
-No nos oigan all� dentro.
+No nos oigan allá dentro.
 
 
 CACHOPO.
-  Presa y pinta dijo.
+  Presa y pinta dijo.
 
 
 CARRASCO.
-                Miente.
+                Miente.
 
 
 CACHOPO.
-�Miente a m�! Pues, vil lacayo,
+¡Miente a mí! Pues, vil lacayo,
 
 
 
-sal aqu�.
+sal aquí.
 
 
 CARRASCO.
-       Quedo, sor rayo,
+       Quedo, sor rayo,
 75
 
 
-que tambi�n ri�e la gente
+que también riñe la gente
 
 
-
+ 
 
 Dentro DON JUAN y DON LUIS.
 
+ 
 
 
-
-de all� dentro.
+de allá dentro.
 
 
 DON JUAN.
-           Don L�is
+           Don Lüis
 
 
 
@@ -434,7 +429,7 @@ ha arrojado un basto, un as.
 
 
 DON LUIS.
-Vos lo tuvistes de m�s,
+Vos lo tuvistes de más,
 
 
 
@@ -442,25 +437,25 @@ vive Dios, don Juan.
 
 
 DON JUAN.
-                Ment�s.
+                Mentís.
 80
 
 DON LUIS.
 Tomad.
 
 
+ 
 
+Dan un bofetón dentro.
 
-Dan un bofet�n dentro.
-
-
+ 
 
 DON JUAN.
-      �Cielos! �Bofet�n!
+      ¡Cielos! ¡Bofetón!
 
 
 
-�Y en mi rostro!
+¡Y en mi rostro!
 
 
 DON LUIS.
@@ -468,7 +463,7 @@ DON LUIS.
 
 
 
-se paga un ment�s.
+se paga un mentís.
 
 
 DON JUAN.
@@ -476,17 +471,17 @@ DON JUAN.
 
 
 
-me dar� satisfacci�n.
+me dará satisfacción.
 
 
-
+ 
 
 Salen DON JUAN y DON LUIS, desnudas las espadas.
 
-
+ 
 
 DON LUIS.
-  Si el bofet�n te deshonra,
+  Si el bofetón te deshonra,
 85
 
 
@@ -502,73 +497,73 @@ el dinero, no la honra.
 
 
 
-  El valor que tanto ensalzas,
+  El valor que tanto ensalzas,
 
 
 
 he de borrar con tu muerte.
 90
 
+ 
 
+Éntranse riñendo.
 
-�ntranse ri�endo.
-
-
+ 
 
 CARRASCO.
-M�s tajadas he de hacerte,
+Más tajadas he de hacerte,
 
 
 
 lacayo, que hay en tus calzas.
 
 
+ 
 
+Estánse acuchillando los lacayos y dicen dentro:
 
-Est�nse acuchillando los lacayos y dicen dentro:
-
-
+ 
 
 DON JUAN.
-  �Ay, que me has muerto, traidor!
+  ¡Ay, que me has muerto, traidor!
 
 
 DON LUIS.
-Pues ans� se restituye
+Pues ansí se restituye
 
 
 
 mi fama.
 
 
-
+ 
 
 Sale huyendo DON LUIS.
 
+ 
 
 
-
-       Carrasco, huye.
+       Carrasco, huye.
 95
 
 CARRASCO.
-Echa a la Merced, se�or.
+Echa a la Merced, señor.
 
 
 
-  �Mat�stele?
+  ¿Matástele?
 
 
 DON LUIS.
-           Creo que s�.
+           Creo que sí.
 
 
 CARRASCO.
-�Creo, dices? Pues mi contrario
+¿Creo, dices? Pues mi contrario
 
 
 
-hecho queda let�ario.
+hecho queda letüario.
 
 
 DON LUIS.
@@ -576,35 +571,35 @@ Vamos.
 
 
 CARRASCO.
-      Echa por aqu�.
+      Echa por aquí.
 100
 
-
+ 
 
 Vanse.
 
-Salen DO�A IN�S y CAMILA, criada y DON DIEGO.
+Salen DOÑA INÉS y CAMILA, criada y DON DIEGO.
+
+ 
+
+DOÑA INÉS.
+  ¿Qué es esto, señor don Diego?
 
 
 
-DO�A IN�S.
-  �Qu� es esto, se�or don Diego?
+¡A media noche en mi casa!
 
 
 
-�A media noche en mi casa!
+Ya de los límites pasa
 
 
 
-Ya de los l�mites pasa
+de razón vuestro amor ciego.
 
 
 
-de raz�n vuestro amor ciego.
-
-
-
-  Abriros mand� la puerta,
+  Abriros mandé la puerta,
 105
 
 
@@ -620,23 +615,23 @@ deste atrevimiento incierta.
 
 
 
-  Decid, se�or, qu� intent�is
+  Decid, señor, qué intentáis
 
 
 
-de noche, pues ni a�n de d�a
+de noche, pues ni aún de día
 110
 
 
-es bien, sin licencia m�a,
+es bien, sin licencia mía,
 
 
 
-que en ella los pies pong�is.
+que en ella los pies pongáis.
 
 
 
-  Si acaso es la pretensi�n,
+  Si acaso es la pretensión,
 
 
 
@@ -648,19 +643,19 @@ en lenguas del vulgo ha puesto
 115
 
 
-mi fama y reputaci�n;
+mi fama y reputación;
 
 
 
-  y vuestra esperanza vana
+  y vuestra esperanza vana
 
 
 
-piensa con tanta porf�a
+piensa con tanta porfía
 
 
 
-que si honrada soy de d�a,
+que si honrada soy de día,
 
 
 
@@ -668,11 +663,11 @@ de noche he de ser liviana,
 120
 
 
-  idos con Dios, que ha gran rato
+  idos con Dios, que ha gran rato
 
 
 
-que don Luis de aqu� ha salido;
+que don Luis de aquí ha salido;
 
 
 
@@ -680,11 +675,11 @@ y si viene y ha perdido,
 
 
 
-podr� ser que de barato
+podrá ser que de barato
 
 
 
-  os haga, cuando aqu� os halle,
+  os haga, cuando aquí os halle,
 125
 
 
@@ -700,11 +695,11 @@ por la ventana, a la calle.
 
 
 DON DIEGO.
-  Do�a In�s, poco temor
+  Doña Inés, poco temor
 
 
 
-me har� tu hermano que cobre,
+me hará tu hermano que cobre,
 130
 
 
@@ -716,7 +711,7 @@ su casa de esgrimidor.
 
 
 
-  S�lo tu rigor me espanta,
+  Sólo tu rigor me espanta,
 
 
 
@@ -728,15 +723,15 @@ de noche, como alma en pena;
 135
 
 
-que a fe, do�a In�s, que es tanta
+que a fe, doña Inés, que es tanta
 
 
 
-  que a no tener por notorio
+  que a no tener por notorio
 
 
 
-que no har�s mi mal eterno,
+que no harás mi mal eterno,
 
 
 
@@ -748,7 +743,7 @@ este de mi purgatorio.
 140
 
 
-  De noche te asombro y canso,
+  De noche te asombro y canso,
 
 
 
@@ -756,7 +751,7 @@ que soy alma en pena a escuras,
 
 
 
-y dir� si me conjuras,
+y diré si me conjuras,
 
 
 
@@ -764,11 +759,11 @@ que busco requiem descanso.
 
 
 
-  Dime, do�a In�s hermosa,
+  Dime, doña Inés hermosa,
 145
 
 
-�c�mo haces tan poca cuenta
+¿cómo haces tan poca cuenta
 
 
 
@@ -780,7 +775,7 @@ que siendo mi dulce esposa,
 
 
 
-  hagas due�o a tu nobleza
+  hagas dueño a tu nobleza
 
 
 
@@ -796,7 +791,7 @@ supuesto que la pobreza
 
 
 
-  que te hace don Luis pasar,
+  que te hace don Luis pasar,
 
 
 
@@ -808,11 +803,11 @@ que ya si tu honra no juega,
 155
 
 
-no tiene m�s que jugar?
+no tiene más que jugar?
 
 
 
-  Pues si tal ventura tienes,
+  Pues si tal ventura tienes,
 
 
 
@@ -828,7 +823,7 @@ y te recibo sin bienes,
 160
 
 
-  �quieres que tu hermano llegue
+  ¿quieres que tu hermano llegue
 
 
 
@@ -844,23 +839,23 @@ dineros para que juegue?
 
 
 
-  �Remediar�te su juego?
+  ¿Remediaráte su juego?
 165
 
 
-S�, que te habr� prometido
+Sí, que te habrá prometido
 
 
 
-de barato alg�n marido.
+de barato algún marido.
 
 
-DO�A IN�S.
-�Qu� es esto? Paso don Diego
+DOÑA INÉS.
+¿Qué es esto? Paso don Diego
 
 
 
-  que si mi hermano ha jugado
+  que si mi hermano ha jugado
 
 
 
@@ -872,11 +867,11 @@ de oro, que es la nobleza,
 
 
 
-y esa nunca la ha empe�ado.
+y esa nunca la ha empeñado.
 
 
 
-  Id con Dios; que no es ultraje
+  Id con Dios; que no es ultraje
 
 
 
@@ -892,15 +887,15 @@ Noble y limpio es mi linaje,
 
 
 
-  si la envidia no le mancha,
+  si la envidia no le mancha,
 
 
 
-y agradec� que resisto
+y agradecé que resisto
 
 
 
-mi c�lera: nadie ha visto
+mi cólera: nadie ha visto
 
 
 
@@ -908,10 +903,10 @@ en mi sangre raza o mancha,
 180
 
 
-  aunque injuriarla procuras.
+  aunque injuriarla procuras.
 
 
-DO�A IN�S.
+DOÑA INÉS.
 Debistes de pretender
 
 
@@ -920,11 +915,11 @@ que no lo echase de ver,
 
 
 
-pues ven�s a hablarme a escuras.
+pues venís a hablarme a escuras.
 
 
 DON DIEGO.
-  Eres mujer, y no afrentas,
+  Eres mujer, y no afrentas,
 185
 
 
@@ -940,11 +935,11 @@ dice al rico estas afrentas.
 
 
 
-  �Qu� mancha mi honor traspasa?
+  ¿Qué mancha mi honor traspasa?
 
 
-DO�A IN�S.
-No s�, a fe; diz que pas�
+DOÑA INÉS.
+No sé, a fe; diz que pasó
 190
 
 
@@ -956,7 +951,7 @@ sus armas a vuestra casa.
 
 
 DON DIEGO.
-  �Vive el cielo! �Me provoca
+  ¡Vive el cielo! ¡Me provoca
 
 
 
@@ -972,7 +967,7 @@ de tu deslenguada boca!
 
 
 
-Y �ojal� viniera luego
+Y ¡ojalá viniera luego
 
 
 
@@ -984,15 +979,15 @@ que es don Diego quien le espera
 
 
 
-aqu�!
+aquí!
 
 
-DO�A IN�S.
-    �Qu� lindo don Diego!
+DOÑA INÉS.
+    ¡Qué lindo don Diego!
 200
 
 
-  Pero mal quien soy conoces.
+  Pero mal quien soy conoces.
 
 
 
@@ -1000,33 +995,33 @@ Llega, infame.
 
 
 CAMILA.
-           Ya esto pasa
+           Ya esto pasa
 
 
 
-de raya: sal�os de casa,
+de raya: salíos de casa,
 
 
 
-don Diego, que dar� voces,
+don Diego, que daré voces,
 
 
 
-  y har� que la vecindad
+  y haré que la vecindad
 205
 
 
-se alborote y venga aqu�.
+se alborote y venga aquí.
 
 
-
+ 
 
 Sale FABRICIO.
 
-
+ 
 
 FABRICIO.
-�Qu� haces, se�or, ans�,
+¿Qué haces, señor, ansí,
 
 
 
@@ -1034,7 +1029,7 @@ sin vengar tan gran maldad?
 
 
 
-  Muerto han a don Juan, tu hermano:
+  Muerto han a don Juan, tu hermano:
 
 
 
@@ -1042,19 +1037,19 @@ su venganza determina.
 210
 
 DON DIEGO.
-�Jes�s!
+¡Jesús!
 
 
 FABRICIO
-      Yo estaba a esa esquina,
+      Yo estaba a esa esquina,
 
 
 
-y recel�me, no en vano,
+y receléme, no en vano,
 
 
 
-  de ver un grande tropel
+  de ver un grande tropel
 
 
 
@@ -1066,11 +1061,11 @@ en brazos; y ya que pasaban,
 215
 
 
-llegu� y conoc� ser �l.
+llegué y conocí ser él.
 
 
 
-  Segu�le, y vide que en casa
+  Seguíle, y vide que en casa
 
 
 
@@ -1086,61 +1081,61 @@ que todo el cuerpo le pasa.
 220
 
 
-  Un hora le dan de vida.
+  Un hora le dan de vida.
 
 
 DON DIEGO.
-�Y qui�n es el matador?
+¿Y quién es el matador?
 
 
 FABRICIO.
-Dicen que es don Luis, se�or.
+Dicen que es don Luis, señor.
 
 
-DO�A IN�S.
-�Ay de m�!
+DOÑA INÉS.
+¡Ay de mí!
 
 
 DON DIEGO.
-         �Oh vil homicida!
+         ¡Oh vil homicida!
 
 
 
-  �Prendi�ronle?
+  ¿Prendiéronle?
 
 
 FABRICIO.
-             Se�or, no;
+             Señor, no;
 225
 
 
-porque, en habi�ndole herido,
+porque, en habiéndole herido,
 
 
 
-huy�.
+huyó.
 
 
-DO�A IN�S.
-    �Ay de m�!
+DOÑA INÉS.
+    ¡Ay de mí!
 
 
 DON DIEGO.
-             Si se ha ido,
+             Si se ha ido,
 
 
 
 seguirle he, Fabricio, yo.
 
 
-
+ 
 
 Vanse DON DIEGO y FABRICIO.
 
+ 
 
-
-DO�A IN�S.
-  Cielos, �qu� furiosa ira
+DOÑA INÉS.
+  Cielos, ¿qué furiosa ira
 
 
 
@@ -1148,7 +1143,7 @@ vuestra me persigue tanto?
 230
 
 
-�Hay m�s males?
+¿Hay más males?
 
 
 CAMILA.
@@ -1159,8 +1154,8 @@ CAMILA.
 que debe de ser mentira.
 
 
-DO�A IN�S.
-  �Ay, que nunca sale incierta
+DOÑA INÉS.
+  ¡Ay, que nunca sale incierta
 
 
 
@@ -1168,27 +1163,27 @@ la mala nueva!
 
 
 CAMILA.
-           S� har�:
+           Sí hará:
 
 
 
-�ntrate, se�ora, ac�.
+éntrate, señora, acá.
 235
 
-DO�A IN�S.
+DOÑA INÉS.
 Ven, Camila, que estoy muerta.
 
 
-
+ 
 
 Vanse.
 
-Salen DON LUIS y CARRASCO visti�ndose de peregrinos.
+Salen DON LUIS y CARRASCO vistiéndose de peregrinos.
 
-
+ 
 
 CARRASCO.
-  El sayal por el damasco
+  El sayal por el damasco
 
 
 
@@ -1204,39 +1199,39 @@ De aquesta suerte, Carrasco,
 240
 
 
-  haremos nuestro camino
+  haremos nuestro camino
 
 
 
-m�s seguros.
+más seguros.
 
 
 CARRASCO.
-          �Plega a Dios!
+          ¡Plega a Dios!
 
 
 
-En fin, �que somos los dos
+En fin, ¡que somos los dos
 
 
 
-peregrinos! �Peregrino
+peregrinos! ¡Peregrino
 
 
 
-  caso! Pero de tu hermana,
+  caso! Pero de tu hermana,
 245
 
 
-mi se�ora do�a In�s,
+mi señora doña Inés,
 
 
 
-�no te despides?
+¿no te despides?
 
 
 DON LUIS.
-            �No ves
+            ¿No ves
 
 
 
@@ -1244,7 +1239,7 @@ que esa es diligencia vana?
 
 
 
-  Es don Juan rico en extremo,
+  Es don Juan rico en extremo,
 
 
 
@@ -1256,11 +1251,11 @@ El juego te ha vuelto en cobre.
 
 
 DON LUIS.
-Perd� mi hacienda, y ya temo
+Perdí mi hacienda, y ya temo
 
 
 
-  que me habr� cogido el paso
+  que me habrá cogido el paso
 
 
 
@@ -1276,15 +1271,15 @@ que no hay honor que sea escaso
 
 
 
-  cuando vengarse codicia;
+  cuando vengarse codicia;
 
 
 
-que es pr�diga la pasi�n,
+que es pródiga la pasión,
 
 
 
-y el dinero es aguij�n
+y el dinero es aguijón
 
 
 
@@ -1292,7 +1287,7 @@ con que corre la justicia.
 260
 
 
-  Mi hermana me da cuidado,
+  Mi hermana me da cuidado,
 
 
 
@@ -1308,7 +1303,7 @@ que hasta su dote he jugado.
 
 
 
-  Temo que me la persiga
+  Temo que me la persiga
 265
 
 
@@ -1324,23 +1319,23 @@ a mil desmanes la obliga.
 
 
 
-  Esto siento; pero vella
+  Esto siento; pero vella
 
 
 
-�c�mo ha de ser, si estar�
+¿cómo ha de ser, si estará
 270
 
 
-por m� la justicia all�?
+por mí la justicia allá?
 
 
 
-�Ah! �Desdichada doncella
+¡Ah! ¡Desdichada doncella
 
 
 
-  la que convierte su gozo
+  la que convierte su gozo
 
 
 
@@ -1356,27 +1351,27 @@ la rige un hermano mozo!
 
 
 CARRASCO.
-  O lloras, o desvar�as.
+  O lloras, o desvarías.
 
 
 
-No hagas eso, que dir�n,
+No hagas eso, que dirán,
 
 
 
-siendo en las armas Rold�n,
+siendo en las armas Roldán,
 
 
 
-que en llanto eres Jerem�as.
+que en llanto eres Jeremías.
 280
 
 DON LUIS.
-�Siempre has de estar de un humor?
+¿Siempre has de estar de un humor?
 
 
 CARRASCO.
-Pues �qu� quieres? �que lloremos?
+Pues ¿qué quieres? ¿que lloremos?
 
 
 
@@ -1384,11 +1379,11 @@ Ya que al otro muerto habemos,
 
 
 
-�consolarnos no es mejor?
+¿consolarnos no es mejor?
 
 
 
-  �D�nde hemos de ir ya? �Quedo
+  ¿Dónde hemos de ir ya? ¿Quedo
 285
 
 
@@ -1396,23 +1391,23 @@ mudar de vida y estado?
 
 
 DON LUIS.
-Un t�o el cielo me ha dado
+Un tío el cielo me ha dado
 
 
 
-can�nigo de Toledo,
+canónigo de Toledo,
 
 
 
-  rico y viejo, que desea
+  rico y viejo, que desea
 
 
 
-tenerme en su compa��a;
+tenerme en su compañía;
 290
 
 
-y en cuantas cartas me env�a,
+y en cuantas cartas me envía,
 
 
 
@@ -1420,7 +1415,7 @@ me escribe que antes que vea
 
 
 
-  la muerte, que ya no puede
+  la muerte, que ya no puede
 
 
 
@@ -1436,7 +1431,7 @@ que su mucha hacienda herede;
 
 
 
-  en aquesta ocasi�n quiero
+  en aquesta ocasión quiero
 
 
 
@@ -1444,15 +1439,15 @@ valerme de su favor.
 
 
 CARRASCO.
-�Apuestas que soy, se�or,
+¿Apuestas que soy, señor,
 
 
 
-o can�nigo o perrero?
+o canónigo o perrero?
 300
 
 
-  �Cuerpo de Dios! Ya te aplico
+  ¡Cuerpo de Dios! Ya te aplico
 
 
 
@@ -1468,11 +1463,11 @@ Y aun con dos mil fuera rico;
 
 
 
-  que guarda m�s que una urraca
+  que guarda más que una urraca
 305
 
 
-un can�nigo ya viejo.
+un canónigo ya viejo.
 
 
 
@@ -1480,19 +1475,19 @@ Dominga, yo ya te dejo:
 
 
 
-qu�date para bellaca.
+quédate para bellaca.
 
 
 DON LUIS.
-�Siempre has de hablar desatinos?
+¿Siempre has de hablar desatinos?
 
 
 CARRASCO.
-Ans� se pasa el trabajo.
+Ansí se pasa el trabajo.
 310
 
 DON LUIS.
-Ver�s el c�lebre Tajo,
+Verás el célebre Tajo,
 
 
 
@@ -1500,11 +1495,11 @@ padre de ingenios divinos,
 
 
 
-  espejo de rostros bellos,
+  espejo de rostros bellos,
 
 
 
-en cuya comparaci�n
+en cuya comparación
 
 
 
@@ -1516,15 +1511,15 @@ feos, mirados con ellos.
 
 
 
-  All� ver�s la riqueza,
+  Allí verás la riqueza,
 
 
 
-letras, armas, bizarr�a,
+letras, armas, bizarría,
 
 
 
-discreci�n, sabidur�a,
+discreción, sabiduría,
 
 
 
@@ -1532,7 +1527,7 @@ trato apacible y nobleza.
 320
 
 CARRASCO.
-  All� sus riberas llenas
+  Allí sus riberas llenas
 
 
 
@@ -1540,7 +1535,7 @@ de berenjenas zocates.
 
 
 DON LUIS.
-�l ha de hablar disparates.
+Él ha de hablar disparates.
 
 
 CARRASCO.
@@ -1548,7 +1543,7 @@ Como muy bien berenjenas.
 
 
 
-  endrinas dulces, membrillos
+  endrinas dulces, membrillos
 325
 
 
@@ -1564,15 +1559,15 @@ de Esquivias, Borox, Burguillos,
 
 
 
-  y otros muchos; que noticia
+  y otros muchos; que noticia
 
 
 
-tengo en cuantas partes ba�a
+tengo en cuantas partes baña
 330
 
 
-con buenos vinos Espa�a
+con buenos vinos España
 
 
 
@@ -1580,7 +1575,7 @@ sus hijos, aunque Galicia
 
 
 
-  de nuestra amistad se agravia:
+  de nuestra amistad se agravia:
 
 
 
@@ -1592,11 +1587,11 @@ conmigo el tinto de Orense,
 335
 
 
-y el fond�n de Ribadavia.
+y el fondón de Ribadavia.
 
 
 DON LUIS.
-  Ver�s en Toledo, en fin,
+  Verás en Toledo, en fin,
 
 
 
@@ -1604,39 +1599,39 @@ cuanto el deleite desea,
 
 
 
-porque all� verti� Amaltea
+porque allí vertió Amaltea
 
 
 
-la copia de su jard�n.
+la copia de su jardín.
 340
 
 
-  Llam�le bien un jud�o
+  Llamóle bien un judío
 
 
 
-la tierra de promisi�n.
+la tierra de promisión.
 
 
 CARRASCO.
-Di, se�or, en conclusi�n,
+Di, señor, en conclusión,
 
 
 
-que all� veremos tu t�o,
+que allí veremos tu tío,
 
 
 
-  porque la pena reporte
+  porque la pena reporte
 345
 
 
-que tengo en salir de aqu�.
+que tengo en salir de aquí.
 
 
 DON LUIS.
-Y doce leguas de all�
+Y doce leguas de allí
 
 
 
@@ -1644,23 +1639,23 @@ a Madrid, famosa corte,
 
 
 
-  que el mapa del mundo es;
+  que el mapa del mundo es;
 
 
 
-y si a mi t�o ver puedo,
+y si a mi tío ver puedo,
 350
 
 
-enviar� desde Toledo
+enviaré desde Toledo
 
 
 
-por mi hermana do�a In�s;
+por mi hermana doña Inés;
 
 
 
-  que a la sombra de tal t�o
+  que a la sombra de tal tío
 
 
 
@@ -1668,19 +1663,19 @@ muy bien cabremos los dos.
 
 
 CARRASCO.
-V�monos, cuerpo de Dios,
+Vámonos, cuerpo de Dios,
 355
 
 
-no nos prendan, se�or m�o;
+no nos prendan, señor mío;
 
 
 
-  que si la justicia llega,
+  que si la justicia llega,
 
 
 
-querr� hacer de ti justicia.
+querrá hacer de ti justicia.
 
 
 DON LUIS.
@@ -1692,19 +1687,19 @@ quiero.
 
 
 CARRASCO.
-      Y yo de mi gallega.
+      Y yo de mi gallega.
 360
 
 DON LUIS.
-  Reino famoso, adi�s, que alegre hago
+  Reino famoso, adiós, que alegre hago
 
 
 
-ausencia de tu c�lebre monta�a,
+ausencia de tu célebre montaña,
 
 
 
-pues que siendo mi patria, como extra�a
+pues que siendo mi patria, como extraña
 
 
 
@@ -1712,23 +1707,23 @@ diste a mi juventud siempre mal pago.
 
 
 
-  Adi�s, ciudad, sepulcro de Santiago,
+  Adiós, ciudad, sepulcro de Santiago,
 365
 
 
-que das pastor y das nobleza a Espa�a;
+que das pastor y das nobleza a España;
 
 
 
-adi�s, fin de la tierra que el mar ba�a,
+adiós, fin de la tierra que el mar baña,
 
 
 
-reino famoso, del ingl�s estrago.
+reino famoso, del inglés estrago.
 
 
 
-  Adi�s, hermana, que en tus brazos dejo
+  Adiós, hermana, que en tus brazos dejo
 
 
 
@@ -1740,7 +1735,7 @@ porque eres de mujeres claro espejo.
 
 
 
-  Adi�s juegos, amores, travesura;
+  Adiós juegos, amores, travesura;
 
 
 
@@ -1752,7 +1747,7 @@ si me ayudan el tiempo y la ventura.
 
 
 CARRASCO.
-  Adi�s, ciudad gallega, noble y sabia,
+  Adiós, ciudad gallega, noble y sabia,
 375
 
 
@@ -1760,7 +1755,7 @@ asombro del alarbe y estorlinga,
 
 
 
-estaci�n del flamenco y del mandinga,
+estación del flamenco y del mandinga,
 
 
 
@@ -1768,11 +1763,11 @@ del scita, y del que vive en el Arabia.
 
 
 
-  Adi�s, fregona, cuyo amor me agravia,
+  Adiós, fregona, cuyo amor me agravia,
 
 
 
-gallega molletuda; adi�s, Dominga,
+gallega molletuda; adiós, Dominga,
 380
 
 
@@ -1780,43 +1775,43 @@ que aunque lo graso de tu amor me pringa,
 
 
 
-siento m�s el dejar a Ribadavia.
+siento más el dejar a Ribadavia.
 
 
 
-  Adi�s, fond�n, traspuesto en tantos cabos,
+  Adiós, fondón, traspuesto en tantos cabos,
 
 
 
-y conocido de los mismos ni�os,
+y conocido de los mismos niños,
 
 
 
-que aqu� te dejo el alma con mil clavos.
+que aquí te dejo el alma con mil clavos.
 385
 
 
-  Adi�s, catuja, de mi amor brinqui�o,
+  Adiós, catuja, de mi amor brinquiño,
 
 
 
-adi�s redondos y tajados nabos,
+adiós redondos y tajados nabos,
 
 
 
-adi�s pescados, berzas, bacori�os.
+adiós pescados, berzas, bacoriños.
 
 
-
+ 
 
 Vanse.
 
 Salen LINARDO y HORACIO.
 
-
+ 
 
 LINARDO.
-  Perdonen por hoy las damas
+  Perdonen por hoy las damas
 
 
 
@@ -1824,7 +1819,7 @@ de Toledo, amigo Horacio;
 390
 
 
-que tiempo habr� en que de espacio
+que tiempo habrá en que de espacio
 
 
 
@@ -1832,7 +1827,7 @@ puedan abrasar sus llamas.
 
 
 
-  Los ojos se han de ocupar
+  Los ojos se han de ocupar
 
 
 
@@ -1848,7 +1843,7 @@ diferenciar el manjar.
 
 
 
-  La comarca de Toledo
+  La comarca de Toledo
 
 
 
@@ -1864,7 +1859,7 @@ Horacio, comparar puedo,
 400
 
 
-  que como el agosto vino
+  que como el agosto vino
 
 
 
@@ -1872,7 +1867,7 @@ lleno de cosecha tanta,
 
 
 
-en �l esta iglesia santa,
+en él esta iglesia santa,
 
 
 
@@ -1880,7 +1875,7 @@ hace hoy su agosto divino.
 
 
 
-  Viene hoy con contento vario
+  Viene hoy con contento vario
 405
 
 
@@ -1892,11 +1887,11 @@ a adorar la Virgen, fuera
 
 
 
-de su c�lebre sagrario.
+de su célebre sagrario.
 
 
 
-  Labradoras han venido,
+  Labradoras han venido,
 
 
 
@@ -1904,7 +1899,7 @@ que son por extremo bellas.
 410
 
 HORACIO.
-�Qu� importa, dime, si en ellas
+¿Qué importa, dime, si en ellas
 
 
 
@@ -1912,7 +1907,7 @@ no hay donaire ni vestido
 
 
 
-  para el apetito? Dalas,
+  para el apetito? Dalas,
 
 
 
@@ -1920,7 +1915,7 @@ amigo Linardo, a Judas,
 
 
 
-que son im�genes mudas,
+que son imágenes mudas,
 415
 
 
@@ -1928,7 +1923,7 @@ que pinta el tiempo sin galas.
 
 
 
-  Nunca dellas me enamoro,
+  Nunca dellas me enamoro,
 
 
 
@@ -1944,7 +1939,7 @@ con las guarniciones de oro.
 420
 
 LINARDO.
-  Enga�ado est�s: aguarda,
+  Engañado estás: aguarda,
 
 
 
@@ -1956,11 +1951,11 @@ una aldeana que vale
 
 
 
-m�s que cuantas damas guarda
+más que cuantas damas guarda
 
 
 
-  en sus palacios Toledo,
+  en sus palacios Toledo,
 425
 
 
@@ -1968,7 +1963,7 @@ por cuyo tierno amor
 
 
 
-da don Pedro, mi se�or,
+da don Pedro, mi señor,
 
 
 
@@ -1976,11 +1971,11 @@ su hacienda y su vida.
 
 
 HORACIO.
-                 Quedo,
+                 Quedo,
 
 
 
-  que ya sale de la tienda
+  que ya sale de la tienda
 
 
 
@@ -1988,7 +1983,7 @@ la que dices.
 
 
 LINARDO.
-          Su hermosura
+          Su hermosura
 430
 
 
@@ -1996,37 +1991,36 @@ en aquesta coyuntura
 
 
 
-mi cierta opini�n defienda.
+mi cierta opinión defienda.
 
 
+ 
 
+Sale DON PEDRO con un hábito al pecho, y ANGÉLICA, aldeana, con un sombrero de plumas y otra aldeana con ella.
 
-Sale DON PEDRO con un h�bito al pecho, y ANG�LICA, aldeana, con un  sombrero
-de plumas y otra aldeana con ella.
-
-
+ 
 
 DON PEDRO.
-  �No tom�rades siquiera,
+  ¿No tomárades siquiera,
 
 
 
-pag�ndolo yo, unos guantes,
+pagándolo yo, unos guantes,
 
 
 
-pues joyas m�s importantes
+pues joyas más importantes
 435
 
 
-rehus�is de essa manera?
+rehusáis de essa manera?
 
 
 
-�Unas tocas?
+¿Unas tocas?
 
 
-ANG�LICA.
+ANGÉLICA.
           Es en vano
 
 
@@ -2043,14 +2037,14 @@ de volverse entero y sano.
 440
 
 DON PEDRO.
-  Dejad que compre algo pues
+  Dejad que compre algo pues
 
 
 
-a la compa�era.
+a la compañera.
 
 
-ANG�LICA.
+ANGÉLICA.
             Tengo
 
 
@@ -2059,14 +2053,14 @@ para las dos, que no vengo
 
 
 
-con amigas de inter�s.
+con amigas de interés.
 
 
 DON PEDRO.
-  Siquiera por cortes�a.
+  Siquiera por cortesía.
 445
 
-ANG�LICA.
+ANGÉLICA.
 Aqueso a las toledanas,
 
 
@@ -2075,11 +2069,11 @@ que las dos somos villanas.
 
 
 DON PEDRO.
-Cerca est� la plater�a:
+Cerca está la platería:
 
 
 
-  escoged alguna joya,
+  escoged alguna joya,
 
 
 
@@ -2095,10 +2089,10 @@ nunca se perdiera Troya.
 
 
 DON PEDRO.
-  Recebid algo.
+  Recebid algo.
 
 
-ANG�LICA.
+ANGÉLICA.
             Yo basto
 
 
@@ -2115,7 +2109,7 @@ dicen que se asienta el gasto:
 
 
 
-  por no venir a gastar,
+  por no venir a gastar,
 
 
 
@@ -2131,15 +2125,15 @@ es forzoso que ha de dar.
 460
 
 DON PEDRO.
-  �Ay Ang�lica divina!
+  ¡Ay Angélica divina!
 
 
 
-Sin duda que en tu aldeg�ela
+Sin duda que en tu aldegüela
 
 
 
-la discreci�n puso escuela.
+la discreción puso escuela.
 
 
 
@@ -2147,23 +2141,23 @@ Tu hermosura peregrina,
 
 
 
-  junta con tu discreci�n,
+  junta con tu discreción,
 465
 
 
 me tiene perdido y loco.
 
 
-ANG�LICA.
-Se�or don Pedro, esto poco
+ANGÉLICA.
+Señor don Pedro, esto poco
 
 
 
-basta de conversaci�n;
+basta de conversación;
 
 
 
-  que os miran mil medios ojos,
+  que os miran mil medios ojos,
 
 
 
@@ -2171,19 +2165,19 @@ hechos ventanas los mantos,
 470
 
 
-y algunos habr� entre tantos
+y algunos habrá entre tantos
 
 
 
-a quien pod�is dar enojos.
+a quien podáis dar enojos.
 
 
 
-  Idos, no engendr�is recelos;
+  Idos, no engendréis recelos;
 
 
 
-porque ser� afrenta llana
+porque será afrenta llana
 
 
 
@@ -2195,7 +2189,7 @@ por una aldeana celos.
 
 
 DON PEDRO.
-  Bien sab�is vos cu�ntos d�as
+  Bien sabéis vos cuántos días
 
 
 
@@ -2207,15 +2201,15 @@ menosprecio en la ciudad
 
 
 
-toledanas bizarr�as;
+toledanas bizarrías;
 480
 
 
-  y que como el alma os vea,
+  y que como el alma os vea,
 
 
 
-sin que su afici�n reporte,
+sin que su afición reporte,
 
 
 
@@ -2223,27 +2217,27 @@ juzga solo por la corte,
 
 
 
-Ang�lica, vuestra aldea.
+Angélica, vuestra aldea.
 
 
 
-  Por Dios, que me dan disgusto
+  Por Dios, que me dan disgusto
 485
 
 
-cuantas damas hay aqu�.
+cuantas damas hay aquí.
 
 
 
-�Qued�is satisfecha ans�?
+¿Quedáis satisfecha ansí?
 
 
-ANG�LICA.
-Tendr�is estragado el gusto;
+ANGÉLICA.
+Tendréis estragado el gusto;
 
 
 
-  y pues os vais al aldea
+  y pues os vais al aldea
 
 
 
@@ -2251,7 +2245,7 @@ por damas de aquese modo,
 490
 
 
-ser� por comer de todo,
+será por comer de todo,
 
 
 
@@ -2259,7 +2253,7 @@ que la variedad recrea.
 
 
 
-  Estar�is empalagado
+  Estaréis empalagado
 
 
 
@@ -2271,11 +2265,11 @@ como por Toledo rueda,
 495
 
 
-y habr�os la grana agradado
+y habráos la grana agradado
 
 
 
-  de la aldeana, [el] rebozo,
+  de la aldeana, [el] rebozo,
 
 
 
@@ -2287,11 +2281,11 @@ porque, aunque sois caballero,
 
 
 
-ten�is el gusto de mozo.
+tenéis el gusto de mozo.
 500
 
 
-  Mas pues que habemos llegado
+  Mas pues que habemos llegado
 
 
 
@@ -2299,23 +2293,23 @@ a la santa iglesia ya,
 
 
 
-y aqu� aguard�ndome est�
+y aquí aguardándome está
 
 
 
-mi padre, dej� el cuidado,
+mi padre, dejá el cuidado,
 
 
 
-  don Pedro, y la pretensi�n
+  don Pedro, y la pretensión
 505
 
 
-con que vuestro amor extra�o
+con que vuestro amor extraño
 
 
 
-ha que me persigue un a�o.
+ha que me persigue un año.
 
 
 
@@ -2323,11 +2317,11 @@ Buscad esposa con don;
 
 
 
-  que yo Ang�lica, y sin �l,
+  que yo Angélica, y sin él,
 
 
 
-vos mayorazgo y se�or,
+vos mayorazgo y señor,
 510
 
 
@@ -2335,11 +2329,11 @@ yo hija de un labrador,
 
 
 
-dir�n mal seda y buriel.
+dirán mal seda y buriel.
 
 
 
-  Vos con aquesa encomienda
+  Vos con aquesa encomienda
 
 
 
@@ -2351,11 +2345,11 @@ de un labrador, que aunque quiera
 515
 
 
-dejarme mucha hac�enda,
+dejarme mucha hacïenda,
 
 
 
-  todo lo deshace el tiempo,
+  todo lo deshace el tiempo,
 
 
 
@@ -2371,11 +2365,11 @@ que andan a gusto del tiempo.
 520
 
 
-  Para m�s, ya sab�is vos
+  Para más, ya sabéis vos
 
 
 
-que ser� cosa excusada;
+que será cosa excusada;
 
 
 
@@ -2383,33 +2377,33 @@ y para no alcanzar nada,
 
 
 
-no os cans�is, don Pedro. Adi�s.
+no os canséis, don Pedro. Adiós.
 
 
-
+ 
 
 Vanse las dos.
 
-
+ 
 
 DON PEDRO.
-  Oye, �ans�, cruel, me dejas?
+  Oye, ¿ansí, cruel, me dejas?
 525
 
 
-�spid bello, no huyas tanto,
+Áspid bello, no huyas tanto,
 
 
 
-Mas pensar�s que es encanto,
+Mas pensarás que es encanto,
 
 
 
-y as� tapas las orejas.
+y así tapas las orejas.
 
 
 
-  �Qu� har�, Linardo? Que inquieta
+  ¿Qué haré, Linardo? Que inquieta
 
 
 
@@ -2421,15 +2415,15 @@ esta hermosa Circe airada.
 
 
 LINARDO.
-Respondi�te como honrada,
+Respondióte como honrada,
 
 
 
-se�or, y como discreta.
+señor, y como discreta.
 
 
 
-  Es Ang�lica heredera
+  Es Angélica heredera
 
 
 
@@ -2437,7 +2431,7 @@ de Fulgencio, a quien venera
 535
 
 
-toda esta f�rtil comarca,
+toda esta fértil comarca,
 
 
 
@@ -2445,11 +2439,11 @@ por ser suyo cuanto abarca
 
 
 
-lo m�s de aquesta ribera.
+lo más de aquesta ribera.
 
 
 
-  Sabe el mayorazgo y renta
+  Sabe el mayorazgo y renta
 
 
 
@@ -2469,11 +2463,11 @@ de tanto valor y cuenta.
 
 
 
-  Es humilde aquesta moza,
+  Es humilde aquesta moza,
 
 
 
-y ans� el estado que goza,
+y ansí el estado que goza,
 545
 
 
@@ -2489,7 +2483,7 @@ el tuyo, que es de Mendoza.
 
 
 
-  Mas si tanto te avasalla
+  Mas si tanto te avasalla
 
 
 
@@ -2501,7 +2495,7 @@ con ruegos, usa el rigor;
 
 
 
-que una traza hallo, se�or,
+que una traza hallo, señor,
 
 
 
@@ -2509,27 +2503,27 @@ para que puedas gozalla.
 
 
 
-  Ya sabes la devoci�n
+  Ya sabes la devoción
 
 
 
-que tiene al santo franc�s
+que tiene al santo francés
 555
 
 
-la castellana naci�n,
+la castellana nación,
 
 
 
-y que hoy la v�spera es
+y que hoy la víspera es
 
 
 
-de Roque, nuestro patr�n.
+de Roque, nuestro patrón.
 
 
 
-  Esta noche van con grita
+  Esta noche van con grita
 
 
 
@@ -2537,11 +2531,11 @@ y fiestas [a] aquesta ermita,
 560
 
 
-cuya pared Tajo ba�a,
+cuya pared Tajo baña,
 
 
 
-de toda aquesta campa�a
+de toda aquesta campaña
 
 
 
@@ -2549,23 +2543,23 @@ a verla gente infinita
 
 
 
-  Yo pienso, y aun claro est�,
+  Yo pienso, y aun claro está,
 
 
 
-que all� la aldeana ir�
+que allá la aldeana irá
 565
 
 
-que te trata con desd�n.
+que te trata con desdén.
 
 
 DON PEDRO.
-Todo eso es ans�. Pues bien,
+Todo eso es ansí. Pues bien,
 
 
 
-�qu� hemos de hacer?
+¿qué hemos de hacer?
 
 
 LINARDO.
@@ -2573,11 +2567,11 @@ LINARDO.
 
 
 
-  y t� tomas mi consejo,
+  y tú tomas mi consejo,
 
 
 
-podr�s seguro gozalla.
+podrás seguro gozalla.
 570
 
 DON PEDRO.
@@ -2585,7 +2579,7 @@ Mi vida en tus manos dejo.
 
 
 
-Pero �c�mo?
+Pero ¿cómo?
 
 
 LINARDO.
@@ -2597,7 +2591,7 @@ pues hay tan buen aparejo.
 
 
 DON PEDRO.
-  Eso no: soy caballero,
+  Eso no: soy caballero,
 
 
 
@@ -2605,23 +2599,23 @@ y ofender el sol no quiero,
 575
 
 
-que alumbra las penas m�as.
+que alumbra las penas mías.
 
 
 LINARDO.
-Amantes con cortes�as
+Amantes con cortesías
 
 
 
-morir�n de hambre primero.
+morirán de hambre primero.
 
 
 
-  El c�mo y el cu�ndo ordena,
+  El cómo y el cuándo ordena,
 
 
 
-y aqueso no te d� pena.
+y aqueso no te dé pena.
 580
 
 DON PEDRO.
@@ -2629,41 +2623,41 @@ Amor, dame tu favor:
 
 
 
-ser� Paris robador
+seré Paris robador
 
 
 
-de otra m�s hermosa Elena.
+de otra más hermosa Elena.
 
 
+ 
 
+Vanse y salen DOÑA INÉS y CAMILA.
 
-Vanse y salen DO�A IN�S y CAMILA.
-
-
+ 
 
 CAMILA.
-  Todos afirman por cierto
+  Todos afirman por cierto
 
 
 
-que despu�s que le mat�,
+que después que le mató,
 585
 
 
-huy� por camino incierto.
+huyó por camino incierto.
 
 
-DO�A IN�S.
-M�s muerta he quedado yo
-
-
-
-sin �l, Camila, que el muerto.
+DOÑA INÉS.
+Más muerta he quedado yo
 
 
 
-  Don Diego, Camila, es,
+sin él, Camila, que el muerto.
+
+
+
+  Don Diego, Camila, es,
 
 
 
@@ -2671,7 +2665,7 @@ del muerto don Juan hermano,
 590
 
 
-quien quiere dar al trav�s
+quien quiere dar al través
 
 
 
@@ -2679,7 +2673,7 @@ con mi honor, como tirano,
 
 
 
-a fuerza de su inter�s;
+a fuerza de su interés;
 
 
 
@@ -2703,31 +2697,31 @@ que no vivir con temor.
 
 
 
-  �l parti� a Toledo agora,
+  Él partió a Toledo agora,
 
 
 
-Camila, porque mi t�o
+Camila, porque mi tío
 600
 
 
-el can�nigo le adora.
+el canónigo le adora.
 
 
 CAMILA.
-T� har�s alg�n desvar�o.
+Tú harás algún desvarío.
 
 
 
-M�ralo m�s bien, se�ora.
+Míralo más bien, señora.
 
 
-DO�A IN�S.
-  Mi casa dejo; procura
+DOÑA INÉS.
+  Mi casa dejo; procura
 
 
 
-guardarla t�, y no la ultraje
+guardarla tú, y no la ultraje
 605
 
 
@@ -2742,34 +2736,34 @@ porque yo, mudando el traje,
 pienso mudar la ventura.
 
 
-
+ 
 
 Vanse.
 
-
+ 
 
 Salen DON LUIS y CARRASCO.
 
-
+ 
 
 CARRASCO.
-  Dos leguas ponen de aqu�
+  Dos leguas ponen de aquí
 
 
 
-hasta Toledo, no m�s;
+hasta Toledo, no más;
 610
 
 
-ma�ana, se�or, ver�s
+mañana, señor, verás
 
 
 
-al can�nigo; mas di,
+al canónigo; mas di,
 
 
 
-  �qu� te parece la fiesta
+  ¿qué te parece la fiesta
 
 
 
@@ -2781,15 +2775,15 @@ ha hecho este pueblezuelo?
 615
 
 DON LUIS.
-Su devoci�n manifiesta.
+Su devoción manifiesta.
 
 
 CARRASCO.
-  �Qu� buena farsa! �Qu� ensayo
+  ¡Qué buena farsa! ¡Qué ensayo
 
 
 
-de toros! �qu� bravo encierro!
+de toros! ¡qué bravo encierro!
 
 
 
@@ -2821,7 +2815,7 @@ por su abogado y devoto;
 
 
 
-  y haci�ndome fiesta a ratos
+  y haciéndome fiesta a ratos
 625
 
 
@@ -2837,7 +2831,7 @@ pudieran correrme gatos.
 
 
 DON LUIS.
-  �Est�s borracho?
+  ¿Estás borracho?
 
 
 CARRASCO.
@@ -2849,7 +2843,7 @@ el estarlo un peregrino,
 630
 
 
-ni se vende aqu� mal vino;
+ni se vende aquí mal vino;
 
 
 
@@ -2857,7 +2851,7 @@ que a falta de Ribadavia,
 
 
 
-  Alaejos, Coca y Pinto,
+  Alaejos, Coca y Pinto,
 
 
 
@@ -2865,7 +2859,7 @@ en Yepes y Ciudad Real,
 
 
 
-San Mart�n y Madrigal,
+San Martín y Madrigal,
 635
 
 
@@ -2873,23 +2867,23 @@ hay buen blanco y mejor tinto.
 
 
 
-  �Ah venturosas las uvas
+  ¡Ah venturosas las uvas
 
 
 
-que lloran tan dulces ca�os!
+que lloran tan dulces caños!
 
 
 
-Castilla ilustre, mil a�os
+Castilla ilustre, mil años
 
 
 
-se empre�en dellas tus cubas!
+se empreñen dellas tus cubas!
 640
 
 
-  Nunca las pelledas d�
+  Nunca las pelledas dé
 
 
 
@@ -2901,11 +2895,11 @@ Toledo, en vez de san Roque,
 
 
 
-haz mil fiestas a No�,
+haz mil fiestas a Noé,
 
 
 
-  pues que cifr� tu ventura
+  pues que cifró tu ventura
 645
 
 
@@ -2921,11 +2915,11 @@ es calidad, no es locura.
 
 
 DON LUIS.
-  �yete, loco.
+  Óyete, loco.
 
 
 CARRASCO.
-            Aqu� dan
+            Aquí dan
 
 
 
@@ -2933,7 +2927,7 @@ en esta ermita del santo,
 650
 
 
-que celebra Espa�a tanto,
+que celebra España tanto,
 
 
 
@@ -2941,15 +2935,15 @@ caridad de queso y pan,
 
 
 
-  y de aquella agua bendita
+  y de aquella agua bendita
 
 
 
-(�agua dije? Afrenta fue),
+(¿agua dije? Afrenta fue),
 
 
 
-de aquel licor de No�,
+de aquel licor de Noé,
 655
 
 
@@ -2957,7 +2951,7 @@ que tantos dolores quita.
 
 
 
-  Mis tripas han de ser coche
+  Mis tripas han de ser coche
 
 
 
@@ -2965,7 +2959,7 @@ de una azumbre.
 
 
 DON LUIS.
-             �Has de callar?
+             ¿Has de callar?
 
 
 CARRASCO.
@@ -2973,11 +2967,11 @@ Dicen que todo el lugar
 
 
 
-se junta aqu� aquesta noche
+se junta aquí aquesta noche
 660
 
 
-en sus fiestas y alegr�as,
+en sus fiestas y alegrías,
 
 
 
@@ -2985,15 +2979,15 @@ bailes, meriendas, placeres,
 
 
 
-hombres, ni�os y mujeres,
+hombres, niños y mujeres,
 
 
 
-hasta las fregonas m�as.
+hasta las fregonas mías.
 
 
 
-  Ya es de noche: vive Dios,
+  Ya es de noche: vive Dios,
 665
 
 
@@ -3005,15 +2999,15 @@ y de cuando en cuando un tumbo,
 
 
 
-calabaza, os dar� a vos;
+calabaza, os daré a vos;
 
 
 
-  que a fe que hay lindo despacho
+  que a fe que hay lindo despacho
 
 
 
-de la vin�tica tinta,
+de la vinática tinta,
 670
 
 
@@ -3025,11 +3019,11 @@ que has visto.
 
 
 DON LUIS.
-   �Soy yo borracho
+   ¿Soy yo borracho
 
 
 
-  como t�, que eres...?
+  como tú, que eres...?
 
 
 CARRASCO.
@@ -3048,14 +3042,14 @@ cuando borracho me llamas,
 me pones una corona.
 
 
+ 
 
+Dentro, música.
 
-Dentro, m�sica.
-
-
+ 
 
 Cantan.
-�C�mo alegran los campos
+¡Cómo alegran los campos
 
 
 
@@ -3071,56 +3065,56 @@ de nuestro Roque!
 680
 
 CARRASCO.
-  �Bueno, bueno! �Vive Dios!
+  ¡Bueno, bueno! ¡Vive Dios!
 
 
 
-La m�sica me desvela.
+La música me desvela.
 
 
 
 Ya vienen las de la vela.
 
 
-
+ 
 
 Van saliendo.
 
-
+ 
 
 DON LUIS.
 Dichosos fuimos los dos
 
 
 
-  en llegar a tal saz�n.
+  en llegar a tal sazón.
 685
 
 
-�No ves la grita que dan?
+¿No ves la grita que dan?
 
 
-[ALDEANO] 1.�
-Bellacos, cola Mag�n.
+[ALDEANO] 1.º
+Bellacos, cola Magán.
 
 
-[ALDEANO] 2.�
-Cola los de Mocej�n.
+[ALDEANO] 2.º
+Cola los de Mocejón.
 
 
-[ALDEANO] 3.�
-Viva Ol�as.
+[ALDEANO] 3.º
+Viva Olías.
 
 
-[ALDEANO] 2.�
-  �En qu� peca
+[ALDEANO] 2.º
+  ¿En qué peca
 
 
 
 Vargas?
 
 
-[ALDEANO] 1.�
+[ALDEANO] 1.º
       Varguillas, mamola.
 690
 
@@ -3128,18 +3122,18 @@ Vargas?
 Viva Villalengua sola.
 
 
-[ALDEANO] 2.�
+[ALDEANO] 2.º
 Villalengua y Villaseca.
 
 
-
+ 
 
 Salen todos y mujeres cantando.
 
-
+ 
 
 Cantan.
-  Los azules bellos
+  Los azules bellos
 
 
 
@@ -3155,7 +3149,7 @@ que adornan los cielos.
 
 
 
-Su turqu� de celos
+Su turquí de celos
 
 
 
@@ -3171,7 +3165,7 @@ otras veces triste,
 700
 
 
-su pabell�n viste
+su pabellón viste
 
 
 
@@ -3179,7 +3173,7 @@ de mil resplandores.
 
 
 
-  �C�mo alegran los campos
+  ¡Cómo alegran los campos
 
 
 
@@ -3194,77 +3188,77 @@ con la fiesta divina
 de nuestro Roque.
 
 
-[ALDEANO] 1.�
-  Si�ntense, se�ores m�os.
+[ALDEANO] 1.º
+  Siéntense, señores míos.
 
 
-MUJER 1.�
+MUJER 1.ª
 Borden las flores mis sayas.
 
 
-MUJER 2.�
-�Vive Dios, que ha de haber vayas
+MUJER 2.ª
+¡Vive Dios, que ha de haber vayas
 
 
 
-de donosos desvar�os!
+de donosos desvaríos!
 710
 
 
-  �Qu� buena noche!
+  ¡Qué buena noche!
 
 
-MUJER 1.�
+MUJER 1.ª
                 Extremada.
 
 
-MUJER 2.�
-Aqu� me siento.
+MUJER 2.ª
+Aquí me siento.
 
 
-[ALDEANO] 1.�
+[ALDEANO] 1.º
             Yo y todo;
 
 
 
-f�cilmente me acomodo:
+fácilmente me acomodo:
 
 
 
-aqu� el asiento me agrada.
+aquí el asiento me agrada.
 
 
 CARRASCO.
-  Por Dios, que habemos llegado
+  Por Dios, que habemos llegado
 711
 
 
 a coyuntura bizarra.
 
 
+ 
 
+Sale un embozado, paseándose.
 
-Sale un embozado, pase�ndose.
-
-
+ 
 
 EMBOZADO.
 Oyen, los de la guitarra:
 
 
 
-�de qu� basura han sacado
+¿de qué basura han sacado
 
 
 
-  esa mujer que a cantar
+  esa mujer que a cantar
 
 
 
-viene? �Qu� gentil despacho!
+viene? ¡Qué gentil despacho!
 720
 
-MUJER 1.�
+MUJER 1.ª
 Tus barbas, sucio, borracho,
 
 
@@ -3273,7 +3267,7 @@ son basura y muladar.
 
 
 EMBOZADO.
-Anda, que eres de Caba�as,
+Anda, que eres de Cabañas,
 
 
 
@@ -3284,12 +3278,12 @@ donde todos son mesones,
 o en buen romance ladrones.
 725
 
-MUJER 1.�
-Esas ser�n tus haza�as,
+MUJER 1.ª
+Esas serán tus hazañas,
 
 
 
-  que eres de Ol�as, borracho,
+  que eres de Olías, borracho,
 
 
 
@@ -3305,7 +3299,7 @@ grajos cocidos.
 
 
 EMBOZADO.
-            Un macho
+            Un macho
 730
 
 
@@ -3321,15 +3315,15 @@ y te lo echaron de ver.
 
 
 TODOS.
-�Bueno! mamola, mamola.
+¡Bueno! mamola, mamola.
 
 
 DON LUIS.
-  No quisiera haber perdido
+  No quisiera haber perdido
 735
 
 
-en ning�n caso este rato.
+en ningún caso este rato.
 
 
 CARRASCO.
@@ -3341,7 +3335,7 @@ Galicia, ya yo te olvido.
 
 
 
-  aunque el sue�o me da enojos,
+  aunque el sueño me da enojos,
 
 
 
@@ -3356,29 +3350,29 @@ a alborotar la cabeza,
 y hacer candiles los ojos.
 
 
-
+ 
 
 Salen por otra puerta con tamboril.
 
+ 
 
-
-[ALDEANO] 1.�
+[ALDEANO] 1.º
 Burguillos viene.
 
 
 MUJER.
-             �Gentil
+             ¡Gentil
 
 
 
 matalotaje!
 
 
-[ALDEANO] 2.�
-         Es valiente.
+[ALDEANO] 2.º
+         Es valiente.
 
 
-El que ta�e.
+El que tañe.
 Dios guarde la buena gente.
 745
 
@@ -3387,10 +3381,10 @@ No toques el tamboril,
 
 
 
-  pandero.
+  pandero.
 
 
-El que ta�e.
+El que tañe.
  Calla, pazguato,
 
 
@@ -3402,16 +3396,16 @@ que es de cuero; mas no quiero
 callar, porque eres un cuero.
 
 
-[ALDEANO] 1.�
+[ALDEANO] 1.º
 Cola, Burguillos.
 
 
 CARRASCO.
-             �Qu� rato!
+             ¡Qué rato!
 750
 
-[ALDEANO] 1.�
-  Yo apostar� que a la vela
+[ALDEANO] 1.º
+  Yo apostaré que a la vela
 
 
 
@@ -3422,12 +3416,12 @@ traen con danzas y corrillos
 la arandela de Yunclillos.
 
 
-[ALDEANO] 2.�
-�Yunclillos tiene arandela?
+[ALDEANO] 2.º
+¿Yunclillos tiene arandela?
 
 
-[ALDEANO] 1.�
-  No hay novia en la Sagra toda
+[ALDEANO] 1.º
+  No hay novia en la Sagra toda
 755
 
 
@@ -3442,8 +3436,8 @@ ni piense quedar casada,
 si va sin ella a la boda.
 
 
-[ALDEANO] 2.�
-  �Eso ignoras y eres viejo?
+[ALDEANO] 2.º
+  ¿Eso ignoras y eres viejo?
 
 
 
@@ -3458,19 +3452,19 @@ se han de juntar para dalla
 los alcaldes y el concejo.
 
 
-El que ta�e.
-  Esa es mentira y cautela,
+El que tañe.
+  Esa es mentira y cautela,
 
 
 
-y si all� voy...
+y si allá voy...
 
 
-[ALDEANO] 2.�
-    No te corras
+[ALDEANO] 2.º
+    No te corras
 
 
-El que ta�e.
+El que tañe.
 Mienten, y son unas zorras
 765
 
@@ -3478,37 +3472,37 @@ TODOS.
 Calla, y daca la arandela.
 
 
+ 
 
+Salen ANGÉLICA, FULGENCIO y FELICIANO.
 
-Salen ANG�LICA, FULGENCIO y FELICIANO.
+ 
 
-
-
-ANG�LICA.
-  Todo lo merece el santo,
-
-
-
-y tiene mucha raz�n
+ANGÉLICA.
+  Todo lo merece el santo,
 
 
 
-de honrar Castilla patr�n
+y tiene mucha razón
+
+
+
+de honrar Castilla patrón
 
 
 
 que merece y puede tanto.
 770
 
-[ALDEANO] 2.�
-  �Brava viene, vive Dios!
+[ALDEANO] 2.º
+  ¡Brava viene, vive Dios!
 
 
 MUJER.
 Es la que manda al lugar.
 
 
-[ALDEANO] 1.�
+[ALDEANO] 1.º
 Melisa, sal a bailar,
 
 
@@ -3516,18 +3510,18 @@ Melisa, sal a bailar,
 mientras cantamos los dos.
 
 
-
+ 
 
 Cantan y baila la mujer.
 
-
+ 
 
 Cantan.
-Tr�bole: �ay Jes�s, c�mo huele!
+Trébole: ¡ay Jesús, cómo huele!
 775
 
 
-Tr�bole: �ay Jes�s, qu� olor!
+Trébole: ¡ay Jesús, qué olor!
 
 
 
@@ -3535,11 +3529,11 @@ Tus plantas divinas,
 
 
 
-Ang�lica hermosa,
+Angélica hermosa,
 
 
 
-en tr�bol y rosa
+en trébol y rosa
 
 
 
@@ -3563,15 +3557,15 @@ tus pies en tu flor.
 
 
 TODOS.
-�Tr�bole: �ay Jes�s, c�mo huele!
+¡Trébole: ¡ay Jesús, cómo huele!
 785
 
 
-�Tr�bole: �ay Jes�s, qu� olor!
+¡Trébole: ¡ay Jesús, qué olor!
 
 
 CARRASCO.
-  Brava la danza ha de ser,
+  Brava la danza ha de ser,
 
 
 
@@ -3579,15 +3573,15 @@ digna de tales despojos.
 
 
 DON LUIS.
-Carrasco, �qu� bellos ojos!
+Carrasco, ¡qué bellos ojos!
 
 
 CARRASCO.
-Pues �c�mo los puedes ver?
+Pues ¿cómo los puedes ver?
 790
 
 DON LUIS.
-  Con la luz que nos env�a
+  Con la luz que nos envía
 
 
 
@@ -3599,33 +3593,33 @@ a ver el sol de su cara.
 
 
 CARRASCO.
-�Ya hablamos filosof�a?
+¿Ya hablamos filosofía?
 
 
 DON LUIS.
-�Ay que divinos despojos!
+¡Ay que divinos despojos!
 795
 
 CARRASCO.
 A dormir un rato me echo.
 
 
+ 
 
+Échase a dormir CARRASCO.
 
-�chase a dormir CARRASCO.
-
-
+ 
 
 DON LUIS.
-No s� qu� siento en el pecho,
+No sé qué siento en el pecho,
 
 
 
-que se me entr� por los ojos.
+que se me entró por los ojos.
 
 
 FELICIANO.
-  Vuestra es, Ang�lica bella,
+  Vuestra es, Angélica bella,
 
 
 
@@ -3633,21 +3627,21 @@ aquesta fiesta, pues todos
 800
 
 
-celebr�ndoos de mil modos,
+celebrándoos de mil modos,
 
 
 
 huelgan de veros en ella.
 
 
-
+ 
 
 Dan voces dentro DON PEDRO y LINARDO.
 
-
+ 
 
 LINARDO.
-  �Fuego, fuego!
+  ¡Fuego, fuego!
 
 
 DON PEDRO.
@@ -3659,11 +3653,11 @@ que se nos quema la ermita.
 
 
 LINARDO.
-�Fuego!
+¡Fuego!
 
 
 FELICIANO.
-      �De qu� es esta grita?
+      ¿De qué es esta grita?
 805
 
 DON PEDRO.
@@ -3671,39 +3665,39 @@ Agua traigan.
 
 
 LINARDO.
-          �Fuego, fuego!
+          ¡Fuego, fuego!
 
 
 FELICIANO.
-  Qued�os, pues, se�ora m�a,
+  Quedáos, pues, señora mía,
 
 
 
 que todos vendremos luego.
 
 
+ 
 
+Vanse todos, sino es DON LUIS, CARRASCO y ANGÉLICA.
 
-Vanse todos, sino es DON LUIS, CARRASCO y ANG�LICA.
-
-
+ 
 
 DON LUIS.
-Dentro en mi pecho est� el fuego,
+Dentro en mi pecho está el fuego,
 
 
 
-que �ste abrasa y �se enfr�a.
+que éste abrasa y ése enfría.
 810
 
-
+ 
 
 Salen DON PEDRO y LINARDO, desnudas las espadas.
 
-
+ 
 
 DON PEDRO.
-  Aunque son viles haza�as,
+  Aunque son viles hazañas,
 
 
 
@@ -3711,15 +3705,15 @@ por procurar mi sosiego
 
 
 
-son l�citas: no es el fuego
+son lícitas: no es el fuego
 
 
 
-sino dentro en mis entra�as.
+sino dentro en mis entrañas.
 
 
 
-  Hab�isle encendido vos:
+  Habéisle encendido vos:
 815
 
 
@@ -3727,19 +3721,19 @@ perdonad, aldeana bella,
 
 
 
-que ans� aplaca mi querella
+que ansí aplaca mi querella
 
 
 
 mi amor.
 
 
-ANG�LICA.
-       �Qu� es aquesto? �Ay Dios!
+ANGÉLICA.
+       ¿Qué es aquesto? ¡Ay Dios!
 
 
 DON PEDRO.
-  S�lo con robaros medro,
+  Sólo con robaros medro,
 
 
 
@@ -3747,41 +3741,41 @@ pues en vos mi salud hallo.
 820
 
 LINARDO.
-Ponte, se�or, a caballo.
+Ponte, señor, a caballo.
 
 
-ANG�LICA.
-�Ayuda! �Ah traidor don Pedro!
+ANGÉLICA.
+¡Ayuda! ¡Ah traidor don Pedro!
 
 
 DON PEDRO.
-  En balde ayuda ped�s,
+  En balde ayuda pedís,
 
 
 
 pues no ayudastes mi amor.
 
 
+ 
 
+Llévanla en brazos.
 
-Ll�vanla en brazos.
-
-
+ 
 
 DON LUIS.
-No ser� en balde, traidor,
+No será en balde, traidor,
 825
 
 
-porque est� vivo don Luis.
+porque está vivo don Luis.
 
 
 
-  �Carrasco! Necio, borracho...
+  ¡Carrasco! Necio, borracho...
 
 
 
-Mas �qu� hago desta suerte,
+Mas ¿qué hago desta suerte,
 
 
 
@@ -3792,14 +3786,14 @@ sin dar al traidor la muerte
 que hace tal robo?
 
 
-
+ 
 
 Vase DON LUIS y despierta CARRASCO.
 
-
+ 
 
 CARRASCO.
-       �Qu� macho?
+       ¿Qué macho?
 830
 
 
@@ -3811,31 +3805,31 @@ Fuera. Sube... corre... tente...
 
 
 
-Mas �qu� es de toda la gente
+Mas ¿qué es de toda la gente
 
 
 
-que estaba aqu� agora? �Bueno!
+que estaba aquí agora? ¡Bueno!
 
 
 
-  Yo apostar� que he dormido
+  Yo apostaré que he dormido
 835
 
 
-dos d�as; que suelo hacello.
+dos días; que suelo hacello.
 
 
 
-�Don Luis! �De qu� me querello?
+¡Don Luis! ¿De qué me querello?
 
 
 
-�l se debe de haber ido.
+Él se debe de haber ido.
 
 
 
-  Nunca de dormirme acabo;
+  Nunca de dormirme acabo;
 
 
 
@@ -3847,26 +3841,25 @@ si son siete los durmientes
 
 
 
-yo ser� durmiente octavo.
+yo seré durmiente octavo.
 
 
+ 
 
-
-Vase CARRASCO y salen  acuchill�ndose  DON  LUIS,  DON  PEDRO  y  LINARDO  y
-ANG�LICA detr�s de DON LUIS y su espada es bord�n.
+Vase CARRASCO y salen acuchillándose DON LUIS, DON PEDRO y LINARDO y ANGÉLICA detrás de DON LUIS y su espada es bordón.
 
 
 
 DON LUIS.
-  Traidores, dejad el robo
+  Traidores, dejad el robo
 
 
 
-de vuestra cobarde haza�a
+de vuestra cobarde hazaña
 
 
 
-que soy un le�n de Espa�a
+que soy un león de España
 845
 
 
@@ -3874,7 +3867,7 @@ que vengo a matar un lobo.
 
 
 DON PEDRO.
-  �Cielos! �Que en tal coyuntura
+  ¡Cielos! ¡Que en tal coyuntura
 
 
 
@@ -3886,11 +3879,11 @@ No me puedo defender.
 
 
 
-�Ay que me mata! Procura
+¡Ay que me mata! Procura
 850
 
 
-  huir; v�monos, se�or.
+  huir; vámonos, señor.
 
 
 
@@ -3902,15 +3895,15 @@ Hombre que me has perseguido,
 
 
 
-�qui�n eres?
+¿quién eres?
 
 
 DON LUIS.
-   Soy un rigor
+   Soy un rigor
 
 
 
-  que desde los altos cielos
+  que desde los altos cielos
 855
 
 
@@ -3918,11 +3911,11 @@ vengo a darte muerte fiera.
 
 
 DON PEDRO.
-�Rigor?
+¿Rigor?
 
 
 DON LUIS.
-      (Rayo de la esfera...   Aparte.
+      (Rayo de la esfera...   Aparte.
 
 
 
@@ -3930,7 +3923,7 @@ de mis encendidos celos.)
 
 
 DON PEDRO.
-  Detente, que me destruyes.
+  Detente, que me destruyes.
 
 
 DON LUIS.
@@ -3941,34 +3934,34 @@ DON PEDRO.
 Herido estoy; quiero huir.
 
 
-
+ 
 
 Vanse DON PEDRO y LINARDO.
 
-
+ 
 
 DON LUIS.
 No tienes amor, pues huyes.
 
 
 
-  Triunfad de aquesta vitoria,
+  Triunfad de aquesta vitoria,
 
 
 
-se�ora, que os da la palma,
+señora, que os da la palma,
 
 
 
-y triunfad tambi�n de un alma
+y triunfad también de un alma
 865
 
 
-que est� en infierno y en gloria,
+que está en infierno y en gloria,
 
 
 
-  que si agora es gloria veros
+  que si agora es gloria veros
 
 
 
@@ -3984,14 +3977,14 @@ de ausentarme y de perderos.
 870
 
 
-  Quisiera daros la vida
+  Quisiera daros la vida
 
 
 
-de quien os ofendi� agora.
+de quien os ofendió agora.
 
 
-ANG�LICA.
+ANGÉLICA.
 Confieso que os soy deudora;
 
 
@@ -4000,7 +3993,7 @@ porque paga debida
 
 
 
-  har� que mi libertad
+  hará que mi libertad
 875
 
 
@@ -4008,22 +4001,22 @@ pueda pagar, sin ser chica.
 
 
 DON LUIS.
-Bien pod�is pagar, pues rica
+Bien podéis pagar, pues rica
 
 
 
-ten�is vuestra voluntad,
+tenéis vuestra voluntad,
 
 
 
-  si acaso no os la ha llevado
+  si acaso no os la ha llevado
 
 
 
-el cobarde que huy� agora.
+el cobarde que huyó agora.
 880
 
-ANG�LICA.
+ANGÉLICA.
 Voluntad no, que hasta ahora
 
 
@@ -4032,11 +4025,11 @@ ninguno en el mundo ha entrado
 
 
 
-  a robarme tal tesoro,
+  a robarme tal tesoro,
 
 
 
-que est� en defendida torre.
+que está en defendida torre.
 
 
 DON LUIS.
@@ -4044,11 +4037,11 @@ Pues amor por torres corre,
 885
 
 
-J�piter hay que llueve oro.
+Júpiter hay que llueve oro.
 
 
-ANG�LICA.
-  Aunque esa historia no entiendo,
+ANGÉLICA.
+  Aunque esa historia no entiendo,
 
 
 
@@ -4060,11 +4053,11 @@ a daros bastante paga,
 
 
 
-como la quer�is de hacienda,
+como la queráis de hacienda,
 890
 
 
-  yo har� que gran parte os cuadre
+  yo haré que gran parte os cuadre
 
 
 
@@ -4080,11 +4073,11 @@ no es avariento mi padre.
 
 
 
-  Venid a que os vea, se�or.
+  Venid a que os vea, señor.
 895
 
 DON LUIS.
-Ir� para acompa�aros,
+Iré para acompañaros,
 
 
 
@@ -4096,11 +4089,11 @@ que no sufre mi valor
 
 
 
-  que debajo deste traje
+  que debajo deste traje
 
 
 
-se encubra alg�n inter�s
+se encubra algún interés
 900
 
 
@@ -4108,43 +4101,43 @@ menos que noble; que lo es,
 
 
 
-aunque extra�o, mi linaje.
+aunque extraño, mi linaje.
 
 
-
+ 
 
 Sale CARRASCO.
 
-
+ 
 
 CARRASCO.
-  �Ah don Luis! �Ah mi se�or!
+  ¡Ah don Luis! ¡Ah mi señor!
 
 
 
-�Ad�nde diablos est�s?
+¿Adónde diablos estás?
 
 
 DON LUIS.
-Oye, loco, �d�nde vas?
+Oye, loco, ¿dónde vas?
 905
 
+ 
 
+Habla aparte con él.
 
-Habla aparte con �l.
-
-
+ 
 
 CARRASCO.
 Por Dios, que es lindo tu humor.
 
 
 
-  �Qu� has hecho? �No me llamaras
+  ¿Qué has hecho? ¿No me llamaras
 
 
 
-cuando te fuiste? -�Qu� es esto?
+cuando te fuiste? -¿Qué es esto?
 
 
 
@@ -4156,7 +4149,7 @@ Aventuras miro raras.
 910
 
 
-  �Ya como don Belian�s
+  ¿Ya como don Belianís
 
 
 
@@ -4168,37 +4161,37 @@ y aun por eso no me llamas
 
 
 
-cuando duermo, don L�is?
+cuando duermo, don Lüis?
 
 
 DON LUIS.
-  Calla, necio, no me nombres.
+  Calla, necio, no me nombres.
 915
 
 CARRASCO.
-�No? Pues perdona y sepamos
+¿No? Pues perdona y sepamos
 
 
 
-con qu� nombre nos llamamos
+con qué nombre nos llamamos
 
 
 
 cuando hemos de estar sin nombres.
 
 
-
+ 
 
 Sale FELICIANO.
 
-
+ 
 
 FELICIANO.
-  �Mi prima robada, cielos,
+  ¡Mi prima robada, cielos,
 
 
 
-sin descubrir al ladr�n!
+sin descubrir al ladrón!
 920
 
 
@@ -4206,18 +4199,18 @@ Mas estos sin duda son.
 
 
 
-�Ah cobardes! Matar�los.
+¡Ah cobardes! Matarélos.
 
 
 
-  Prima m�a, la venganza
+  Prima mía, la venganza
 
 
 
-ver�is presto del villano.
+veréis presto del villano.
 
 
-ANG�LICA.
+ANGÉLICA.
 Paso, primo Feliciano:
 925
 
@@ -4226,15 +4219,15 @@ culpad a vuestra tardanza.
 
 
 
-  Que este peregrino fuerte
+  Que este peregrino fuerte
 
 
 
-de don Pedro me libr�,
+de don Pedro me libró,
 
 
 
-que el fuego y grita invent�
+que el fuego y grita inventó
 
 
 
@@ -4246,7 +4239,7 @@ FELICIANO.
 930
 
 
-  dadme esos valientes brazos,
+  dadme esos valientes brazos,
 
 
 
@@ -4262,11 +4255,11 @@ y me honran vuestros abrazos.
 
 
 FELICIANO.
-  El teneros por amigo
+  El teneros por amigo
 935
 
 
-tendr� por dicha sin tasa:
+tendré por dicha sin tasa:
 
 
 
@@ -4274,15 +4267,15 @@ mi hacienda, mi vida y casa
 
 
 
-es vuestra; ven�os conmigo.
+es vuestra; veníos conmigo.
 
 
 DON LUIS.
-  No es posible: por ahora
+  No es posible: por ahora
 
 
 
-me importa no acompa�aros,
+me importa no acompañaros,
 940
 
 
@@ -4290,11 +4283,11 @@ aunque me llega el dejaros
 
 
 
-al alma, bella se�ora.
+al alma, bella señora.
 
 
 
-  Perdonadme: pues segura
+  Perdonadme: pues segura
 
 
 
@@ -4302,7 +4295,7 @@ os dejo, y en tal poder,
 
 
 
-ya no ser� menester
+ya no será menester
 945
 
 
@@ -4310,11 +4303,11 @@ el poner en aventura
 
 
 
-  mi vida; aquesto me fuerza.
+  mi vida; aquesto me fuerza.
 
 
 
-Adi�s.
+Adiós.
 
 
 FELICIANO.
@@ -4326,23 +4319,23 @@ pero en pago esta cadena
 
 
 
-hab�is de tomar por fuerza...
+habéis de tomar por fuerza...
 950
 
 
-  mal dije en pago, en se�al
+  mal dije en pago, en señal
 
 
 
-de que nos hab�is de ver
+de que nos habéis de ver
 
 
 
-cuando pod�is.
+cuando podáis.
 
 
-ANG�LICA. Aparte.
-            (Si ha de ser
+ANGÉLICA. Aparte.
+            (Si ha de ser
 
 
 
@@ -4350,39 +4343,39 @@ el irse, cierto es mi mal.
 
 
 
-  Ya no hay fuerza que resista
+  Ya no hay fuerza que resista
 955
 
 
-agora a tan gran pasi�n;
+agora a tan gran pasión;
 
 
 
-que el alma y el coraz�n
+que el alma y el corazón
 
 
 
-se van tras �l por la vista.)
+se van tras él por la vista.)
 
 
 DON LUIS.
-  No me vence el inter�s.
+  No me vence el interés.
 
 
 
-Perdonad, se�or y adi�s,
+Perdonad, señor y adiós,
 960
 
 
-que presto estar� con vos.
+que presto estaré con vos.
 
 
 
-�Hola! vamos,  Aparte a CARRASCO (que despu�s
+¡Hola! vamos,  Aparte a CARRASCO (que después
 
 
 
-  que me haya visto mi t�o,
+  que me haya visto mi tío,
 
 
 
@@ -4394,11 +4387,11 @@ dejando el sayal grosero,
 965
 
 
-publicando el amor m�o
+publicando el amor mío
 
 
 
-  volver� a ver sin enojos
+  volveré a ver sin enojos
 
 
 
@@ -4413,18 +4406,18 @@ porque galas y riqueza
 son redes para los ojos.)
 970
 
-
+ 
 
 Vanse DON LUIS y CARRASCO.
 
-
+ 
 
 FELICIANO.
-  Nada ha querido tomar.
+  Nada ha querido tomar.
 
 
-ANG�LICA.   Ap.
-(�Fuese, cielos! �ay de mi!)
+ANGÉLICA.   Ap.
+(¡Fuese, cielos! ¡ay de mi!)
 
 
 FELICIANO.
@@ -4432,27 +4425,27 @@ En toda mi vida vi
 
 
 
-suceso m�s de admirar.
+suceso más de admirar.
 
 
 
-  A no ver que estoy despierto,
+  A no ver que estoy despierto,
 975
 
 
-creyera que sue�o ha sido:
+creyera que sueño ha sido:
 
 
 
-mas �qu� ocasi�n habr� habido
+mas ¿qué ocasión habrá habido
 
 
 
-para haberse as� encubierto?
+para haberse así encubierto?
 
 
-ANG�LICA.
-  No pienso que pueda ser
+ANGÉLICA.
+  No pienso que pueda ser
 
 
 
@@ -4460,7 +4453,7 @@ otra, sino el excusar
 980
 
 
-la paga que habr� de dar
+la paga que habrá de dar
 
 
 
@@ -4468,7 +4461,7 @@ mi padre, y el no querer
 
 
 
-  que la alabanza le venza
+  que la alabanza le venza
 
 
 
@@ -4480,11 +4473,11 @@ que siempre el valiente honrado
 985
 
 
-si le alaban, se averg�enza.
+si le alaban, se avergüenza.
 
 
 
-  �Si no es que el peregrino
+  ¡Si no es que el peregrino
 
 
 
@@ -4496,11 +4489,11 @@ tales robos no permita!
 
 
 FELICIANO.
-�Pens�is que �se es desatino?
+¿Pensáis que ése es desatino?
 990
 
-ANG�LICA.
-  Si �l nos cumple su promesa
+ANGÉLICA.
+  Si él nos cumple su promesa
 
 
 
@@ -4512,11 +4505,11 @@ noticia desto, y sabremos
 
 
 
-qui�n es.  Ap. (Aunque en esta empresa,
+quién es.  Ap. (Aunque en esta empresa,
 
 
 
-  le quisiera m�s humano
+  le quisiera más humano
 995
 
 
@@ -4524,11 +4517,11 @@ que divino.)
 
 
 FELICIANO.
- Del ladr�n
+ Del ladrón
 
 
 
-os dar� satisfacci�n,
+os dará satisfacción,
 
 
 
@@ -4536,14 +4529,14 @@ pues que vive, Feliciano;
 
 
 
-  que la nobleza es indigna
+  que la nobleza es indigna
 
 
 
-del, pues que la emplea ans�.
+del, pues que la emplea ansí.
 1000
 
-ANG�LICA.  Ap.
+ANGÉLICA.  Ap.
 (Peregrino, hoy va tras ti
 
 
@@ -4554,50 +4547,48 @@ mi voluntad peregrina.)
 
 Fin de la primera jornada.
 
-
 Jornada segunda
 
+Sale DOÑA INÉS, vestida de hombre, con espada.
 
-Sale DO�A IN�S, vestida de hombre, con espada.
-
-
-
-
-
-DO�A IN�S.
-  �Qu� provincia o qu� naci�n,
+ 
 
 
 
-qu� montes inaccesibles,
+DOÑA INÉS.
+  ¿Qué provincia o qué nación,
 
 
 
-qu� peligros, qu� imposibles,
+qué montes inaccesibles,
+
+
+
+qué peligros, qué imposibles,
 1005
 
 
-qu� mara�as, qu� invenci�n,
+qué marañas, qué invención,
 
 
 
-  qu� empresa nunca intentada,
+  qué empresa nunca intentada,
 
 
 
-qu� guerra de m�s poder
+qué guerra de más poder
 
 
 
-no emprender� una mujer
+no emprenderá una mujer
 
 
 
-cuando est� determinada?
+cuando está determinada?
 1010
 
 
-  Conmigo proballo puedo,
+  Conmigo proballo puedo,
 
 
 
@@ -4613,49 +4604,49 @@ desde Galicia a Toledo.
 
 
 
-  Desde aqu� ponen dos leguas:
+  Desde aquí ponen dos leguas:
 1015
 
 
-hoy podr� llegar all�,
+hoy podré llegar allá,
 
 
 
-y ya mi inquietud podr�
+y ya mi inquietud podrá
 
 
 
 dar a mis trabajos treguas.
 
 
-
+ 
 
 Salen DON LUIS y CARRASCO, peregrinos.
 
-
+ 
 
 DON LUIS.
-  Contra mi estrella porf�o:
+  Contra mi estrella porfío:
 
 
 
-sali� mi camino en vano.
+salió mi camino en vano.
 1020
 
 CARRASCO.
-Gan� la muerte de mano,
+Ganó la muerte de mano,
 
 
 
-y acogi�se con tu t�o.
+y acogióse con tu tío.
 
 
 DON LUIS.
-  �Qu� quieres? Al fin es muerte.
+  ¿Qué quieres? Al fin es muerte.
 
 
 CARRASCO.
-�Buen lance habemos echado!
+¡Buen lance habemos echado!
 
 
 DON LUIS.
@@ -4667,7 +4658,7 @@ se le vuelve azar la suerte.
 
 
 
-  Como muri� ab intestato
+  Como murió ab intestato
 
 
 
@@ -4675,7 +4666,7 @@ y el Papa fue su heredero,
 
 
 
-tir� con todo el dinero,
+tiró con todo el dinero,
 
 
 
@@ -4683,15 +4674,15 @@ plata, hacienda y aparato.
 1030
 
 CARRASCO.
-  �Bueno por servirte quedo!
+  ¡Bueno por servirte quedo!
 
 
 
-�D�nde habemos de ir ans�?
+¿Dónde habemos de ir ansí?
 
 
 DON LUIS.
-Deudos he de hallar aqu�
+Deudos he de hallar aquí
 
 
 
@@ -4699,11 +4690,11 @@ de los nobles de Toledo.
 
 
 
-  Castros y Sotomayores
+  Castros y Sotomayores
 1035
 
 
-hay aqu� muy caballeros,
+hay aquí muy caballeros,
 
 
 
@@ -4719,15 +4710,15 @@ son los parientes mejores.
 
 
 
-  Nunca en parientes me fundo;
+  Nunca en parientes me fundo;
 
 
 
-por negarte, negar�n
+por negarte, negarán
 1040
 
 
-que no decienden de Ad�n.
+que no decienden de Adán.
 
 
 
@@ -4735,23 +4726,23 @@ No hay tal pariente en el mundo
 
 
 
-  como el dinero en la mano;
+  como el dinero en la mano;
 
 
 
-�ste es pariente de veras,
+éste es pariente de veras,
 
 
 
-que lo dem�s es quimeras:
+que lo demás es quimeras:
 1045
 
 
-�l es padre, primo, hermano.
+él es padre, primo, hermano.
 
 
 DON LUIS.
-  Carrasco, lo propio pienso
+  Carrasco, lo propio pienso
 
 
 
@@ -4767,15 +4758,15 @@ que son de casta de censo.
 1050
 
 
-  Pero, dejado esto, di:
+  Pero, dejado esto, di:
 
 
 
-�es cierto que en esta aldea
+¿es cierto que en esta aldea
 
 
 
-te qui�s quedar, porque vea
+te quiés quedar, porque vea
 
 
 
@@ -4783,11 +4774,11 @@ el amor que vive en ti,
 
 
 
-  la aldeana a quien libraste?
+  la aldeana a quien libraste?
 1055
 
 DON LUIS.
-Ser�, Carrasco, tan cierto,
+Será, Carrasco, tan cierto,
 
 
 
@@ -4799,11 +4790,11 @@ De presto te enamoraste.
 
 
 
-  Vamos, se�or, a la corte,
+  Vamos, señor, a la corte,
 
 
 
-que all� se abrevian mil mundos,
+que allí se abrevian mil mundos,
 1060
 
 
@@ -4811,23 +4802,23 @@ y viven los vagamundos.
 
 
 
-Dar�s a tu vida un corte.
+Darás a tu vida un corte.
 
 
 DON LUIS.
-  Muerto estoy.
+  Muerto estoy.
 
 
 CARRASCO.
-             Tu flema es buena;
+             Tu flema es buena;
 
 
 
-vivo est�s.
+vivo estás.
 
 
 DON LUIS.
-         Mi cuerpo en calma
+         Mi cuerpo en calma
 
 
 
@@ -4835,11 +4826,11 @@ es purgatorio del alma.
 1065
 
 CARRASCO.
-Luego ser�s alma en pena.
+Luego serás alma en pena.
 
 
 DON LUIS.
-  Sin duda.
+  Sin duda.
 
 
 CARRASCO.
@@ -4851,19 +4842,19 @@ de aquesa suerte tu amor.
 
 
 
-Un responso va, se�or.
+Un responso va, señor.
 
 
 DON LUIS.
-�Qu�?
+¿Qué?
 
 
 CARRASCO.
      Peccantem me quotidie.
 1070
 
-DO�A IN�S.
-  �V�lgame Dios! Si el deseo
+DOÑA INÉS.
+  ¡Válgame Dios! Si el deseo
 
 
 
@@ -4871,7 +4862,7 @@ no me causa estos antojos,
 
 
 
-�no es mi hermano el que a mis ojos
+¿no es mi hermano el que a mis ojos
 
 
 
@@ -4879,18 +4870,18 @@ con Carrasco hablando veo?
 
 
 
-  Quiero hablalle.
+  Quiero hablalle.
 
 
 DON LUIS.
-              Cosa es llana
+              Cosa es llana
 1075
 
 
 que he de encubrirme grosero.
 
 
-DO�A IN�S.
+DOÑA INÉS.
 Mi hermano es: hablalle quiero...
 
 
@@ -4899,7 +4890,7 @@ pero no, que soy su hermana
 
 
 
-  y al verme aqu� desta suerte
+  y al verme aquí desta suerte
 
 
 
@@ -4907,7 +4898,7 @@ que se disguste no hay duda.
 1080
 
 
-Muri� mi t�o: es sin duda;
+Murió mi tío: es sin duda;
 
 
 
@@ -4915,11 +4906,11 @@ su pena dice su muerte.
 
 
 
-  Sin darle parte de nada,
+  Sin darle parte de nada,
 
 
 
-le seguir� deste modo,
+le seguiré deste modo,
 
 
 
@@ -4931,27 +4922,27 @@ mujer y carga pesada.
 
 
 
-  Quiero escuchallos, que o�
+  Quiero escuchallos, que oí
 
 
 
-no s� qu� de amor.
+no sé qué de amor.
 
 
 CARRASCO.
-               Es sue�o,
+               Es sueño,
 
 
 
-siendo el lugar tan peque�o,
+siendo el lugar tan pequeño,
 
 
 
-quererte quedar aqu�.
+quererte quedar aquí.
 1090
 
 DON LUIS.
-  Calla, y vamos.
+  Calla, y vamos.
 
 
 CARRASCO.
@@ -4959,33 +4950,33 @@ CARRASCO.
 
 
 
-te voy, se�or, comparando...
+te voy, señor, comparando...
 
 
 DON LUIS.
-�A qui�n, animal?
+¿A quién, animal?
 
 
 CARRASCO.
-              A Orlando,
+              A Orlando,
 
 
 
-por otra Ang�lica loco.
+por otra Angélica loco.
 
 
-
+ 
 
 Vanse.
 
+ 
 
-
-DO�A IN�S.
-  Yo vine a buena ocasi�n.
+DOÑA INÉS.
+  Yo vine a buena ocasión.
 1095
 
 
-Aqu� me importa quedar
+Aquí me importa quedar
 
 
 
@@ -4993,11 +4984,11 @@ para que pueda estorbar,
 
 
 
-si no es buena, esta afici�n;
+si no es buena, esta afición;
 
 
 
-  no haga alg�n desatino;
+  no haga algún desatino;
 
 
 
@@ -5008,18 +4999,18 @@ que amor como ciego y loco
 puede mucho y sabe poco.
 
 
-
+ 
 
 Sale DON PEDRO y LINARDO, su criado.
 
-
+ 
 
 DON PEDRO.
 Sin duda que el peregrino
 
 
 
-  debi� de bajar del cielo
+  debió de bajar del cielo
 
 
 
@@ -5031,15 +5022,15 @@ que mi enamorada furia
 1105
 
 
-hizo a un �ngel en el suelo.
+hizo a un ángel en el suelo.
 
 
 LINARDO.
-  �Extra�as fuerzas!
+  ¡Extrañas fuerzas!
 
 
 DON PEDRO.
-               �Notables!
+               ¡Notables!
 
 
 LINARDO.
@@ -5055,27 +5046,27 @@ sus golpes incomportables.
 1110
 
 LINARDO.
-  A no huir dellos y del,
+  A no huir dellos y del,
 
 
 
-yo te aseguro, se�or,
+yo te aseguro, señor,
 
 
 
-que �l acaba con tu amor.
+que él acaba con tu amor.
 
 
 DON PEDRO.
-La ocasi�n perd� por �l
+La ocasión perdí por él
 
 
 
-  de la mujer m�s hermosa
+  de la mujer más hermosa
 1115
 
 
-que toda Espa�a ha tenido;
+que toda España ha tenido;
 
 
 
@@ -5087,15 +5078,15 @@ el padre honrado, fue cosa
 
 
 
-  digna de mi noble ser
+  digna de mi noble ser
 
 
 
-restaurar mi fama ans�
+restaurar mi fama ansí
 1120
 
 
-agora se la ped�
+agora se la pedí
 
 
 
@@ -5103,7 +5094,7 @@ en su casa por mujer;
 
 
 
-  y entrando en cuerdo consejo
+  y entrando en cuerdo consejo
 
 
 
@@ -5115,11 +5106,11 @@ reparando en la ganancia
 1125
 
 
-(propia condici�n de viejo)
+(propia condición de viejo)
 
 
 
-  y la mucha calidad,
+  y la mucha calidad,
 
 
 
@@ -5135,15 +5126,15 @@ mis armas y calidad,
 1130
 
 
-  con palabra y juramento
+  con palabra y juramento
 
 
 
-me prometi� que ser�a
+me prometió que sería
 
 
 
-Ang�lica esposa m�a.
+Angélica esposa mía.
 
 
 
@@ -5151,7 +5142,7 @@ No es igual el casamiento;
 
 
 
-  pero tampoco ser�
+  pero tampoco seré
 1135
 
 
@@ -5163,11 +5154,11 @@ llame a una aldeana hermosa,
 
 
 
-ni mi sangre afrentar�;
+ni mi sangre afrentaré;
 
 
 
-  que al fin es cristiana vieja
+  que al fin es cristiana vieja
 
 
 
@@ -5179,11 +5170,11 @@ y sus deudos agraviados
 
 
 
-del robo, no tendr�n queja
+del robo, no tendrán queja
 
 
 
-  viendo que reparo el da�o
+  viendo que reparo el daño
 
 
 
@@ -5195,27 +5186,27 @@ El casamiento ha de ser
 1145
 
 
-murmurado como extra�o;
+murmurado como extraño;
 
 
 
-  pero [a] tal resoluci�n
+  pero [a] tal resolución
 
 
 
 aconsejarte no quiero.
 
 
-DO�A IN�S.
+DOÑA INÉS.
 Basta, que este caballero
 
 
 
-tambi�n tiene aqu� afici�n.
+también tiene aquí afición.
 1150
 
 
-  No es posible, que en lugar
+  No es posible, que en lugar
 
 
 
@@ -5231,7 +5222,7 @@ de hermosura singular.
 
 
 
-  Aficion�ndome voy
+  Aficionándome voy
 1155
 
 
@@ -5239,19 +5230,19 @@ del lugar, pues que tal hombre
 
 
 
-quiere en �l bien.
+quiere en él bien.
 
 
 DON PEDRO.
-             Gentil hombre,
+             Gentil hombre,
 
 
 
-�Sois de Toledo?
+¿Sois de Toledo?
 
 
-DO�A IN�S.
-              No soy
+DOÑA INÉS.
+              No soy
 
 
 
@@ -5259,7 +5250,7 @@ sino gallego.
 
 
 LINARDO.
-         �Gallego?
+         ¿Gallego?
 
 
 
@@ -5267,19 +5258,19 @@ Para enviar un recado
 1160
 
 
-ser� muy lindo criado,
+será muy lindo criado,
 
 
 
-que volver� con �l luego.
+que volverá con él luego.
 
 
 DON PEDRO.
-  �Y qu� busc�is por aqu�?
+  ¿Y qué buscáis por aquí?
 
 
-DO�A IN�S.
-A un se�or que quiera ser
+DOÑA INÉS.
+A un señor que quiera ser
 
 
 
@@ -5291,14 +5282,14 @@ DON PEDRO.
 1165
 
 
-tiene el rapaz.) Pues ven�,
+tiene el rapaz.) Pues vení,
 
 
 
-  que yo os quiero por mi paje.
+  que yo os quiero por mi paje.
 
 
-DO�A IN�S.
+DOÑA INÉS.
 Dame los pies o la mano,
 
 
@@ -5307,27 +5298,27 @@ por lo que en servirte gano.
 
 
 LINARDO.
-�Muy gentil matalotaje
+¡Muy gentil matalotaje
 1170
 
 
-  llevamos! Mozo gallego
+  llevamos! Mozo gallego
 
 
 
-�sab�is cu�n chancero es,
+¿sabéis cuán chancero es,
 
 
 
-que sirve un a�o y despu�s
+que sirve un año y después
 
 
 
 toma las de Villadiego?
 
 
-DO�A IN�S.
-  Oye, se�or gentilhombre,
+DOÑA INÉS.
+  Oye, señor gentilhombre,
 1175
 
 
@@ -5339,31 +5330,31 @@ que no los conoce.
 
 
 DON PEDRO.
-               Ven,
+               Ven,
 
 
 
 que es un loco: di tu nombre.
 
 
-DO�A IN�S.
-  Guzm�n me llamo, se�or.
+DOÑA INÉS.
+  Guzmán me llamo, señor.
 
 
 LINARDO.
-�Y no quieres que te tache?
+¿Y no quieres que te tache?
 1180
 
-DO�A IN�S.
+DOÑA INÉS.
 Pues no es el de Alfarache.
 
 
 LINARDO.
-El talle ten�is peor.
+El talle tenéis peor.
 
 
-DO�A IN�S.
-  (�Qu� m�s puedo desear
+DOÑA INÉS.
+  (¿Qué más puedo desear
 
 
 Aparte.
@@ -5379,15 +5370,15 @@ y acudiendo a este lugar,
 
 
 
-  pues que ha de venir es llano
+  pues que ha de venir es llano
 
 
 
-quien en �l busca mujer,
+quien en él busca mujer,
 
 
 
-cada instante podr� ver
+cada instante podré ver
 
 
 
@@ -5395,10 +5386,10 @@ los intentos de mi hermano.)
 1190
 
 DON PEDRO.
-  �Sabr�s llevar un billete?
+  ¿Sabrás llevar un billete?
 
 
-DO�A IN�S.
+DOÑA INÉS.
 Y volver con el recado,
 
 
@@ -5407,14 +5398,14 @@ porque, aunque gallego, andado
 
 
 
-tengo ya de Alcal� a Huete.
+tengo ya de Alcalá a Huete.
 
 
 DON PEDRO.
-  Vamos, que te he de querer.
+  Vamos, que te he de querer.
 1195
 
-DO�A IN�S.
+DOÑA INÉS.
 Yo y todo te voy queriendo
 
 
@@ -5426,15 +5417,15 @@ DON PEDRO.
                   No te entiendo.
 
 
-DO�A IN�S.
+DOÑA INÉS.
 (Aparte.) Ni yo me doy a entender.
 
 
+ 
 
+Vanse y salen FULGENCIO y ANGÉLICA.
 
-Vanse y salen FULGENCIO y ANG�LICA.
-
-
+ 
 
 FULGENCIO.
 Don Pedro al fin me ha pedido
@@ -5453,7 +5444,7 @@ y digno de ser tenido
 
 
 
-  por yerno de un titulado.
+  por yerno de un titulado.
 
 
 
@@ -5469,7 +5460,7 @@ que te hubiera deshonrado,
 
 
 
-  si un peregrino del cielo
+  si un peregrino del cielo
 
 
 
@@ -5481,11 +5472,11 @@ que pienso que en aquel traje
 
 
 
-San Roque baj� hasta el suelo.
+San Roque bajó hasta el suelo.
 1210
 
 
-  Ya ves que te quiere mucho:
+  Ya ves que te quiere mucho:
 
 
 
@@ -5501,7 +5492,7 @@ alcanzan y pueden mucho.
 
 
 
-  Honrar tu casa desea;
+  Honrar tu casa desea;
 1215
 
 
@@ -5517,7 +5508,7 @@ las toscas de aquesta aldea.
 
 
 
-  Un comendador te ama:
+  Un comendador te ama:
 
 
 
@@ -5533,7 +5524,7 @@ sino cortesana dama.
 
 
 
-  Ea, toma mi consejo
+  Ea, toma mi consejo
 
 
 
@@ -5549,11 +5540,11 @@ soy, hija, cristiano viejo.
 
 
 
-  Entre la sangre espa�ola,
+  Entre la sangre española,
 
 
 
-la m�a, aunque labrador,
+la mía, aunque labrador,
 
 
 
@@ -5561,19 +5552,19 @@ tiene limpieza y valor:
 
 
 
-t� eres mi heredera sola,
+tú eres mi heredera sola,
 1230
 
 
-  y ans� en mis a�os postreros
+  y ansí en mis años postreros
 
 
 
-honroso fin me dar�s,
+honroso fin me darás,
 
 
 
-si cas�ndote me das,
+si casándote me das,
 
 
 
@@ -5581,11 +5572,11 @@ hija, nietos caballeros.
 
 
 
-  �Qu� me respondes?
+  ¿Qué me respondes?
 
 
-ANG�LICA
-                  Que soy
+ANGÉLICA
+                  Que soy
 1235
 
 
@@ -5601,15 +5592,15 @@ resuelta a casarme estoy.
 
 
 
-  Harta honra el cielo me dio;
+  Harta honra el cielo me dio;
 
 
 
-que no pretendo yo aqu�
+que no pretendo yo aquí
 1240
 
 
-esposo que me honre a m�,
+esposo que me honre a mí,
 
 
 
@@ -5617,7 +5608,7 @@ sino esposo que honre yo.
 
 
 
-  Labradores verdaderos
+  Labradores verdaderos
 
 
 
@@ -5633,7 +5624,7 @@ primero que caballeros.
 
 
 
-  Las galas de corte deja,
+  Las galas de corte deja,
 
 
 
@@ -5645,11 +5636,11 @@ que no con ajenas plumas
 
 
 
-fue m�s noble la corneja.
+fue más noble la corneja.
 1250
 
 
-  Y aunque la honra y provecho
+  Y aunque la honra y provecho
 
 
 
@@ -5665,7 +5656,7 @@ y con una cruz al pecho,
 
 
 
-  despr�ciale en testimonio
+  despréciale en testimonio
 1255
 
 
@@ -5673,7 +5664,7 @@ de que es flaca la mujer,
 
 
 
-y no har� poco en traer
+y no hará poco en traer
 
 
 
@@ -5681,11 +5672,11 @@ la cruz de su matrimonio;
 
 
 
-  que el deseo que produces
+  que el deseo que produces
 
 
 
-le mal lograr�s despu�s,
+le mal lograrás después,
 1260
 
 
@@ -5697,7 +5688,7 @@ por no poder con dos cruces.
 
 
 
-  De su nobleza el decoro
+  De su nobleza el decoro
 
 
 
@@ -5709,11 +5700,11 @@ mas son escudos de piedra,
 1265
 
 
-y t� los tienes de oro;
+y tú los tienes de oro;
 
 
 
-  y no por sus nobles armas
+  y no por sus nobles armas
 
 
 
@@ -5721,7 +5712,7 @@ mi peligro has de querer,
 
 
 
-que temer� la mujer
+que temerá la mujer
 
 
 
@@ -5729,11 +5720,11 @@ marido con tantas armas.
 1270
 
 FULGENCIO.
-  Har�s lo que yo mandare
+  Harás lo que yo mandare
 
 
 
-o ver� el cielo presente
+o verá el cielo presente
 
 
 
@@ -5745,7 +5736,7 @@ hay padre que la repare.
 
 
 
-  Mi rigor har� que tuerza
+  Mi rigor hará que tuerza
 1275
 
 
@@ -5753,23 +5744,23 @@ su brazo a tu libertad:
 
 
 
-har�slo de voluntad,
+haráslo de voluntad,
 
 
 
-o si no, lo har�s por fuerza.
+o si no, lo harás por fuerza.
 
 
 
-  Esas quimeras reporta
+  Esas quimeras reporta
 
 
 
-y necias bachiller�as:
+y necias bachillerías:
 1280
 
 
-de plazo te doy tres d�as.
+de plazo te doy tres días.
 
 
 
@@ -5777,33 +5768,33 @@ Mira en ellos lo que importa
 
 
 
-  mientras la vida o el s�
+  mientras la vida o el sí
 
 
 
 me das.
 
 
-ANG�LICA.
-      Siendo de esa suerte,
+ANGÉLICA.
+      Siendo de esa suerte,
 
 
 
-el s� dar� con mi muerte.
+el sí daré con mi muerte.
 1285
 
 FULGENCIO.
-Yo s� que lo har�s por m�.
+Yo sé que lo harás por mí.
 
 
-
+ 
 
 Vase.
 
+ 
 
-
-ANG�LICA.
-  �C�mo podr� admitir el alma due�o
+ANGÉLICA.
+  ¿Cómo podrá admitir el alma dueño
 
 
 
@@ -5811,15 +5802,15 @@ que ablande su dureza, si es de encina?
 
 
 
-�Ni qu� provecho har� la medecina
+¿Ni qué provecho hará la medecina
 
 
 
-a quien la muerte sepult� en su sue�o?
+a quien la muerte sepultó en su sueño?
 1290
 
 
-  Fuego pide a la nieve, lengua al le�o
+  Fuego pide a la nieve, lengua al leño
 
 
 
@@ -5827,27 +5818,27 @@ mi padre, que mi alma es peregrina,
 
 
 
-pues siendo amor bord�n, mi fe esclavina,
+pues siendo amor bordón, mi fe esclavina,
 
 
 
-por ver un peregrino la despe�o.
+por ver un peregrino la despeño.
 
 
 
-  �V�lgame Dios! �si fue Roque divino
+  ¡Válgame Dios! ¿si fue Roque divino
 1295
 
 
-quien me dio libertad y dej� loca
+quien me dio libertad y dejó loca
 
 
 
-que despu�s que le adoro, desatino?
+que después que le adoro, desatino?
 
 
 
-  Mas no, que amor humano me provoca;
+  Mas no, que amor humano me provoca;
 
 
 
@@ -5855,21 +5846,21 @@ y cuando Roque sea el peregrino,
 
 
 
-en no amar a don Pedro ser� roca.
+en no amar a don Pedro seré roca.
 1300
 
-
+ 
 
 Salen DON LUIS y CARRASCO, de villanos.
 
-
+ 
 
 CARRASCO.
-  No ha sido malo el v�aje...
+  No ha sido malo el vïaje...
 
 
 
-M�s loco eres que un poeta:
+Más loco eres que un poeta:
 
 
 
@@ -5881,15 +5872,15 @@ hemos de mudar de traje.
 
 
 DON LUIS.
-  Quiero hablar mi bien ans�.
+  Quiero hablar mi bien ansí.
 1305
 
 CARRASCO.
-�Qui�n es tu bien?
+¿Quién es tu bien?
 
 
 DON LUIS.
-              Mi �ngel es.
+              Mi ángel es.
 
 
 CARRASCO.
@@ -5897,35 +5888,35 @@ Patudo, pues tiene pies.
 
 
 DON LUIS.
-Calla, necio, que est� aqu�.
+Calla, necio, que está aquí.
 
 
-ANG�LICA.
-  �Qu� es esto? �Qu� gente es �sta?
+ANGÉLICA.
+  ¿Qué es esto? ¿Qué gente es ésta?
 
 
 
-Hola: �c�mo aqu� os entr�is
+Hola: ¿cómo aquí os entráis
 1310
 
 
-sin llamar? �A qui�n busc�is?
+sin llamar? ¿A quién buscáis?
 
 
 CARRASCO.
-T� puedes dar la respuesta:
+Tú puedes dar la respuesta:
 
 
 
-  ll�gate, que vive Dios
+  llégate, que vive Dios
 
 
 
 que diga que eres don Luis.
 
 
-ANG�LICA.
-Decid a lo que ven�s.
+ANGÉLICA.
+Decid a lo que venís.
 1315
 
 DON LUIS.
@@ -5933,7 +5924,7 @@ Hemos sabido los dos
 
 
 
-  que ha menester su merc�
+  que ha menester su mercé
 
 
 
@@ -5945,15 +5936,15 @@ Aunque fuera hechizo,
 
 
 
-no le hallar� m�s rollizo
+no le hallará más rollizo
 
 
 
-que es el bueno de Tom�.
+que es el bueno de Tomé.
 1320
 
-ANG�LICA.
-  Ven�s muy mal informado,
+ANGÉLICA.
+  Venís muy mal informado,
 
 
 
@@ -5969,23 +5960,23 @@ DON LUIS.
 
 
 
-un romero me ha enga�ado.
+un romero me ha engañado.
 
 
-ANG�LICA.
-  �C�mo romero? Escuchad:
+ANGÉLICA.
+  ¿Cómo romero? Escuchad:
 1325
 
 
-�qu� romero?
+¿qué romero?
 
 
 DON LUIS.
-           Un peregrino
+           Un peregrino
 
 
 
-top� anoche en el camino
+topé anoche en el camino
 
 
 
@@ -5993,15 +5984,15 @@ y dijo: al pueblo llegad,
 
 
 
-  y en casa de una aldeana,
+  y en casa de una aldeana,
 
 
 
-Ang�lica en rostro y nombre,
+Angélica en rostro y nombre,
 1330
 
 
-que es hija del m�s rico hombre
+que es hija del más rico hombre
 
 
 
@@ -6009,23 +6000,23 @@ que hay en esta Sagra llana,
 
 
 
-  decid que en casa os admita
+  decid que en casa os admita
 
 
 
-por criado, en galard�n
+por criado, en galardón
 
 
 
-de libralla de un ladr�n
+de libralla de un ladrón
 1335
 
 
-que la rob� de una ermita.
+que la robó de una ermita.
 
 
-ANG�LICA.
-  Pues de casa sabe tanto
+ANGÉLICA.
+  Pues de casa sabe tanto
 
 
 
@@ -6036,67 +6027,67 @@ el peregrino que ayuda
 me dio, es San Roque sin duda.
 
 
-CARRASCO.  Aparte.
-  (Ya te tienen por un santo.)
+CARRASCO.  Aparte.
+  (Ya te tienen por un santo.)
 1340
 
-ANG�LICA.
-�Y acaso conoc�is vos
+ANGÉLICA.
+¿Y acaso conocéis vos
 
 
 
-al peregrino? Dec�.
-
-
-DON LUIS.
-Con�zcole como a m�.
-
-
-ANG�LICA.
-�Conoc�isle?
+al peregrino? Decí.
 
 
 DON LUIS.
-           S�, por Dios.
+Conózcole como a mí.
 
 
-ANG�LICA.
-�De d�nde sois?
+ANGÉLICA.
+¿Conocéisle?
 
 
 DON LUIS.
-             Soy gallego.
+           Sí, por Dios.
+
+
+ANGÉLICA.
+¿De dónde sois?
+
+
+DON LUIS.
+             Soy gallego.
 1345
 
 CARRASCO.
-Y yo, hablando con perd�n.
+Y yo, hablando con perdón.
 
 
-ANG�LICA.
-Por cierto, buena naci�n.
+ANGÉLICA.
+Por cierto, buena nación.
 
 
 DON LUIS.
-Jam�s yo mi patria niego.
+Jamás yo mi patria niego.
 
 
 
-  Galicia es mi natural.
+  Galicia es mi natural.
 
 
-ANG�LICA.
+ANGÉLICA.
 Pues no es poca maravilla;
 1350
 
 
-que el gallego ac� en Castilla
+que el gallego acá en Castilla
 
 
 
 dice que es de Portugal.
 
 
-  �En qu� oficio nos sabr�is
+  ¿En qué oficio nos sabréis
 
 
 
@@ -6104,22 +6095,22 @@ servir?
 
 
 DON LUIS.
-      En cuantos quer�is.
+      En cuantos queráis.
 
 
-ANG�LICA.
-Mirad a qu� os oblig�is.
+ANGÉLICA.
+Mirad a qué os obligáis.
 1355
 
 
-�Cumpl�s como promet�is?
+¿Cumplís como prometéis?
 
 
 DON LUIS.
 Y aun mejor.
 
 
-ANG�LICA.
+ANGÉLICA.
           Hay muchas leguas
 
 
@@ -6128,7 +6119,7 @@ del cumplir al prometer.
 
 
 
-�Qu� oficio sabr�is hacer
+¿Qué oficio sabréis hacer
 
 
 
@@ -6136,15 +6127,15 @@ mejor?
 
 
 DON LUIS.
-      Sabr� guardar yeguas.
+      Sabré guardar yeguas.
 1360
 
-ANG�LICA.
-�Criar�islas bien?
+ANGÉLICA.
+¿Criaréislas bien?
 
 
 DON LUIS.
-              S�, por Dios:
+              Sí, por Dios:
 
 
 
@@ -6159,8 +6150,8 @@ Tuvo una yegua en Galicia
 casi casi como vos.
 
 
-ANG�LICA.
-  �Qu� buena comparaci�n!
+ANGÉLICA.
+  ¡Qué buena comparación!
 1365
 
 CARRASCO.
@@ -6172,68 +6163,68 @@ Y cuando hurtada se lleva
 
 
 
-alguna yegua el ladr�n,
+alguna yegua el ladrón,
 
 
 
-  s� yo salirle al camino,
+  sé yo salirle al camino,
 
 
 
-y despu�s de zamarrealle
+y después de zamarrealle
 1370
 
 
 la yegua vengo a quitalle.
 
 
-ANG�LICA.
-Ans� lo hizo el peregrino.
+ANGÉLICA.
+Ansí lo hizo el peregrino.
 
 
 
-  Mi padre vendr� y har�
+  Mi padre vendrá y haré
 
 
 
-que en casa sirv�is de mozo.
+que en casa sirváis de mozo.
 
 
 DON LUIS.
-El cielo la d� un buen gozo.
+El cielo la dé un buen gozo.
 1375
 
-ANG�LICA.  Aparte.
-  (�Qu� buen talle de Tom�!)
+ANGÉLICA.  Aparte.
+  (¡Qué buen talle de Tomé!)
 
+ 
 
+Sale DOÑA INÉS, de paje.
 
-Sale DO�A IN�S, de paje.
+ 
 
-
-
-DO�A IN�S.
-  El se�or Fulgencio �vive
+DOÑA INÉS.
+  El señor Fulgencio ¿vive
 
 
 
 en esta casa?
 
 
-ANG�LICA.
-          S�, amigo.
+ANGÉLICA.
+          Sí, amigo.
 
 
-DO�A IN�S.
-�Est� en ella?
+DOÑA INÉS.
+¿Está en ella?
 
 
-ANG�LICA.
+ANGÉLICA.
            No.
 
 
-DO�A IN�S.  Aparte.
-               (Ya digo
+DOÑA INÉS.  Aparte.
+               (Ya digo
 
 
 
@@ -6241,7 +6232,7 @@ que no me espanto que prive
 1380
 
 
-  de libertad a mi hermano
+  de libertad a mi hermano
 
 
 
@@ -6257,30 +6248,30 @@ de aqueste traje aldeano
 
 
 
-  abrasa los mismos yelos.
+  abrasa los mismos yelos.
 1385
 
 
-No s� si hablalla podr�;
+No sé si hablalla podré;
 
 
 
-que despu�s que la mir�
+que después que la miré
 
 
 
 me abrasa el alma de celos.)
 
 
-ANG�LICA.
-  �Qu� es lo que don Pedro quiere
+ANGÉLICA.
+  ¿Qué es lo que don Pedro quiere
 
 
 
 a mi padre?
 
 
-DO�A IN�S.
+DOÑA INÉS.
          Una respuesta
 1390
 
@@ -6288,8 +6279,8 @@ DO�A IN�S.
 me ha de dar.
 
 
-ANG�LICA.
-           Ser� molesta
+ANGÉLICA.
+           Será molesta
 
 
 
@@ -6297,7 +6288,7 @@ si la que yo le di, diere.
 
 
 
-  Decid, aunque amor le fuerza,
+  Decid, aunque amor le fuerza,
 
 
 
@@ -6313,35 +6304,35 @@ a quien me quiso hacer fuerza.
 
 
 DON LUIS.
-  �Luego es quien del peregrino
+  ¿Luego es quien del peregrino
 
 
 
-huy� anoche, y otros tres
+huyó anoche, y otros tres
 
 
 
 se les fueron por los pies?
 
 
-ANG�LICA.
+ANGÉLICA.
 El mismo.
 
 
 CARRASCO.
-        �Gentil pollino!
+        ¡Gentil pollino!
 1400
 
 DON LUIS.
-  �Qu� mal le sali� el partido!
+  ¡Qué mal le salió el partido!
 
 
 
-A fe que se qued� feo.
+A fe que se quedó feo.
 
 
 CARRASCO.
-M�s vale para correo
+Más vale para correo
 
 
 
@@ -6349,7 +6340,7 @@ que para vueso marido
 
 
 
-  hombre que m�s de una legua
+  hombre que más de una legua
 1405
 
 
@@ -6361,11 +6352,11 @@ A pie se puede quedar
 
 
 
-quien guard� tan mal la yegua.
+quien guardó tan mal la yegua.
 
 
-DO�A IN�S.
-  �Qui�n le mete al muy villano
+DOÑA INÉS.
+  ¿Quién le mete al muy villano
 
 
 
@@ -6377,22 +6368,22 @@ a un hidalgo?
 
 
 CARRASCO.
-          �Paje, paje!
+          ¡Paje, paje!
 
 
-DO�A IN�S.  Aparte.
+DOÑA INÉS.  Aparte.
 (Ni Carrasco, ni mi hermano
 
 
-  han conocido el disfraz
+  han conocido el disfraz
 
 
 
-con que su hermana est� aqu�.)
+con que su hermana está aquí.)
 
 
 DON LUIS.
-Hermano paje, dec�
+Hermano paje, decí
 1415
 
 
@@ -6400,7 +6391,7 @@ a vuestro amo que si en paz
 
 
 
-  quiere vivir, que no toque
+  quiere vivir, que no toque
 
 
 
@@ -6408,15 +6399,15 @@ a este umbral, pues fue cobarde;
 
 
 
-que en �l, para que le guarde,
+que en él, para que le guarde,
 
 
 
-dej� su mast�n San Roque.
+dejó su mastín San Roque.
 1420
 
 
-  Que aqu� su pretensi�n es
+  Que aquí su pretensión es
 
 
 
@@ -6431,12 +6422,12 @@ y que no pida la mano
 quien sabe tanto de pies.
 
 
-ANG�LICA.
-  �Oh qu� discreto Tom�!
+ANGÉLICA.
+  ¡Oh qué discreto Tomé!
 1425
 
 
-Gracia extra�a manifiesta.
+Gracia extraña manifiesta.
 
 
 
@@ -6444,23 +6435,23 @@ Solamente esta respuesta
 
 
 
-es bien que a don Pedro d�.
+es bien que a don Pedro dé.
 
 
-DO�A IN�S.
-  �Que quieres en crueldad
+DOÑA INÉS.
+  ¿Que quieres en crueldad
 
 
 
 y en belleza aventajarte?
 1430
 
-ANG�LICA.
+ANGÉLICA.
 Decilde esto.
 
 
 DON LUIS.
-          Oiga aqu� a parte.
+          Oiga aquí a parte.
 
 
 
@@ -6468,7 +6459,7 @@ Quiero hablalla en puridad;
 
 
 
-  que tengo que hacer un poco,
+  que tengo que hacer un poco,
 
 
 
@@ -6484,7 +6475,7 @@ a quien en mi ayuda invoco.
 
 
 
-  Mand�me pues el que fue
+  Mandóme pues el que fue
 
 
 
@@ -6496,47 +6487,47 @@ contra el necio pretensor
 
 
 
-esto, y me dijo: Tom�,
+esto, y me dijo: Tomé,
 1440
 
 
-  tomad aqueste papel
+  tomad aqueste papel
 
 
 
-y d�dsele al aldeana
+y dádsele al aldeana
 
 
 
-que os recebir� ma�ana;
+que os recebirá mañana;
 
 
 
-que mucho sabr� por �l.
+que mucho sabrá por él.
 
 
 
-  Si le quiere no se escapa
+  Si le quiere no se escapa
 1445
 
 
-de ser dichosa: h�le aqu�.
+de ser dichosa: héle aquí.
 
 
-ANG�LICA.
-�Papel os dio para m�?
+ANGÉLICA.
+¿Papel os dio para mí?
 
 
 DON LUIS.
-Mas pens� que para el Papa.
+Mas pensé que para el Papa.
 
 
-ANG�LICA.
-  Mil pensamientos me dan.
+ANGÉLICA.
+  Mil pensamientos me dan.
 
 
 
-No s� lo que pueda ser.
+No sé lo que pueda ser.
 1450
 
 
@@ -6548,19 +6539,19 @@ Ea, acabe.
 
 
 CARRASCO.
-        En fin, gal�n
+        En fin, galán
 
 
 
-  �que andaluz dice que es?
+  ¿que andaluz dice que es?
 
 
-DO�A IN�S.
+DOÑA INÉS.
 Andaluz soy.
 
 
 CARRASCO.
-          �Buena pieza!
+          ¡Buena pieza!
 
 
 
@@ -6568,11 +6559,11 @@ Ap.  (Parece que la cabeza
 1455
 
 
-le han cortado a do�a In�s,
+le han cortado a doña Inés,
 
 
 
-  puesto que el alma respete
+  puesto que el alma respete
 
 
 
@@ -6580,23 +6571,23 @@ su retrato y su dibujo.)
 
 
 
-Diga, amigo, �qui�n le trujo
+Diga, amigo, ¿quién le trujo
 
 
 
-a que sirva de alcag�ete?
+a que sirva de alcagüete?
 1460
 
 
-  Honre bien a su naci�n.
+  Honre bien a su nación.
 
 
-DO�A IN�S.
-Y �l, p�paro, �qui�n le mete
+DOÑA INÉS.
+Y él, páparo, ¿quién le mete
 
 
 
-en si yo soy alcag�ete
+en si yo soy alcagüete
 
 
 
@@ -6604,47 +6595,47 @@ o no?
 
 
 CARRASCO.
-     Parece cap�n
+     Parece capón
 
 
 
-  en el tiple, gentilhombre,
+  en el tiple, gentilhombre,
 1465
 
 
-�es medio entre hembra y macho?
+¿es medio entre hembra y macho?
 
 
-DO�A IN�S.
-Soy m�s hombre que �l, borracho.
+DOÑA INÉS.
+Soy más hombre que él, borracho.
 
 
 CARRASCO.
-Por Dios, que prob� ser hombre.
+Por Dios, que probó ser hombre.
 
 
-DO�A IN�S.
-  Hombre soy que un rostro cruza
+DOÑA INÉS.
+  Hombre soy que un rostro cruza
 
 
 
 si me enojo...
 
 
-ANG�LICA.
-           No he de velle.
+ANGÉLICA.
+           No he de velle.
 1470
 
 DON LUIS.
-�Hay son volver a metelle
+¿Hay son volver a metelle
 
 
 
 dentro de la caperuza?
 
 
-ANG�LICA.
-  Ahora bien, mostralde ac�,
+ANGÉLICA.
+  Ahora bien, mostralde acá,
 
 
 
@@ -6656,23 +6647,23 @@ se os pierda y alguno le halle.
 1475
 
 
-Quemar�le.
+Quemaréle.
 
 
 DON LUIS.
-         A m� podr�.
+         A mí podrá.
 
 
 
-Mas �por qu� lo heis de quemar?
+Mas ¿por qué lo heis de quemar?
 
 
 
-�es hereje o es jud�o?
+¿es hereje o es judío?
 
 
-ANG�LICA.
-Es hechizo, es desvar�o
+ANGÉLICA.
+Es hechizo, es desvarío
 
 
 
@@ -6680,11 +6671,11 @@ que me hace desvariar.
 1480
 
 DON LUIS.
-  Es de un santo.
+  Es de un santo.
 
 
-ANG�LICA.
-             Y a�n por eso:
+ANGÉLICA.
+             Y aún por eso:
 
 
 
@@ -6700,17 +6691,17 @@ suelen quemarse, y con beso.
 
 
 DON LUIS.
-  Con beso, pues.
+  Con beso, pues.
 
 
+ 
 
+Besa TOMÉ el papel y dale a ANGÉLICA.
 
-Besa TOM� el papel y dale a ANG�LICA.
+ 
 
-
-
-ANG�LICA.
-               Cortesano
+ANGÉLICA.
+               Cortesano
 1485
 
 
@@ -6718,7 +6709,7 @@ sois.
 
 
 DON LUIS.
-    Mi madre me ense��
+    Mi madre me enseñó
 
 
 
@@ -6726,21 +6717,21 @@ que cuando diera algo yo,
 
 
 
-besase tambi�n la mano.
+besase también la mano.
+
+
+ 
+
+Bésala la mano.
+
+ 
+
+ANGÉLICA.
+  Ahora bien, andad con Dios,
 
 
 
-
-B�sala la mano.
-
-
-
-ANG�LICA.
-  Ahora bien, andad con Dios,
-
-
-
-que yo har� porque os reciba
+que yo haré porque os reciba
 1490
 
 
@@ -6748,7 +6739,7 @@ mi padre en casa.
 
 
 CARRASCO.
-              Ans� viva,
+              Ansí viva,
 
 
 
@@ -6756,33 +6747,33 @@ que nos reciba a los dos:
 
 
 
-  que sin Tom� no me hallo.
+  que sin Tomé no me hallo.
 
 
-ANG�LICA.
-Pues yo lo procurar�,
+ANGÉLICA.
+Pues yo lo procuraré,
 
 
 
-porque sirv�is con Tom�.
+porque sirváis con Tomé.
 1495
 
 CARRASCO.
-S� almohazar un caballo.
+Sé almohazar un caballo.
 
 
-
+ 
 
 Vanse los dos.
 
+ 
+
+ANGÉLICA.
+  ¿Aún os estáis vos aquí?
 
 
-ANG�LICA.
-  �A�n os est�is vos aqu�?
-
-
-DO�A IN�S.
-No sin ocasi�n espero:
+DOÑA INÉS.
+No sin ocasión espero:
 
 
 
@@ -6790,15 +6781,15 @@ escucha lo que te quiero
 
 
 
-decir, Ang�lica.
+decir, Angélica.
 
 
-ANG�LICA.
-             Di.
+ANGÉLICA.
+             Di.
 1500
 
-DO�A IN�S.
-  No me trajo aqu� don Pedro,
+DOÑA INÉS.
+  No me trajo aquí don Pedro,
 
 
 
@@ -6814,7 +6805,7 @@ que te abrases en sus llamas.
 
 
 
-Mis desdichas me han tra�do,
+Mis desdichas me han traído,
 1505
 
 
@@ -6830,7 +6821,7 @@ han sido la triste causa.
 
 
 
-Sabr�s, aldeana hermosa,
+Sabrás, aldeana hermosa,
 
 
 
@@ -6850,27 +6841,27 @@ En Valladolid la rica
 
 
 
-nac�, y en brazos del alma
+nací, y en brazos del alma
 
 
 
-mam� desdichas por leche:
+mamé desdichas por leche:
 1515
 
 
-�qu� mucho tenga desgracias?
+¿qué mucho tenga desgracias?
 
 
 
-Falt�me el padre y la madre
+Faltóme el padre y la madre
 
 
 
-en mi ni�ez, y esta falta
+en mi niñez, y esta falta
 
 
 
-fue ocasi�n de muchas sobras
+fue ocasión de muchas sobras
 
 
 
@@ -6878,7 +6869,7 @@ de mi juventud liviana.
 1520
 
 
-Mud�se la corte insigne
+Mudóse la corte insigne
 
 
 
@@ -6894,15 +6885,15 @@ que sus grandezas le bastan:
 
 
 
-all� conoc� a don Pedro,
+allí conocí a don Pedro,
 1525
 
 
-�se que quema en tus aras
+ése que quema en tus aras
 
 
 
-su coraz�n por aromas,
+su corazón por aromas,
 
 
 
@@ -6914,27 +6905,27 @@ Viome una vez en San Pedro
 
 
 
-(�ay Dios, si entonces cegara!)
+(¡ay Dios, si entonces cegara!)
 1530
 
 
-y seg�n entonces dijo
+y según entonces dijo
 
 
 
-con mal de ojo volvi� a casa.
+con mal de ojo volvió a casa.
 
 
 
-Sirvi�, rond�, pase�,
+Sirvió, rondó, paseó,
 
 
 
-llor�, suspir� y dio trazas,
+lloró, suspiró y dio trazas,
 
 
 
-y persever�; que en fin
+y perseveró; que en fin
 1535
 
 
@@ -6942,19 +6933,19 @@ vence la perseverancia.
 
 
 
-Admit� una escura noche,
+Admití una escura noche,
 
 
 
-con que escurec� mi fama,
+con que escurecí mi fama,
 
 
 
-una escala en mi balc�n:
+una escala en mi balcón:
 
 
 
-�ay de quien su honor escala!
+¡ay de quien su honor escala!
 1540
 
 
@@ -6962,7 +6953,7 @@ Palabra me dio de esposo:
 
 
 
-mas olvid� la palabra,
+mas olvidó la palabra,
 
 
 
@@ -6978,23 +6969,23 @@ Pues como lo que se estima,
 1545
 
 
-despu�s de adquirido enfada,
+después de adquirido enfada,
 
 
 
-enfad�se poco a poco,
+enfadóse poco a poco,
 
 
 
-y apag�ronse sus llamas.
+y apagáronse sus llamas.
 
 
 
-Sali� con una encomienda,
+Salió con una encomienda,
 
 
 
-que es se�al de no haber mancha
+que es señal de no haber mancha
 1550
 
 
@@ -7002,11 +6993,11 @@ en su sangre noble y limpia,
 
 
 
-aunque la sac� en su fama.
+aunque la sacó en su fama.
 
 
 
-Volvi�se a Madrid la corte;
+Volvióse a Madrid la corte;
 
 
 
@@ -7014,7 +7005,7 @@ supe que en Toledo estaba
 
 
 
-mi desde�oso don Pedro
+mi desdeñoso don Pedro
 1555
 
 
@@ -7022,7 +7013,7 @@ en negocios de importancia.
 
 
 
-Segu�le en aqueste traje
+Seguíle en aqueste traje
 
 
 
@@ -7030,7 +7021,7 @@ encubierta y disfrazada,
 
 
 
-como alguacil al ladr�n
+como alguacil al ladrón
 
 
 
@@ -7038,15 +7029,15 @@ que lleva la joya hurtada.
 1560
 
 
-Entr�, sin que conociese
+Entré, sin que conociese
 
 
 
-ser yo aquella do�a Juana
+ser yo aquella doña Juana
 
 
 
-que enga�� en Valladolid,
+que engañó en Valladolid,
 
 
 
@@ -7070,7 +7061,7 @@ los lazos de su esperanza.
 
 
 
-�Gu�rdate, Ang�lica bella,
+¡Guárdate, Angélica bella,
 
 
 
@@ -7082,19 +7073,19 @@ en cordero disfrazado,
 
 
 
-con mil enga�os halaga!
+con mil engaños halaga!
 
 
 
-Ya s� que robarte quiso,
+Ya sé que robarte quiso,
 
 
 
-�dichosa t�, que tal guarda
+¡dichosa tú, que tal guarda
 
 
 
-te dio el cielo! �triste yo,
+te dio el cielo! ¡triste yo,
 1575
 
 
@@ -7126,11 +7117,11 @@ que el cielo las puertas abra
 
 
 
-de mi ventura, que est�n
+de mi ventura, que están
 
 
 
-tantos a�os ha, cerradas;
+tantos años ha, cerradas;
 
 
 
@@ -7150,7 +7141,7 @@ con su ausencia, y se me vaya.
 
 
 
-Con �l pretende casarte
+Con él pretende casarte
 
 
 
@@ -7166,7 +7157,7 @@ ve alargando su esperanza,
 
 
 
-que yo trazar� de suerte,
+que yo trazaré de suerte,
 
 
 
@@ -7178,23 +7169,23 @@ que presto estemos las dos
 1595
 
 
-t� contenta y yo pagada.
+tú contenta y yo pagada.
 
 
-ANG�LICA.
+ANGÉLICA.
 Tu desgraciado suceso,
 
 
 
-noble y bella do�a Juana,
+noble y bella doña Juana,
 
 
 
-me ha causado compasi�n:
+me ha causado compasión:
 
 
 
-disp�nlo t�, ordena y traza.
+dispónlo tú, ordena y traza.
 1600
 
 
@@ -7210,7 +7201,7 @@ de tus suspiros injustos,
 
 
 
-me habr� de llegar al alma,
+me habrá de llegar al alma,
 
 
 
@@ -7218,27 +7209,27 @@ porque siento tu desdicha,
 1605
 
 
-por ella har� lo que mandas,
+por ella haré lo que mandas,
 
 
 
 entreteniendo a mi padre.
 
 
-DO�A IN�S.
+DOÑA INÉS.
 Dame esas manos.
 
 
-ANG�LICA.
-               Levanta.
+ANGÉLICA.
+               Levanta.
 
 
-DO�A IN�S.
+DOÑA INÉS.
 (Buena mentirosa soy.
 
 
 Aparte.
-Con mi fingida mara�a
+Con mi fingida maraña
 1610
 
 
@@ -7270,28 +7261,28 @@ Y pues a mi hermano veo
 
 
 
-cada d�a, es buena traza
+cada día, es buena traza
 
 
 
 que el casamiento entretenga.)
 
 
-
+ 
 
 Sale FELICIANO.
 
-
+ 
 
 FELICIANO.
-�Ans� remedia la infamia
+¿Ansí remedia la infamia
 1620
 
 
 don Pedro de su vil robo?
 
 
-DO�A IN�S.
+DOÑA INÉS.
 Hasme cautivado el alma.
 
 
@@ -7300,11 +7291,11 @@ Dame esos brazos.
 
 
 FELICIANO.
-              (�Qu� es esto?
+              (¿Qué es esto?
 
 
 Aparte.
-�Cautivo el paje se llama
+¡Cautivo el paje se llama
 
 
 
@@ -7312,7 +7303,7 @@ y a mi prima da los brazos!
 1625
 
 
-�Ah vil paje! �Ah mujer falsa!
+¡Ah vil paje! ¡Ah mujer falsa!
 
 
 
@@ -7323,16 +7314,16 @@ Escondido quiero ver
 de aquesta amistad la causa.)
 
 
-ANG�LICA.
-Don Pedro ser� tu esposo:
+ANGÉLICA.
+Don Pedro será tu esposo:
 
 
 
-que no es raz�n do�a Juana
+que no es razón doña Juana
 1630
 
 
-que siendo t� hermosa y noble,
+que siendo tú hermosa y noble,
 
 
 
@@ -7351,7 +7342,7 @@ por una tosca villana;
 mas tiene estragado el gusto.
 1635
 
-DO�A IN�S.
+DOÑA INÉS.
 Merece tu hermosa cara
 
 
@@ -7359,8 +7350,8 @@ Merece tu hermosa cara
 rendir...
 
 
-ANG�LICA.
-      Bueno est�, se�ora.
+ANGÉLICA.
+      Bueno está, señora.
 
 
 FELICIANO.
@@ -7368,7 +7359,7 @@ Por Dios, que es el paje dama.
 
 
 
-�Qui�n puede ser, que es hermosa?
+¿Quién puede ser, que es hermosa?
 
 
 
@@ -7383,15 +7374,15 @@ por las puertas de los ojos,
 nunca para amor cerradas.
 
 
-ANG�LICA.
-Adi�s, y mira que queda
+ANGÉLICA.
+Adiós, y mira que queda
 
 
 
 nuestra amistad entablada.
 
 
-DO�A IN�S.
+DOÑA INÉS.
 Aqueste guante me llevo
 1645
 
@@ -7400,11 +7391,11 @@ para un pobre que demanda
 
 
 
-limosna de alg�n favor.
+limosna de algún favor.
 
 
-ANG�LICA.
-No le hay para �l en mi casa:
+ANGÉLICA.
+No le hay para él en mi casa:
 
 
 
@@ -7412,11 +7403,11 @@ dile que Dios le provea
 
 
 
-y que t� le dar�s harta.
+y que tú le darás harta.
 1650
 
-DO�A IN�S.
-Adi�s, que me parto a velle.
+DOÑA INÉS.
+Adiós, que me parto a velle.
 
 
 FELICIANO.
@@ -7431,18 +7422,18 @@ siga el norte de tus ojos
 tras el cristal de tus plantas.
 
 
-
+ 
 
 Vanse los dos.
 
+ 
 
-
-ANG�LICA.
-  El papel quiero leer
+ANGÉLICA.
+  El papel quiero leer
 1655
 
 
-porque al due�o manifieste.
+porque al dueño manifieste.
 
 
 
@@ -7454,29 +7445,17 @@ que haya escrito a una mujer.
 
 
 Carta.
-  �No me atreviera, Ang�lica  hermosa,  menos  que  con  esta  industria,  a
-manifestar el fuego que me  abrasa  el  alma  desde  la  noche  que  resist�
-abrasarse la ermita  de  San  Roque.  �Dichoso  yo,  pues  en  ella  merec�,
-perdiendo  mi  libertad,  d�rtela  a  costa  del  atrevido  robador  de   tu
-hermosura, tan indigno della! Por serlo yo tambi�n, y porque me  importa  no
-darme a conocer por agora, para conservar la vida que tengo  dedicada  a  tu
-servicio, determino enviarte el disfrazado Tom�, criado m�o y secretario  de
-mi pecho, para que con �l  me  env�es  la  sentencia  de  mi  muerte,  o  la
-esperanza de mi gloria. Noble me hizo el cielo, aunque no rico, si no es  de
-pensamientos. Si �stos y mi voluntad admites,  con  el  encubierto  Tom�  me
-podr�s enviar la certeza de mi vida o muerte; que tanto estimar�  esto,  por
-no ofenderte; como lo otro, para servirte.  Guarde  el  cielo  la  tuya  mil
-a�os.
-Don Luis de Castro.�
+  «No me atreviera, Angélica hermosa, menos que con esta industria, a manifestar el fuego que me abrasa el alma desde la noche que resistí abrasarse la ermita de San Roque. ¡Dichoso yo, pues en ella merecí, perdiendo mi libertad, dártela a costa del atrevido robador de tu hermosura, tan indigno della! Por serlo yo también, y porque me importa no darme a conocer por agora, para conservar la vida que tengo dedicada a tu servicio, determino enviarte el disfrazado Tomé, criado mío y secretario de mi pecho, para que con él me envíes la sentencia de mi muerte, o la esperanza de mi gloria. Noble me hizo el cielo, aunque no rico, si no es de pensamientos. Si éstos y mi voluntad admites, con el encubierto Tomé me podrás enviar la certeza de mi vida o muerte; que tanto estimaré esto, por no ofenderte; como lo otro, para servirte. Guarde el cielo la tuya mil años. 
+Don Luis de Castro.»
 
-
+ 
 
 Sale FULGENCIO.
 
+ 
 
-
-ANG�LICA.
-  Mi padre es �ste; yo har�,
+ANGÉLICA.
+  Mi padre es éste; yo haré,
 
 
 
@@ -7484,23 +7463,23 @@ encubriendo lo que pasa,
 1660
 
 
-que reciba a Tom� en casa,
+que reciba a Tomé en casa,
 
 
 
-por ser de quien es Tom�.
+por ser de quien es Tomé.
 
 
 FULGENCIO.
-  Hija, la palabra he dado
+  Hija, la palabra he dado
 
 
 
-a don Pedro que ser�s
+a don Pedro que serás
 
 
 
-su esposa: no gustar�s
+su esposa: no gustarás
 1665
 
 
@@ -7508,7 +7487,7 @@ que la quiebre un hombre honrado.
 
 
 
-  Procura que se celebre
+  Procura que se celebre
 
 
 
@@ -7516,7 +7495,7 @@ tu boda: porque primero
 
 
 
-ver�s de cera el acero,
+verás de cera el acero,
 
 
 
@@ -7524,14 +7503,14 @@ que mi palabra se quiebre.
 1670
 
 
-  �l tiene de ser tu esposo
+  Él tiene de ser tu esposo
 
 
 
 de fuerza o de voluntad.
 
 
-ANG�LICA.
+ANGÉLICA.
 A tanta riguridad
 
 
@@ -7540,7 +7519,7 @@ obedecer es forzoso.
 
 
 
-  Darte gusto determino,
+  Darte gusto determino,
 1675
 
 
@@ -7556,11 +7535,11 @@ que es en amor peregrino.
 
 
 
-  Pero, pues con amor tierno
+  Pero, pues con amor tierno
 
 
 
-m�s venturas acomodas,
+más venturas acomodas,
 1680
 
 
@@ -7572,7 +7551,7 @@ Voylo a decir a mi yerno
 
 
 
-  que ya mis consejos sabios
+  que ya mis consejos sabios
 
 
 
@@ -7580,7 +7559,7 @@ rindieron tu natural:
 
 
 
-impr�mase en tu coral
+imprímase en tu coral
 1685
 
 
@@ -7588,10 +7567,10 @@ el acero de mis labios.
 
 
 
-  B�culo eres de mis gozos.
+  Báculo eres de mis gozos.
 
 
-ANG�LICA.
+ANGÉLICA.
 En pago del que te doy,
 
 
@@ -7604,7 +7583,7 @@ se recibieran dos mozos.
 1690
 
 
-  Dicen que en cualquier oficio
+  Dicen que en cualquier oficio
 
 
 
@@ -7620,11 +7599,11 @@ que como propia codicio,
 
 
 
-  gustara que aquesto hicieras.
+  gustara que aquesto hicieras.
 1695
 
 FULGENCIO.
-Aquesto, Ang�lica, es justo;
+Aquesto, Angélica, es justo;
 
 
 
@@ -7632,11 +7611,11 @@ que pues que cumples mi gusto,
 
 
 
-cumplir� cuanto t� quieras.
+cumpliré cuanto tú quieras.
 
 
 
-  Un mozo desped�, malo
+  Un mozo despedí, malo
 
 
 
@@ -7652,35 +7631,35 @@ que son todo mi regalo.
 
 
 
-  Si ellos las saben guardar,
+  Si ellos las saben guardar,
 
 
 
-para reparar su da�o,
+para reparar su daño,
 
 
 
-rec�belos por un a�o.
+recíbelos por un año.
 1705
 
-ANG�LICA.
+ANGÉLICA.
 El uno en particular
 
 
 
-  es para todo; que en �l
+  es para todo; que en él
 
 
 
-hay discreci�n.
+hay discreción.
 
 
 FULGENCIO.
-            Bien est�.
+            Bien está.
 
 
-ANG�LICA.
-Gallegos son: diz que all�
+ANGÉLICA.
+Gallegos son: diz que allá
 
 
 
@@ -7688,11 +7667,11 @@ hay abundancia de miel.
 1710
 
 
-  Bien lo har�n.
+  Bien lo harán.
 
 
 FULGENCIO.
-            Pues t� codicias
+            Pues tú codicias
 
 
 
@@ -7707,14 +7686,14 @@ A don Pedro alegre voy
 a pedirle las albricias.
 
 
-
+ 
 
 Vase.
 
+ 
 
-
-ANG�LICA.
-  �Que mal tu gusto acomodas!
+ANGÉLICA.
+  ¡Que mal tu gusto acomodas!
 1715
 
 
@@ -7730,7 +7709,7 @@ en vez de galas y bodas;
 
 
 
-  que de un peregrino extra�o
+  que de un peregrino extraño
 
 
 
@@ -7742,17 +7721,17 @@ porque el peregrino es oro
 
 
 
-que viene envuelto en el pa�o.
+que viene envuelto en el paño.
 
 
+ 
 
+Vase ANGÉLICA y salen DOÑA INÉS y FELICIANO.
 
-Vase ANG�LICA y salen DO�A IN�S y FELICIANO.
+ 
 
-
-
-DO�A IN�S.
-  Decidme en resoluci�n
+DOÑA INÉS.
+  Decidme en resolución
 
 
 
@@ -7760,7 +7739,7 @@ en lo que serviros puedo,
 
 
 
-y adi�s.
+y adiós.
 
 
 FELICIANO
@@ -7768,19 +7747,19 @@ FELICIANO
 1725
 
 
-a cierta dama afici�n,
+a cierta dama afición,
 
 
 
-  a quien don Pedro ha querido
+  a quien don Pedro ha querido
 
 
 
 no poco.
 
 
-DO�A IN�S.
-       �C�mo! �Otra dama
+DOÑA INÉS.
+       ¡Cómo! ¿Otra dama
 
 
 
@@ -7792,15 +7771,15 @@ FELICIANO
 
 
 
-do�a Juana.
+doña Juana.
 
 
-DO�A IN�S.   Ap.
-          (Aqueste ha o�do
+DOÑA INÉS.   Ap.
+          (Aqueste ha oído
 1730
 
 
-  cuanto a su prima cont�:
+  cuanto a su prima conté:
 
 
 
@@ -7812,23 +7791,23 @@ Estoy, como digo, loco
 
 
 
-por ella. Yo, Guzm�n, s�
+por ella. Yo, Guzmán, sé
 
 
 
-  que est� cada d�a con vos.
+  que está cada día con vos.
 1735
 
 
-�Quer�isla decir que muero
+¿Queréisla decir que muero
 
 
 
 por ella?
 
 
-DO�A IN�S.
-       �Buen majadero
+DOÑA INÉS.
+       ¡Buen majadero
 
 
 
@@ -7840,7 +7819,7 @@ FELICIANO
 
 
 
-  si hac�is que mi mal entienda,
+  si hacéis que mi mal entienda,
 
 
 
@@ -7852,15 +7831,15 @@ a su amor desconocido)
 
 
 
-olvide, que os d� mi hacienda.
+olvide, que os dé mi hacienda.
 
 
-DO�A IN�S.
-  Yo ir� a hablalla en vuestro nombre;
+DOÑA INÉS.
+  Yo iré a hablalla en vuestro nombre;
 
 
 
-mas ya yo s� la respuesta
+mas ya yo sé la respuesta
 
 
 
@@ -7868,10 +7847,10 @@ que os ha de dar.
 
 
 FELICIANO.
-             �Y es?
+             ¿Y es?
 
 
-DO�A IN�S.
+DOÑA INÉS.
                    Aquesta:
 1745
 
@@ -7880,27 +7859,27 @@ ella ha de decir... que es hombre,
 
 
 
-  como muestras dello dan
+  como muestras dello dan
 
 
 
-en Toledo m�s de algunas
+en Toledo más de algunas
 
 
 
-que est�n meciendo en las cunas
+que están meciendo en las cunas
 
 
 
-mu�equitos de Guzm�n,
+muñequitos de Guzmán,
 1750
 
 
-  y que si con vuestra prima
+  y que si con vuestra prima
 
 
 
-habl�, y os hizo creer
+habló, y os hizo creer
 
 
 
@@ -7912,11 +7891,11 @@ no entendistes bien la enigma.
 
 
 
-  Que sirvi� en Valladolid
+  Que sirvió en Valladolid
 1755
 
 
-a do�a Juana de paje,
+a doña Juana de paje,
 
 
 
@@ -7924,27 +7903,27 @@ la cual, viendo que a su ultraje
 
 
 
-don Pedro volvi� a Madrid
+don Pedro volvió a Madrid
 
 
 
-  y agora estaba en Toledo,
+  y agora estaba en Toledo,
 
 
 
-la envi� para saber
+la envió para saber
 1760
 
 
-si ten�a otra mujer.
+si tenía otra mujer.
 
 
 
-En fin, que fingi� este enredo
+En fin, que fingió este enredo
 
 
 
-  por estorbar deste modo
+  por estorbar deste modo
 
 
 
@@ -7952,7 +7931,7 @@ que no le diese la mano
 
 
 
-Ang�lica a su tirano.
+Angélica a su tirano.
 1765
 
 
@@ -7960,31 +7939,31 @@ Esto resulta de todo
 
 
 
-  y la respuesta que env�a
+  y la respuesta que envía
 
 
 
-la dama a quien pretend�is;
+la dama a quien pretendéis;
 
 
 
-ved si el fuego que ten�is
+ved si el fuego que tenéis
 
 
 
-con esta verdad se enfr�a.
+con esta verdad se enfría.
 1770
 
 FELICIANO.
-  �Que no sois mujer, por Dios?
+  ¿Que no sois mujer, por Dios?
 
 
-DO�A IN�S.
-�Aqueso hab�is de dudar?
+DOÑA INÉS.
+¿Aqueso habéis de dudar?
 
 
 
-Si lo fuera, �hab�a de andar
+Si lo fuera, ¿había de andar
 
 
 
@@ -8000,7 +7979,7 @@ FELICIANO.
 1775
 
 
-�por qu� con tales quimeras
+¿por qué con tales quimeras
 
 
 
@@ -8012,7 +7991,7 @@ perturbador del sosiego?
 
 
 
-  Pero en aquesta ocasi�n
+  Pero en aquesta ocasión
 
 
 
@@ -8024,15 +8003,15 @@ pues me tiene enamorado
 
 
 
-mi propia imaginaci�n.
+mi propia imaginación.
 
 
 
-  Peligro corre mi vida:
+  Peligro corre mi vida:
 
 
 
-el quit�rmela es mejor;
+el quitármela es mejor;
 
 
 
@@ -8043,18 +8022,18 @@ que es verdadero mi amor,
 siendo mi dama fingida.
 
 
+ 
+
+Vase a dar con la daga, y tiénele.
+
+ 
+
+DOÑA INÉS.
+  Paso, señor Feliciano:
 
 
-Vase a dar con la daga, y ti�nele.
 
-
-
-DO�A IN�S.
-  Paso, se�or Feliciano:
-
-
-
-�no veis que os desesper�is?
+¿no veis que os desesperáis?
 
 
 
@@ -8066,35 +8045,35 @@ de loco, o de mal cristiano.
 1790
 
 
-  Don Pedro viene; ese da�o
+  Don Pedro viene; ese daño
 
 
 
-se os sanar� poco a poco.
+se os sanará poco a poco.
 
 
 FELICIANO.
-Adi�s, Guzm�n, que voy loco.
+Adiós, Guzmán, que voy loco.
 
 
-
+ 
 
 Vase.
 
+ 
+
+DOÑA INÉS.
+No ha estado malo el engaño.
 
 
-DO�A IN�S.
-No ha estado malo el enga�o.
-
-
-
+ 
 
 Salen FULGENCIO y DON PEDRO.
 
-
+ 
 
 DON PEDRO.
-  Dejad, pondr� los pies en esas plantas,
+  Dejad, pondré los pies en esas plantas,
 1795
 
 
@@ -8102,35 +8081,35 @@ ligeras en los pasos de mi vida.
 
 
 FULGENCIO.
-Lev�ntate, don Pedro, que me espantas.
+Levántate, don Pedro, que me espantas.
 
 
 
-A tu amor est� Ang�lica rendida.
+A tu amor está Angélica rendida.
 
 
 DON PEDRO.
-�Oh viejo venerable! �Oh canas santas!,
+¡Oh viejo venerable! ¡Oh canas santas!,
 
 
 
-jam�s la muerte vuestra plata impida;
+jamás la muerte vuestra plata impida;
 1800
 
 
-que dorar� el Per� de mi riqueza
+que dorará el Perú de mi riqueza
 
 
 
-el blanco Potos� de su cabeza.
+el blanco Potosí de su cabeza.
 
 
 
-  No adornar�n roeles m�s mi escudo,
+  No adornarán roeles más mi escudo,
 
 
 
-ni en mis armas ver�n castillos rojos,
+ni en mis armas verán castillos rojos,
 
 
 
@@ -8154,11 +8133,11 @@ y una letra que diga en siglos largos:
 
 
 
-�No bastan para esto cien mil Argos.�
+«No bastan para esto cien mil Argos.»
 1810
 
 FULGENCIO.
-  Deja encarecimientos a una parte,
+  Deja encarecimientos a una parte,
 
 
 
@@ -8166,19 +8145,19 @@ don Pedro ilustre, pues mi sangre honrada
 
 
 
-para ilustrarse quiere acompa�arse,
+para ilustrarse quiere acompañarse,
 
 
 
-porque en tu sucesi�n quede ilustrada;
+porque en tu sucesión quede ilustrada;
 
 
 
-y mira c�mo y cu�ndo has de casarte.
+y mira cómo y cuándo has de casarte.
 1815
 
 
-Y si agradar a Ang�lica te agrada,
+Y si agradar a Angélica te agrada,
 
 
 
@@ -8186,15 +8165,15 @@ mientras tus cosas miras y acomodas,
 
 
 
-dil�tense alg�n tiempo aquestas bodas.
+dilátense algún tiempo aquestas bodas.
 
 
 DON PEDRO.
-  Aunque con esa dilaci�n me aflijo
+  Aunque con esa dilación me aflijo
 
 
 
-har� en todo tu gusto, mi Fulgencio;
+haré en todo tu gusto, mi Fulgencio;
 1820
 
 
@@ -8222,7 +8201,7 @@ la cruz de grana al pecho, de oro al cuello.
 
 
 
-  Yo me voy a saber en qu� d�a quiere
+  Yo me voy a saber en qué día quiere
 
 
 
@@ -8234,25 +8213,25 @@ mi hija: el esperar no os desespere,
 
 
 
-que yo procurar� que sea temprano.
+que yo procuraré que sea temprano.
 1830
 
-
+ 
 
 Vase.
 
-
+ 
 
 DON PEDRO.
 Si el amante que espera, vive y muere
 
 
 
-que morir� esperando ser� llano,
+que moriré esperando será llano,
 
 
 
-pues ser� cada instante un siglo junto
+pues será cada instante un siglo junto
 
 
 
@@ -8260,15 +8239,15 @@ hasta que llegue de mi dicha el punto.
 
 
 
-  �Guzm�n!
+  ¡Guzmán!
 
 
-DO�A IN�S.
-          Aquel angelote
+DOÑA INÉS.
+          Aquel angelote
 1835
 
 
-que te aborreci� primero,
+que te aborreció primero,
 
 
 
@@ -8280,7 +8259,7 @@ Ginebra es de Lanzarote.
 
 
 
-Dame albricias, y ver�s
+Dame albricias, y verás
 
 
 
@@ -8288,35 +8267,35 @@ el favorazo.
 
 
 DON PEDRO.
-          �Favor?
+          ¿Favor?
 1840
 
-DO�A IN�S.
+DOÑA INÉS.
 Favor de estima y valor.
 
 
 DON PEDRO.
-Guzm�n, burl�ndote est�s.
+Guzmán, burlándote estás.
 
 
 
-  Toma este anillo.
+  Toma este anillo.
 
 
-DO�A IN�S.
-               Este guante
+DOÑA INÉS.
+               Este guante
 
 
 
-te env�a.
+te envía.
 
 
 DON PEDRO.
-      �Oh criado fiel,
+      ¡Oh criado fiel,
 
 
 
-la vida me traes en �l:
+la vida me traes en él:
 1845
 
 
@@ -8324,7 +8303,7 @@ ya soy venturoso amante.
 
 
 
-  �Oh prenda de mi ventura,
+  ¡Oh prenda de mi ventura,
 
 
 
@@ -8340,7 +8319,7 @@ oh gloria de aquel altura!
 1850
 
 
-  �Erario de aquel tesoro
+  ¡Erario de aquel tesoro
 
 
 
@@ -8348,11 +8327,11 @@ que hace rico mi caudal!
 
 
 
-�Oh funda de aquel cristal,
+¡Oh funda de aquel cristal,
 
 
 
-  oh cortina de aquel alba,
+  oh cortina de aquel alba,
 
 
 
@@ -8368,7 +8347,7 @@ a quien hago alegre salva!
 
 
 
-  �Oh d�diva venturosa
+  ¡Oh dádiva venturosa
 
 
 
@@ -8380,19 +8359,19 @@ y para decillo todo,
 1860
 
 
-guante de Ang�lica hermosa!
+guante de Angélica hermosa!
 
 
 
-  �Mi regalo, mi socorro!
+  ¡Mi regalo, mi socorro!
 
 
 
-Besar�te.
+Besaréte.
 
 
-DO�A IN�S.
-       �Lindo amante!
+DOÑA INÉS.
+       ¡Lindo amante!
 
 
 
@@ -8404,10 +8383,10 @@ que, vive Dios, que me corro.
 1865
 
 DON PEDRO.
-  �Por qu� causa, majadero?
+  ¿Por qué causa, majadero?
 
 
-DO�A IN�S.
+DOÑA INÉS.
 Porque con este despacho
 
 
@@ -8420,10 +8399,10 @@ quien te dio favor de cuero.
 
 
 DON PEDRO.
-  Necio, disparates deja.
+  Necio, disparates deja.
 1870
 
-DO�A IN�S.
+DOÑA INÉS.
 Por darte gusto lo dejo;
 
 
@@ -8436,7 +8415,7 @@ y no de carne, es de vieja.
 
 
 
-  Mas s� por cosa muy cierta
+  Mas sé por cosa muy cierta
 
 
 
@@ -8448,14 +8427,14 @@ hagas de tu dicha alarde,
 
 
 
-habl�ndola por la huerta.
+hablándola por la huerta.
 
 
 DON PEDRO.
-  �Qu� dices? �Aqueso es cierto?
+  ¿Qué dices? ¿Aqueso es cierto?
 
 
-DO�A IN�S.
+DOÑA INÉS.
 Tan cierto como soy hombre.
 
 
@@ -8467,214 +8446,214 @@ De Acates fiel te doy nombre:
 resucitado has un muerto.
 
 
+ 
 
+Vanse y salen ANGÉLICA y DON LUIS.
 
-Vanse y salen ANG�LICA y DON LUIS.
+ 
 
-
-
-ANG�LICA.
-  Veng�is, Tom�, en hora buena.
+ANGÉLICA.
+  Vengáis, Tomé, en hora buena.
 
 
 DON LUIS.
-�Buen principio es �ste, cielo!
+¡Buen principio es éste, cielo!
 
 
 
 El medio y el fin recelo.
 
 
-ANG�LICA.
-�Pues c�mo ven�s?
+ANGÉLICA.
+¿Pues cómo venís?
 
 
 DON LUIS.
-               Con pena.
+               Con pena.
 1885
 
-ANG�LICA.
-�De qu�?
+ANGÉLICA.
+¿De qué?
 
 
 DON LUIS.
-        De verme tan pobre.
+        De verme tan pobre.
 
 
-ANG�LICA.
-�Pobre est�is?
-
-
-DON LUIS.
-            S�, en buena fe.
-
-
-ANG�LICA.
-�Pues por qu� causa?
+ANGÉLICA.
+¿Pobre estáis?
 
 
 DON LUIS.
-                 Jugu�.
+            Sí, en buena fe.
 
 
-ANG�LICA.
-Yo har� que dinero os sobre.
-
-
-
-  �Y qu� jugastes?
+ANGÉLICA.
+¿Pues por qué causa?
 
 
 DON LUIS.
-               Primera.
+                 Jugué.
+
+
+ANGÉLICA.
+Yo haré que dinero os sobre.
+
+
+
+  ¿Y qué jugastes?
+
+
+DON LUIS.
+               Primera.
 1890
 
-ANG�LICA.
-�Qu� perdistes?
+ANGÉLICA.
+¿Qué perdistes?
 
 
 DON LUIS.
-             Hacienda harta.
+             Hacienda harta.
 
 
-ANG�LICA.
-�Por qu�?
+ANGÉLICA.
+¿Por qué?
 
 
 DON LUIS.
-         Por dar una carta.
+         Por dar una carta.
 
 
-ANG�LICA.
-�A qui�n?
+ANGÉLICA.
+¿A quién?
 
 
 DON LUIS.
         A cierta fullera.
 
 
-ANG�LICA.
-�Cu�ndo?
+ANGÉLICA.
+¿Cuándo?
 
 
 DON LUIS.
         A la primera mano.
 
 
-ANG�LICA.
-�Qu� perdistes?
+ANGÉLICA.
+¿Qué perdistes?
 
 
 DON LUIS.
              El temor.
 1895
 
-ANG�LICA.
-�Y no ganastes?
+ANGÉLICA.
+¿Y no ganastes?
 
 
 DON LUIS.
              Favor.
 
 
-ANG�LICA.
-�Favor ganastes?
+ANGÉLICA.
+¿Favor ganastes?
 
 
 DON LUIS.
-              S� gano.
+              Sí gano.
 
 
-ANG�LICA.
-Jugad m�s.
+ANGÉLICA.
+Jugad más.
 
 
 DON LUIS.
-         A eso me aplico.
+         A eso me aplico.
 
 
-ANG�LICA.
-�Y hay caudal?
+ANGÉLICA.
+¿Y hay caudal?
 
 
 DON LUIS.
             De oro, no cobre.
 
 
-ANG�LICA.
-�Ya est�is rico?
+ANGÉLICA.
+¿Ya estáis rico?
 
 
 DON LUIS.
             No estoy pobre.
 1900
 
-ANG�LICA.
-�C�mo?
+ANGÉLICA.
+¿Cómo?
 
 
 DON LUIS.
-       Soy un pobre rico.
+       Soy un pobre rico.
 
 
-ANG�LICA.
-�Rico de qu�?
+ANGÉLICA.
+¿Rico de qué?
 
 
 DON LUIS.
-            De ventura.
+            De ventura.
 
 
-ANG�LICA.
-�Y pobre?
+ANGÉLICA.
+¿Y pobre?
 
 
 DON LUIS.
          De merecer.
 
 
-ANG�LICA.
-�Qu� tem�is?
+ANGÉLICA.
+¿Qué teméis?
 
 
 DON LUIS.
-           Temo perder.
+           Temo perder.
 
 
-ANG�LICA.
-�Perder qu�?
+ANGÉLICA.
+¿Perder qué?
 
 
 DON LUIS.
-           La coyuntura.
+           La coyuntura.
 1905
 
-ANG�LICA.
-  Pues ganalla.
+ANGÉLICA.
+  Pues ganalla.
 
 
 DON LUIS.
-           El c�mo aguardo.
+           El cómo aguardo.
 
 
-ANG�LICA.
+ANGÉLICA.
 Asilda.
 
 
 DON LUIS.
-      �Con qu� cadena?
+      ¿Con qué cadena?
 
 
-ANG�LICA.
-Con �sta.           Dale una cadena.
+ANGÉLICA.
+Con ésta.           Dale una cadena.
 
 
 DON LUIS.
-        �Ganancia buena!
+        ¡Ganancia buena!
 
 
-ANG�LICA.
-Guardalda all�.
+ANGÉLICA.
+Guardalda allá.
 
 
 DON LUIS.
@@ -8682,175 +8661,175 @@ DON LUIS.
 
 
 
-  Y aunque con bien tan notorio,
+  Y aunque con bien tan notorio,
 1910
 
 
-�d�nde la tendr� segura,
+¿dónde la tendré segura,
 
 
 
-se�ora, si no procura
+señora, si no procura
 
 
 
 ser el alma su escritorio?
 
 
-ANG�LICA.
-  Mucho sab�is.
+ANGÉLICA.
+  Mucho sabéis.
 
 
 DON LUIS.
-             Antes poco.
+             Antes poco.
 
 
-ANG�LICA.
-�Qui�n os da lici�n?
+ANGÉLICA.
+¿Quién os da lición?
 
 
 DON LUIS.
-                Un ciego.
+                Un ciego.
 1915
 
-ANG�LICA.
-�Y aprend�is?
+ANGÉLICA.
+¿Y aprendéis?
 
 
 DON LUIS.
            Aprendo luego.
 
 
-ANG�LICA.
-�A qu� aprend�is?
+ANGÉLICA.
+¿A qué aprendéis?
 
 
 DON LUIS.
               A ser loco.
 
 
-ANG�LICA.
-  �Qu� os tiene loco?
+ANGÉLICA.
+  ¿Qué os tiene loco?
 
 
 DON LUIS.
-                 Mi gloria.
+                 Mi gloria.
 
 
-ANG�LICA.
-�Y qu� cuerdo?
+ANGÉLICA.
+¿Y qué cuerdo?
 
 
 DON LUIS.
-             El escoger.
+             El escoger.
 
 
-ANG�LICA.
-�Qu� escog�is?
+ANGÉLICA.
+¿Qué escogéis?
 
 
 DON LUIS.
             Mi menester.
 1920
 
-ANG�LICA.
-�Qu� hab�is menester?
+ANGÉLICA.
+¿Qué habéis menester?
 
 
 DON LUIS.
-                  Memoria.
+                  Memoria.
 
 
-ANG�LICA.
-�Para qu�?
+ANGÉLICA.
+¿Para qué?
 
 
 DON LUIS.
          Para estimar.
 
 
-ANG�LICA.
-�Estimar qu�?
+ANGÉLICA.
+¿Estimar qué?
 
 
 DON LUIS.
-           Este favor.
+           Este favor.
 
 
-ANG�LICA.
-�Y a qui�n?
-
-
-DON LUIS.
-          A vos y al amor.
-
-
-ANG�LICA.
-�Pues sab�is amar?
+ANGÉLICA.
+¿Y a quién?
 
 
 DON LUIS.
-               S� amar.
+          A vos y al amor.
+
+
+ANGÉLICA.
+¿Pues sabéis amar?
+
+
+DON LUIS.
+               Sé amar.
 1925
 
-ANG�LICA.
-  �Qu� es amar?
+ANGÉLICA.
+  ¿Qué es amar?
 
 
 DON LUIS.
               Fuego en que ardo.
 
 
-ANG�LICA.
-�Ard�is?
+ANGÉLICA.
+¿Ardéis?
 
 
 DON LUIS.
        Soy un alma en pena.
 
 
-ANG�LICA.
-�Preso?
+ANGÉLICA.
+¿Preso?
 
 
 DON LUIS.
-       Con esta cadena.
+       Con esta cadena.
 
 
-ANG�LICA.
-Guardalda all�.
+ANGÉLICA.
+Guardalda allá.
 
 
 DON LUIS.
-            Ya la guardo.
+            Ya la guardo.
 
 
-ANG�LICA.
-  Tom� fingido y discreto,
+ANGÉLICA.
+  Tomé fingido y discreto,
 1930
 
 
-bien habl�is y bien fing�s:
+bien habláis y bien fingís:
 
 
 
-justamente don L�is
+justamente don Lüis
 
 
 
-fi� de vos su secreto.
+fió de vos su secreto.
 
 
 
-  Yo he visto el papel, y en �l,
+  Yo he visto el papel, y en él,
 
 
 
-despu�s de leer su amor,
+después de leer su amor,
 1935
 
 
-le� que vuestro se�or
+leí que vuestro señor
 
 
 
@@ -8858,7 +8837,7 @@ halla en vos un siervo fiel.
 
 
 
-  Si el sayal grosero y tosco
+  Si el sayal grosero y tosco
 
 
 
@@ -8874,23 +8853,23 @@ pues amo a quien no conozco.
 
 
 DON LUIS.
-  �Cielos! �Tanto bien escucho?
+  ¡Cielos! ¿Tanto bien escucho?
 
 
 
-�Es cierto tanto favor?
+¿Es cierto tanto favor?
 
 
-ANG�LICA.
-Mucho am�is vuestro se�or.
+ANGÉLICA.
+Mucho amáis vuestro señor.
 
 
 DON LUIS.
-Si �l es otro yo, �qu� mucho?
+Si él es otro yo, ¿qué mucho?
 1945
 
-ANG�LICA.
-  �Por qu� con traje grosero
+ANGÉLICA.
+  ¿Por qué con traje grosero
 
 
 
@@ -8902,35 +8881,35 @@ Porque dio en su patria muerte,
 
 
 
-se�ora, a otro caballero.
+señora, a otro caballero.
 
 
 
-  Hanse informado en Galicia
+  Hanse informado en Galicia
 1950
 
 
-que en Toledo hay d�l memoria;
+que en Toledo hay dél memoria;
 
 
 
-sali� una requisitoria
+salió una requisitoria
 
 
 
-y b�scale la justicia;
+y búscale la justicia;
 
 
 
-  y por no ser descubierto
+  y por no ser descubierto
 
 
 
 anda a sombra de tejado.
 1955
 
-ANG�LICA.
-Mi alma ser� el sagrado
+ANGÉLICA.
+Mi alma será el sagrado
 
 
 
@@ -8938,7 +8917,7 @@ adonde vive encubierto.
 
 
 
-  �Es gal�n?
+  ¿Es galán?
 
 
 DON LUIS.
@@ -8946,11 +8925,11 @@ DON LUIS.
 
 
 
-gentileza vendr� a dalle.
+gentileza vendrá a dalle.
 
 
 
-Ser� de mi propio talle,
+Será de mi propio talle,
 1960
 
 
@@ -8958,7 +8937,7 @@ rostro, miembros y figura.
 
 
 
-  Es celoso, y no importuno,
+  Es celoso, y no importuno,
 
 
 
@@ -8973,8 +8952,8 @@ quiso dividir en dos
 un hombre, que en dos es uno.
 1965
 
-ANG�LICA.
-  Como le imit�is, dec�s
+ANGÉLICA.
+  Como le imitáis, decís
 
 
 
@@ -8982,23 +8961,23 @@ que sois uno.
 
 
 DON LUIS.
-          Eso dir�.
+          Eso diré.
 
 
-ANG�LICA.
-De aquesa suerte, Tom�,
+ANGÉLICA.
+De aquesa suerte, Tomé,
 
 
 
-en vos ver� a don Luis.
+en vos veré a don Luis.
 
 
 DON LUIS.
-  Casi casi el mismo soy.
+  Casi casi el mismo soy.
 1970
 
-ANG�LICA.
-Pues, Tom�, si aqueso pasa,
+ANGÉLICA.
+Pues, Tomé, si aqueso pasa,
 
 
 
@@ -9006,15 +8985,15 @@ yo he negociado que en casa
 
 
 
-os pod�is quedar desde hoy.
+os podáis quedar desde hoy.
 
 
 
-  Un colmenar daros quiero.
+  Un colmenar daros quiero.
 
 
 
-Vos �no le sabr�is labrar?
+Vos ¿no le sabréis labrar?
 1975
 
 DON LUIS.
@@ -9026,15 +9005,15 @@ sin saber ser colmenero;
 
 
 
-  que aunque amor suele ser yel,
+  que aunque amor suele ser yel,
 
 
 
-por darle celos su ac�bar,
+por darle celos su acíbar,
 
 
 
-su posesi�n es alm�bar,
+su posesión es almíbar,
 1980
 
 
@@ -9042,14 +9021,14 @@ que puso amor en la miel.
 
 
 
-  Vos ver�is lo que aprovecho
+  Vos veréis lo que aprovecho
 
 
 
 en este oficio.
 
 
-ANG�LICA.
+ANGÉLICA.
            Alto pues,
 
 
@@ -9058,15 +9037,15 @@ de casa sois.
 
 
 DON LUIS.
-           A esos pies
+           A esos pies
 
 
 
 quiero humillar boca y pecho.
 1985
 
-ANG�LICA.
-  Tom�, �qui�n tanto os humilla?
+ANGÉLICA.
+  Tomé, ¿quién tanto os humilla?
 
 
 
@@ -9074,26 +9053,25 @@ Alzad, levantad del suelo.
 
 
 DON LUIS.
-Si sois un, �ngel del cielo,
+Si sois un, ángel del cielo,
 
 
 
-�qu� mucho, hinque la rodilla?
+¿qué mucho, hinque la rodilla?
 
 
+ 
 
+Hace DON LUIS que le besa los pies, sale CARRASCO y halla a DON LUIS de rodillas.
 
-Hace DON LUIS que le besa los pies, sale CARRASCO y  halla  a  DON  LUIS  de
-rodillas.
-
-
+ 
 
 CARRASCO.
-  �Valga el diablo este Tom�!
+  ¡Valga el diablo este Tomé!
 1990
 
 
-�Oigan, oigan el retablo,
+¡Oigan, oigan el retablo,
 
 
 
@@ -9101,11 +9079,11 @@ es de San Miguel y el diablo!
 
 
 
-Tom�, levantaos en pie.
+Tomé, levantaos en pie.
 
 
 
-  Perro sois de muchas bodas,
+  Perro sois de muchas bodas,
 
 
 
@@ -9121,7 +9099,7 @@ huelen a tomillo todas,
 
 
 
-  y vos me sois golosillo,
+  y vos me sois golosillo,
 
 
 
@@ -9133,11 +9111,11 @@ y os venistes al aldea,
 2000
 
 
-querr�is, Tom�, su tomillo.
+querréis, Tomé, su tomillo.
 
 
 DON LUIS.
-  Ya, Llorente, soy criado
+  Ya, Llorente, soy criado
 
 
 
@@ -9145,15 +9123,15 @@ de casa.
 
 
 CARRASCO.
-      �Qu�?
+      ¿Qué?
 
 
 DON LUIS.
-            Colmenero.
+            Colmenero.
 
 
 CARRASCO.
-�Bueno, bueno! Reirme quiero:
+¡Bueno, bueno! Reirme quiero:
 
 
 
@@ -9161,59 +9139,59 @@ oficio dulce os han dado.
 2005
 
 
-  �Colmenas, Tom�, guard�is?
+  ¿Colmenas, Tomé, guardáis?
 
 
 
-�Por miel virgen and�is vos?
+¿Por miel virgen andáis vos?
 
 
 
-Ya la ten�is; plega a Dios
+Ya la tenéis; plega a Dios
 
 
 
-que despu�s no la escup�is.
+que después no la escupáis.
 
 
 
-  Y a m�, que me papen duelos.
+  Y a mí, que me papen duelos.
 2010
 
 
-Alqu�leme a m� con �l,
+Alquíleme a mí con él,
 
 
 
-que Tom� pondr� la miel
+que Tomé pondrá la miel
 
 
 
-y yo pondr� los bu�uelos.
+y yo pondré los buñuelos.
 
 
-ANG�LICA.
-  Tambi�n que est�s determino,
+ANGÉLICA.
+  También que estés determino,
 
 
 
-por amor de Tom�, en casa.
+por amor de Tomé, en casa.
 2015
 
 CARRASCO.
 Aquesa es merced sin tasa.
 
 
-ANG�LICA.
-�Qu� oficio ten�is?
+ANGÉLICA.
+¿Qué oficio tenéis?
 
 
 CARRASCO.
-               Del vino.
+               Del vino.
 
 
 
-  Sabr� guardar la bodega
+  Sabré guardar la bodega
 
 
 
@@ -9229,7 +9207,7 @@ catar si sabe a la pega,
 
 
 
-  librar del maldito usagre
+  librar del maldito usagre
 
 
 
@@ -9245,23 +9223,23 @@ no se les pegue el vinagre).
 2025
 
 
-  Y como puertas adentro
+  Y como puertas adentro
 
 
 
-  de la bodega mand�is,
+  de la bodega mandéis,
 
 
 
-mi diligencia ver�is,
+mi diligencia veréis,
 
 
 
 porque al fin ella es mi centro.
 
 
-ANG�LICA.
-  Norabuena; yo os admito
+ANGÉLICA.
+  Norabuena; yo os admito
 2030
 
 
@@ -9269,7 +9247,7 @@ a ese oficio.
 
 
 CARRASCO.
-          Es singular,
+          Es singular,
 
 
 
@@ -9284,12 +9262,12 @@ en vino como el mosquito.
 Desde hoy me alegro y me ensancho.
 
 
-ANG�LICA.
-Vamos, Tom�, al colmenar.
+ANGÉLICA.
+Vamos, Tomé, al colmenar.
 2035
 
 CARRASCO.
-M�s ancho tengo de estar
+Más ancho tengo de estar
 
 
 
@@ -9297,7 +9275,7 @@ que con Zamora don Sancho.
 
 
 
-  Desde hoy, colmenero hermano,
+  Desde hoy, colmenero hermano,
 
 
 
@@ -9313,7 +9291,7 @@ la caperuza en la mano.
 
 
 DON LUIS.
-  �Por qu� causa, majadero?
+  ¿Por qué causa, majadero?
 
 
 CARRASCO
@@ -9332,18 +9310,16 @@ que soy archibodeguero.
 Fin de la segunda jornada
 
 
-
 Jornada tercera
-
 
 Sale DON LUIS con mascarilla de castrar colmenas.
 
-
+ 
 
 
 
 DON LUIS.
-  Amor, hoy como astuto me aconsejas
+  Amor, hoy como astuto me aconsejas
 
 
 
@@ -9359,11 +9335,11 @@ labre la miel que en mi esperanza dejas.
 
 
 
-  Ya s� que los amantes son abejas,
+  Ya sé que los amantes son abejas,
 2050
 
 
-que en el jard�n que aumentan sus amores
+que en el jardín que aumentan sus amores
 
 
 
@@ -9371,11 +9347,11 @@ labran panales dulces, sin temores
 
 
 
-no mezclan el ac�bar de sus quejas.
+no mezclan el acíbar de sus quejas.
 
 
 
-  Abeja soy, amor; dame palabra
+  Abeja soy, amor; dame palabra
 
 
 
@@ -9387,7 +9363,7 @@ que la esperanza entre sus flores labra.
 
 
 
-  No sequen mi ventura tus desvelos;
+  No sequen mi ventura tus desvelos;
 
 
 
@@ -9395,25 +9371,25 @@ que si es abeja amor, y el panal labra,
 
 
 
-los z�nganos la comen, que son celos.
+los zánganos la comen, que son celos.
 
 
+ 
 
+Sale ANGÉLICA.
 
-Sale ANG�LICA.
+ 
 
-
-
-ANG�LICA.
-  Pues, mi nuevo colmenero,
+ANGÉLICA.
+  Pues, mi nuevo colmenero,
 2060
 
 
-�c�mo os va con el oficio?
+¿cómo os va con el oficio?
 
 
 DON LUIS.
-Ganancia con �l espero:
+Ganancia con él espero:
 
 
 
@@ -9425,11 +9401,11 @@ porque ha de ser de romero.
 
 
 
-  Un romero a nacer vino
+  Un romero a nacer vino
 2065
 
 
-en el jard�n, y imagino
+en el jardín, y imagino
 
 
 
@@ -9445,15 +9421,15 @@ ser romero y peregrino.
 
 
 
-  Plant�le vuestro favor,
+  Plantóle vuestro favor,
 2070
 
 
-reg�le su confianza,
+rególe su confianza,
 
 
 
-y creci� con tal humor
+y creció con tal humor
 
 
 
@@ -9465,7 +9441,7 @@ y el morado de su amor.
 
 
 
-  La huerta de flores llena
+  La huerta de flores llena
 2075
 
 
@@ -9473,7 +9449,7 @@ es vuestro favor, que ordena
 
 
 
-esta f�brica abundante;
+esta fábrica abundante;
 
 
 
@@ -9485,7 +9461,7 @@ dentro el alma, es la colmena.
 
 
 
-  La miel el regalo expreso
+  La miel el regalo expreso
 2080
 
 
@@ -9501,11 +9477,11 @@ cera el alma, en que el retrato
 
 
 
-vuestro est�, se�ora, impreso.
+vuestro está, señora, impreso.
 
 
 
-  Ladrones son los desvelos,
+  Ladrones son los desvelos,
 2085
 
 
@@ -9517,7 +9493,7 @@ pues no hay con temor consuelos;
 
 
 
-y los z�nganos que pican
+y los zánganos que pican
 
 
 
@@ -9525,7 +9501,7 @@ y comen la miel, son celos.
 
 
 
-  Los susurros son las quejas,
+  Los susurros son las quejas,
 2090
 
 
@@ -9545,11 +9521,11 @@ con que labran las abejas.
 
 
 
-  �Qu� os parece?
+  ¿Qué os parece?
 
 
-ANG�LICA.
-               De importancia.
+ANGÉLICA.
+               De importancia.
 2095
 
 
@@ -9568,12 +9544,12 @@ Ya deseo la cosecha
 por gozar de esa abundancia.
 
 
-ANG�LICA.
-  No tem�is el desatino
+ANGÉLICA.
+  No temáis el desatino
 2100
 
 
-del z�ngano, pues que vino
+del zángano, pues que vino
 
 
 
@@ -9581,7 +9557,7 @@ hoy a nuestro colmenar
 
 
 
-guarda que le har� soltar
+guarda que le hará soltar
 
 
 
@@ -9589,25 +9565,25 @@ lo que hurtare, en el camino.
 
 
 DON LUIS.
-  Dadme a besar el cristal
+  Dadme a besar el cristal
 2105
 
 
 de esa mano celestial.
 
 
+ 
+
+Bésale la mano.
+
+ 
+
+ANGÉLICA.
+Mucha licencia os tomáis,
 
 
-B�sale la mano.
 
-
-
-ANG�LICA.
-Mucha licencia os tom�is,
-
-
-
-Tom�; sospechas me dais
+Tomé; sospechas me dais
 
 
 
@@ -9615,26 +9591,26 @@ de que no sois muy leal.
 
 
 
-  Parece que para vos
+  Parece que para vos
 2110
 
 
-mayor favor adquir�s.
+mayor favor adquirís.
 
 
 DON LUIS.
 Que os adoro sabe Dios.
 
 
-ANG�LICA.
-�Serv�s ans� a don Luis?
+ANGÉLICA.
+¿Servís ansí a don Luis?
 
 
 DON LUIS.
 Somos un alma los dos.
 
 
-ANG�LICA.
+ANGÉLICA.
 La amistad no viene a ser
 2115
 
@@ -9643,7 +9619,7 @@ tan grande, a mi parecer,
 
 
 
-que aunque entre dos est� unida
+que aunque entre dos esté unida
 
 
 
@@ -9655,11 +9631,11 @@ el gusto de una mujer.
 
 
 
-  �Cu�ndo public� la fama,
+  ¿Cuándo publicó la fama,
 2120
 
 
-como agora lo hac�is vos,
+como agora lo hacéis vos,
 
 
 
@@ -9675,7 +9651,7 @@ amen a una misma dama?
 
 
 
-  No lo sufren los desvelos
+  No lo sufren los desvelos
 2125
 
 
@@ -9695,11 +9671,11 @@ el cuchillo de los celos.
 
 
 
-  Tom�, esa opini�n es nueva;
+  Tomé, esa opinión es nueva;
 2130
 
 
-mal vuestro se�or contrasta
+mal vuestro señor contrasta
 
 
 
@@ -9707,11 +9683,11 @@ lealtad que tal fruto lleva.
 
 
 
-No os tengo de hablar m�s.
+No os tengo de hablar más.
 
 
 DON LUIS.
-                     Basta,
+                     Basta,
 
 
 
@@ -9719,11 +9695,11 @@ que mujer sois, y de prueba.
 
 
 
-  Prueba ha sido: y vos sois fiel
+  Prueba ha sido: y vos sois fiel
 2135
 
 
-a don Luis. Dichoso �l,
+a don Luis. Dichoso él,
 
 
 
@@ -9739,11 +9715,11 @@ que en tan hermoso papel
 
 
 
-  donde su dicha firm�,
+  donde su dicha firmó,
 2140
 
 
-firme la letra qued�
+firme la letra quedó
 
 
 
@@ -9759,11 +9735,11 @@ quien mover los vientos vio;
 
 
 
-  que seguro el bajel lleva
+  que seguro el bajel lleva
 2145
 
 
-por mar inc�gnita y nueva
+por mar incógnita y nueva
 
 
 
@@ -9771,15 +9747,15 @@ que a un vidrio un golpe le dio
 
 
 
-sin quebrarse. Que esto hall�
+sin quebrarse. Que esto halló
 
 
 
-quien hall� mujer a prueba.
+quien halló mujer a prueba.
 
 
-ANG�LICA.
-  �Pues mi amor prob�is?
+ANGÉLICA.
+  ¿Pues mi amor probáis?
 
 
 DON LUIS.
@@ -9794,16 +9770,16 @@ que gusto probar la fe
 de una mujer: no os asombre.
 
 
-ANG�LICA.
-Incr�dulo sois, Tom�.
+ANGÉLICA.
+Incrédulo sois, Tomé.
 
 
 DON LUIS.
-Tengo de incr�dulo el nombre.
+Tengo de incrédulo el nombre.
 
 
 
-  Pero, en dejando esto aparte,
+  Pero, en dejando esto aparte,
 2155
 
 
@@ -9823,19 +9799,19 @@ donde sueles asomarte.
 
 
 
-  Dime si gustas que a verte
+  Dime si gustas que a verte
 2160
 
 
-esta noche llegue aqu�.
+esta noche llegue aquí.
 
 
-ANG�LICA.
-�C�mo podr� responderte
+ANGÉLICA.
+¿Cómo podrá responderte
 
 
 
-de no un alma que dio un s�
+de no un alma que dio un sí
 
 
 
@@ -9843,33 +9819,33 @@ contra el olvido y la muerte?
 
 
 
-  Har� mis ojos farol,
+  Haré mis ojos farol,
 2165
 
 
-que a mi Leandro espa�ol
+que a mi Leandro español
 
 
 
-luz como en Abido d�,
+luz como en Abido dé,
 
 
 
-y como Tisbe estar�
+y como Tisbe estaré
 
 
 
 llorando, hasta ver mi sol.
 
 
+ 
 
+Sale DOÑA INÉS.
 
-Sale DO�A IN�S.
+ 
 
-
-
-DO�A IN�S.
-  �Qu� enredos, amor tirano,
+DOÑA INÉS.
+  ¿Qué enredos, amor tirano,
 2170
 
 
@@ -9881,23 +9857,23 @@ Si acaso salen en vano...
 
 
 
-Mas �qu� es esto? Hablando est�n
+Mas ¿qué es esto? Hablando están
 
 
 
-aqu� Ang�lica y mi hermano.
+aquí Angélica y mi hermano.
 
 
 
-  Quiero escuchar lo que dicen.
+  Quiero escuchar lo que dicen.
 2175
 
-ANG�LICA.
-Ser� en la firmeza bronce,
+ANGÉLICA.
+Seré en la firmeza bronce,
 
 
 
-aunque m�s me martiricen.
+aunque más me martiricen.
 
 
 
@@ -9909,7 +9885,7 @@ Tus favores solenicen
 
 
 
-  cuantos amor tras su carro
+  cuantos amor tras su carro
 2180
 
 
@@ -9917,11 +9893,11 @@ lleva con triunfo bizarro.
 
 
 
-�Oh venturoso Tom�!
+¡Oh venturoso Tomé!
 
 
 
-De aquestas Indias ser�
+De aquestas Indias seré
 
 
 
@@ -9929,7 +9905,7 @@ otro segundo Pizarro.
 
 
 
-  Don Luis vendr�, se�ora,
+  Don Luis vendrá, señora,
 2185
 
 
@@ -9937,19 +9913,19 @@ de Toledo a aquesa hora,
 
 
 
-y hurtando al F�nix las galas,
+y hurtando al Fénix las galas,
 
 
 
-har� de sus plumas alas.
+hará de sus plumas alas.
 
 
-DO�A IN�S.
-Buena ocasi�n tengo agora;
+DOÑA INÉS.
+Buena ocasión tengo agora;
 
 
 
-  si don Luis ha de ir a ver
+  si don Luis ha de ir a ver
 2190
 
 
@@ -9965,11 +9941,11 @@ con tu ayuda le he de hacer.
 
 
 
-  De traje quiero mudar:
+  De traje quiero mudar:
 
 
 
-dar� fuerzas a mi enredo;
+daré fuerzas a mi enredo;
 2195
 
 
@@ -9977,41 +9953,41 @@ que adoro a don Pedro, y puedo
 
 
 
-desta manera enga�ar
+desta manera engañar
 
 
 
-  mi propia imaginaci�n.
+  mi propia imaginación.
 
 
 
-Aqu� me quiero quedar,
+Aquí me quiero quedar,
 
 
 
-que Ang�lica ha de ayudar
+que Angélica ha de ayudar
 2200
 
 
-a mi amorosa invenci�n.
+a mi amorosa invención.
 
 
+ 
 
+Vase DOÑA INÉS y sale LINARDO.
 
-Vase DO�A IN�S y sale LINARDO.
-
-
+ 
 
 LINARDO.
-  Don Pedro te viene a hablar.
+  Don Pedro te viene a hablar.
 
 
 DON LUIS.
-�Siempre es de mi encuentro azar!
+¡Siempre es de mi encuentro azar!
 
 
-ANG�LICA.
-Perder�, si juega, el dado,
+ANGÉLICA.
+Perderá, si juega, el dado,
 
 
 
@@ -10019,37 +9995,37 @@ pues don Luis se le ha quitado.
 2205
 
 
-Labrad, Tom�, el colmenar
+Labrad, Tomé, el colmenar
 
 
 
-  y sospechas temerosas
+  y sospechas temerosas
 
 
 
-no os causen melancol�a.
+no os causen melancolía.
 
 
 DON LUIS.
 Beso tus manos hermosas.
 
 
+ 
 
+Sale DON PEDRO y DON LUIS pónese a labrar las colmenas.
 
-Sale DON PEDRO y DON LUIS p�nese a labrar las colmenas.
-
-
+ 
 
 DON PEDRO.
-Jurara yo, prenda m�a,
+Jurara yo, prenda mía,
 2210
 
 
-que est�is aqu�, pues las rosas
+que estáis aquí, pues las rosas
 
 
 
-  que pis�is, por excelencia
+  que pisáis, por excelencia
 
 
 
@@ -10065,11 +10041,11 @@ Hoy resucitan las flores
 2215
 
 
-que marchit� vuestra ausencia.
+que marchitó vuestra ausencia.
 
 
 
-  �Venturoso el colmenar,
+  ¡Venturoso el colmenar,
 
 
 
@@ -10089,19 +10065,19 @@ de vuestro aliento azahar!
 
 
 
-  �Qu� hac�is, prenda de mi vida?
+  ¿Qué hacéis, prenda de mi vida?
 
 
-ANG�LICA.
+ANGÉLICA.
 La memoria entretenida
 
 
 
-daba a la imaginaci�n
+daba a la imaginación
 
 
 
-por due�o del alma un don,
+por dueño del alma un don,
 2225
 
 
@@ -10109,11 +10085,11 @@ que con otro me convida.
 
 
 DON PEDRO.
-  �Don? �De qui�n?
+  ¿Don? ¿De quién?
 
 
-ANG�LICA.
-                De un caballero
+ANGÉLICA.
+                De un caballero
 
 
 
@@ -10125,7 +10101,7 @@ de Febo claro y ligero,
 
 
 
-que me enamor� la noche
+que me enamoró la noche
 2230
 
 
@@ -10137,7 +10113,7 @@ DON PEDRO.
 
 
 
-  besar, se�ora; es ans�
+  besar, señora; es ansí
 
 
 
@@ -10145,19 +10121,19 @@ que yo aquella noche fui
 
 
 
-quien vuestro pecho abland�.
+quien vuestro pecho ablandó.
 
 
 DON LUIS.
-Ap.   (Calla, necio, que fui yo
+Ap.   (Calla, necio, que fui yo
 2235
 
 
-el que tanto merec�.)
+el que tanto merecí.)
 
 
 DON PEDRO.
-  Pierdo de contento el seso:
+  Pierdo de contento el seso:
 
 
 
@@ -10169,21 +10145,21 @@ mi amor cante este suceso.
 
 
 DON LUIS.
-Ap.   (Yo, pues que bes� su mano,
+Ap.   (Yo, pues que besé su mano,
 2240
 
 
 tengo de cantar el beso.)
 
 
-
+ 
 
 Canta DON LUIS entre las colmenas.
 
+ 
 
 
-
-  Que bes�la en el colmenaruelo,
+  Que beséla en el colmenaruelo,
 
 
 
@@ -10195,7 +10171,7 @@ que a la miel me supo el beso.
 
 
 DON PEDRO.
-  Lici�n me da el labrador
+  Lición me da el labrador
 2245
 
 
@@ -10211,7 +10187,7 @@ mas no os quisiera ofender,
 
 
 
-Ang�lica, mi temor.
+Angélica, mi temor.
 
 
 DON LUIS.
@@ -10223,7 +10199,7 @@ que a la miel me supo el beso.
 
 
 DON PEDRO.
-  No prive m�s un villano
+  No prive más un villano
 
 
 
@@ -10239,11 +10215,11 @@ bese mi boca dichosa
 2255
 
 
-de vuestra ang�lica mano.
+de vuestra angélica mano.
 
 
 DON LUIS.
-  Este z�ngano cruel
+  Este zángano cruel
 
 
 
@@ -10255,19 +10231,19 @@ Pagad mi amor firme y fiel.
 
 
 DON LUIS.
-Ap.   (Abej�n de mi colmena,
+Ap.   (Abejón de mi colmena,
 2260
 
 
-�mucho os lleg�is a la miel!)
+¡mucho os llegáis a la miel!)
 
 
-ANG�LICA.
-  No se�is cansado agora.
+ANGÉLICA.
+  No seáis cansado agora.
 
 
 DON PEDRO.
-C�nsame mi amor molesto:
+Cánsame mi amor molesto:
 
 
 
@@ -10275,45 +10251,45 @@ dadme esa mano que adora
 
 
 
-mi alma; haced, �ngel, esto.
+mi alma; haced, ángel, esto.
 2265
 
+ 
 
+Quiere tomalle la mano, y métese DON LUIS en medio.
 
-Quiere tomalle la mano, y m�tese DON LUIS en medio.
-
-
+ 
 
 DON LUIS.
-Apartaos all�, se�ora,
+Apartaos allá, señora,
 
 
 
-  que hay z�nganos por aqu�,
+  que hay zánganos por aquí,
 
 
 
 y temo os piquen.
 
 
-ANG�LICA.
-             �A m�?
+ANGÉLICA.
+             ¿A mí?
 
 
 
-Aqueso no os d� cuidado.
+Aqueso no os dé cuidado.
 
 
 DON LUIS.
-�No? Pues estoy yo picado,
+¿No? Pues estoy yo picado,
 2270
 
 
-con andar cubierto ans�.
+con andar cubierto ansí.
 
 
-ANG�LICA.
-  �Qui�n os pic�?
+ANGÉLICA.
+  ¿Quién os picó?
 
 
 DON LUIS.
@@ -10321,15 +10297,15 @@ DON LUIS.
 
 
 
-que anda aqu� junto a los dos.
+que anda aquí junto a los dos.
 
 
-ANG�LICA.
-�Y haos picado mucho?
+ANGÉLICA.
+¿Y haos picado mucho?
 
 
 DON LUIS.
-                   Mucho.
+                   Mucho.
 
 
 
@@ -10337,11 +10313,11 @@ Caballero, andad con Dios,
 2275
 
 
-no os deteng�is aqu� mucho;
+no os detengáis aquí mucho;
 
 
 
-  que hab�is dado muestra clara
+  que habéis dado muestra clara
 
 
 
@@ -10349,11 +10325,11 @@ a quien os mira a la cara,
 
 
 
-que tambi�n picado est�is;
+que también picado estáis;
 
 
 
-y s� a picaros lleg�is,
+y sí a picaros llegáis,
 2280
 
 
@@ -10361,15 +10337,15 @@ temo que os salga a la cara.
 
 
 DON PEDRO.
-  Pic�me vuestra afici�n;
+  Picóme vuestra afición;
 
 
 
-tiene el villano raz�n.
+tiene el villano razón.
 
 
 
-Digo que hab�is acertado
+Digo que habéis acertado
 
 
 
@@ -10377,23 +10353,23 @@ en decir que estoy picado.
 2285
 
 DON LUIS.
-Est�is hecho un salpic�n.
+Estáis hecho un salpicón.
 
 
 DON PEDRO.
-  Pues idos enhorabuena,
+  Pues idos enhorabuena,
 
 
 
-que ya pic�is de curioso.
+que ya picáis de curioso.
 
 
 DON LUIS.
-Vos pic�is la miel ajena,
+Vos picáis la miel ajena,
 
 
 
-y yo s� picar al oso
+y yo sé picar al oso
 2290
 
 
@@ -10401,7 +10377,7 @@ que se lleva la colmena,
 
 
 
-  y picar a vuestra costa.
+  y picar a vuestra costa.
 
 
 DON PEDRO.
@@ -10409,19 +10385,19 @@ Ya me pico en que no os vais.
 
 
 DON LUIS.
-No me espanto, que pic�is
+No me espanto, que picáis
 
 
 
-de noche m�s que una posta.
+de noche más que una posta.
 2295
 
 
-  Picado deb�is de estar,
+  Picado debéis de estar,
 
 
 
-y as� no os quiero dejar,
+y así no os quiero dejar,
 
 
 
@@ -10429,7 +10405,7 @@ que el no irme os prejudica.
 
 
 
-Pero si el z�ngano os pica,   A ella.
+Pero si el zángano os pica,   A ella.
 
 
 
@@ -10437,7 +10413,7 @@ esta red os quiero dar.
 2300
 
 
-  Tomad esa red sin miedo,
+  Tomad esa red sin miedo,
 
 
 
@@ -10456,32 +10432,32 @@ que no es mala aquesta red
 para quien sabe el enredo.
 2305
 
-ANG�LICA.
-  Yo me sabr� defender.
+ANGÉLICA.
+  Yo me sabré defender.
 
 
 
-Tom�, amigo, andad con Dios.
+Tomé, amigo, andad con Dios.
 
 
 DON LUIS.
-�No se la quiere poner?
+¿No se la quiere poner?
 
 
 
-Pues, se�or, pon�osla vos.
+Pues, señor, ponéosla vos.
 
 
 DON PEDRO.
-Tom�, no la he menester.
+Tomé, no la he menester.
 2310
 
 
-  Dejadnos; ya os pod�is ir.
+  Dejadnos; ya os podéis ir.
 
 
 DON LUIS.
-Con ella os pod�is cubrir;
+Con ella os podéis cubrir;
 
 
 
@@ -10489,15 +10465,15 @@ pero, si a picaros van,
 
 
 
-poca mella en vos har�n,
+poca mella en vos harán,
 
 
 
-que pies ten�is para huir.
+que pies tenéis para huir.
 2315
 
 DON PEDRO.
-  �Oh, qu� pesado villano!
+  ¡Oh, qué pesado villano!
 
 
 DON LUIS.
@@ -10505,29 +10481,29 @@ Al fin soy hombre de peso:
 
 
 
-vos deb�is de ser liviano,
+vos debéis de ser liviano,
 
 
 
-que corr�is muy bien. El beso
+que corréis muy bien. El beso
 
 
 
 vuelvo a cantar de la mano.
 2320
 
-
+ 
 
 Canta.
 
-
+ 
 
 DON PEDRO.
-  Dadme aquesa mano un poco,
+  Dadme aquesa mano un poco,
 
 
 
-pues sab�is mi ardiente amor;
+pues sabéis mi ardiente amor;
 
 
 
@@ -10539,31 +10515,31 @@ la nieve de su candor,
 
 
 
-volver�me el gusto loco.
+volveráme el gusto loco.
 2325
 
-ANG�LICA.
-  Pues por tan poca ocasi�n,
+ANGÉLICA.
+  Pues por tan poca ocasión,
 
 
 
-no es bien que el seso perd�is,
+no es bien que el seso perdáis,
 
 
 
-que ser� gran compasi�n.
+que será gran compasión.
 
 
 DON LUIS.
-Otra vez os me pag�is
+Otra vez os me pagáis
 
 
 
-a la colmena, abej�n.
+a la colmena, abejón.
 2330
 
 DON PEDRO.
-  Aquellas b�rbaras quejas
+  Aquellas bárbaras quejas
 
 
 
@@ -10578,16 +10554,16 @@ que porque la mano os quiero
 tomar, lo dice el grosero.
 
 
-ANG�LICA.
-All� lo ha con sus abejas.
+ANGÉLICA.
+Allá lo ha con sus abejas.
 2335
 
 
-  Vuestro pensamiento es vano.
+  Vuestro pensamiento es vano.
 
 
 DON PEDRO.
-Bella Ang�lica, acabad;
+Bella Angélica, acabad;
 
 
 
@@ -10598,27 +10574,26 @@ dadme este bien soberano:
 una mano me otorgad.
 
 
+ 
 
+Toma DON PEDRO la mano a ANGÉLICA, y métese DON LUIS en medio, dale a DON PEDRO con la caperuza.
 
-Toma DON PEDRO la mano a ANG�LICA, y m�tese DON LUIS en medio,  dale  a  DON
-PEDRO con la caperuza.
-
-
+ 
 
 DON LUIS.
-Pic�me, por Dios, la mano;
+Picóme, por Dios, la mano;
 2340
 
 
-  mas yo me sabr� vengar,
+  mas yo me sabré vengar,
 
 
 
-aunque vos sep�is volar.
+aunque vos sepáis volar.
 
 
 
-Por aqu� el abej�n cruza,
+Por aquí el abejón cruza,
 
 
 
@@ -10630,31 +10605,31 @@ le tengo de desviar.
 2345
 
 
-  No os llegar�is m�s ans�;
+  No os llegaréis más ansí;
 
 
 
-yo le har� que aqu� no aguarde.
+yo le haré que aquí no aguarde.
 
 
 DON PEDRO.
-Villano, �en qu� te ofend�?
+Villano, ¿en qué te ofendí?
 
 
 DON LUIS.
-Tras de un abej�n cobarde
+Tras de un abejón cobarde
 
 
 
-ando, no m�s, por aqu�.
+ando, no más, por aquí.
 2350
 
 DON PEDRO.
-  Grosero, zafio, indiscreto,
+  Grosero, zafio, indiscreto,
 
 
 
-�no mir�is que aqu� los dos
+¿no miráis que aquí los dos
 
 
 
@@ -10662,23 +10637,23 @@ estamos? Tened respeto.
 
 
 DON LUIS.
-�Qu� hab�is? �H�lo yo con vos?
+¿Qué habéis? ¿Hélo yo con vos?
 
 
 
-S�lo en mi oficio me meto.
+Sólo en mi oficio me meto.
 2355
 
 DON PEDRO.
-  �Pues tengo yo de pagallo?
+  ¿Pues tengo yo de pagallo?
 
 
-ANG�LICA.
-�No os agrada su simpleza?
+ANGÉLICA.
+¿No os agrada su simpleza?
 
 
 DON LUIS.
-�Qu� importa, si yo le hallo
+¿Qué importa, si yo le hallo
 
 
 
@@ -10690,19 +10665,19 @@ os sacuda por matallo?
 2360
 
 DON PEDRO.
-  �Hay b�rbaro semejante?
+  ¿Hay bárbaro semejante?
 
 
-ANG�LICA.
-Porque desde aqu� adelante
-
-
-
-no os piquen m�s, Tom� hermano,
+ANGÉLICA.
+Porque desde aquí adelante
 
 
 
-los z�nganos en la mano,
+no os piquen más, Tomé hermano,
+
+
+
+los zánganos en la mano,
 
 
 
@@ -10710,7 +10685,7 @@ poneos en ella este guante.
 2365
 
 DON LUIS.
-  Besalla la suya quiero.
+  Besalla la suya quiero.
 
 
 DON PEDRO.
@@ -10722,19 +10697,19 @@ lo que no merezco yo
 
 
 
-�has de alcanzar t�?
+¿has de alcanzar tú?
 
 
 DON LUIS.
-                �Pues no?
+                ¿Pues no?
 
 
-ANG�LICA.
+ANGÉLICA.
 Dejad a mi colmenero.
 2370
 
 DON LUIS.
-  �Oh venturoso Tom�!
+  ¡Oh venturoso Tomé!
 
 
 DON PEDRO.
@@ -10742,7 +10717,7 @@ Y yo, desdichado amante.
 
 
 
-Aqueste anillo os dar�
+Aqueste anillo os daré
 
 
 
@@ -10750,15 +10725,15 @@ porque me deis ese guante.
 
 
 DON LUIS.
-�Anillo yo? �Para qu�?
+¿Anillo yo? ¿Para qué?
 2375
 
 DON PEDRO.
-  Porque es mayor galard�n.
+  Porque es mayor galardón.
 
 
 DON LUIS.
-Es un asno, con perd�n,
+Es un asno, con perdón,
 
 
 
@@ -10766,15 +10741,15 @@ aunque no me maravillo...
 
 
 
-�defender�me su anillo,
+¿defenderáme su anillo,
 
 
 
-si me pica el abej�n?
+si me pica el abejón?
 2380
 
 
-  Luego traelle es en vano.
+  Luego traelle es en vano.
 
 
 
@@ -10782,7 +10757,7 @@ Con el guante alegre quedo.
 
 
 
-�No ve, se�or cortesano,
+¿No ve, señor cortesano,
 
 
 
@@ -10794,53 +10769,53 @@ y el guante toda la mano?
 2385
 
 DON PEDRO.
-  �Que no me lo quieres dar?
+  ¿Que no me lo quieres dar?
 
 
 DON LUIS.
-Dar�le al diablo primero;
+Daréle al diablo primero;
 
 
 
-aqu� le quiero guardar.
+aquí le quiero guardar.
 
 
 DON PEDRO.
-�Venturoso colmenero!
+¡Venturoso colmenero!
 
 
-ANG�LICA.
+ANGÉLICA.
 Mi padre hoy al colmenar
 2390
 
 
-  ha de venir, y a los dos
+  ha de venir, y a los dos
 
 
 
-no quiero nos halle aqu�.
+no quiero nos halle aquí.
 
 
 
-Gustar� de hablar con vos,
+Gustará de hablar con vos,
 
 
 
-mas temo... Tom�, ven�,
+mas temo... Tomé, vení,
 
 
 
-que os he menester. Adi�s.
+que os he menester. Adiós.
 2395
 
+ 
 
+Vanse ANGÉLICA y TOMÉ.
 
-Vanse ANG�LICA y TOM�.
-
-
+ 
 
 DON PEDRO
-  No en balde, ni�o amor, te pintan ciego,
+  No en balde, niño amor, te pintan ciego,
 
 
 
@@ -10848,15 +10823,15 @@ pues tus efetos son de ciego vano:
 
 
 
-un guante diste a un b�rbaro villano,
+un guante diste a un bárbaro villano,
 
 
 
-y a m� me dejas abrasado en fuego.
+y a mí me dejas abrasado en fuego.
 
 
 
-  A tener ojos, conocieras luego
+  A tener ojos, conocieras luego
 2400
 
 
@@ -10864,15 +10839,15 @@ que soy digno de un bien tan soberano,
 
 
 
-dej�ndome besar aquella mano,
+dejándome besar aquella mano,
 
 
 
-que un labrador gan�. �Costoso juego!
+que un labrador ganó. ¡Costoso juego!
 
 
 
-  La falta de tu vista me lastima.
+  La falta de tu vista me lastima.
 
 
 
@@ -10880,11 +10855,11 @@ Amor, pues ves tan poco, ponte antojos;
 2405
 
 
-ver�s mi mal, mi desdichado clima.
+verás mi mal, mi desdichado clima.
 
 
 
-  Di�rasme t� aquel guante por despojos,
+  Diérasme tú aquel guante por despojos,
 
 
 
@@ -10892,61 +10867,61 @@ que el labrador le tiene en poca estima,
 
 
 
-guard�rale en las ni�as de mis ojos.
+guardárale en las niñas de mis ojos.
 
 
+ 
 
+Sale DOÑA INÉS.
 
-Sale DO�A IN�S.
+ 
 
-
-
-DO�A IN�S.
-  �Oh mi se�or!
+DOÑA INÉS.
+  ¡Oh mi señor!
 
 
 DON PEDRO.
-            �Oh, Guzm�n!
+            ¡Oh, Guzmán!
 2410
 
-DO�A IN�S.
-�Solo?
+DOÑA INÉS.
+¿Solo?
 
 
 DON PEDRO.
-      P�sose mi Apolo.
+      Púsose mi Apolo.
 
 
 
-y qued� de noche y solo.
+y quedé de noche y solo.
 
 
-DO�A IN�S.
-Tus amores, �c�mo van?
+DOÑA INÉS.
+Tus amores, ¿cómo van?
 
 
 
-  �Hablaste a Ang�lica?
+  ¿Hablaste a Angélica?
 
 
 DON PEDRO.
-                   S�.
+                   Sí.
 
 
-DO�A IN�S.
-�Y dio ferias a tu amor?
+DOÑA INÉS.
+¿Y dio ferias a tu amor?
 2415
 
 
-�Has ganado alg�n favor?
+¿Has ganado algún favor?
 
 
 DON PEDRO.
-Gan�, Guzm�n, y perd�:
+Gané, Guzmán, y perdí:
 
 
 
-  ni es de acero ni es de cera,
+  ni es de acero ni es de cera,
 
 
 
@@ -10958,17 +10933,17 @@ que ni el favor me trae loco,
 2420
 
 
-ni el desd�n me desespera.
+ni el desdén me desespera.
 
 
-
+ 
 
 Sale FELICIANO.
 
-
+ 
 
 FELICIANO.
-  Bien puede ser que Guzm�n
+  Bien puede ser que Guzmán
 
 
 
@@ -10984,23 +10959,23 @@ si los ojos fe no dan.
 2425
 
 
-  Yo sabr� si es do�a Juana,
+  Yo sabré si es doña Juana,
 
 
 
 que anda de paje encubierta.
 
 
-DO�A IN�S.
-Esta es, se�or, cosa cierta:
+DOÑA INÉS.
+Esta es, señor, cosa cierta:
 
 
 
-ad�rate la aldeana.
+adórate la aldeana.
 
 
 
-  A m� me dijo (ans� goce
+  A mí me dijo (ansí goce
 2430
 
 
@@ -11008,7 +10983,7 @@ lo que me obliga a perder)
 
 
 
-�Dile que me venga a ver
+«Dile que me venga a ver
 
 
 
@@ -11016,47 +10991,47 @@ aquesta noche a las doce;
 
 
 
-  que aguard�ndole a una reja
+  que aguardándole a una reja
 
 
 
-en centinela estar�,
+en centinela estaré,
 2435
 
 
-y con su vista dar�
+y con su vista daré
 
 
 
-satisfacci�n a su queja.
+satisfacción a su queja.
 
 
 DON PEDRO.
-  Dame esos pies.
+  Dame esos pies.
 
 
-DO�A IN�S.
+DOÑA INÉS.
               Quedo, quedo,
 
 
 
-que no est�s en ti, se�or.
+que no estás en ti, señor.
 
 
 
-  Ap.   (Basta, que en enredador
+  Ap.   (Basta, que en enredador
 2440
 
 
-he dado: �gentil enredo
+he dado: ¡gentil enredo
 
 
 
-  pienso hacer aquesta noche!)
+  pienso hacer aquesta noche!)
 
 
 DON PEDRO.
-F�nix soy en dicha solo.
+Fénix soy en dicha solo.
 
 
 
@@ -11064,11 +11039,11 @@ Acaba, famoso Apolo,
 
 
 
-apresura m�s tu coche.
+apresura más tu coche.
 2445
 
 
-  �Oh m�s que dichoso amante!
+  ¡Oh más que dichoso amante!
 
 
 
@@ -11076,21 +11051,21 @@ Los cielos favor me dan.
 
 
 
-Ven y dar�sme, Guzm�n,
+Ven y darásme, Guzmán,
 
 
 
 casco, coleto y montante.
 
 
+ 
 
+Vanse DON PEDRO y DOÑA INÉS.
 
-Vanse DON PEDRO y DO�A IN�S.
-
-
+ 
 
 FELICIANO.
-  Basta, que ya muestra amor
+  Basta, que ya muestra amor
 2450
 
 
@@ -11106,7 +11081,7 @@ a que pruebe su valor.
 
 
 
-  No es mujer Guzm�n; ya quiero
+  No es mujer Guzmán; ya quiero
 
 
 
@@ -11118,11 +11093,11 @@ y a don Pedro amor tuviera,
 
 
 
-no fuera ans� su tercero.
+no fuera ansí su tercero.
 
 
 
-  Esta noche he de salir,
+  Esta noche he de salir,
 
 
 
@@ -11137,14 +11112,14 @@ que quiero experimentar
 si sabe don Pedro huir.
 
 
-
+ 
 
 Vase y salen DON LUIS y CARRASCO.
 
-
+ 
 
 DON LUIS.
-  Esta noche me prev�n
+  Esta noche me prevén
 
 
 
@@ -11156,11 +11131,11 @@ que ya mi amor bien pagado
 
 
 
-corre pr�spero.
+corre próspero.
 
 
 CARRASCO.
-            Est� bien.
+            Está bien.
 2465
 
 
@@ -11168,11 +11143,11 @@ Y yo, vuelto a ser lacayo,
 
 
 
-�he de acompa�arte?
+¿he de acompañarte?
 
 
 DON LUIS.
-                 S�.
+                 Sí.
 
 
 CARRASCO.
@@ -11184,7 +11159,7 @@ yo basto, que soy un rayo.
 
 
 
-  Aunque andar rondando rejas
+  Aunque andar rondando rejas
 2470
 
 
@@ -11200,15 +11175,15 @@ aguzadas las orejas,
 
 
 
-  y a traici�n un hombre espera,
+  y a traición un hombre espera,
 
 
 
-que sin saber d�nde est�,
+que sin saber dónde está,
 2475
 
 
-antes que diga �qui�n va?
+antes que diga ¿quién va?
 
 
 
@@ -11216,7 +11191,7 @@ le lleva una pierna entera.
 
 
 
-  Pero, porque no me ofenda,
+  Pero, porque no me ofenda,
 
 
 
@@ -11232,7 +11207,7 @@ otras piernas en la tienda.
 
 
 
-  Como un San Jorge me pinto,
+  Como un San Jorge me pinto,
 
 
 
@@ -11248,11 +11223,11 @@ con un pellejo de tinto,
 2485
 
 
-  con cuyas armas ir�
+  con cuyas armas iré
 
 
 
-m�s valiente que un rufo,
+más valiente que un rufo,
 
 
 
@@ -11260,15 +11235,15 @@ pues con arrojar un tufo
 
 
 
-muerte de pu�o dar�.
+muerte de puño daré.
 
 
 DON LUIS.
-  Plega a Dios no huygas despu�s.
+  Plega a Dios no huygas después.
 2490
 
 CARRASCO.
-�Huir? �C�mo he de poder,
+¿Huir? ¿Cómo he de poder,
 
 
 
@@ -11280,11 +11255,11 @@ traigo grillos en los pies?
 
 
 DON LUIS.
-  Ven, loco, que es noche ya,
+  Ven, loco, que es noche ya,
 
 
 
-y ver�s, aunque es escura,
+y verás, aunque es escura,
 2495
 
 
@@ -11296,7 +11271,7 @@ que luz a mis ojos da.
 
 
 CARRASCO.
-  �Ay Dios! �Y qu� ventolera
+  ¡Ay Dios! ¡Y qué ventolera
 
 
 
@@ -11312,23 +11287,23 @@ CARRASCO.
 2500
 
 
-s�rvame el cuero de cuera.
+sírvame el cuero de cuera.
 
 
-
+ 
 
 Vanse.
 
-Sale ANG�LICA a una ventana.
+Sale ANGÉLICA a una ventana.
+
+ 
+
+ANGÉLICA.
+  Movido de mis ruegos, Febo el paso
 
 
 
-ANG�LICA.
-  Movido de mis ruegos, Febo el paso
-
-
-
-alarg� de su carro rubicundo,
+alargó de su carro rubicundo,
 
 
 
@@ -11340,11 +11315,11 @@ tan presto madrugando de su ocaso.
 2505
 
 
-  Vino la noche, y con el negro raso
+  Vino la noche, y con el negro raso
 
 
 
-de sus ropas, caus� sue�o profundo,
+de sus ropas, causó sueño profundo,
 
 
 
@@ -11352,11 +11327,11 @@ muerte que da a la vida ser segundo,
 
 
 
-si no es a m� que velo y que me abraso.
+si no es a mí que velo y que me abraso.
 
 
 
-  Amor me manda que velando aguarde
+  Amor me manda que velando aguarde
 2510
 
 
@@ -11364,49 +11339,49 @@ a quien, sin haber visto, me enamora.
 
 
 
-�Extra�a fuerza! �grave desatino!
+¡Extraña fuerza! ¡grave desatino!
 
 
 
-  Temor me yela porque me acobarde;
+  Temor me yela porque me acobarde;
 
 
 
-mas llega tarde ya, que en mi alma mora
+mas llega tarde ya, que en mi alma mora 
 
 
 
 por quien pienso seguir este camino.
 2515
 
+ 
 
+Sale DON LUIS, de galán, y CARRASCO, de lacayo.
 
-Sale DON LUIS, de gal�n, y CARRASCO, de lacayo.
-
-
+ 
 
 DON LUIS.
-  Con una china encamina
+  Con una china encamina
 
 
 
-la se�a de mi favor.
+la seña de mi favor.
 
 
 CARRASCO.
-Busca otra se�a mejor,
+Busca otra seña mejor,
 
 
 
-que est� muy lejos la China.
+que está muy lejos la China.
 
 
 DON LUIS.
-  Di, mentecato, animal,
+  Di, mentecato, animal,
 2520
 
 
-�no tienes el suelo lleno
+¿no tienes el suelo lleno
 
 
 
@@ -11414,7 +11389,7 @@ de chinas?
 
 
 CARRASCO.
-        �Chinicas? �Bueno!
+        ¿Chinicas? ¡Bueno!
 
 
 
@@ -11422,7 +11397,7 @@ La China que Portugal
 
 
 
-  descubri�, pens� dec�as.
+  descubrió, pensé decías.
 
 
 
@@ -11430,25 +11405,25 @@ Esta china va, que es boba:
 2525
 
 
-m�s pesa que media arroba.
+más pesa que media arroba.
 
 
-
+ 
 
 Toma una piedra muy grande.
 
-
+ 
 
 DON LUIS.
-Ciertas son las dichas m�as.
+Ciertas son las dichas mías.
 
 
-ANG�LICA.
-  �Es don Luis?
+ANGÉLICA.
+  ¿Es don Luis?
 
 
 CARRASCO.
-             �Ves tu simpleza?
+             ¿Ves tu simpleza?
 
 
 
@@ -11456,7 +11431,7 @@ Si yo esta china tirara,
 
 
 
-claro est� que la quebrara
+claro está que la quebrara
 2530
 
 
@@ -11464,7 +11439,7 @@ a tu dama la cabeza.
 
 
 DON LUIS.
-  No soy sino vos, se�ora;
+  No soy sino vos, señora;
 
 
 
@@ -11472,7 +11447,7 @@ que si el alma es la que da
 
 
 
-el ser, y la vuestra est�
+el ser, y la vuestra está
 
 
 
@@ -11480,27 +11455,27 @@ mi cuerpo animando agora,
 2535
 
 
-  pues mi alma receb�s,
+  pues mi alma recebís,
 
 
 
-a m� la vuestra pas�.
+a mí la vuestra pasó.
 
 
 
-Ang�lica ser� yo,
+Angélica seré yo,
 
 
 
-y vos ser�is don Luis.
+y vos seréis don Luis.
 
 
 CARRASCO.
-  Conforme aqueste despacho,
+  Conforme aqueste despacho,
 2540
 
 
-Ang�lica viene a ser
+Angélica viene a ser
 
 
 
@@ -11508,35 +11483,35 @@ juntamente hombre y mujer,
 
 
 
-y t�, se�or, marimacho.
+y tú, señor, marimacho.
 
 
-ANG�LICA.
-  �Est� en vuestra compa��a
+ANGÉLICA.
+  ¿Está en vuestra compañía
 
 
 
-Tom�?
+Tomé?
 
 
 DON LUIS.
-      Conmigo se halla.
+      Conmigo se halla.
 2545
 
-ANG�LICA.
-No me habla, �c�mo calla?
+ANGÉLICA.
+No me habla, ¿cómo calla?
 
 
 DON LUIS.
-Es mudo en presencia m�a.
+Es mudo en presencia mía.
 
 
 
-  Concierto entre los dos fue,
+  Concierto entre los dos fue,
 
 
 
-se�ora, ya que lo o�s,
+señora, ya que lo oís,
 
 
 
@@ -11544,11 +11519,11 @@ que hablando con vos don Luis,
 2550
 
 
-mudo estuviese Tom�;
+mudo estuviese Tomé;
 
 
 
-  y agora, ya que yo acudo,
+  y agora, ya que yo acudo,
 
 
 
@@ -11556,23 +11531,23 @@ y con vos mi amor entablo,
 
 
 
-es raz�n, que pues yo hablo,
+es razón, que pues yo hablo,
 
 
 
-que Tom� se quede mudo.
+que Tomé se quede mudo.
 2555
 
-ANG�LICA.
-  Deb�isle mucha amistad;
+ANGÉLICA.
+  Debéisle mucha amistad;
 
 
 
-no tiene Tom� un segundo,
+no tiene Tomé un segundo,
 
 
 
-no hay otro Tom� en el mundo
+no hay otro Tomé en el mundo
 
 
 
@@ -11580,7 +11555,7 @@ que tenga tanta lealtad.
 
 
 DON LUIS.
-  Si importa que me acredite,
+  Si importa que me acredite,
 2560
 
 
@@ -11596,7 +11571,7 @@ aunque poco se permite,
 
 
 
-  sabed que tengo valor,
+  sabed que tengo valor,
 
 
 
@@ -11608,11 +11583,11 @@ la nobleza que en Galicia
 
 
 
-me dej� mi antecesor.
+me dejó mi antecesor.
 
 
 
-  Aunque la alabanza ultraja,
+  Aunque la alabanza ultraja,
 
 
 
@@ -11628,7 +11603,7 @@ si no le llevo ventaja.
 
 
 
-  Porque en fuerzas, la ocasi�n
+  Porque en fuerzas, la ocasión
 
 
 
@@ -11640,15 +11615,15 @@ del temor con que los tres
 
 
 
-huyeron de mi bord�n.
+huyeron de mi bordón.
 2575
 
 
-  En obligaci�n, es llano
+  En obligación, es llano
 
 
 
-que me la ten�is a m�,
+que me la tenéis a mí,
 
 
 
@@ -11656,11 +11631,11 @@ pues que libertad os di
 
 
 
-cuando os la rob� el tirano.
+cuando os la robó el tirano.
 
 
 
-  En amor, eslo forzoso,
+  En amor, eslo forzoso,
 2580
 
 
@@ -11668,7 +11643,7 @@ pues los dos hemos mostrado
 
 
 
-que el m�o es casto y honrado
+que el mío es casto y honrado
 
 
 
@@ -11676,7 +11651,7 @@ y el suyo torpe y vicioso.
 
 
 
-  En nobleza, mi nobleza
+  En nobleza, mi nobleza
 
 
 
@@ -11688,11 +11663,11 @@ la truecan muchos por cobre;
 
 
 
-y ans�, si por la riqueza
+y ansí, si por la riqueza
 
 
 
-  que tiene don Pedro os cobra,
+  que tiene don Pedro os cobra,
 
 
 
@@ -11708,15 +11683,15 @@ y con vos todo me sobra.
 
 
 
-  �Pues qu� he de hacer si Fulgencio
+  ¿Pues qué he de hacer si Fulgencio
 
 
 
-os quiere con �l casar?
+os quiere con él casar?
 
 
-ANG�LICA.
-Antes se agotar� el mar,
+ANGÉLICA.
+Antes se agotará el mar,
 
 
 
@@ -11724,7 +11699,7 @@ y el infierno con silencio,
 2595
 
 
-  y la ma�ana sin tarde,
+  y la mañana sin tarde,
 
 
 
@@ -11732,7 +11707,7 @@ que el sol se divida en dos
 
 
 
-ver� don Pedro, que a vos
+verá don Pedro, que a vos
 
 
 
@@ -11740,7 +11715,7 @@ os deje por un cobarde.
 
 
 
-  Pues vuestro amor no resisto,
+  Pues vuestro amor no resisto,
 2600
 
 
@@ -11756,7 +11731,7 @@ ya que os conozco y he visto.
 
 
 
-  Sola ser� de don Luis
+  Sola seré de don Luis
 
 
 
@@ -11768,19 +11743,19 @@ dadme de esposo la mano.
 
 
 DON LUIS.
-Alma, �qu� escuch�is?, �qu� o�s?
+Alma, ¿qué escucháis?, ¿qué oís?
 
 
 
-  Carrasco, Carrasco, amigo,
+  Carrasco, Carrasco, amigo,
 
 
 
-ponte aqu� debajo, ponte
+ponte aquí debajo, ponte
 
 
 
-y servir�sme de monte,
+y servirásme de monte,
 2610
 
 
@@ -11788,7 +11763,7 @@ siendo de mi bien testigo,
 
 
 
-  para que desde tu altura
+  para que desde tu altura
 
 
 
@@ -11804,7 +11779,7 @@ que dio mano a mi ventura.
 2615
 
 
-  Ea, s� conmigo franco,
+  Ea, sé conmigo franco,
 
 
 
@@ -11812,11 +11787,11 @@ ponte.
 
 
 CARRASCO.
-     �No fuera raz�n,
+     ¿No fuera razón,
 
 
 
-como llevan al serm�n
+como llevan al sermón
 
 
 
@@ -11824,7 +11799,7 @@ la silla, trujera un banco
 
 
 
-  para subir, o una cuba,
+  para subir, o una cuba,
 2620
 
 
@@ -11839,21 +11814,21 @@ DON LUIS.
 Ponte, ponte porque suba.
 
 
-
+ 
 
 Sube por las espaldas de CARRASCO.
 
+ 
 
 
-
-  Dadme esa mano divina,
+  Dadme esa mano divina,
 
 
 
 en quien mi gloria imagino.
 2625
 
-ANG�LICA.
+ANGÉLICA.
 Tomad, bello peregrino,
 
 
@@ -11862,7 +11837,7 @@ que soy vuestra peregrina.
 
 
 DON LUIS.
-  �Oh mano, de quien asida
+  ¡Oh mano, de quien asida
 
 
 
@@ -11870,7 +11845,7 @@ mi esperanza se regala!
 
 
 
-�Mano hermosa, aqu� se�ala
+¡Mano hermosa, aquí señala
 2630
 
 
@@ -11878,7 +11853,7 @@ hoy las horas de mi vida!
 
 
 
-  �Mano que da a mi ventura
+  ¡Mano que da a mi ventura
 
 
 
@@ -11886,7 +11861,7 @@ la ganancia en quien espero!
 
 
 CARRASCO.
-�Oh mano de alg�n mortero,
+¡Oh mano de algún mortero,
 
 
 
@@ -11894,7 +11869,7 @@ de papel o de grosura!
 2635
 
 
-  Acortemos las lisonjas,
+  Acortemos las lisonjas,
 
 
 
@@ -11910,47 +11885,47 @@ que son favores de monjas.
 
 
 
-  Y mira que eres de plomo.
+  Y mira que eres de plomo.
 2640
 
 DON LUIS.
-�Dulce mano!
+¡Dulce mano!
 
 
 CARRASCO.
-           Volvi� a la tema.
+           Volvió a la tema.
 
 
 
-�Cuerpo de Dios con la flema!
+¡Cuerpo de Dios con la flema!
 
 
 
-�Ah, don Luis, que me desplomo,
+¡Ah, don Luis, que me desplomo,
 
 
 
-  que pesas como el acero!
+  que pesas como el acero!
 
 
 
-Acaba, baja, se�or.
+Acaba, baja, señor.
 2645
 
 DON LUIS.
-�No ves que es fuego el amor?
+¿No ves que es fuego el amor?
 
 
 
-Luego yo ser� ligero.
+Luego yo seré ligero.
 
 
 
-  �Mi bien! �que os he de dejar?
+  ¡Mi bien! ¿que os he de dejar?
 
 
-ANG�LICA.
-�Mi bien! �que no os he de ver?
+ANGÉLICA.
+¡Mi bien! ¿que no os he de ver?
 
 
 CARRASCO.
@@ -11958,63 +11933,63 @@ Amante de Lucifer,
 2650
 
 
-�que no te quieres bajar?
+¿que no te quieres bajar?
 
 
 DON LUIS.
-  Sin vos mi muerte se alarga.
+  Sin vos mi muerte se alarga.
 
 
-ANG�LICA.
+ANGÉLICA.
 Sin vos mi muerte publico.
 
 
 CARRASCO.
-Yo, se�ores, soy borrico
+Yo, señores, soy borrico
 
 
 
 y me he de echar con la carga.
 2655
 
-
+ 
 
 Deja caer a DON LUIS.
 
-
+ 
 
 DON LUIS.
-  Necio, fin de mi sosiego,
+  Necio, fin de mi sosiego,
 
 
 
 mentecato, impertinente...
 
 
-ANG�LICA.
+ANGÉLICA.
 Parece que suena gente.
 
 
 
-Adi�s.
+Adiós.
 
 
 DON LUIS.
-      Adi�s.
+      Adiós.
 
 
-ANG�LICA.
+ANGÉLICA.
            Volved luego.
 
 
-
+ 
 
 Vanse y sale FELICIANO, de noche
 
-
+ 
 
 FELICIANO.
-  Este amante, que a mi prima
+  Este amante, que a mi prima
 2660
 
 
@@ -12022,41 +11997,41 @@ suele rondar, he de ver
 
 
 
-con qu� valor y poder
+con qué valor y poder
 
 
 
 contra mi espada se anima,
 
 
+ 
+
+Sale DOÑA INÉS vestida de mujer a una ventana baja.
+
+ 
+
+DOÑA INÉS.
+  Gente suena; don Pedro es.
 
 
-Sale DO�A IN�S vestida de mujer a una ventana baja.
 
-
-
-DO�A IN�S.
-  Gente suena; don Pedro es.
-
-
-
-Yo le enga�o desta forma;
+Yo le engaño desta forma;
 2665
 
 
-que si el �ngel se transforma,
+que si el ángel se transforma,
 
 
 
-Ang�lica es do�a In�s.
+Angélica es doña Inés.
 
 
 
-  �Ce! �es don Pedro?
+  ¡Ce! ¿es don Pedro?
 
 
 FELICIANO.   Ap.
-                  (Esta es mi prima.
+                  (Esta es mi prima.
 
 
 
@@ -12072,11 +12047,11 @@ que soy don Pedro.)   A ella. Ya estima
 
 
 
-  mi alma aquese favor,
+  mi alma aquese favor,
 
 
 
-bello due�o de mis ojos,
+bello dueño de mis ojos,
 
 
 
@@ -12088,11 +12063,11 @@ regalo de mi dolor.
 2675
 
 
-  Vi�ndoos piensa mi alegr�a
+  Viéndoos piensa mi alegría
 
 
 
-que el sol par� aqu� su coche,
+que el sol paró aquí su coche,
 
 
 
@@ -12100,47 +12075,47 @@ pues dice el cielo que es noche
 
 
 
-y esa reja que es de d�a.
+y esa reja que es de día.
 
 
 
-  Ya nuestro oriente espa�ol
+  Ya nuestro oriente español
 2680
 
 
-gozar� por favor nuevo
+gozará por favor nuevo
 
 
 
-de d�a la luz de Febo,
+de día la luz de Febo,
 
 
 
 de noche a vos, que sois sol.
 
 
-DO�A IN�S.
-  Muy lisonjero ven�s.
+DOÑA INÉS.
+  Muy lisonjero venís.
 
 
 FELICIANO.
 Digo lo que en vos conozco.
 2685
 
-DO�A IN�S.
+DOÑA INÉS.
 Ap.  (Aquesta voz desconozco.
 
 
 
-Si quer�is como fing�s,
+Si queréis como fingís,
 
 
 
-  Ang�lica que os estima,
+  Angélica que os estima,
 
 
 
-con raz�n su amor entabla.)
+con razón su amor entabla.)
 
 
 FELICIANO.
@@ -12148,11 +12123,11 @@ Ap.  (No es esta la voz ni habla
 2690
 
 
-de Ang�lica; no es mi prima:
+de Angélica; no es mi prima:
 
 
 
-  mara�a hay aqu�, por Dios;
+  maraña hay aquí, por Dios;
 
 
 
@@ -12160,15 +12135,15 @@ quiero ver en lo que para.
 
 
 
-Ser� mi ventura clara,
+Será mi ventura clara,
 
 
 
-favoreci�ndome vos.
+favoreciéndome vos.
 2695
 
 
-  Y ans�, pues mi ardiente queja
+  Y ansí, pues mi ardiente queja
 
 
 
@@ -12184,51 +12159,51 @@ asido a esa luz y reja,
 
 
 
-  y estimar� esa merced
+  y estimaré esa merced
 2700
 
 
 por ventura soberana.)
 
 
-DO�A IN�S.
+DOÑA INÉS.
 No es muy alta la ventana.
 
 
 
-�Podr�is subir?
+¿Podréis subir?
 
 
 FELICIANO.
-             Si hay pared,
+             Si hay pared,
 
 
 
-  �por qu� no? Dadme esa mano,
+  ¿por qué no? Dadme esa mano,
 
 
 
 si la merezco besar.
 2705
 
-DO�A IN�S.
+DOÑA INÉS.
 Ya nada os puedo negar.
 
 
 FELICIANO.
-�Oh dichoso Feliciano!
+¡Oh dichoso Feliciano!
 
 
-DO�A IN�S.
-  Es tanta la oscuridad
+DOÑA INÉS.
+  Es tanta la oscuridad
 
 
 
-que no os puedo ver ans�.
+que no os puedo ver ansí.
 
 
 FELICIANO.
-Ap.  (�Este no es el paje? S�.
+Ap.  (¿Este no es el paje? Sí.
 2710
 
 
@@ -12236,7 +12211,7 @@ Ya me anima esta verdad.
 
 
 
-  S�, que en tales aventuras,
+  Sí, que en tales aventuras,
 
 
 
@@ -12251,8 +12226,8 @@ como el alma toda es llama,
 suele ver el alma a escuras.)
 2715
 
-DO�A IN�S.
-  �No me habl�is? �qui�n dificulta
+DOÑA INÉS.
+  ¿No me habláis? ¿quién dificulta
 
 
 
@@ -12260,30 +12235,30 @@ tanto favor?
 
 
 FELICIANO.
-          En consejo
+          En consejo
 
 
 
-entr� el alma, cuyo espejo
+entró el alma, cuyo espejo
 
 
 
 sois vos.
 
 
-DO�A IN�S.
-       Y d�l �qu� resulta?
+DOÑA INÉS.
+       Y dél ¿qué resulta?
 
 
 FELICIANO.
-  Que os pida el alma una mano
+  Que os pida el alma una mano
 2720
 
 
-de esposa. �Qu� respond�is?
+de esposa. ¿Qué respondéis?
 
 
-DO�A IN�S.
+DOÑA INÉS.
 Que estimo que me la deis.
 
 
@@ -12291,35 +12266,35 @@ FELICIANO.
 Mil glorias con eso gano.
 
 
-DO�A IN�S.
-  Veis aqu� la m�a en muestra
+DOÑA INÉS.
+  Veis aquí la mía en muestra
 
 
 
-de que el coraz�n os doy.
+de que el corazón os doy.
 2725
 
 FELICIANO.
-Ser� vuestro desde hoy.
+Seré vuestro desde hoy.
 
 
-DO�A IN�S.
+DOÑA INÉS.
 Yo desde hoy esposa vuestra.
 
 
 FELICIANO.
-  Ya mi amor est� premiado.
+  Ya mi amor está premiado.
 
 
-DO�A IN�S.
+DOÑA INÉS.
 Yo soy sola la que gana.
 
 
 FELICIANO.
-Ap.  (Yo he burlado a do�a Juana.)
+Ap.  (Yo he burlado a doña Juana.)
 2730
 
-DO�A IN�S.
+DOÑA INÉS.
 Ap.  (Don Pedro queda burlado.)
 
 
@@ -12327,34 +12302,34 @@ FELICIANO.
 Gente suena.
 
 
-DO�A IN�S.
+DOÑA INÉS.
           Pues forzosa
 
 
 
-ser�, se�or, mi partida.
+será, señor, mi partida.
 
 
 
-Adi�s, due�o de mi vida.
+Adiós, dueño de mi vida.
 
 
 FELICIANO.
-Adi�s, bell�sima esposa.
+Adiós, bellísima esposa.
 2735
 
+ 
 
+Vase DOÑA INÉS y sale DON PEDRO vestido de noche.
 
-Vase DO�A IN�S y sale DON PEDRO vestido de noche.
-
-
+ 
 
 DON PEDRO.
-  Basta, que se me ha perdido
+  Basta, que se me ha perdido
 
 
 
-Guzmanillo y no s� adonde
+Guzmanillo y no sé adonde
 
 
 
@@ -12362,21 +12337,21 @@ aquesta noche se esconde,
 
 
 
-pues que me dej� y se ha ido
+pues que me dejó y se ha ido
 
 
 
-  de aquesta suerte.
+  de aquesta suerte.
 
 
-
+ 
 
 Salen CARRASCO y DON LUIS.
 
-
+ 
 
 DON LUIS.
-                Detente,
+                Detente,
 2740
 
 
@@ -12384,27 +12359,27 @@ que hay rondantes en la calle.
 
 
 CARRASCO.
-�Hay m�s que llegar y dalle?
+¿Hay más que llegar y dalle?
 
 
 DON LUIS.
-Calla, arr�mate aqu� en frente.
+Calla, arrímate aquí en frente.
 
 
 CARRASCO.
-  �Qui�n diablos tiene aqu� amores?
+  ¿Quién diablos tiene aquí amores?
 
 
 
-�Si es don Pedro?
+¿Si es don Pedro?
 
 
 DON LUIS.
-               Dices bien.
+               Dices bien.
 2745
 
 CARRASCO.
-Mas no ser�, que tambi�n
+Mas no será, que también
 
 
 
@@ -12412,7 +12387,7 @@ hay amantes labradores.
 
 
 DON LUIS.
-  Calla, y mira si se van.
+  Calla, y mira si se van.
 
 
 CARRASCO.
@@ -12424,33 +12399,33 @@ Quiero tirar una piedra.
 2750
 
 CARRASCO.
-Por Dios, que hay otro gal�n.
+Por Dios, que hay otro galán.
 
 
 DON PEDRO.
-  Aun la mano no se ve.
+  Aun la mano no se ve.
 
 
 
-�No hay una piedra en la calle?
+¿No hay una piedra en la calle?
 
 
 CARRASCO.
-Si ac� llega �no he de dalle?
+Si acá llega ¿no he de dalle?
 
 
 DON PEDRO.
-�Vive Dios, que me enlod�!
+¡Vive Dios, que me enlodé!
 2755
 
-
+ 
 
 Llega a limpiarse en la pared y toca en la cara a CARRASCO.
 
-
+ 
 
 CARRASCO.
-  �Puf! �Cuerpo de Jesucristo
+  ¡Puf! ¡Cuerpo de Jesucristo
 
 
 
@@ -12470,11 +12445,11 @@ pasara.
 
 
 DON LUIS.
-      Calla. �Qu� has visto?
+      Calla. ¿Qué has visto?
 
 
 
-  �Qu� tienes, necio? �Qu� escarbas?
+  ¿Qué tienes, necio? ¿Qué escarbas?
 2760
 
 CARRASCO.
@@ -12482,7 +12457,7 @@ Uno escarba y otro hurga,
 
 
 
-pues sin ser d�a de purga
+pues sin ser día de purga
 
 
 
@@ -12490,11 +12465,11 @@ se purga sobre mis barbas.
 
 
 DON LUIS.
-  Calla.
+  Calla.
 
 
 DON PEDRO.
-      No s� a qu� limpi�
+      No sé a qué limpié
 
 
 
@@ -12506,11 +12481,11 @@ Gente parece que hablando
 
 
 
-est� en la calle. �Qu� har�?
+está en la calle. ¿Qué haré?
 
 
 FELICIANO.
-  Ahora bien, yo determino
+  Ahora bien, yo determino
 
 
 
@@ -12518,11 +12493,11 @@ ver si don Pedro es valiente.
 
 
 
-�Ah, caballero! �qu� gente?
+¡Ah, caballero! ¿qué gente?
 2770
 
 DON PEDRO.
-Gente de paz, �hay camino?
+Gente de paz, ¿hay camino?
 
 
 FELICIANO.
@@ -12530,15 +12505,15 @@ Si dice primero el nombre,
 
 
 
-podr� ser.
+podrá ser.
 
 
 DON PEDRO.
-        �Importa acaso?
+        ¿Importa acaso?
 
 
 FELICIANO.
-S�, porque guardo este paso.
+Sí, porque guardo este paso.
 
 
 DON PEDRO.
@@ -12546,69 +12521,69 @@ Pues yo soy...
 
 
 FELICIANO.
-           �Qui�n es?
+           ¿Quién es?
 
 
 DON PEDRO.
-                    Un hombre.
+                    Un hombre.
 2775
 
 FELICIANO.
-  Quiz� no sois sino bestia.
+  Quizá no sois sino bestia.
 
 
 DON PEDRO.
-D�galo agora mi espada.
+Dígalo agora mi espada.
 
 
+ 
 
+Meten mano y éntranse acuchillando.
 
-Meten mano y �ntranse acuchillando.
-
-
+ 
 
 DON LUIS.
 Esa es pendencia escusada.
 
 
 CARRASCO.
-No haya ri�a ni molestia,
+No haya riña ni molestia,
 
 
 
-  no han querido...
+  no han querido...
 
 
 DON LUIS.
-              Pues �qu� haces?
+              Pues ¿qué haces?
 2780
 
 
-S�gueme, Carrasco. Ven,
+Sígueme, Carrasco. Ven,
 
 
 
-que yo los sigo tambi�n.
+que yo los sigo también.
 
 
 CARRASCO.
 Yo basto para estas paces.
 
 
-
+ 
 
 Vanse.
 
-Salen FULGENCIO y ANG�LICA.
+Salen FULGENCIO y ANGÉLICA.
 
-
+ 
 
 FULGENCIO.
-Ma�ana has de casarte: no repliques.
+Mañana has de casarte: no repliques.
 
 
-ANG�LICA.
-A�n es temprano agora. Deja, padre,
+ANGÉLICA.
+Aún es temprano agora. Deja, padre,
 2785
 
 
@@ -12624,7 +12599,7 @@ ya las tienes para ellos suficientes,
 
 
 
-y tu esposo traer� para las bodas
+y tu esposo traerá para las bodas
 
 
 
@@ -12635,14 +12610,14 @@ vestidos ricos y costosas joyas.
 A prevenirle voy; haz lo que mando.
 
 
-
+ 
 
 Vase.
 
+ 
 
-
-ANG�LICA.
-Primero prevendr� mi triste muerte,
+ANGÉLICA.
+Primero prevendré mi triste muerte,
 
 
 
@@ -12653,18 +12628,18 @@ pues antes que don Pedro, se previno
 para mi esposo el bello peregrino.
 
 
+ 
 
+Sale DON LUIS de labrador, y DOÑA INÉS de paje.
 
-Sale DON LUIS de labrador, y DO�A IN�S de paje.
+ 
 
-
-
-DO�A IN�S.
-  Tom�, en vano os encubr�s.
+DOÑA INÉS.
+  Tomé, en vano os encubrís.
 2795
 
 
-Ya yo s� que un caballero
+Ya yo sé que un caballero
 
 
 
@@ -12672,11 +12647,11 @@ sois, aunque por colmenero
 
 
 
-aquese traje os vest�s.
+aquese traje os vestís.
 
 
-ANG�LICA.
-  Tom� y do�a Juana est�n
+ANGÉLICA.
+  Tomé y doña Juana están
 
 
 
@@ -12688,19 +12663,19 @@ y de lo que es informarme.
 
 
 DON LUIS.
-Enga�ado est�s, Guzm�n.
+Engañado estás, Guzmán.
 
 
-DO�A IN�S.
-  �Don Luis!
+DOÑA INÉS.
+  ¡Don Luis!
 
 
-ANG�LICA.
-   El colmenero
+ANGÉLICA.
+   El colmenero
 
 
 
-es don Luis, seg�n el paje
+es don Luis, según el paje
 
 
 
@@ -12712,31 +12687,31 @@ es propio de caballero.
 
 
 
-  Ya cesaron mis enojos.
+  Ya cesaron mis enojos.
 
 
-DO�A IN�S.
-�No me conoc�is? Ea, pues.
+DOÑA INÉS.
+¿No me conocéis? Ea, pues.
 
 
 DON LUIS.
-�Es mi hermana do�a In�s!
+¡Es mi hermana doña Inés!
 
 
 
-�Luz clara de aquestos ojos!
+¡Luz clara de aquestos ojos!
 2810
 
-ANG�LICA.
-  �Luz de sus ojos! �Ay, cielos!
+ANGÉLICA.
+  ¡Luz de sus ojos! ¡Ay, cielos!
 
 
 
-Luz, prisi�n y no soy yo.
+Luz, prisión y no soy yo.
 
 
 
-Ya vuestra rabia lleg�
+Ya vuestra rabia llegó
 
 
 
@@ -12744,59 +12719,59 @@ al alma, bastardos celos.
 
 
 DON LUIS.
-Dadme esos brazos, que aqu�...
+Dadme esos brazos, que aquí...
 2815
 
-DO�A IN�S.
+DOÑA INÉS.
 Por ti hice este viaje,
 
 
 
-disfraz�ndome de paje.
+disfrazándome de paje.
 
 
-ANG�LICA.
-�Qu� oigo, cielos? �Ay de m�!
-
-
-
-  �Los brazos a otra mujer?
+ANGÉLICA.
+¿Qué oigo, cielos? ¡Ay de mí!
 
 
 
-�Y de sus ojos! �Traidor!
+  ¿Los brazos a otra mujer?
+
+
+
+¡Y de sus ojos! ¡Traidor!
 2820
 
 
-�A otra mujer? �Ay, amor!
+¿A otra mujer? ¡Ay, amor!
 
 
 
-�Ay de m�! �Qu� hemos de hacer,
+¡Ay de mí! ¿Qué hemos de hacer,
 
 
 
-  alma, en desdicha tan llana?
+  alma, en desdicha tan llana?
 
 
 
-Ya dio mi vida al trav�s.
+Ya dio mi vida al través.
 
 
 
-Enga��me do�a In�s
+Engañóme doña Inés
 2825
 
 
-con nombre de do�a Juana.
+con nombre de doña Juana.
 
 
-DO�A IN�S.
-  Los dos hemos de casarnos.
+DOÑA INÉS.
+  Los dos hemos de casarnos.
 
 
-ANG�LICA.
-�No mientras viviere yo,
+ANGÉLICA.
+¡No mientras viviere yo,
 
 
 
@@ -12808,31 +12783,31 @@ manos!
 
 
 DON LUIS.
-      Ya no hay apartarnos.
+      Ya no hay apartarnos.
 2830
 
-DO�A IN�S.
-  Ya el cielo me dio marido.
+DOÑA INÉS.
+  Ya el cielo me dio marido.
 
 
-ANG�LICA.
-Traidora, a�n no te lo dio,
+ANGÉLICA.
+Traidora, aún no te lo dio,
 
 
 
-que sabr� matarle yo.
+que sabré matarle yo.
 
 
 DON LUIS.
-Extra�o enredo va urdido.
+Extraño enredo va urdido.
 
 
-ANG�LICA.
-  �Y c�mo si ha sido extra�o!
+ANGÉLICA.
+  ¡Y cómo si ha sido extraño!
 2835
 
 
-Pues con extra�o rigor
+Pues con extraño rigor
 
 
 
@@ -12840,33 +12815,33 @@ has estragado tu amor;
 
 
 
-mas todo saldr� en tu da�o.
+mas todo saldrá en tu daño.
 
 
 DON LUIS.
-  Disp�n, do�a In�s, y ordena;
+  Dispón, doña Inés, y ordena;
 
 
 
 que darte contento es justo.
 2840
 
-DO�A IN�S.
+DOÑA INÉS.
 Voy, pues, a tratar tu gusto.
 
 
+ 
+
+Vase DOÑA INÉS.
+
+ 
+
+ANGÉLICA.
+Irás a tratar mi pena.
 
 
-Vase DO�A IN�S.
 
-
-
-ANG�LICA.
-Ir�s a tratar mi pena.
-
-
-
-  Falso, mudable, tirano,
+  Falso, mudable, tirano,
 
 
 
@@ -12882,7 +12857,7 @@ flor marchita y viento vano.
 
 
 
-  Quimera de solo el nombre,
+  Quimera de solo el nombre,
 
 
 
@@ -12898,7 +12873,7 @@ que todo aquesto es el hombre.
 2850
 
 
-  Goza ya a tu do�a In�s,
+  Goza ya a tu doña Inés,
 
 
 
@@ -12910,11 +12885,11 @@ que a don Pedro determino
 
 
 
-querer, pues m�s justo es;
+querer, pues más justo es;
 
 
 
-  que para ti mujer basta
+  que para ti mujer basta
 2855
 
 
@@ -12926,19 +12901,19 @@ y con disfrazar su afrenta
 
 
 
-pretendi� afrentar tu casta.
+pretendió afrentar tu casta.
 
 
 
-  Vuelve a tu primero traje,
+  Vuelve a tu primero traje,
 
 
 
-y no me enga�es jam�s,
+y no me engañes jamás,
 2860
 
 
-que en tu do�a In�s tendr�s
+que en tu doña Inés tendrás
 
 
 
@@ -12946,11 +12921,11 @@ mujer juntamente y paje.
 
 
 
-  Y a aquesta casa no acudas,
+  Y a aquesta casa no acudas,
 
 
 
-villano y falso Tom�,
+villano y falso Tomé,
 
 
 
@@ -12962,11 +12937,11 @@ como los vestidos mudas.
 
 
 
-  Do�a In�s, traidor, te aguarda:
+  Doña Inés, traidor, te aguarda:
 
 
 
-ya no hagas caso de m�,
+ya no hagas caso de mí,
 
 
 
@@ -12978,7 +12953,7 @@ Oye, espera, escucha, aguarda.
 2870
 
 
-  �Qu� enga�o es �ste, fortuna?
+  ¿Qué engaño es éste, fortuna?
 
 
 
@@ -12993,8 +12968,8 @@ mi regalo, mi memoria,
 mi cielo, mi sol, mi luna...
 
 
-ANG�LICA.
-  Tu mal, tu guerra y nublado,
+ANGÉLICA.
+  Tu mal, tu guerra y nublado,
 2875
 
 
@@ -13010,11 +12985,11 @@ tu luna y sol eclipsado.
 
 
 
-  Que ya don Pedro ha de ser
+  Que ya don Pedro ha de ser
 
 
 
-mi due�o: aquesto es forzoso,
+mi dueño: aquesto es forzoso,
 2880
 
 
@@ -13025,18 +13000,18 @@ porque no ha de ser mi esposo
 quien quiso tan vil mujer.
 
 
-
+ 
 
 Vase.
 
-
+ 
 
 DON LUIS.
-  �Oye! Parti�se. �Ay de m�!
+  ¡Oye! Partióse. ¡Ay de mí!
 
 
 
-Voy, que ir� a determinarse,
+Voy, que irá a determinarse,
 
 
 
@@ -13044,21 +13019,21 @@ que la mujer por vengarse
 2885
 
 
-suele hacerse mal a s�.
+suele hacerse mal a sí.
 
 
-
+ 
 
 Vase y salen FULGENCIO y FELICIANO.
 
-
+ 
 
 FULGENCIO.
-  No s� qu� bodas he o�do
+  No sé qué bodas he oído
 
 
 
-de su padre, y ans� quiero
+de su padre, y ansí quiero
 
 
 
@@ -13066,21 +13041,21 @@ que se despose primero.
 
 
 FELICIANO.
-Muy bien lo hab�is advertido.
+Muy bien lo habéis advertido.
 2890
 
+ 
+
+Sale ANGÉLICA y DON LUIS tras ella, y DON PEDRO.
+
+ 
+
+ANGÉLICA.
+  Si he resistido hasta agora
 
 
-Sale ANG�LICA y DON LUIS tras ella, y DON PEDRO.
 
-
-
-ANG�LICA.
-  Si he resistido hasta agora
-
-
-
-vuestro gusto, ya el m�o
+vuestro gusto, ya el mío
 
 
 
@@ -13092,35 +13067,35 @@ DON PEDRO.
 
 
 
-me dad a besar, se�ora.
+me dad a besar, señora.
 
 
 FULGENCIO.
-  Siempre con esa esperanza
+  Siempre con esa esperanza
 2895
 
 
-de tu obediencia viv�.
+de tu obediencia viví.
 
 
-ANG�LICA.
-�Qu� he de hacer, triste de m�?
+ANGÉLICA.
+¿Qué he de hacer, triste de mí?
 
 
 
-�Oh cu�nto puedes, venganza!
+¡Oh cuánto puedes, venganza!
 
 
 DON LUIS.
-  �Tal ven mis confusos ojos?
+  ¿Tal ven mis confusos ojos?
 
 
 
-�Tal mis o�dos oyeron?
+¿Tal mis oídos oyeron?
 2900
 
 
-�Cielos! �cuyo extra�o clima
+¡Cielos! ¿cuyo extraño clima
 
 
 
@@ -13132,7 +13107,7 @@ Si al cielo mi amor subistes,
 
 
 
-�por qu� le abat�s tan presto?
+¿por qué le abatís tan presto?
 
 
 
@@ -13144,7 +13119,7 @@ me entregaste el carro bello,
 
 
 
-�por qu� como a Faet�n
+¿por qué como a Faetón
 
 
 
@@ -13164,7 +13139,7 @@ si creciste en mis favores
 
 
 
-�c�mo menguaste tan presto?
+¿cómo menguaste tan presto?
 
 
 
@@ -13184,15 +13159,15 @@ y en fines de mal inmenso,
 
 
 
-si me hab�ades de dar
+si me habíades de dar
 
 
 
-fin tan m�sero y funesto
+fin tan mísero y funesto
 
 
 
-�para qu� fuistes propicias
+¿para qué fuistes propicias
 
 
 
@@ -13200,7 +13175,7 @@ en mis principios modestos?
 2920
 
 
-Mar, que viv�s en mis ojos,
+Mar, que vivís en mis ojos,
 
 
 
@@ -13224,7 +13199,7 @@ os vais huyendo de miedo;
 
 
 
-aves, que ya no vol�is
+aves, que ya no voláis
 
 
 
@@ -13236,7 +13211,7 @@ peces mudos, y dichosos
 
 
 
-mucho m�s que yo, por serlo,
+mucho más que yo, por serlo,
 2930
 
 
@@ -13252,7 +13227,7 @@ montes altos, animales,
 
 
 
-ya habitar� en vuestros cerros
+ya habitaré en vuestros cerros
 
 
 
@@ -13284,33 +13259,33 @@ celos me han vuelto loco, porque celos
 
 
 
-acabar�n mi vida con el seso.
+acabarán mi vida con el seso.
 
 
 
-Hoy Toledo ver� un loco
+Hoy Toledo verá un loco
 
 
 
-que escogiendo aqu� su entierro,
+que escogiendo aquí su entierro,
 
 
 
-como Sans�n desde�ado,
+como Sansón desdeñado,
 2945
 
 
 gusta de matar muriendo.
 
 
-
+ 
 
 Quita la espada a DON PEDRO y va tras todos.
 
-
+ 
 
 DON PEDRO.
-El colmenero est� loco;
+El colmenero está loco;
 
 
 
@@ -13330,22 +13305,22 @@ Huye, pues, que despedaza
 
 
 
-hasta los �rboles recios.
+hasta los árboles recios.
 
 
 FULGENCIO.
-Hija, gu�rdate del loco.
+Hija, guárdate del loco.
 
 
 DON PEDRO.
 Huid del loco, Fulgencio.
 
 
-
+ 
 
 Huyen todos.
 
-
+ 
 
 DON LUIS.
 Yo soy Orlando el furioso;
@@ -13356,7 +13331,7 @@ que en aqueste sitio mesmo
 
 
 
-le dio Ang�lica fe y mano
+le dio Angélica fe y mano
 
 
 
@@ -13364,7 +13339,7 @@ a Medoro. El seso pierdo.
 
 
 
-Loco estoy. Pero �qu� mucho,
+Loco estoy. Pero ¿qué mucho,
 
 
 
@@ -13380,19 +13355,19 @@ que pierda prudencia y seso?
 
 
 
-�Estoy vivo? Pero no,
+¿Estoy vivo? Pero no,
 
 
 
-que a manos de un desd�n muero.
+que a manos de un desdén muero.
 
 
 
-Pues si muerto �c�mo hablo?
+Pues si muerto ¿cómo hablo?
 2965
 
 
-si no vivo �c�mo siento?
+si no vivo ¿cómo siento?
 
 
 
@@ -13404,7 +13379,7 @@ un hombre alegre y contento.
 
 
 
-�Luego soy mi propia sombra?
+¿Luego soy mi propia sombra?
 
 
 
@@ -13412,7 +13387,7 @@ Sombra no, que tengo cuerpo.
 2970
 
 
-Quiz� sue�o mis desdichas.
+Quizá sueño mis desdichas.
 
 
 
@@ -13428,7 +13403,7 @@ con los dos ojos abiertos.
 
 
 
-Colmenas, �no sois vosotras
+Colmenas, ¿no sois vosotras
 2975
 
 
@@ -13436,7 +13411,7 @@ testigos, aunque groseros,
 
 
 
-que Ang�lica jur� aqu�
+que Angélica juró aquí
 
 
 
@@ -13456,7 +13431,7 @@ que amor para que me amargue,
 
 
 
-ac�bar su miel ha vuelto.
+acíbar su miel ha vuelto.
 
 
 
@@ -13464,11 +13439,11 @@ Pero, si vive en vosotras
 
 
 
-el z�ngano que me ha muerto,
+el zángano que me ha muerto,
 
 
 
-�c�mo mi paciencia sufre
+¿cómo mi paciencia sufre
 2985
 
 
@@ -13492,7 +13467,7 @@ ciego estoy, topo parezco.
 2990
 
 
-Y, siendo ans�, plantas, flores,
+Y, siendo ansí, plantas, flores,
 
 
 
@@ -13504,7 +13479,7 @@ abejas, colmenas, corchos,
 
 
 
-cera, ac�bar, miel, veneno,
+cera, acíbar, miel, veneno,
 
 
 
@@ -13515,11 +13490,11 @@ sentid de mis locuras el exceso,
 pues falta Astolfo que me traiga el seso.
 
 
-
+ 
 
 Derriba y rompe las colmenas y sale CARRASCO.
 
-
+ 
 
 CARRASCO.
 Mirad si lo dije yo:
@@ -13530,19 +13505,19 @@ loco don Luis se ha vuelto.
 
 
 
-�Ay de m�! Su pobre juicio
+¡Ay de mí! Su pobre juicio
 
 
 
-tom� las de Villadiego.
+tomó las de Villadiego.
 3000
 
 
-�Qu� es lo que tienes, se�or?
+¿Qué es lo que tienes, señor?
 
 
 DON LUIS.
-�Oh mi �ngel! �Oh mi cielo!
+¡Oh mi ángel! ¡Oh mi cielo!
 
 
 
@@ -13554,35 +13529,35 @@ mi brazo enlace tu cuello,
 
 
 
-bella Ang�lica del alma.
+bella Angélica del alma.
 3005
 
 CARRASCO.
-�Bueno est�, por Dios, el cuento!
+¡Bueno está, por Dios, el cuento!
 
 
 
-�Yo Ang�lica, con m�s barbas
+¡Yo Angélica, con más barbas
 
 
 
-que un alba�il o arr�ero!
-
-
-DON LUIS.
-�No eres Ang�lica?
-
-
-CARRASCO.
-                No.
+que un albañil o arrïero!
 
 
 DON LUIS.
-�Pues qui�n?
+¿No eres Angélica?
 
 
 CARRASCO.
-           Soy el bodeguero,
+                No.
+
+
+DON LUIS.
+¿Pues quién?
+
+
+CARRASCO.
+           Soy el bodeguero,
 3010
 
 
@@ -13590,11 +13565,11 @@ Carrasco, lacayo tuyo.
 
 
 DON LUIS.
-�Ah, s�! conocerte quiero.
+¡Ah, sí! conocerte quiero.
 
 
 
-Oye, escucha, ven ac�,
+Oye, escucha, ven acá,
 
 
 
@@ -13602,7 +13577,7 @@ que quiero rasgarte el pecho
 
 
 
-porque a mi Ang�lica dicen
+porque a mi Angélica dicen
 3015
 
 
@@ -13618,7 +13593,7 @@ con Medoro, o con don Pedro,
 
 
 
-como a Jon�s la ballena,
+como a Jonás la ballena,
 
 
 
@@ -13626,15 +13601,15 @@ te la tragaste.
 
 
 CARRASCO.
-           �Oh qu� bueno!
+           ¡Oh qué bueno!
 3020
 
 DON LUIS.
-Desabr�chate.
+Desabróchate.
 
 
 CARRASCO.
-           �Qu� dices?
+           ¿Qué dices?
 
 
 DON LUIS.
@@ -13642,7 +13617,7 @@ Desabrocha, acaba, perro.
 
 
 CARRASCO.
-�Ay Dios, que a coces me mata!
+¡Ay Dios, que a coces me mata!
 
 
 
@@ -13650,15 +13625,15 @@ Ya me desabrocho: quedo.
 
 
 
-Vesme aqu� desabrochado.
+Vesme aquí desabrochado.
 3025
 
 DON LUIS.
-�Oh c�ndido y blanco pecho
+¡Oh cándido y blanco pecho
 
 
 
-de aquella Ang�lica ingrata!
+de aquella Angélica ingrata!
 
 
 
@@ -13666,11 +13641,11 @@ Tengo de darte mil besos.
 
 
 CARRASCO.
-�Ay, que me muerde, se�ores!
+¡Ay, que me muerde, señores!
 
 
 DON LUIS.
-Poco mal te har� si muerdo;
+Poco mal te haré si muerdo;
 3030
 
 
@@ -13678,15 +13653,15 @@ si es de yerro el pecho tuyo
 
 
 
-�qu� importa que muerda en yerro?
+¿qué importa que muerda en yerro?
 
 
 CARRASCO.
-�Cuerpo de Cristo contigo!
+¡Cuerpo de Cristo contigo!
 
 
 
-�Soy yo de turr�n o queso
+¿Soy yo de turrón o queso
 
 
 
@@ -13694,31 +13669,31 @@ para comerme a bocados?
 3035
 
 DON LUIS.
-Aqu� mi Ang�lica siento.
+Aquí mi Angélica siento.
 
 
 CARRASCO.
-�D�nde?
+¿Dónde?
 
 
 DON LUIS.
-Dentro en tus entra�as.
+Dentro en tus entrañas.
 
 
 CARRASCO.
-�Dentro de mis entra�as?
+¿Dentro de mis entrañas?
 
 
 DON LUIS.
-                    Dentro.
+                    Dentro.
 
 
 CARRASCO.
-Pre�ado debo de estar.
+Preñado debo de estar.
 
 
 DON LUIS.
-Pre�ado est�s, yo lo veo.
+Preñado estás, yo lo veo.
 3040
 
 CARRASCO.
@@ -13730,11 +13705,11 @@ No, no; que revientes quiero,
 
 
 
-porque es v�bora que nace
+porque es víbora que nace
 
 
 
-Ang�lica, el pecho abriendo.
+Angélica, el pecho abriendo.
 
 
 
@@ -13750,57 +13725,57 @@ ponte a punto.
 
 
 CARRASCO.
-            Ya me pongo.
+            Ya me pongo.
 
 
 
 Pero aguarda, que ya vuelvo.
 
 
-
+ 
 
 Vase.
 
-
+ 
 
 DON LUIS.
-�Huyes, villano? Ya te voy siguiendo,
+¿Huyes, villano? Ya te voy siguiendo,
 
 
 
 que con las alas de mis celos vuelo.
 3050
 
-
+ 
 
 Vase.
 
-Sale ANG�LICA, FULGENCIO, DON PEDRO y DO�A IN�S, de dama.
+Sale ANGÉLICA, FULGENCIO, DON PEDRO y DOÑA INÉS, de dama.
 
+ 
 
-
-DO�A IN�S.
+DOÑA INÉS.
 Don Pedro me dio la mano.
 
 
 DON PEDRO.
-�Yo la mano?
+¿Yo la mano?
 
 
-DO�A IN�S.
-    Aquesto es llano.
-
-
-
-Yo soy Guzm�n. Que el desvelo
+DOÑA INÉS.
+    Aquesto es llano.
 
 
 
-  de un hermano que perd�
+Yo soy Guzmán. Que el desvelo
 
 
 
-ans� me trujo, se�or,
+  de un hermano que perdí
+
+
+
+ansí me trujo, señor,
 3055
 
 
@@ -13808,19 +13783,19 @@ y a fuerza de un casto amor
 
 
 
-como paje te serv�,
+como paje te serví,
 
 
 
-  hasta que ya he conocido
+  hasta que ya he conocido
 
 
 
-que es el fingido Tom�
+que es el fingido Tomé
 
 
 
-por donde al bien que llegu�
+por donde al bien que llegué
 3060
 
 
@@ -13828,15 +13803,15 @@ de ser tuya he conseguido.
 
 
 
-  Que cuando anoche pensaste
+  Que cuando anoche pensaste
 
 
 
-que a tu Ang�lica las quejas
+que a tu Angélica las quejas
 
 
 
-de amor abras� sus rejas
+de amor abrasó sus rejas
 
 
 
@@ -13844,49 +13819,49 @@ conmigo te desposaste.
 3065
 
 DON PEDRO.
-  �Yo anoche te habl� ni vi?
+  ¿Yo anoche te hablé ni vi?
 
 
 
-�Qu� dices?
+¿Qué dices?
 
 
-DO�A IN�S.
-   No es bien que intentes
+DOÑA INÉS.
+   No es bien que intentes
 
 
 
-negarlo. �Ya te arrepientes?
+negarlo. ¿Ya te arrepientes?
 
 
 FELICIANO.
-Todo eso me toca a m�,
+Todo eso me toca a mí,
 
 
 
-  que a m� me distes la mano,
+  que a mí me distes la mano,
 3070
 
 
 si os merezco, de marido.
 
 
+ 
 
+Sale un escribano con unas cartas y dáselas a DON PEDRO.
 
-Sale un escribano con unas cartas y d�selas a DON PEDRO.
-
-
+ 
 
 ESCRIBANO.
 Yo este casamiento impido
 
 
 
-como p�blico escribano.
+como público escribano.
 
 
 
-  Vuestro padre don Fernando
+  Vuestro padre don Fernando
 
 
 
@@ -13901,42 +13876,42 @@ la mano a otra dama, y yo
 soy testigo.
 
 
-ANG�LICA.
+ANGÉLICA.
          Albricias mando
 
 
 
-  al coraz�n.
+  al corazón.
 
 
 DON PEDRO.
-          �Qu� dec�s?
+          ¿Qué decís?
 
 
 ESCRIBANO.
-Que luego a Madrid part�is,
+Que luego a Madrid partáis,
 
 
 
-donde ya casado est�is.
+donde ya casado estáis.
 3080
 
-ANG�LICA.
-Mi esposo ser� don Luis.
+ANGÉLICA.
+Mi esposo será don Luis.
 
 
-
+ 
 
 Sacan a DON LUIS, CARRASCO y otro.
 
-
+ 
 
 CARRASCO.
-  Nuestros recelosos fuegos
+  Nuestros recelosos fuegos
 
 
 
-en esto hab�an de parar.
+en esto habían de parar.
 
 
 
@@ -13944,19 +13919,19 @@ Desde hoy os han de llamar,
 
 
 
-se�ora, el mata gallegos.
+señora, el mata gallegos.
 3085
 
 
-  Mirad el da�o que fragua
+  Mirad el daño que fragua
 
 
 
 un cuarto de hora de enojos.
 
 
-ANG�LICA.
-�Ay don L�is de mis ojos!
+ANGÉLICA.
+¡Ay don Lüis de mis ojos!
 
 
 
@@ -13964,11 +13939,11 @@ Fuentes los vuelve amor de agua.
 
 
 DON LUIS.
-  �Ay Dios!
+  ¡Ay Dios!
 
 
 CARRASCO.
-          �Ces� la molestia
+          ¿Cesó la molestia
 3090
 
 
@@ -13980,35 +13955,35 @@ Para su desmayo fuiste
 
 
 
-la u�a de la gran bestia.
+la uña de la gran bestia.
 
 
-ANG�LICA.
-  Esposo, due�o y se�or...
+ANGÉLICA.
+  Esposo, dueño y señor...
 
 
 DON LUIS.
-�Por qu� ese nombre me das,
+¿Por qué ese nombre me das,
 3095
 
 
-cruel, si casada est�s?
+cruel, si casada estás?
 
 
-ANG�LICA.
+ANGÉLICA.
 Ya es premiado vuestro amor.
 
 
 DON PEDRO.
-  Esta nueva me ha forzado
+  Esta nueva me ha forzado
 
 
 
-y pido me perdon�is
+y pido me perdonéis
 
 
 
-y que a Ang�lica cas�is
+y que a Angélica caséis
 3100
 
 
@@ -14016,19 +13991,19 @@ porque me tiene casado
 
 
 
-  ya mi padre.
+  ya mi padre.
 
 
 ESCRIBANO.
-            Es cosa llana.
+            Es cosa llana.
 
 
-ANG�LICA.
+ANGÉLICA.
 Pues sabed que el colmenero
 
 
 
-es, se�or, un caballero
+es, señor, un caballero
 
 
 
@@ -14036,15 +14011,15 @@ que de la furia villana
 3105
 
 
-  de don Pedro me libr�.
+  de don Pedro me libró.
 
 
 FELICIANO.
-El se�or fue el peregrino,
+El señor fue el peregrino,
 
 
 
-que sab�is sali� al camino,
+que sabéis salió al camino,
 
 
 
@@ -14052,7 +14027,7 @@ de que soy testigo yo.
 
 
 
-  Yo os suplico le cas�is
+  Yo os suplico le caséis
 3110
 
 
@@ -14060,7 +14035,7 @@ con mi prima, pues es justo
 
 
 
-que su valor os d� gusto.
+que su valor os dé gusto.
 
 
 DON LUIS.
@@ -14068,10 +14043,10 @@ Los pies pido que me deis.
 
 
 FULGENCIO.
-  No, sino abrazos de padre.
+  No, sino abrazos de padre.
 
 
-ANG�LICA.
+ANGÉLICA.
 Y yo la mano de esposa.
 3115
 
@@ -14079,20 +14054,20 @@ DON LUIS.
 Dichoso soy.
 
 
-ANG�LICA.
-           Yo dichosa.
+ANGÉLICA.
+           Yo dichosa.
 
 
 CARRASCO.
-�Acab�se el mal de madre?
+¿Acabóse el mal de madre?
 
 
 
-  �Bueno has andado conmigo
+  ¡Bueno has andado conmigo
 
 
 
-deshaci�ndome a bocados!
+deshaciéndome a bocados!
 
 
 DON PEDRO.
@@ -14104,11 +14079,11 @@ dadme los brazos de amigo.
 
 
 DON LUIS.
-  La ganancia y inter�s
+  La ganancia y interés
 
 
 
-es m�a; yo soy quien gano.
+es mía; yo soy quien gano.
 
 
 FELICIANO.
@@ -14116,35 +14091,35 @@ Y yo, porque doy la mano
 
 
 
-de marido a do�a In�s.
+de marido a doña Inés.
 3125
 
 
-  Mi enga�o aqu� se deshaga,
+  Mi engaño aquí se deshaga,
 
 
 
-d�ndome perd�n, se�ora.
+dándome perdón, señora.
 
 
-DO�A IN�S.
-Mi due�o sois desde agora.
+DOÑA INÉS.
+Mi dueño sois desde agora.
 
 
 FELICIANO.
-Si don L�is mi amor paga,
+Si don Lüis mi amor paga,
 
 
 
-  venturoso soy.
+  venturoso soy.
 
 
 DON LUIS.
-             Mi hermana
+             Mi hermana
 3130
 
 
-escogi� noble marido.
+escogió noble marido.
 
 
 CARRASCO.
@@ -14152,11 +14127,11 @@ Yo, por lo que te he servido,
 
 
 
-quiero ser desde ma�ana
+quiero ser desde mañana
 
 
 
-  bodeguero de por vida,
+  bodeguero de por vida,
 
 
 
@@ -14172,11 +14147,11 @@ Pues no tiene el rey tal vida.
 
 
 DON PEDRO.
-  Vos qued�is bien empleado.
+  Vos quedáis bien empleado.
 
 
 
-Si es ans�, fenezca agora
+Si es ansí, fenezca agora
 
 
 
@@ -14189,5 +14164,4 @@ mas no el servir tal senado.
 
 
 Fin de la comedia.
-
 

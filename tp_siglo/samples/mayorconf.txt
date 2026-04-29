@@ -1,380 +1,114 @@
-
-La mayor confusi�n
-                           Juan P�rez de Montalb�n
-En la ilustre villa de Madrid, [corte de Felipe IV, �nico due�o de dos
-mundos] cuya grandeza, templos, edificios y antig�edades describiera como
-hijo suyo, si el maestro Gil Gonz�lez de �vila, coronista de Su Majestad,
-no hubiera cerrado la puerta tan de todo punto a esta materia, que s�lo su
-ingenio, estudio y cuidado lo pudiera haber conseguido con tanto acierto, a
-quien tiene Madrid no poca obligaci�n; en este mar de grandezas hubo una
-doncella llamada Casandra, que por muerte de sus padres se cri� debajo del
-amparo de un deudo suyo con m�s libertad que ped�a su nobleza; porque como
-ninguno ten�a potestad bastante para sujetarla, se atrev�a a muchas cosas,
-que, si bien en la ni�ez se libran de ser culpas, son por lo menos
-escalones para llegar a otras liviandades.
-Era Casandra moderadamente hermosa, pero acompa�aba su belleza con tal
-travesura, as� en los ojos como en las acciones, que daba ocasi�n a que
-todos reparasen en su desenfado (que con este nombre disfraza el mundo la
-deshonestidad de algunas mujeres). Escuchaba con gusto cuanto la dec�an,
-respondiendo m�s de lo que permit�an sus a�os. Cantaba con admiraci�n y
-ten�a otras muchas gracias; que el deseo de parecer bien y de verse querida
-la obligaba a preciarse de todo con perfecci�n.
-Con estas partes y diez mil ducados de dote dio lugar a que muchos
-aspirasen a su casamiento: unos, cautivos de su hermosura, y otros
-pretendientes de su riqueza. A todos miraba y a todos entreten�a, m�s por
-el ansia de que la amasen que por estar prendada de alguno; y entre todos,
-quien solamente mereci� la verdad de su pecho fue Gerardo, primo suyo y que
-se hab�a criado con ella, de buena presencia, de mejor cara y de razonable
-juicio.
-Llevaba pesadamente Gerardo la condici�n de su prima, viendo que a todas
-horas le daba muchas pesadumbres, que pudiera excusarle; porque, aunque le
-amaba, no quer�a por un amor perder la gloria de tantos, pareci�ndole que
-mientras una mujer le tiene a un hombre, no le ofende en dejarse querer de
-los dem�s. Pero quit�le este pensamiento Gerardo, diciendo que pues �l se
-contentaba con ver sus ojos, hab�a ella de hacer lo mismo o se despidiese
-de verle en su vida.
-No pens� Casandra que pudiera su primo cumplir amante lo que hab�a
-prometido celoso; y enga��se, porque, anteponiendo la obligaci�n de su
-honor a la fuerza de su deseo, pas� quince d�as sin verla ni pasar por
-donde estuviese. Sinti� Casandra este despego, porque aunque se holgaba de
-que los dem�s la solicitasen, como aquel gusto consist�a m�s en su vanidad
-que en su cuidado, ning�n amor pudo con ella tanto que borrase la memoria
-de su ausente primo. Y reparando con m�s cordura, en su peligrosa
-condici�n, conoci� que Gerardo se quejaba justamente; y as�, se determin� a
-seguir su gusto, aunque s�lo dudaba haber de ser ella quien le llamase (que
-las mujeres, aun cuando agravian, quieren que las desenojen). Mas viendo
-que para quien se ve culpada es el atajo echarse a los pies de la piedad,
-tom� la pluma y escribi� un papel, diciendo:
-�Por cierto, se�or primo, que v. m. est� m�s riguroso con mi voluntad que
-imagin�, pues tiene �nimo para no verme en tantos d�as. Yo, a lo menos,
-bien puedo decir que le quiero m�s, pues ya me falta aliento para llevar
-adelante esta ausencia. V. m. se deje ver, que yo salgo a cualquier partido
-para que se satisfaga, que nada estimo como su voluntad; a quien guarde el
-cielo mil a�os y le traiga esta tarde a mis ojos, si acaso no hay otros que
-lo estorben, que de un hombre en Madrid y enojado cualquiera cosa puede
-creerse.�
-Con infinito gusto ley� Gerardo el papel, y luego fue a ver a su hermosa
-prima y a darla satisfacci�n de sus honrados celos. Ella le recibi� con los
-brazos, quedando confirmadas las paces de su amor. Y acord�ndose Gerardo
-que le hab�a favorecido tanto aquella tarde que por divertirse a mirarle,
-faltando al cuidado de la almohadilla, esmalt� la holanda con su hermosa
-sangre, se recogi� a su aposento y escribi� enamorado estos versos, que a
-la siguiente noche cant� a su puerta:
+La mayor confusión
+Juan Pérez de Montalbán
+En la ilustre villa de Madrid, [corte de Felipe IV, único dueño de dos mundos] cuya grandeza, templos, edificios y antigüedades describiera como hijo suyo, si el maestro Gil González de Ávila, coronista de Su Majestad, no hubiera cerrado la puerta tan de todo punto a esta materia, que sólo su ingenio, estudio y cuidado lo pudiera haber conseguido con tanto acierto, a quien tiene Madrid no poca obligación; en este mar de grandezas hubo una doncella llamada Casandra, que por muerte de sus padres se crió debajo del amparo de un deudo suyo con más libertad que pedía su nobleza; porque como ninguno tenía potestad bastante para sujetarla, se atrevía a muchas cosas, que, si bien en la niñez se libran de ser culpas, son por lo menos escalones para llegar a otras liviandades.
+Era Casandra moderadamente hermosa, pero acompañaba su belleza con tal travesura, así en los ojos como en las acciones, que daba ocasión a que todos reparasen en su desenfado (que con este nombre disfraza el mundo la deshonestidad de algunas mujeres). Escuchaba con gusto cuanto la decían, respondiendo más de lo que permitían sus años. Cantaba con admiración y tenía otras muchas gracias; que el deseo de parecer bien y de verse querida la obligaba a preciarse de todo con perfección.
+Con estas partes y diez mil ducados de dote dio lugar a que muchos aspirasen a su casamiento: unos, cautivos de su hermosura, y otros pretendientes de su riqueza. A todos miraba y a todos entretenía, más por el ansia de que la amasen que por estar prendada de alguno; y entre todos, quien solamente mereció la verdad de su pecho fue Gerardo, primo suyo y que se había criado con ella, de buena presencia, de mejor cara y de razonable juicio.
+Llevaba pesadamente Gerardo la condición de su prima, viendo que a todas horas le daba muchas pesadumbres, que pudiera excusarle; porque, aunque le amaba, no quería por un amor perder la gloria de tantos, pareciéndole que mientras una mujer le tiene a un hombre, no le ofende en dejarse querer de los demás. Pero quitóle este pensamiento Gerardo, diciendo que pues él se contentaba con ver sus ojos, había ella de hacer lo mismo o se despidiese de verle en su vida.
+No pensó Casandra que pudiera su primo cumplir amante lo que había prometido celoso; y engañóse, porque, anteponiendo la obligación de su honor a la fuerza de su deseo, pasó quince días sin verla ni pasar por donde estuviese. Sintió Casandra este despego, porque aunque se holgaba de que los demás la solicitasen, como aquel gusto consistía más en su vanidad que en su cuidado, ningún amor pudo con ella tanto que borrase la memoria de su ausente primo. Y reparando con más cordura, en su peligrosa condición, conoció que Gerardo se quejaba justamente; y así, se determinó a seguir su gusto, aunque sólo dudaba haber de ser ella quien le llamase (que las mujeres, aun cuando agravian, quieren que las desenojen). Mas viendo que para quien se ve culpada es el atajo echarse a los pies de la piedad, tomó la pluma y escribió un papel, diciendo:
+«Por cierto, señor primo, que v. m. está más riguroso con mi voluntad que imaginé, pues tiene ánimo para no verme en tantos días. Yo, a lo menos, bien puedo decir que le quiero más, pues ya me falta aliento para llevar adelante esta ausencia. V. m. se deje ver, que yo salgo a cualquier partido para que se satisfaga, que nada estimo como su voluntad; a quien guarde el cielo mil años y le traiga esta tarde a mis ojos, si acaso no hay otros que lo estorben, que de un hombre en Madrid y enojado cualquiera cosa puede creerse.»
+Con infinito gusto leyó Gerardo el papel, y luego fue a ver a su hermosa prima y a darla satisfacción de sus honrados celos. Ella le recibió con los brazos, quedando confirmadas las paces de su amor. Y acordándose Gerardo que le había favorecido tanto aquella tarde que por divertirse a mirarle, faltando al cuidado de la almohadilla, esmaltó la holanda con su hermosa sangre, se recogió a su aposento y escribió enamorado estos versos, que a la siguiente noche cantó a su puerta:
 
 
- Prima, si cuando mir�is
+ Prima, si cuando miráis
 tan cierta mi muerte veis
-m�s cruel me parec�is
-cuando m�s piadosa est�is.
-Y aunque por m� despreci�is
-esa fuente de rub�,
-no es favor, que os presum�
+más cruel me parecéis
+cuando más piadosa estáis.
+Y aunque por mí despreciáis
+esa fuente de rubí,
+no es favor, que os presumí
 tan tirana con los dos,
-que os atrever�is a vos
-por verme morir a m�.
- Mas si enfermastes, bien m�o,
+que os atreveréis a vos
+por verme morir a mí.
+ Mas si enfermastes, bien mío,
 de achaque de vuestro amor,
-justo pareci� el rigor,
-honesto fue el desvar�o.
-D�l vuestra salud conf�o,
+justo pareció el rigor,
+honesto fue el desvarío.
+Dél vuestra salud confío,
 que si el calor necio anduvo,
-la sangr�a cuerda estuvo
+la sangría cuerda estuvo
 como en su efecto se ve;
 que sin duda en Mayo fue,
 pues tantos claveles hubo.
- Distes licencia al carm�n,
-que se esparci� tan hermoso,
+ Distes licencia al carmín,
+que se esparció tan hermoso,
 que pudo el suelo dichoso
-pretender para jard�n.
+pretender para jardín.
 Previno el amor, en fin,
 un descuido liberal
 (dulce injuria del cristal)
-y el hierro a un �ngel aleve
-bord� m�rgenes de nieve
+y el hierro a un ángel aleve
+bordó márgenes de nieve
 con arroyos de coral.
  Mas yo, prima, cuando os vi
-con m�s rosas que sol�a,
-tuve la herida por m�a,
-pues sus efectos sent�;
+con más rosas que solía,
+tuve la herida por mía,
+pues sus efectos sentí;
 que como la causa fui,
-me alcanz� tanto dolor,
+me alcanzó tanto dolor,
 que os perdonara el rigor
-(si as� se puede decir);
+(si así se puede decir);
 porque darme que sentir
 no parece que fue amor.
-Entendieron los deudos de Gerardo su amor, y todos convinieron en que se
-despachase a Roma por orden del se�or nuncio, para que Su Santidad
-concediese la dispensaci�n.
-S�pose entre los amantes de Casandra (que eran muchos) este suceso; unos
-perdieron de todo punto las esperanzas; otros lloraron su corta fortuna, y
-otros apelaron a su nuevo estado. Pero quien lo sinti� con m�s veras fue
-don Bernardo de Z��iga, caballero natural de C�rdoba, tan gran soldado, que
-por su espada hab�a sido capit�n de caballeros en Flandes. Estaba tan
-rendido a la belleza de Casandra y a sus hechizos, que le falt� poco para
-perder el juicio y la vida. Era el de m�s m�ritos entre los que s�lo ten�an
-nombre de amantes, y por esta raz�n el m�s favorecido de sus ojos; que como
-ella no se desde�aba de escuchar, de responder y aun de recebir, don
-Bernardo ten�a cre�do que ser�a suya, y con esta esperanza hab�a crecido su
-amor, de suerte que cuando quiso no pudo resistirle. Y as�, esper�ndola un
-d�a de fiesta al salir de misa, se lleg� a ella turbado y descolorido, y
-delante de las personas que la acompa�aban la pregunt� si le conoc�a.
--S� -respondi� Casandra-, y s� la merced que me hab�is hecho, y lo mucho
-que os he debido; pero ya no estoy en tiempo que pueda pagaros esas
-obligaciones.
--Pues si me conoc�is -dijo don Bernardo- y sab�is mi amor, �de qu� ha
-servido, amando a Gerardo, favorecerme para dejarme burlado y desvanecido?
-Esos t�rminos, Casandra, no son de mujeres tan principales como vos, que
-s�lo se usan entre las de tan bajos pensamientos que hacen oficio lo que es
-gusto.
--Basta -replic� Casandra, que de atrevido os vais a descort�s, sin tener
-m�s ocasi�n que la que os da vuestra soberbia; porque lo que entre los dos
-ha pasado s�lo ha sido un entretenimiento honesto, fundado no en voluntad
-que os tuviese, sino en agradecer la que os deb�a, pues por escucharos dos
-o tres noches en una reja, no hice escritura de quereros. Y as� ten�is poca
-raz�n en andar demasiado conmigo, aunque yo os lo perdonar� con que de hoy
-m�s sep�is que Gerardo es mi primo y ha de ser mi esposo, no porque os
-aventaja en m�ritos, sino porque lo he querido desde que nac�. Y hacedme
-merced de aqu� adelante de hablar en mi honor con m�s modestia, porque os
-puede estar mal otra cosa.
--S� har�, por cierto -respondi� don Bernardo-, porque hablar en desprecio
-de las mujeres es de hombres humildes, y yo tengo alguna parte en la casa
-de Monterrey; mas lo que no podr� consentir mi amor ser� que Gerardo ni
-otro en el mundo os goce mientras tuviere esta espada y no se aplacaren mis
-celos.
-Qued� Casandra con pesadumbre, porque de otras ocasiones conoc�a la
-temeridad de don Bernardo y la c�lera de su primo. El cual, sabiendo de una
-criada todo lo que hab�a pasado, sinti�, como era justo, los celos de su
-honra y el atrevimiento de don Bernardo. En llegando la noche, con un
-broquel y su espada le fue a buscar, y no le hallando ni en la suya ni en
-una casa de juego donde sol�a acudir, se puso en la calle de Casandra,
-pareci�ndole que, pues blasonaba de tan amante, era fuerza acudir a su
-centro. Sucedi�le a Gerardo como lo imagin�, aunque no como lo deseaba (que
-los desenga�os en quien ama se buscan, pero no se apetecen). Y apenas le
-conoci�, cuando sin averiguar la verdad, ni esperar satisfacci�n (que lo
-uno y lo otro suele parecer cobard�a), sac� la espada y se fue para �l.
-Aguard�le don Bernardo sosegado y valiente, por ser el m�s diestro que en
-aquel tiempo se conoc�a, como en �ste lo es el insigne don Luis Pacheco de
-Narv�ez, gloria y honor del mundo, y a quien debe nuestra naci�n su cr�dito
-en esta parte, pues ha reducido a ciencia lo que hasta ahora ha sido
-acertar por accidente. Pero como la destreza obra dificultosamente sin luz,
-por ser el principal medio para su ejecuci�n, no pod�a don Bernardo ni
-hacer lo que sab�a, ni cumplir con el deseo de su venganza. Y cansado de
-que durase tanto la vida entre dos celosos, hall�ndole el broquel un poco
-alto, le meti� una estocada tan fuerte, que luego Gerardo se imagin� sin
-vida; y cayendo a sus pies, le pidi� con afecto cristiano le dejase
-confesar y arrepentirse de sus culpas.
-Acudi� infinita gente al ruido; sacaron luces de las ventanas; lleg� la
-justicia a tiempo que ya don Bernardo se hab�a favorecido de una iglesia,
-aunque le aprovech� poco, pues a pesar suyo le sacaron de ella (que en
-tales casos suele ser m�s segura la casa de un embajador que la de un
-monasterio). Llevaron a Gerardo a la de su prima que, ba�ada en l�grimas,
-hizo tantos extremos que dio m�s l�stima ella viva que Gerardo muerto.
-Remat� su sentimiento con un desmayo tan riguroso, que en dos d�as no pudo
-volver en s�.
-Muri� Gerardo, perdonando primero a su enemigo, y rogando a sus padres y
-deudos no le hiciesen ofensa. Mas poco le correspondieron en esta parte,
-porque luego procedieron contra �l con tanta fuerza que, a no tener en su
-favor la iglesia y el amparo de muchos pr�ncipes que por su valor y sangre
-estimaban su persona, le sucediera una desdicha. Desta manera estuvo en la
-c�rcel m�s de quince meses; la Iglesia le ped�a y los jueces ten�an
-voluntad de darle, si la parte que era poderosa se ablandara y estuviera
-menos rebelde en el perd�n. Y as�, interviniendo la autoridad de muchas
-personas graves, procuraron, para asegurar el honor de Casandra, fuese don
-Bernardo su esposo, con que cesar�an disgustos y pleitos.
-Consultaron este pensamiento con ella y respondi� a los principios �spera y
-desabrida, quitando a todos la esperanza de que por aquel camino tuviesen
-fin los negocios de don Bernardo. Pero como la firmeza de Casandra era tan
-poca segura y su condici�n tan varia, a pocos d�as oy� con m�s piedad las
-desdichas de don Bernardo porque no ten�a �nimo para estar mucho tiempo sin
-consolarse. Y as�, lastimada d�l, se resolvi� a ser suya. Con lo cual sali�
-libre (si puede llamarse con este nombre a quien se hab�a desposado en la
-c�rcel). Alabaron todos la noble piedad de Casandra, y celebraron con
-fiestas y regocijos el nuevo empleo.
-Era don Bernardo imaginativo, y, como conoc�a a Casandra, empez� a temerla,
-procurando quitar todas las ocasiones en que pudiese tropezar, si bien no
-la pod�a ir a la mano en las muchas galas y demasiado cuidado de su
-hermosura; pero pasaba por ello, porque no todas veces le es l�cito a un
-marido dar a entender a su esposa que vive desconfiado de su virtud (que
-hay mujer que hace verdad lo que se sospecha, s�lo porque no la culpen
-inocente). Dioles el cielo un hermoso hijo, creciendo el amor de los padres
-con �l, y goz�ndose en esta conformidad algunos a�os, hasta que la muerte
-(forzoso fin de todos los gustos) quit� la vida a don Bernardo, o por mejor
-decir, le mataron los celos que padec�a y las sospechas que callaba. Sinti�
-Casandra esta p�rdida con extremo, por ser grande el amor que ya le hab�a
-cobrado, y solamente la servi� de consuelo su hijo don F�lix, que
-acompa�aba su soledad y la divert�a de sus tristezas. Era don F�lix
-discreto, gal�n y tan hermoso, que pudiera envidiarle la cara cualquier
-dama; ten�a linda conversaci�n y era por extremo agradable. Plugiera a Dios
-no lo fuera tanto, pues dio ocasi�n (aunque sin culpa suya) al m�s extra�o
-delito que ha conocido el mundo.
-Pretend�an en este tiempo muchas personas principales el casamiento de
-Casandra, por no haber estado nunca tan hermosa. Los a�os no pasaban de
-treinta y cuatro, y como hab�a tenido pocos trabajos, parec�an menos; pero
-ella se determin� a no casarse, sin poder ninguno entender la causa. Muchos
-pensaban que era virtud; pero otros, menos piadosos, cre�an otra cosa.
-Porque sus muchas galas (que tambi�n las consiente aquel estado) ofend�an
-su recogimiento. Mas lo cierto era que Casandra ten�a un amor secreto, tan
-injusto, que ella misma estaba con verg�enza de hablar de �l; porque viendo
-en su propio hijo el entendimiento, el talle y la gallard�a, se dej� vencer
-de un pensamiento tan liviano, que le vino a mirar con �nimo de gozarle
-deshonestamente. Estaba ya tan ciega, que no le daba lugar este deseo a que
-pensase en otras cosas, ni quisiese divertirse a otros gustos. Y sin poder
-reducir a raz�n su apetito, se resolvi� a llegar a los brazos con don
-F�lix, cosa que aun imaginada ofende los o�dos. Bien echaba de ver que
-intentaba un imposible, pero todo lo facilitaba su amor; que como la
-voluntad nace sin ojos, ni mira los inconvenientes ni se recela de los
-peligros.
-Ten�a Casandra una criada de quien fiaba todo su pecho, cuyo nombre era
-Lisena; la cual rog� a su se�ora, vi�ndola tan desabrida, la diese parte de
-sus congojas, que sin duda eran muchas, pues la obligaban a semejantes
-extremos.
--�Ay amiga! -respondi� Casandra-, plugiera a Dios fueran mis tristezas, o
-capaces de remedio o menos indignas de referirse; mas quiere mi fortuna que
-las padezca y calle, para que me consuma mi propio silencio. Pero mal hago
-en no contarte lo que me tiene sin gusto, sin salud y sin vida, sabiendo de
-tu amor que tomar� por su cuenta mi desgracia y me aliviar� la pesadumbre,
-pues quien escucha piadosamente consuela el alma, ya que no remedia la
-pena. Bien s� que le ha de costar a mi verg�enza algunos colores; pero no
-hablo con ning�n extra�o: mujer eres como yo y que deseas mi bien. Y
-supuesta esta verdad, oye la mayor desdicha que puede haber sucedido a una
-mujer de mis prendas. Nace mi desasosiego y poco gusto, �oh amiga Lisena!,
-de amar a un hombre, que con ser tan bueno como yo y estar cierta de que me
-quiere bien, es imposible pueda gozarme. Dir�sme, �qu� es la causa de
-hallar dificultad en lo que parece que no la tiene, y m�s habiendo igualdad
-y correspondencia de parte de entrambos? Pues para sacarte desta duda, y
-tambi�n para que prevengas tu ingenio en mi remedio, �yeme un rato, aunque
-despu�s te espantes de mi liviandad. Yo amo a mi propio hijo; yo adoro a
-don F�lix, y esto de manera, que ha de costarme la vida el ver que no puedo
-ejecutar mi deseo. Yo he procurado estorbarme esta resoluci�n; pero ni el
-ver que voy contra las leyes de la Naturaleza, ni el considerar que es un
-intento temerario, y, sobre todo, saber que se ha de enojar el cielo tan
-gravemente, ha sido bastante para olvidar este pensamiento: tanto es lo que
-se ha apoderado de mi albedr�o. Mira t� si tengo ocasi�n para llorar y
-desear mi muerte, hall�ndome en estado que me falta poco para perder la
-opini�n y la vida.
-Admirada escuch� Lisena el indigno amor de Casandra, y despu�s de haberla
-persuadido a que le borrase de su memoria, la dijo:
--Plugiera a Dios, se�ora m�a, que el amor que me tiene a m� don F�lix
-pudiera remediar el tuyo, que yo te traspasara algunas finezas; porque ha
-dado en perseguirme de manera que muchas veces, por tener miedo a sus
-demas�as, no me atrevo a estar sola delante de sus ojos. Y con tener los
-merecimientos que ves, te aseguro que nunca me he determinado a mirarle con
-m�s voluntad que la que le debo por hijo tuyo y due�o m�o. Y tambi�n lo que
-me ha detenido los pasos es el no estar tan libre de una pasi�n que me
-consienta otros desvelos. Yo quiero bien, y soy pagada; dos cosas que me
-tienen con rienda los ojos. Hete dicho esto, porque no presumas que por
-verme querida, haya tenido atrevimiento para ofender tu casa.
-Con atenci�n, y aun con envidia, la oy� Casandra, y del veneno que la
-pudieran dar los celos, mirando gozar lo que ella no merec�a, sac� medicina
-que curase los accidentes de su pasi�n. Y en un punto le ofreci� su
-entendimiento una traza tan ingeniosa para lograr su lascivo deseo, que no
-pudiera el padre de �caro, que fue instrumento de la deshonra de Pasifae,
-imaginarla m�s a su prop�sito. Y llamando en secreto a Lisena, la dijo en
-breves palabras que s�lo en ella estribaba el fin de su deseo, porque con
-su ayuda ser�a cierto que le cumplir�a. Confusa qued� Lisena con la nueva
-esperanza de su se�ora, y lo que la respondi� fue decir que de su parte
-estaba dispuesta a intentar por su gusto cualquiera osad�a, aunque
-aventurase la vida y la honra. Entonces Casandra prosigui� diciendo:
--Supuesto, Lisena, como t� dices, que no tienes amor a don F�lix, te has de
-mostrar de aqu� adelante tan reconocida a su amor y tan pagada de su talle,
-que venga a creer le tienes alguna voluntad y prosiga en el deseo de
-gozarte. Y la noche que te pareciere le has de dar licencia para que te
-hable en tu aposento. Y esa misma noche estar� yo en �l y gozar� con este
-enga�o lo que ha tantos d�as que me tiene como sabes, pues, hall�ndome sin
-luz, ser� imposible que me conozca.
-No le desagrad� a Lisena la traza, y luego empez� a ejecutarla, as� por
-agradar a quien hab�a menester, como porque Casandra la consintiese algunas
-liviandades que ten�a. Y a pocos lances concert� con don F�lix que en medio
-del silencio de la noche entrase sin que nadie le sintiese en su aposento,
-pero con prevenci�n de que hablase poco, porque no le escuchase alguna
-criada que la descompusiese con su madre.
-Prometi�la don F�lix ser mudo, porque �l no hab�a de ir a parlar con ella,
-sino a llegar a sus brazos, en los cuales se comunica el alma sin haber
-menester a la lengua. Vino la noche, y avis� Lisena a Casandra; la cual
-aguard� por gal�n al mismo que hab�a tra�do en sus entra�as. Lleg� el
-enga�ado don F�lix, y ajeno de semejante maldad, pensando que estaba en los
-brazos de una criada, goz� la belleza de su indigna madre, de la cual se
-despidi� arrepentido, como todos. Y Casandra qued� tan corrida y
-avergonzada consigo misma que quisiera haber perdido la vida antes que
-poner por obra tan ruin pensamiento. Tanto es el dolor que traen los gustos
-despu�s de conseguidos, y m�s cuando proceden de causa que no puede tener
-disculpa; que un delito feo no ha menester m�s castigo que cometerse, pues
-a todas horas est� abrasando el alma y dando en los ojos con la culpa.
-Ya Casandra pasaba por estos rigores, porque la Naturaleza misma parece que
-se quejaba de su violencia; y como a las espaldas de la posesi�n viene
-siempre el arrepentimiento, no sab�a qu� hacerse para huir de s� misma, que
-ya era su mayor enemigo. Y no par� en esto su desdicha, sucedi�ndola a�n
-peor de lo que imagin�; porque en su falta de salud y en otras faltas
-conoci� que no le sal�a tan barato su desatino que pudiese estar secreto
-muchos d�as. Sinti�se pre�ada, y antes que pasase adelante, quiso valerse
-de remedios crueles para arrojar sin tiempo aquel desdichado fruto; pero no
-le aprovecharon medicinas ni diligencias contra la fuerza de su destino. Y
-as�, considerando cu�n a peligro estaba su opini�n y que el tiempo hab�a de
-descubrir su liviandad, aunque no el autor della, hizo que dentro de un mes
-se partiese don F�lix a Flandes con una ventaja y una letra de dos mil
-escudos, no sin gusto suyo porque deseaba ver mundo y salir de Espa�a, por
-saber que nunca la patria trata a sus hijos como madre. Y luego, para no
-verse murmurada del vulgo, de sus parientes y de sus amantes, fingiendo una
-promesa a Guadalupe, se fue a una peque�a aldea donde ten�a Lisena a sus
-padres, y all� estuvo secretamente hasta que dio a luz una hermosa ni�a, a
-quien llam� Diana. Y dejando orden para que la criasen, se volvi� a su
-casa, viviendo despu�s con tanta cordura que cobr� el honor que ten�a
-perdido en opini�n de muchos que, por sus locas galas, sospechaban mal de
-su virtud.
-Creci� Diana, y tr�jola consigo, dando a entender a todos que una noche la
-hab�an hallado las criadas a su puerta, y que para divertir la ausencia de
-don F�lix la quer�a tener en lugar de hija.
-Ya don F�lix en este tiempo era muy gran soldado, bienquisto y amado de
-todos, as� por su valor como por sus muchas gracias; era cort�s y liberal,
-y, sobre todo, tan virtuoso, que siendo soldado ni juraba ni jugaba. Pero
-como nunca falta un azar que desbarate el sosiego y gusto de un hombre,
-sucedi� que estando cierta noche hablando con una se�ora flamenca, pas� por
-la calle un caballero que hab�a sido due�o de aquella casa mucho tiempo; y
-aunque ya no lo era (porque la tal dama, vi�ndose aborrecer, hab�a
-pretendido divertirse), con todo eso, no quer�a consentir que alguno la
-solicitase, o por hacerla pesar o porque a �l le pesaba; que los celos
-suelen despertar la voluntad m�s dormida. La noche era algo oscura, y por
-esta ocasi�n ni el caballero ni dos m�sicos que tra�a consigo vieron a don
-F�lix, que abrasado de c�lera hubiera sacado la espada, aunque estaba solo,
-si no se lo impidiera la dama, poni�ndole por delante su opini�n.
-Acerc�ronse los m�sicos, y en concertando los instrumentos, a prop�sito de
-lo que entonces pasaba por su due�o, cantaron as�:
- Ya lleg�, se�ora, el d�a
+Entendieron los deudos de Gerardo su amor, y todos convinieron en que se despachase a Roma por orden del señor nuncio, para que Su Santidad concediese la dispensación.
+Súpose entre los amantes de Casandra (que eran muchos) este suceso; unos perdieron de todo punto las esperanzas; otros lloraron su corta fortuna, y otros apelaron a su nuevo estado. Pero quien lo sintió con más veras fue don Bernardo de Zúñiga, caballero natural de Córdoba, tan gran soldado, que por su espada había sido capitán de caballeros en Flandes. Estaba tan rendido a la belleza de Casandra y a sus hechizos, que le faltó poco para perder el juicio y la vida. Era el de más méritos entre los que sólo tenían nombre de amantes, y por esta razón el más favorecido de sus ojos; que como ella no se desdeñaba de escuchar, de responder y aun de recebir, don Bernardo tenía creído que sería suya, y con esta esperanza había crecido su amor, de suerte que cuando quiso no pudo resistirle. Y así, esperándola un día de fiesta al salir de misa, se llegó a ella turbado y descolorido, y delante de las personas que la acompañaban la preguntó si le conocía.
+-Sí -respondió Casandra-, y sé la merced que me habéis hecho, y lo mucho que os he debido; pero ya no estoy en tiempo que pueda pagaros esas obligaciones.
+-Pues si me conocéis -dijo don Bernardo- y sabéis mi amor, ¿de qué ha servido, amando a Gerardo, favorecerme para dejarme burlado y desvanecido? Esos términos, Casandra, no son de mujeres tan principales como vos, que sólo se usan entre las de tan bajos pensamientos que hacen oficio lo que es gusto.
+-Basta -replicó Casandra, que de atrevido os vais a descortés, sin tener más ocasión que la que os da vuestra soberbia; porque lo que entre los dos ha pasado sólo ha sido un entretenimiento honesto, fundado no en voluntad que os tuviese, sino en agradecer la que os debía, pues por escucharos dos o tres noches en una reja, no hice escritura de quereros. Y así tenéis poca razón en andar demasiado conmigo, aunque yo os lo perdonaré con que de hoy más sepáis que Gerardo es mi primo y ha de ser mi esposo, no porque os aventaja en méritos, sino porque lo he querido desde que nací. Y hacedme merced de aquí adelante de hablar en mi honor con más modestia, porque os puede estar mal otra cosa.
+-Sí haré, por cierto -respondió don Bernardo-, porque hablar en desprecio de las mujeres es de hombres humildes, y yo tengo alguna parte en la casa de Monterrey; mas lo que no podrá consentir mi amor será que Gerardo ni otro en el mundo os goce mientras tuviere esta espada y no se aplacaren mis celos.
+Quedó Casandra con pesadumbre, porque de otras ocasiones conocía la temeridad de don Bernardo y la cólera de su primo. El cual, sabiendo de una criada todo lo que había pasado, sintió, como era justo, los celos de su honra y el atrevimiento de don Bernardo. En llegando la noche, con un broquel y su espada le fue a buscar, y no le hallando ni en la suya ni en una casa de juego donde solía acudir, se puso en la calle de Casandra, pareciéndole que, pues blasonaba de tan amante, era fuerza acudir a su centro. Sucedióle a Gerardo como lo imaginó, aunque no como lo deseaba (que los desengaños en quien ama se buscan, pero no se apetecen). Y apenas le conoció, cuando sin averiguar la verdad, ni esperar satisfacción (que lo uno y lo otro suele parecer cobardía), sacó la espada y se fue para él.
+Aguardóle don Bernardo sosegado y valiente, por ser el más diestro que en aquel tiempo se conocía, como en éste lo es el insigne don Luis Pacheco de Narváez, gloria y honor del mundo, y a quien debe nuestra nación su crédito en esta parte, pues ha reducido a ciencia lo que hasta ahora ha sido acertar por accidente. Pero como la destreza obra dificultosamente sin luz, por ser el principal medio para su ejecución, no podía don Bernardo ni hacer lo que sabía, ni cumplir con el deseo de su venganza. Y cansado de que durase tanto la vida entre dos celosos, hallándole el broquel un poco alto, le metió una estocada tan fuerte, que luego Gerardo se imaginó sin vida; y cayendo a sus pies, le pidió con afecto cristiano le dejase confesar y arrepentirse de sus culpas.
+Acudió infinita gente al ruido; sacaron luces de las ventanas; llegó la justicia a tiempo que ya don Bernardo se había favorecido de una iglesia, aunque le aprovechó poco, pues a pesar suyo le sacaron de ella (que en tales casos suele ser más segura la casa de un embajador que la de un monasterio). Llevaron a Gerardo a la de su prima que, bañada en lágrimas, hizo tantos extremos que dio más lástima ella viva que Gerardo muerto. Remató su sentimiento con un desmayo tan riguroso, que en dos días no pudo volver en sí.
+Murió Gerardo, perdonando primero a su enemigo, y rogando a sus padres y deudos no le hiciesen ofensa. Mas poco le correspondieron en esta parte, porque luego procedieron contra él con tanta fuerza que, a no tener en su favor la iglesia y el amparo de muchos príncipes que por su valor y sangre estimaban su persona, le sucediera una desdicha. Desta manera estuvo en la cárcel más de quince meses; la Iglesia le pedía y los jueces tenían voluntad de darle, si la parte que era poderosa se ablandara y estuviera menos rebelde en el perdón. Y así, interviniendo la autoridad de muchas personas graves, procuraron, para asegurar el honor de Casandra, fuese don Bernardo su esposo, con que cesarían disgustos y pleitos.
+Consultaron este pensamiento con ella y respondió a los principios áspera y desabrida, quitando a todos la esperanza de que por aquel camino tuviesen fin los negocios de don Bernardo. Pero como la firmeza de Casandra era tan poca segura y su condición tan varia, a pocos días oyó con más piedad las desdichas de don Bernardo porque no tenía ánimo para estar mucho tiempo sin consolarse. Y así, lastimada dél, se resolvió a ser suya. Con lo cual salió libre (si puede llamarse con este nombre a quien se había desposado en la cárcel). Alabaron todos la noble piedad de Casandra, y celebraron con fiestas y regocijos el nuevo empleo.
+Era don Bernardo imaginativo, y, como conocía a Casandra, empezó a temerla, procurando quitar todas las ocasiones en que pudiese tropezar, si bien no la podía ir a la mano en las muchas galas y demasiado cuidado de su hermosura; pero pasaba por ello, porque no todas veces le es lícito a un marido dar a entender a su esposa que vive desconfiado de su virtud (que hay mujer que hace verdad lo que se sospecha, sólo porque no la culpen inocente). Dioles el cielo un hermoso hijo, creciendo el amor de los padres con él, y gozándose en esta conformidad algunos años, hasta que la muerte (forzoso fin de todos los gustos) quitó la vida a don Bernardo, o por mejor decir, le mataron los celos que padecía y las sospechas que callaba. Sintió Casandra esta pérdida con extremo, por ser grande el amor que ya le había cobrado, y solamente la servió de consuelo su hijo don Félix, que acompañaba su soledad y la divertía de sus tristezas. Era don Félix discreto, galán y tan hermoso, que pudiera envidiarle la cara cualquier dama; tenía linda conversación y era por extremo agradable. Plugiera a Dios no lo fuera tanto, pues dio ocasión (aunque sin culpa suya) al más extraño delito que ha conocido el mundo.
+Pretendían en este tiempo muchas personas principales el casamiento de Casandra, por no haber estado nunca tan hermosa. Los años no pasaban de treinta y cuatro, y como había tenido pocos trabajos, parecían menos; pero ella se determinó a no casarse, sin poder ninguno entender la causa. Muchos pensaban que era virtud; pero otros, menos piadosos, creían otra cosa. Porque sus muchas galas (que también las consiente aquel estado) ofendían su recogimiento. Mas lo cierto era que Casandra tenía un amor secreto, tan injusto, que ella misma estaba con vergüenza de hablar de él; porque viendo en su propio hijo el entendimiento, el talle y la gallardía, se dejó vencer de un pensamiento tan liviano, que le vino a mirar con ánimo de gozarle deshonestamente. Estaba ya tan ciega, que no le daba lugar este deseo a que pensase en otras cosas, ni quisiese divertirse a otros gustos. Y sin poder reducir a razón su apetito, se resolvió a llegar a los brazos con don Félix, cosa que aun imaginada ofende los oídos. Bien echaba de ver que intentaba un imposible, pero todo lo facilitaba su amor; que como la voluntad nace sin ojos, ni mira los inconvenientes ni se recela de los peligros.
+Tenía Casandra una criada de quien fiaba todo su pecho, cuyo nombre era Lisena; la cual rogó a su señora, viéndola tan desabrida, la diese parte de sus congojas, que sin duda eran muchas, pues la obligaban a semejantes extremos.
+-¡Ay amiga! -respondió Casandra-, plugiera a Dios fueran mis tristezas, o capaces de remedio o menos indignas de referirse; mas quiere mi fortuna que las padezca y calle, para que me consuma mi propio silencio. Pero mal hago en no contarte lo que me tiene sin gusto, sin salud y sin vida, sabiendo de tu amor que tomará por su cuenta mi desgracia y me aliviará la pesadumbre, pues quien escucha piadosamente consuela el alma, ya que no remedia la pena. Bien sé que le ha de costar a mi vergüenza algunos colores; pero no hablo con ningún extraño: mujer eres como yo y que deseas mi bien. Y supuesta esta verdad, oye la mayor desdicha que puede haber sucedido a una mujer de mis prendas. Nace mi desasosiego y poco gusto, ¡oh amiga Lisena!, de amar a un hombre, que con ser tan bueno como yo y estar cierta de que me quiere bien, es imposible pueda gozarme. Dirásme, ¿qué es la causa de hallar dificultad en lo que parece que no la tiene, y más habiendo igualdad y correspondencia de parte de entrambos? Pues para sacarte desta duda, y también para que prevengas tu ingenio en mi remedio, óyeme un rato, aunque después te espantes de mi liviandad. Yo amo a mi propio hijo; yo adoro a don Félix, y esto de manera, que ha de costarme la vida el ver que no puedo ejecutar mi deseo. Yo he procurado estorbarme esta resolución; pero ni el ver que voy contra las leyes de la Naturaleza, ni el considerar que es un intento temerario, y, sobre todo, saber que se ha de enojar el cielo tan gravemente, ha sido bastante para olvidar este pensamiento: tanto es lo que se ha apoderado de mi albedrío. Mira tú si tengo ocasión para llorar y desear mi muerte, hallándome en estado que me falta poco para perder la opinión y la vida.
+Admirada escuchó Lisena el indigno amor de Casandra, y después de haberla persuadido a que le borrase de su memoria, la dijo:
+-Plugiera a Dios, señora mía, que el amor que me tiene a mí don Félix pudiera remediar el tuyo, que yo te traspasara algunas finezas; porque ha dado en perseguirme de manera que muchas veces, por tener miedo a sus demasías, no me atrevo a estar sola delante de sus ojos. Y con tener los merecimientos que ves, te aseguro que nunca me he determinado a mirarle con más voluntad que la que le debo por hijo tuyo y dueño mío. Y también lo que me ha detenido los pasos es el no estar tan libre de una pasión que me consienta otros desvelos. Yo quiero bien, y soy pagada; dos cosas que me tienen con rienda los ojos. Hete dicho esto, porque no presumas que por verme querida, haya tenido atrevimiento para ofender tu casa.
+Con atención, y aun con envidia, la oyó Casandra, y del veneno que la pudieran dar los celos, mirando gozar lo que ella no merecía, sacó medicina que curase los accidentes de su pasión. Y en un punto le ofreció su entendimiento una traza tan ingeniosa para lograr su lascivo deseo, que no pudiera el padre de Ícaro, que fue instrumento de la deshonra de Pasifae, imaginarla más a su propósito. Y llamando en secreto a Lisena, la dijo en breves palabras que sólo en ella estribaba el fin de su deseo, porque con su ayuda sería cierto que le cumpliría. Confusa quedó Lisena con la nueva esperanza de su señora, y lo que la respondió fue decir que de su parte estaba dispuesta a intentar por su gusto cualquiera osadía, aunque aventurase la vida y la honra. Entonces Casandra prosiguió diciendo:
+-Supuesto, Lisena, como tú dices, que no tienes amor a don Félix, te has de mostrar de aquí adelante tan reconocida a su amor y tan pagada de su talle, que venga a creer le tienes alguna voluntad y prosiga en el deseo de gozarte. Y la noche que te pareciere le has de dar licencia para que te hable en tu aposento. Y esa misma noche estaré yo en él y gozaré con este engaño lo que ha tantos días que me tiene como sabes, pues, hallándome sin luz, será imposible que me conozca.
+No le desagradó a Lisena la traza, y luego empezó a ejecutarla, así por agradar a quien había menester, como porque Casandra la consintiese algunas liviandades que tenía. Y a pocos lances concertó con don Félix que en medio del silencio de la noche entrase sin que nadie le sintiese en su aposento, pero con prevención de que hablase poco, porque no le escuchase alguna criada que la descompusiese con su madre.
+Prometióla don Félix ser mudo, porque él no había de ir a parlar con ella, sino a llegar a sus brazos, en los cuales se comunica el alma sin haber menester a la lengua. Vino la noche, y avisó Lisena a Casandra; la cual aguardó por galán al mismo que había traído en sus entrañas. Llegó el engañado don Félix, y ajeno de semejante maldad, pensando que estaba en los brazos de una criada, gozó la belleza de su indigna madre, de la cual se despidió arrepentido, como todos. Y Casandra quedó tan corrida y avergonzada consigo misma que quisiera haber perdido la vida antes que poner por obra tan ruin pensamiento. Tanto es el dolor que traen los gustos después de conseguidos, y más cuando proceden de causa que no puede tener disculpa; que un delito feo no ha menester más castigo que cometerse, pues a todas horas está abrasando el alma y dando en los ojos con la culpa.
+Ya Casandra pasaba por estos rigores, porque la Naturaleza misma parece que se quejaba de su violencia; y como a las espaldas de la posesión viene siempre el arrepentimiento, no sabía qué hacerse para huir de sí misma, que ya era su mayor enemigo. Y no paró en esto su desdicha, sucediéndola aún peor de lo que imaginó; porque en su falta de salud y en otras faltas conoció que no le salía tan barato su desatino que pudiese estar secreto muchos días. Sintióse preñada, y antes que pasase adelante, quiso valerse de remedios crueles para arrojar sin tiempo aquel desdichado fruto; pero no le aprovecharon medicinas ni diligencias contra la fuerza de su destino. Y así, considerando cuán a peligro estaba su opinión y que el tiempo había de descubrir su liviandad, aunque no el autor della, hizo que dentro de un mes se partiese don Félix a Flandes con una ventaja y una letra de dos mil escudos, no sin gusto suyo porque deseaba ver mundo y salir de España, por saber que nunca la patria trata a sus hijos como madre. Y luego, para no verse murmurada del vulgo, de sus parientes y de sus amantes, fingiendo una promesa a Guadalupe, se fue a una pequeña aldea donde tenía Lisena a sus padres, y allí estuvo secretamente hasta que dio a luz una hermosa niña, a quien llamó Diana. Y dejando orden para que la criasen, se volvió a su casa, viviendo después con tanta cordura que cobró el honor que tenía perdido en opinión de muchos que, por sus locas galas, sospechaban mal de su virtud.
+Creció Diana, y trújola consigo, dando a entender a todos que una noche la habían hallado las criadas a su puerta, y que para divertir la ausencia de don Félix la quería tener en lugar de hija.
+Ya don Félix en este tiempo era muy gran soldado, bienquisto y amado de todos, así por su valor como por sus muchas gracias; era cortés y liberal, y, sobre todo, tan virtuoso, que siendo soldado ni juraba ni jugaba. Pero como nunca falta un azar que desbarate el sosiego y gusto de un hombre, sucedió que estando cierta noche hablando con una señora flamenca, pasó por la calle un caballero que había sido dueño de aquella casa mucho tiempo; y aunque ya no lo era (porque la tal dama, viéndose aborrecer, había pretendido divertirse), con todo eso, no quería consentir que alguno la solicitase, o por hacerla pesar o porque a él le pesaba; que los celos suelen despertar la voluntad más dormida. La noche era algo oscura, y por esta ocasión ni el caballero ni dos músicos que traía consigo vieron a don Félix, que abrasado de cólera hubiera sacado la espada, aunque estaba solo, si no se lo impidiera la dama, poniéndole por delante su opinión. Acercáronse los músicos, y en concertando los instrumentos, a propósito de lo que entonces pasaba por su dueño, cantaron así:
+ Ya llegó, señora, el día
 en que de mi amor te cansas,
 pues sosiegas y descansas
-sin matarte por ser m�a.
+sin matarte por ser mía.
  Y aunque es forzoso que sienta
 que del alma me sacaste,
 siquiera, porque me amaste,
-me huelgo que est�s contenta.
- Al�grate y no est�s triste,
-que yo podr� consolarme,
+me huelgo que estés contenta.
+ Alégrate y no estés triste,
+que yo podré consolarme,
 con que no puedes quitarme
 el amor que me tuviste;
  que haberme querido bien
 no me lo puedes negar,
 pues yo te vi suspirar
-y te vi llorar tambi�n.
+y te vi llorar también.
  Y aunque de ti me despidas,
 yo, Flora, tengo entendido
-que es m�s lo que me has querido
+que es más lo que me has querido
 que lo que ahora me olvidas.
- Y a tratar verdad aqu�,
-aunque m�s cruel te miras,
-yo s�, Flora, que suspiras
-y que te acuerdas de m�.
+ Y a tratar verdad aquí,
+aunque más cruel te miras,
+yo sé, Flora, que suspiras
+y que te acuerdas de mí.
  Hanme dicho que a otro quieres,
 y no es mucho, te prometo,
 que eres mujer, en efecto,
 y aprendes de las mujeres.
- G�cesle por muchos a�os,
-que tambi�n era locura
+ Gócesle por muchos años,
+que también era locura
 sujetar esa hermosura
-a mis desdenes y enga�os.
- Pero no pienses que est�s
+a mis desdenes y engaños.
+ Pero no pienses que estás
 por eso en tu amor vengada,
 que admitir a otro picada
-es para abrasarte m�s.
+es para abrasarte más.
  Y si acaso el nuevo empleo
 te diere, Flora, disgusto,
 escoge un hombre a tu gusto
@@ -383,72 +117,33 @@ y diferencia el deseo.
 con tantos puedes hablar
 que al fin vengas a topar
 alguno que te contente.
- Mas no lo llevar� bien
+ Mas no lo llevará bien
 mi amor, porque en caso tal,
-despu�s que le trates mal,
+después que le trates mal,
 pienso que te mira bien.
  Picarme, Flora, has querido,
 y no pienso que has errado,
 pues quien no te quiso amado
 te enamora aborrecido.
  Mas aunque muera por ti,
-no te lo dar� a entender,
+no te lo daré a entender,
 porque no me quiero ver
-como te viste por m�.
+como te viste por mí.
 
 
-En cantando, se lleg� el caballero a la reja, para ver si le hab�an
-escuchado; mas viendo que la ocupaba otro, sufriendo mal la conformidad de
-entrambos, le dijo a don F�lix se tuviese por avisado de que daba
-pesadumbre en solicitar el cuidado de aquellas rejas, y as�, se excusase de
-darla, porque pod�a costarle mucho disgusto hacer otra cosa.
--No pienso yo -replic� don F�lix- que habr� ninguno que me le d�
-conoci�ndome. Esta calle es del Rey, que Dios guarde, y esta dama no tan
-vuestra que pase por lo que dec�s; pues es cierto que si os amara no
-estuviera conmigo. Yo no he de prometer lo que despu�s ha de ser imposible
-que cumpla; y supuesta esta determinaci�n, elegid el medio m�s conveniente
-a vuestro amor como yo no pierda.
--El medio ser� -respondi�- echaros de la calle a cuchilladas y quitaros
-despu�s la vida, para que cesen tantos enfados.
--Par�ceme que no lo hab�is recabado conmigo -replic� el valiente espa�ol-,
-porque la he sabido defender en otras ocasiones de m�s peligro.
-Y sacando la espada, a los primeros golpes, esmalt� el arrogante flamenco
-con su sangre las piedras. Y viendo que la gente que tra�a acud�a a su
-defensa, le fue forzoso a don F�lix retirarse a la casa de un caballero
-amigo suyo, donde estuvo algunos d�as, hasta que sabiendo que su enemigo
-era de los m�s principales de aquel Estado, y que por esa causa, aunque
-sanara de la herida, hab�a de estar con el mismo riesgo, se parti� a
-N�poles; y despu�s de admirar sus grandezas, determin� dar la vuelta a
-Espa�a, a gozar su patrimonio y descansar de los trabajos de la guerra.
-Lleg� a Madrid, donde le recibieron sus deudos y su madre con infinitos
-regocijos y fiestas. Tendr�a Diana entonces hasta catorce a�os, y estaba
-tan bella, que con ser Madrid el lugar donde menos lucen las hermosuras por
-haber tantas, Diana entre todas ten�a opini�n. Pregunt� don F�lix qui�n
-era; respondi�le Casandra que no la conoc�a m�s padres que al cielo y a su
-piedad, y que por llevar con m�s blandura el rigor de su soledad, la hab�a
-criado desde sus tiernos a�os.
-Mir�la con atenci�n don F�lix, y como para amarla no era menester sino
-dejarse mirar, no pudo resistir el fuego de sus divinos ojos. Y as� en
-cualquiera ocasi�n procuraba darla a entender su amoroso cuidado. Era
-discreta Diana, y entendi�le (que un amor grande con facilidad se conoce) y
-no la pes�, porque no ten�a don F�lix entendimiento ni talle para que
-ninguna se desagradara de su empleo; aunque viendo la desigualdad que
-juzgaba haber de por medio, se fue a la mano y ri�� a sus ojos algunas
-travesuras, que el recato llama descuidos, por no empe�arse en un amor que
-no hab�a de parar en fin honesto. Pero como en los primeros a�os est� el
-alma tan dispuesta a cualquier voluntad, la de Diana confes� dentro de su
-mismo pecho que amaba a don F�lix. El cual, sufriendo los desdenes de su
-hermosura, nacidos de su honestidad, no de su desprecio, se resolvi� a
-porfiar hasta vencerla.
-Sal�a de noche y pase�base por su misma casa, como si fuera ajena, por no
-excusarse de las finezas de gal�n. Y avisando una noche a ciertos amigos
-m�sicos para obligar a la discreta Diana, cantaron entre todos desta
-suerte:
+En cantando, se llegó el caballero a la reja, para ver si le habían escuchado; mas viendo que la ocupaba otro, sufriendo mal la conformidad de entrambos, le dijo a don Félix se tuviese por avisado de que daba pesadumbre en solicitar el cuidado de aquellas rejas, y así, se excusase de darla, porque podía costarle mucho disgusto hacer otra cosa.
+-No pienso yo -replicó don Félix- que habrá ninguno que me le dé conociéndome. Esta calle es del Rey, que Dios guarde, y esta dama no tan vuestra que pase por lo que decís; pues es cierto que si os amara no estuviera conmigo. Yo no he de prometer lo que después ha de ser imposible que cumpla; y supuesta esta determinación, elegid el medio más conveniente a vuestro amor como yo no pierda.
+-El medio será -respondió- echaros de la calle a cuchilladas y quitaros después la vida, para que cesen tantos enfados.
+-Paréceme que no lo habéis recabado conmigo -replicó el valiente español-, porque la he sabido defender en otras ocasiones de más peligro.
+Y sacando la espada, a los primeros golpes, esmaltó el arrogante flamenco con su sangre las piedras. Y viendo que la gente que traía acudía a su defensa, le fue forzoso a don Félix retirarse a la casa de un caballero amigo suyo, donde estuvo algunos días, hasta que sabiendo que su enemigo era de los más principales de aquel Estado, y que por esa causa, aunque sanara de la herida, había de estar con el mismo riesgo, se partió a Nápoles; y después de admirar sus grandezas, determinó dar la vuelta a España, a gozar su patrimonio y descansar de los trabajos de la guerra.
+Llegó a Madrid, donde le recibieron sus deudos y su madre con infinitos regocijos y fiestas. Tendría Diana entonces hasta catorce años, y estaba tan bella, que con ser Madrid el lugar donde menos lucen las hermosuras por haber tantas, Diana entre todas tenía opinión. Preguntó don Félix quién era; respondióle Casandra que no la conocía más padres que al cielo y a su piedad, y que por llevar con más blandura el rigor de su soledad, la había criado desde sus tiernos años.
+Miróla con atención don Félix, y como para amarla no era menester sino dejarse mirar, no pudo resistir el fuego de sus divinos ojos. Y así en cualquiera ocasión procuraba darla a entender su amoroso cuidado. Era discreta Diana, y entendióle (que un amor grande con facilidad se conoce) y no la pesó, porque no tenía don Félix entendimiento ni talle para que ninguna se desagradara de su empleo; aunque viendo la desigualdad que juzgaba haber de por medio, se fue a la mano y riñó a sus ojos algunas travesuras, que el recato llama descuidos, por no empeñarse en un amor que no había de parar en fin honesto. Pero como en los primeros años está el alma tan dispuesta a cualquier voluntad, la de Diana confesó dentro de su mismo pecho que amaba a don Félix. El cual, sufriendo los desdenes de su hermosura, nacidos de su honestidad, no de su desprecio, se resolvió a porfiar hasta vencerla.
+Salía de noche y paseábase por su misma casa, como si fuera ajena, por no excusarse de las finezas de galán. Y avisando una noche a ciertos amigos músicos para obligar a la discreta Diana, cantaron entre todos desta suerte:
  Aunque me mate Diana,
-no estorb�is, selvas, mi muerte,
+no estorbéis, selvas, mi muerte,
 que pues yo la solicito
 sin duda que no me ofende.
- �Qu� os dir� de sus cabellos,
+ ¡Qué os diré de sus cabellos,
 que con rizos diferentes
 atrevidamente hechizan,
 lisonjeramente prenden!
@@ -456,11 +151,11 @@ lisonjeramente prenden!
 y que Diana los tiene
 para guarnecer con oro
 juridicciones de nieve.
- De sus ojos s� deciros
+ De sus ojos sé deciros
 que quien los mira, los teme;
-�ay de m�, que los he visto,
+¡ay de mí, que los he visto,
 y he visto en ellos mi muerte!
- S�lo consigo compiten,
+ Sólo consigo compiten,
 que el Sol no puede ni quiere,
 como sabe lo que valen,
 intentar desvanecerse;
@@ -480,9 +175,9 @@ que Neptuno en conchas tiene.
 tan hermoso y transparente,
 que en belleza y en blancura
 no deben nada a la nieve.
- Lo dem�s que no se toca
+ Lo demás que no se toca
 ni a los ojos se consiente,
-sin duda que es m�s perfecto,
+sin duda que es más perfecto,
 pues imaginado enciende.
  En fin, me ha muerto Diana;
 pero tan gustosamente,
@@ -492,470 +187,46 @@ agradecerla mi muerte.
 y si puede libremente
 perderse un hombre de bien,
 si esto puede ser perderse.
- Y as�, decilda, si acaso
+ Y así, decilda, si acaso
 a visitaros viniere,
 que se acuerde de mi amor
 y de mis penas se acuerde.
-Ingrata era Diana a todas estas finezas, porque pod�a con ella m�s su
-recato que su amor. Y as� le dijo una ma�ana que no se cansase en
-conquistar su pecho, porque ser�a m�s f�cil reducir a n�mero las arenas del
-dorado Tajo y hallar piedad en las entra�as de una pe�a. Bien pudiera
-desmentirla su propio coraz�n; pero muchas veces huye una mujer de lo
-propio que adora, porque lo que m�s ama suele ser su mayor enemigo. Alcanz�
-Casandra a saber esta voluntad, y turb�le el alma el intento de su hijo,
-por el peligro que hab�a en que Diana, como muchacha, se dejase vencer de
-sus palabras. Y as�, llam�ndola aparte, culp� el atrevimiento de mirar a
-don F�lix, sabiendo que no pod�a intentar sino su deshonra, porque no hab�a
-de casarse con una mujer que no conoc�a padres; y advirtiese que ella
-estaba resuelta a casarla tan bien que nadie pensase sino que era hija
-propia; pero ser�a con la condici�n de no salir un punto de su obediencia;
-porque si ten�a otro pensamiento, desde luego pod�a dejar su casa y
-disponer de su libertad a su gusto. Respondi�la con l�grimas la hermosa
-Diana que ya sab�a que no merec�a a su se�or don F�lix, por no conocer a
-quien la hab�a dado el ser; pero que tampoco ten�a raz�n en dec�rselo con
-tanto desprecio, pues en fin era cosa en que no ten�a culpa, y que mirase
-que se quejaba injustamente de su honestidad, porque de la misma manera que
-no hab�a estado en su mano tener tan sospechoso nacimiento, as� no era
-culpada en que su se�or don F�lix la amase, si acaso era tenerla amor
-decirla algunas veces cuatro razones mejor sentidas que escuchadas. Mas si
-alguna criada con informaci�n falsa, con envidia o con celos, la dec�a otra
-cosa, entendiese que la enga�aba; porque en ella no hab�a m�s ocasi�n que
-tener aquella desgraciada hermosura. Y que para m�s satisfacci�n de su
-verdad, tratase desde luego de darla estado, como no fuese cas�ndola,
-porque no se sent�a con �nimo de sufrir un marido. Y pues (como ella dec�a)
-ten�a tanto deseo de remediarla, monasterios hab�a en la Corte, donde pod�a
-acabar su vida, para librarse de escuchar una afrenta a cualquiera que la
-conociese.
-Con muchos abrazos la respondi� Casandra, agradeciendo su santa
-determinaci�n; porque aunque era verdad que la amaba como madre y hab�a de
-sentir su ausencia, menos inconveniente era vivir sin ella que estar a
-peligro de que don F�lix, mozo, atrevido y enamorado, pasase adelante en su
-locura, y despu�s de un yerro tan grande se siguiese otro mucho mayor, pues
-aunque Diana se resistiese, la porf�a, el amor y los ruegos lo sujetan
-todo. Y con este �nimo concert� secretamente en un convento su dote, donde
-la llev�, y en breves horas troc� su casa por una celda y sus galas por un
-h�bito de San Francisco. El sentimiento de Diana fue grande, vi�ndose en
-estado tan diferente de sus intentos y esperanzas; porque siempre las hab�a
-tenido de ser esposa de don F�lix: tantas eran las muestras de amor que
-miraba en �l. Mas considerando que fuera mayor tormento vivir en brazos de
-un hombre que no fuese don F�lix, empez� a divertir la memoria de los
-pasados pensamientos, conform�ndose con su fortuna y entregando la libertad
-a mejor Esposo.
-S�polo don F�lix, y sinti�lo de suerte que fue mucho no hacer un desatino
-con su madre; porque le dijeron que ella sola era quien m�s hab�a estorbado
-su gusto. Y as�, muchas noches le aconteci� ir al monasterio y, como loco,
-dar voces pidiendo su esposa, sin consentir que aun sus mayores amigos le
-consolasen en tal p�rdida. Disculpa ten�a don F�lix, que en llegando a ser
-verdadero el amor ni puede alegrarse ni divertirse. Amaba lo que perd�a;
-milagro era que no muriese y liviandad fuera que se consolase, si bien
-solamente pod�a sosegarle el desenga�o de su ignorancia, pues quer�a para
-mujer propia a quien era su hermana y su hija. �Pero qui�n pod�a avisarle
-de lo que Casandra, el cielo y una criada sab�an?
-Ya se iba acercando la profesi�n de Diana, y don F�lix perd�a el juicio de
-ver cu�n poco se le daba de vivir sin �l. Porque Casandra (para quitarle la
-esperanza) dec�a que Diana no s�lo le olvidaba, sino que estaba arrepentida
-de haberle escuchado; mas lo cierto era que sabiendo que casarse con don
-F�lix era imposible, hab�a el entendimiento a perseverar en la religi�n. No
-cre�a don F�lix a su madre, porque otras personas le dec�an lo contrario. Y
-as�, quisiera saber de su misma boca si el estado que ten�a era por
-elecci�n suya, o si acaso las persuasiones de su madre la hab�an obligado a
-seguir aquel camino; porque muchas veces la hab�a o�do encarecer a ella
-misma su contraria voluntad en aquella materia. Y as�, una tarde que
-Casandra la enviaba cierto regalo, tuvo ocasi�n de poner un papel en parte
-que era fuerza llegase a sus manos y estaba seguro de que nadie le viera. Y
-esto con intenci�n de que por lo menos entendiese Diana que su queja era
-justa, pues, sin m�s causa que tenerla amor, le hab�a dejado.
-Hall� el papel Diana, y pensando que era de su se�ora, le abri�; pero
-apenas ley� la firma, cuando le hizo pedazos (que no es cordura refrescar
-la memoria con lo que despu�s ha de dar pesadumbre). Estuvo suspensa un
-gran rato, imaginando lo que pod�a escribirla un hombre que la hab�a
-querido, y que esperaba perderla tan presto. Y si va a decir verdad, la
-pes� de haberle rompido. Y juntando turbada los divididos pedazos, dio a
-cada uno su lugar y luego ley� as�:
-�De tus palabras siempre cre� que no me quer�as; pero de tus ojos nunca me
-pude persuadir a que no me adorabas. Y en esta parte pienso que son los
-testigos m�s abonados; pero mintieron, hermosa Diana, que en fin son de
-mujer, aunque son tuyos. Perd�name si te hablo atrevido; y pues tengo
-raz�n, ni te disculpes ni me castigues; y advierte que no es mi intento
-impedir el estado que tienes; que gracias a Dios bien s� que es el m�s
-seguro, aunque no es el m�s f�cil. Lo que te quiero preguntar es si mi
-madre, con alg�n g�nero de violencia, te ha persuadido a que le sigas sin
-gusto tuyo; porque, si es as�, h�gote saber que te ha de costar el
-obedecerla vivir desesperada y perder con la vida el alma; porque un estado
-a disgusto no suele tener otros fines. Tiempo tienes, Diana, para volver
-por tu libertad; y para que veas si mi amor es fingido, porque te amo y
-porque tengo por cierto que vives ahora contra tu voluntad, digo que desde
-aqu� prometo ser tu esposo; que para m� no he menester m�s calidad que tu
-virtud y tu cara, que si me tienes amor, con esto te he dicho harto. Tu
-esposo don F�lix.�
-Admir�le a Diana la resoluci�n de don F�lix, y como el fuego de su amor,
-aunque estaba suspendido, no estaba muerto, volvi� a dar nuevo aliento a
-las calientes cenizas. En fin, sali� decretado de su entendimiento que era
-locura vivir descontenta toda la vida, por hacer el gusto de Casandra; y
-pocos d�as antes de la profesi�n la rog� no se cansase en fiestas ni en
-prevenciones, porque ella no se hallaba con �nimo de perseverar en aquel
-estado; fuera de que ten�a marido que lo estorbase. Y en este tiempo vino
-don F�lix, que ya estaba avisado, y confirm� que Diana era su esposa.
-Sac�ronla luego del monasterio con l�grimas de todas, y aun con envidia de
-alguna que se holgara de acompa�arla. Qued� Casandra muerta, y llam�ndola
-en secreto con determinaci�n de decirla qui�n era, la rog� no la diese
-tanto pesar, que se casase con don F�lix; porque el d�a que lo hiciera,
-ser�a el �ltimo que la hab�a de ver; y que si quer�a casarse con otro,
-promet�a favorecerla con tantas veras que se espantase el mundo de su
-liberalidad.
--Por cierto, se�ora -replic� Diana-, que no acabo de entender la causa que
-te obliga a sentir tan mal de estas cosas, porque si como t� dices me
-tienes tanto amor, par�ceme que amar a una persona no es quitarla el bien
-que la promete el cielo, procurando escurecer su fortuna. Y si piensas que
-obligas a tu hijo estorbando su amor, porque mi sangre no le iguala, es
-enga�o conocido; porque quitarle el gusto m�s merece el nombre de tiran�a.
-Mi calidad no puedo decir que es m�s ni menos, porque ignoro los padres que
-tuve; pero como suele un hombre hacer hermoso el objeto que ama con la
-imaginaci�n, aunque no le sea, as� don F�lix puede presumir que soy noble,
-pues no le cuesta m�s que encomendarlo a su pensamiento; que harta nobleza
-me sobra, pues tuve suerte para agradarle. Y si esto es verdad, �de qu�
-sirve ser tan cruel con tu sangre y conmigo; y que siendo t� quien m�s
-hab�a de alentarme, seas solamente quien me desanime?
-Responderla quiso Casandra con el desenga�o; pero la verg�enza y el temor
-la pusieron un nudo a la garganta; que esto de llegar a quitarse una mujer
-el honor a s� misma es dificultoso en su naturaleza. Mucho erraba Casandra
-en callar aquella verdad, que a todas horas la estaba dando voces con el
-pecho, mas la extra�eza del delito la disculpa; y as�, viendo resuelta a
-Diana de gozar por esposo al que era hermano y padre suyo, buscaba medios
-que estorbasen el amor de entrambos. Y acord�ndose de una se�ora a quien
-don F�lix antes de amar a Diana hab�a querido, y que se murmuraba que la
-deb�a su honra, se fue a su casa y la dijo que ella se hab�a informado de
-que su hijo la ten�a obligaciones, que no pod�an satisfacerse menos que con
-ser su esposo, y que no era justo que se casase con una criada suya, cuyo
-nacimiento pod�a deslucir su sangre, teniendo tan antiguas deudas.
-Con justa admiraci�n la escuch� Fulgencia (que as� se llamaba esta dama), y
-despu�s de encarecer el favor que la hac�a, y dejar salir algunos suspiros,
-que la ingratitud de don F�lix ten�a depositados en su pecho, la dijo:
--Debe de haber ocho meses que, saliendo una ma�ana de mayo con dos amigas y
-una criada a curar el achaque de una opilaci�n, aunque m�s con deseo de ser
-vista que con �nimo de tomar el acero, me vio don F�lix y llegando a
-comprar unos ramilletes en Provincia, donde todas las ma�anas deste mes hay
-un jard�n port�til, seg�n �l dijo le parec� bien; pero enga��ronme sus ojos
-y sus palabras, pues las obras me lo han dicho tan a mi costa, y con
-despejo de soldado, si bien con la cortes�a que se debe tener con las
-mujeres, se lleg� a m� (o por m�s hermosa o por m�s desdichada) con los
-enga�os y lisonjas que en semejantes ocasiones dicen todos. No pude
-culparle de atrevido, porque cuando las mujeres van dando ocasi�n, no es
-mucho que pierdan el respeto a su decoro. Sigui�me toda la ma�ana, gal�n y
-cortesano, encareciendo con mentiras y amores (que a mi opini�n todo es
-uno) el que me ten�a, hasta que me dej� en mi calle. Apenas al siguiente
-d�a el amante de Dafne esparc�a sus rayos, cuando vi a don F�lix que estaba
-a la puerta de mi casa aguard�ndome. Sal� con m�s cuidado, as� en el
-vestido como en la cara, pareci�ndome que ya ten�a quien me mirase con
-alguna atenci�n. Llevaba un faldell�n de damasco verde con pretinillas de
-lo mismo, sombrero de color con plumas, pies peque�os con zapatos de �mbar;
-y sobre todo, muy poco juicio. Porfi� don F�lix, y en efecto, lo que
-result� fue que, enternecida a sus ruegos, confiada en sus palabras, y lo
-que m�s es, perdida por su talle, le hice due�o de mi honor: tan poderoso
-es el amor de una mujer, el enga�o de un hombre y la ocasi�n de entrambos.
-Prometi� ser mi esposo, si bien no es bastante disculpa para mi yerro, que
-no la tiene una mujer que se f�a de quien con la fuerza del deseo promete
-lo que suele negar arrepentido. Bien lo tengo experimentado, pues apenas me
-goz� cuando hall� el desenga�o desta verdad; porque luego empez� a
-descuidarse tanto conmigo, que se pasaba muchos d�as sin que le viese. Lo
-que entonces sent� y lo que llor� no lo digo, porque ni s� ni puedo. Supe
-que la causa de olvidarme era por amar con extremo a una criada suya, que
-sin duda debe de ser esa misma. Vime burlada y aborrecida, dos agravios
-para una mujer de bien, los mayores que puede usar la traici�n de los
-hombres. Procur� hablarle por haber la ocasi�n que le obligaba a semejante
-ingratitud; mas no lo pudieron alcanzar mis ruegos ni mis l�grimas: que los
-hombres en vi�ndose culpados, por no satisfacer no escuchan; y as�, me
-oblig� a decir mis quejas a un papel y mi liviandad a una amiga, para que
-le ri�ese sus sinrazones. Pero la respuesta fue de suerte que a�n ahora la
-temo. �Ay se�ora m�a, si una mujer cuando aventura su opini�n se acordara
-del pago que han dado a otras, qu� cierto ser�a que hubiera menos burladas
-en el mundo! Lo que me respondi� fue que cuando dijo que me ten�a amor,
-estaba empleado en Diana; y que por despicarse de sus desdenes, y parecerle
-que yo recib�a con gusto su voluntad, hab�a proseguido en desvanecerme; y
-as�, procurase olvidar los pensamientos (si ten�a algunos) de ser suya,
-porque era imposible, y de pretenderlo s�lo pod�a seguirse tenerle menos
-obligado y hacer m�s p�blica mi deshonra. Bien me pod�is creer que, cuando
-pas� los ojos por estas razones, quisiera tenerle delante para hacerle
-pedazos y satisfacer con su sangre mi justa venganza. Mas viendo que si
-pon�a en manos de la justicia la mucha que ten�a, era quedar con eterna
-infamia, porque �l hab�a de salir con vitoria de todo, por tener hacienda
-que le solicitase las sentencias, me determin� a callar mi agravio. Esto
-es, se�ora, lo que me debe don F�lix; mirad vos si tengo causa bastante
-para ser suya y para quejarme mientras viviere de su trato y de mi
-desdicha.
-Grande fue el contento que recibi� Casandra con la historia de Fulgencia
-por haber hallado ocasi�n tan fuerte para dividir a Diana y a don F�lix. Y
-as�, despu�s de consolar a la triste y afligida dama, habl� a sus padres y
-les cont� la traici�n de su hijo, disculpando en todo a Fulgencia; y
-prometi�ndoles que hab�a de ser su esposo, aunque le pesase, porque quien
-pod�a hacer dudoso el pleito era ella, gastando dos mil escudos para librar
-a su hijo; pero que estaba de tan diferente parecer, que si fuera necesario
-jurar�a contra don F�lix. De manera que por cualquier camino estar�a el
-pleito seguro, pues lo m�s que �l pod�a hacer, si la aborrec�a, era casarse
-y dejar luego a Espa�a, y eso importaba poco, pues en cuanto a su honra ya
-lo cobraba con ser su marido; en lo dem�s ella ten�a seis mil ducados cada
-a�o con que pod�a haber moderadamente para todos. Sintieron los padres de
-Fulgencia su liviandad, mas viendo lo que Casandra les promet�a,
-disimularon cuerdamente; y sin dilatarlo m�s, hicieron informaci�n con todo
-secreto.
-Ya Diana esperaba por puntos a don F�lix, que m�s enamorado cada d�a de sus
-hermosos ojos iba abreviando su desposorio, y el padre de Fulgencia,
-pensando que con buenas palabras pudiera reducirle a lo que despu�s hab�a
-de hacer forzado, se lleg� a hablarle, y le refiri� todo lo que pasaba; mas
-respondi�le don F�lix tan col�rico y libre, que le oblig� a sacar un
-nombramiento para prenderle y hacer que moderase en la c�rcel los br�os que
-hab�a cobrado en la soldadesca. No falt� quien avisase a don F�lix del
-riesgo que ten�a si le prendiesen, porque su madre era quien m�s le
-persegu�a; y recel�ndose de alguna violencia, se lleg� a Diana y dici�ndola
-que por quererla tanto era forzoso estar algunos d�as sin verla, se
-despidi� de sus ojos y de sus brazos.
-Confusa qued� Diana escuchando novedad tan grande; mas cuando vio que la
-justicia hac�a diligencia para buscarle, no pod�a entender lo que encerraba
-aquella enigma. Y aunque la dijeron la causa, no quiso creerla, porque del
-amor de don F�lix le parec�a imposible que hubiese mirado otros ojos; pero
-cuando advirti� que se pon�a el pleito, que don F�lix faltaba y que
-Fulgencia dec�a que era su marido, porque las obligaciones que la ten�an
-eran de tal peso que no pod�an pasar sin paga, crey�lo de suerte que con
-sus propias manos quiso poner fin a su vida.
--�Ay ingrato! -dec�a ba��ndose en su mismo alj�far-, ��ste es el amor con
-que me esperabas? Muy bien has pagado mi voluntad, pues sabe Dios que no te
-lo he merecido; pero sin duda es venganza del cielo, que quien dej� de ser
-esposa suya por estimarte, bien merece cualquier castigo. Nunca pens�,
-traidor, que en los hombres principales hab�a bajezas; pero enga��me,
-porque en fin son hombres; y si bien esto hacen con nosotras, �c�mo nos
-infaman murmurando de nuestras costumbres y de nuestra naturaleza? Una cosa
-solamente me ha de servir de consuelo, y es que ninguno ha de enga�arme
-segunda vez, porque si don F�lix, cuando est� m�s fino y cuando hace tantos
-g�neros de locuras, tiene aquesto encubierto, �qu� puede esperarse de los
-dem�s? Par�ceme que si �l estuviera aqu�, me respondiera que no por gozar
-un hombre de otros brazos, deja de amar al due�o principal. Pero dij�rale
-yo que ment�a, que quien ama de veras no ha de tener �nimo para mirar otros
-ojos, aunque sea de burlas, porque la voluntad, cuando es verdadera, no
-puede pasar por semejantes traiciones. Confieso que he tenido mucha culpa
-en haberte cre�do; pero �por qu� no te hab�a de creer mil veces, vi�ndote
-intentar por tu loco amor no finezas, sino desatinos? �Ah traidor don
-F�lix, si como te di lugar en el alma consintiera en otros deseos buena
-quedara mi honestidad, pues ya eras ajeno! �Qui�n duda que en cualquier
-parte te alabar�s de haber enga�ado y vencido el recato de dos mujeres
-principales? Pues enga��te tu presunci�n, que aunque te quiero m�s que
-Fulgencia, no por eso me olvido de mi honor, que amar a un hombre y
-servirle hasta perder la vida, es cosa justa, y m�s si se llama esposo o lo
-solicita; pero aventurar la honra antes que lo sea, por cumplir sus locos
-antojos, no hay voluntad que lo mande ni lo aconseje.
-As� se quejaba la hermosa Diana, pidiendo al cielo que antes que le viese
-en poder de Fulgencia a ella o a �l los quitase la vida.
-Pas�ronse muchos d�as sin tener nuevas de don F�lix; el pleito estaba tan
-bien solicitado, que s�lo le aguardaban para concluirse. Casandra viv�a
-confusa y Fulgencia con esperanzas de cobrar el honor perdido; mas a todas
-sac� de duda una carta que desde Sanl�car escribi� don F�lix a su madre,
-que dec�a:
-�Pues en v. m. no he tenido madre que me ampare, sino enemigo que me
-persiga, tenga por cierto que no me ver�n sus ojos en Espa�a. Ma�ana me
-embarco con intento de llegar a Lima, que a�n en el otro mundo no s� si
-estar� libre de llegar seguro de sus crueldades. La raz�n que me obliga es
-solamente huir de quien aborrezco, porque me parece menos peligroso el mar
-que un casamiento a disgusto. Y si acaso v. m. se hubiere cansado de ser
-tirana conmigo, d�gale a Diana que siempre me debe una misma voluntad; y si
-vale el ruego de un ausente, la suplico no disponga de la suya, porque a�n
-no he perdido las esperanzas de gozarla. De Sanl�car, etc.�
-Mucho dio que dudar y que sentir esta carta, y m�s a Fulgencia, que,
-vi�ndose sin gusto y sin honra, murmurada de sus deudos y martirizada de
-sus padres, que a todas horas la acusaban de f�cil y liviana, se resolvi� a
-huir de todos en el sagrado de un convento, donde estuvo el primer a�o tan
-contenta y favorecido del cielo, que casi tuvo a ventura su yerro, por
-haber sido causa de hallar estado tan libre de las desdichas que suelen
-sobrar en el siglo. Y en efecto, olvidada de don F�lix, hizo su profesi�n y
-dio gracias al cielo de que la hab�a alumbrado el alma, cuando estaba m�s
-ajena de remedio y de gusto.
-Bien diferente lo pasaba Diana, porque sin poder borrar de la memoria a don
-F�lix y haber a�o y medio que no le v�a, le lloraba como si se acabase de
-ausentar. Y lo que m�s la ofend�a era ver a su se�ora que la persegu�a,
-porque eligiese estado, cosa que era imposible viviendo don F�lix y estando
-ya sin el estorbo de Fulgencia. Ofreci�sele en este tiempo a Casandra hacer
-una ausencia de Madrid por quince d�as, y mirando a Diana con tan poco
-gusto, no se atrevi� a decirla que la acompa�ase, por saber lo que hab�a de
-responder; s�lo la mand� que en tanto que estaba ausente pensase lo que
-hab�a de hacer de su vida, porque ya estaba cansada de los importunos
-ruegos de sus amantes, y si a la vuelta no la hallaba determinada, pod�a
-hacer cuenta que no la conoc�a.
-Fuese con esto y qued� Diana afligida de ver que era forzoso ser ingrata a
-lo mucho que deb�a a su se�ora. Y estando una tarde llorando su fortuna y
-la ausencia de don F�lix, lleg� a ella un hombre diciendo que le tra�a un
-recado de cierta amiga suya, y asegur�ndose primero de que era Diana, la
-dijo que en un lugar de las Indias estuvo con un caballero, el cual,
-sabiendo que ven�a a Espa�a, le hab�a rogado le diese en secreto aquel
-pliego. Turbada entonces Diana, ley� el sobrescrito, y conociendo que la
-letra era de su ausente due�o, le respondi� antes de abrirle:
--Bien pienso que me habr�is visto en los ojos el alma, y as� me puedo
-excusar de encarecer el gusto que he recibido; mas porque no quisiera que
-la gente de mi casa sospechara algo, no me detengo con vos y porque el
-deseo de saber lo que me escribe don F�lix no me consiente m�s cortes�a.
--Harto tengo que deciros acerca de su ausencia -replic� el criado-, y as�
-mirad en qu� ocasi�n puedo hablaros con menos testigos.
--De d�a ser� imposible -dijo Diana-, porque tengo muchos fiscales, que no
-llevan bien cualquiera cosa de don F�lix en tocando a esta voluntad; pero
-si no os cans�is de hacerme merced, venid esta noche y por esta reja baja
-podremos hablar m�s seguros y os pagar� el porte de la carta.
-Despidi�ronse con este concierto, y Diana, loca con la nueva alegr�a, se
-retir� a su cuarto, y m�s lo estuvo cuando ley� la carta, porque toda ven�a
-llena de humildades y l�stimas, encareciendo la triste vida que pasaba sin
-su hermosura; pero que ten�a confianza de que antes de muchos d�as hab�a de
-verse en sus brazos, y que el mensajero le dar�a cuenta de su
-determinaci�n.
-En tanto que Diana solemnizaba su dicha, se lleg� la noche y la hora en que
-hab�a de saber los varios sucesos de don F�lix. Baj� a la reja y vio junto
-a ella un hombre solo, que en sintiendo ruido y conociendo que era Diana,
-la dijo que por lo menos no pod�a acusarle de perezoso, porque hab�a m�s de
-dos horas que la esperaba.
--Yo os prometo -respondi� ella- que tampoco ha sido descuido m�o, sino
-advertencia de aguardar a que toda la gente de mi casa se recoja para poder
-hablar con menos miedo.
--Sin �l no estar� yo -replic� algo turbado el hombre-, porque los galanes
-que conquistan estas paredes son tantos, que si os confieso verdad, m�s
-temor he tenido en el tiempo que he paseado esta calle que en algunos a�os
-que me ha visto Mil�n a los ojos de los enemigos. Y as� os quisiera
-suplicar (si vuestro amor lo consiente) se dilate para otro d�a esta
-conversaci�n, pues estoy, como digo, con alg�n recelo por estar solo y no
-con bastantes armas para defenderme.
--No s� yo -respondi� Diana- la ocasi�n que pueden haber dado mis ojos a
-nadie para que mire atrevidamente estas rejas; porque os puedo asegurar que
-despu�s que se ausent� don F�lix a�n no he tenido �nimo de preguntar a un
-espejo por mi hermosura, que en falt�ndole a una mujer el gusto ni se
-acuerda de la cara ni otros accidentes. Las pesadumbres, los celos y las
-ansias con que me dej� fueron de manera que, si no es hoy, no puedo decir
-que he tenido una hora de gusto. Esto os he dicho; porque si alguno se
-desvanece, no imagin�is que soy parte en su locura, porque las mujeres
-principales, cuando se empe�an en amar a un hombre, no es para divertirse a
-otros desvelos. Pero volviendo a vuestro temor, digo que ni quiero que vos
-est�is con ese disgusto, ni yo he de poder pasar esta noche sin hablar en
-don F�lix. Y as� me parece, que en viendo que no pasa gente, llegar�is a
-esa primera puerta, abriendo con esta llave, y yo os estar� aguardando;
-para que con m�s seguridad pod�is, hasta que llegue el d�a, hacerme el
-favor que dec�s.
-H�zolo as�, y recibi�le Diana con grandes muestras de alegr�a; y apenas
-estuvo dentro, cuando vio que el hombre que tra�a consigo era don F�lix. El
-cual, abraz�ndose della, estuvo un gran rato sin poder hablar. Volvi� a
-mirarle Diana, y qued� tan suspensa, que casi le abrazaba con miedo,
-pensando que era alguna ilusi�n de su fantas�a, que suele con las especies
-que conserva de las cosas vistas proponer a los ojos una forma semejante a
-lo que desea; y don F�lix, por no tenerla turbada, dijo:
--Despu�s que supe, Diana, la resoluci�n de Fulgencia por aquella pasada
-travesura, no quise esperar los rigores de la justicia, y m�s sabiendo lo
-mucho que favorecen las leyes el honor de cualquiera mujer. Y estando en la
-casa de un amigo con �nimo de ausentarme, le pareci� a �l y a m� que era
-mejor medio quedarme en Madrid, hasta ver el fin que ten�an estas cosas,
-determin�ndome primero a no salir de una sala en todo este tiempo. Y para
-que desconfiada de ser m�a dispusiese Fulgencia de su voluntad, escrib�
-aquella carta fingiendo que estaba en Sanl�car. Supe despu�s que Fulgencia
-era religiosa y que hab�a profesado; con que, seguro de mis temores, me
-promet� la cierta posesi�n de tu divina hermosura, y cuando estaba ya
-dispuesto para venir p�blicamente a mi casa, me dijeron que se ausentaba mi
-madre por algunos d�as, y porque no pudiese impedir (como otras veces)
-nuestros amores, aguard� a que se fuese. Luego te envi� la carta que ayer
-recibiste, y despu�s ha sucedido lo que has visto. Esta es, hermosa Diana,
-la breve relaci�n de mi historia, que no puedo llamar ausencia, pues
-siempre he tenido el mismo lugar en tu memoria. Yo te adoro por tu virtud y
-firmeza, y estoy dispuesto a cumplir la palabra que con tanta raz�n te
-debo; pues por lo menos ahora ni Casandra lo puede estorbar ni hay otra
-Fulgencia que lo impida.
-Por bien empleado dio la hermosa Diana cuantos trabajos hab�a padecido,
-viendo que paraban en tanto gusto, y dijo a don F�lix que ya estaba
-satisfecha de su voluntad, y que as�, procurase, antes que viniese su
-se�ora, trazarlo de modo que no pudiera deshacerlo su diligencia; pero
-advirtiese que primero hab�a de ser su esposo, para no aventurarse con
-peligro de su honestidad, porque en siendo de otra suerte [no] la hab�a de
-perdonar. Y como don F�lix la amaba para propia, estim� por favor aquella
-honesta resistencia, y la rog� que le esperase y ver�a con cu�nta facilidad
-la aseguraba.
-Fue luego en casa de su amigo, y con �l y un criado y el cura de la misma
-parroquia volvi� donde estaba Diana, y en despos�ndolos se despidieron,
-quedando Diana tan contenta de lo que hab�a sucedido como vergonzosa de lo
-que le esperaba (que aun en las cosas que se desean tiene su lugar el
-recato).
-Vino la descuidada Casandra, y hallando tan impensadamente a don F�lix, que
-ya se llamaba esposo de Diana, y coligiendo lo que podr�a haber pasado
-entre dos que se amaban y no ten�an quien los estorbase, se qued� difunta.
-Y por no hacerse sospechosa con sus hijos, acredit� la prudente elecci�n de
-entrambos; pero cuando se vio sola, considerando que ella ten�a la culpa de
-aquel suceso, se deshac�a en un perpetuo llanto, y se volv�a loca, viendo
-que con la licencia de reci�n casados estaban juntos a todas horas.
-Dos a�os vivi� Casandra con eternas l�grimas y profunda tristeza, hasta que
-la muerte la ataj� este sentimiento; porque una enfermedad, aunque de poca
-consideraci�n, bast� a quitarle la vida; que no ha menester mucha causa
-quien vive muriendo. Llor� don F�lix la muerte de su madre, y m�s lo que
-por su ocasi�n le qued� que padecer; pues fue la mayor desgracia que le
-pudo suceder a un hombre que ten�a tanto amor, tanto gusto y tantas
-obligaciones; porque cuando ya Casandra estaba peleando con la muerte, o
-mal aconsejada de la persona con quien comunic� este caso o pensando que
-acertaba, le llam� y dio un papel, diciendo:
--Hijo, si acaso este nombre basta a enternecerte, te ruego que hasta que yo
-haya pasado desta triste vida, y tenga mi cuerpo aquel breve sepulcro que
-ha de aposentar a tantos, no le leas, y despu�s le mires con atenci�n y
-adviertas que solamente lo que en �l te digo me ha puesto en el estado que
-ves. Y ech�ndole mil veces su bendici�n, se volvi� a un crucifijo, y
-haciendo los ojos y el coraz�n lo que ya no pod�a la lengua, se despidi� el
-alma de los humanos lazos, con admiraci�n y l�stima de los presentes.
-H�zolo as� don F�lix, y despu�s de haber cumplido con las exequias y honras
-�ltimas, se recogi� a su aposento, y abriendo el papel vio que con mal
-formadas letras dec�a:
-�Don F�lix: yo te doy licencia, que cuando leyeres estos renglones me
-tengas por la mujer m�s desdichada y m�s infame que ha nacido en el mundo.
-Y porque creas mejor esta verdad (que no estoy en tiempo para no decirla),
-has de saber que yo nac� con tan mala inclinaci�n, que cuanto miraba me
-parec�a bien; y en efecto, fui tan loca, liviana y descompuesta, que
-vencida de un lascivo pensamiento puse los ojos en tu persona; y sabiendo
-que como mozo mirabas bien entonces a una criada m�a, que llamaban Lisena,
-trac� con ella que yo te aguardase en su lugar, para que me gozases con
-aquel enga�o; pero fue tan desgraciadamente, que luego me sent� pre�ada,
-cosa que me oblig� a enviarte a Espa�a y que yo me ausentase de Madrid en
-tanto que sal�a a luz Diana, que es la que tienes en posesi�n de tu esposa,
-siendo tu hija por haberla engendrado y tu hermana por ser hija m�a; y �sta
-fue la causa porque en tantas ocasiones estorb� tu amor; pero, en fin, pudo
-m�s mi desdicha que mi deseo. Esto te he dicho, porque des orden de buscar
-el remedio que m�s importe a la seguridad de tu alma y no quieras vivir
-como b�rbaro, ofendiendo al cielo y a la Naturaleza.�
-Puso fin al papel don F�lix con mil suspiros, y llev�ndole al fuego, porque
-solamente su pecho entendiese aquella desdicha, se arroj� en la cama
-haciendo tales extremos que todos le ten�an justa l�stima; y pensando que
-era dolor de la muerte de su madre le consolaban; pero como suele un hombre
-sin juicio ni saber lo que hace ni atender a lo que le dicen, as� don F�lix
-ni o�a ni hablaba, ni aun sab�a lo que le hab�a sucedido. Lleg�base a �l la
-afligida Diana, y dejando caer cantidad de alj�far sobre las mejillas, que
-por estar faltas del rosado color parec�an perlas en azucena o en rosa
-blanca, le rogaba que, pues sab�a que no pod�a ella de tener m�s vida que
-lo que durase la suya, no se la quitase tan rigurosamente. Volv�a a mirarla
-el afligido caballero, porque la voz le lastimaba el alma y su due�o ten�a
-gran imperio en su voluntad; mas presumiendo que podr�a enojarse su sangre,
-si la miraba con ojos de esposo y con caricias de enamorado, hu�a della
-como si no la amara; y se iba al campo a dar voces y quejas contra la
-crueldad de su madre, pues pudiera callar su deshonra y dejarle vivir con
-aquel enga�o, que mientras le ignoraba no ten�a obligaci�n de prevenirle ni
-remediarle. Andaba todo el d�a como embelesado, ofendido de tristes
-imaginaciones, sin hallar camino por donde pudiese vivir con sosiego,
-porque contarle la causa a su esposa era escandalizarla, y no acaso para
-fiarle del secreto de una mujer. Vivir con ella y gozarla como sol�a era
-ocasionar al cielo que, aunque lo consent�a, lo miraba. Ausentarse de sus
-ojos no era posible porque la adoraba. Deshacer el sacramento tampoco era
-justo porque el cielo les hab�a dado hijos. Pues estar en su compa��a sin
-corresponder a gustos de amante y a deudas de marido era hacerse sospechoso
-en su amor con ella y aun dar ocasi�n a su deshonra, que m�s de una mujer
-por ver descuidado a su esposo ha intentado alg�n desatino. En fin, el
-triste don F�lix en todo hallaba inconvenientes y dificultades, viviendo
-con la mayor confusi�n que ha padecido hombre en el mundo; y lo que m�s le
-aflig�a era mirar a Diana tan llorosa y muerta que le atravesaba el coraz�n
-cada vez que la v�a. Y as� se resolvi� a fiar esta dificultad a un
-religioso de la Compa��a de Jes�s, y de los m�s graves y doctos que hab�a
-en ella, que todos lo son, el cual le consol� y prometi� solicitar su
-quietud con todas veras. Y luego lo comunic� con algunos de su casa y con
-muchos de los Catedr�ticos de la insigne Universidad de Salamanca y Alcal�,
-y de todos sali� determinado que viviese con su esposa como antes, pues �l
-ni ella hab�an tenido culpa en el delito. Habl� con esto a don F�lix, y
-cuando �l vio firmado de tantos ingenios que podr�a seguramente gozar de la
-hermosa Diana se ech� a sus pies agradeci�ndole con l�grimas el favor que
-le hab�a hecho, pues le sacaba de tan gran confusi�n. Volvi� don F�lix a su
-casa tan diferente que Diana atribuy� a piedad del cielo la nueva mudanza,
-y as� vivieron contentos y conformes am�ndose por muchas causas, pues no
-era la menor tener tan unida la sangre que sus hijos vinieron a ser
-hermanos y primos: hermanos por ser hijos de Diana y don F�lix, y primos
-por ser hijos de dos hermanos.
-
+Ingrata era Diana a todas estas finezas, porque podía con ella más su recato que su amor. Y así le dijo una mañana que no se cansase en conquistar su pecho, porque sería más fácil reducir a número las arenas del dorado Tajo y hallar piedad en las entrañas de una peña. Bien pudiera desmentirla su propio corazón; pero muchas veces huye una mujer de lo propio que adora, porque lo que más ama suele ser su mayor enemigo. Alcanzó Casandra a saber esta voluntad, y turbóle el alma el intento de su hijo, por el peligro que había en que Diana, como muchacha, se dejase vencer de sus palabras. Y así, llamándola aparte, culpó el atrevimiento de mirar a don Félix, sabiendo que no podía intentar sino su deshonra, porque no había de casarse con una mujer que no conocía padres; y advirtiese que ella estaba resuelta a casarla tan bien que nadie pensase sino que era hija propia; pero sería con la condición de no salir un punto de su obediencia; porque si tenía otro pensamiento, desde luego podía dejar su casa y disponer de su libertad a su gusto. Respondióla con lágrimas la hermosa Diana que ya sabía que no merecía a su señor don Félix, por no conocer a quien la había dado el ser; pero que tampoco tenía razón en decírselo con tanto desprecio, pues en fin era cosa en que no tenía culpa, y que mirase que se quejaba injustamente de su honestidad, porque de la misma manera que no había estado en su mano tener tan sospechoso nacimiento, así no era culpada en que su señor don Félix la amase, si acaso era tenerla amor decirla algunas veces cuatro razones mejor sentidas que escuchadas. Mas si alguna criada con información falsa, con envidia o con celos, la decía otra cosa, entendiese que la engañaba; porque en ella no había más ocasión que tener aquella desgraciada hermosura. Y que para más satisfacción de su verdad, tratase desde luego de darla estado, como no fuese casándola, porque no se sentía con ánimo de sufrir un marido. Y pues (como ella decía) tenía tanto deseo de remediarla, monasterios había en la Corte, donde podía acabar su vida, para librarse de escuchar una afrenta a cualquiera que la conociese.
+Con muchos abrazos la respondió Casandra, agradeciendo su santa determinación; porque aunque era verdad que la amaba como madre y había de sentir su ausencia, menos inconveniente era vivir sin ella que estar a peligro de que don Félix, mozo, atrevido y enamorado, pasase adelante en su locura, y después de un yerro tan grande se siguiese otro mucho mayor, pues aunque Diana se resistiese, la porfía, el amor y los ruegos lo sujetan todo. Y con este ánimo concertó secretamente en un convento su dote, donde la llevó, y en breves horas trocó su casa por una celda y sus galas por un hábito de San Francisco. El sentimiento de Diana fue grande, viéndose en estado tan diferente de sus intentos y esperanzas; porque siempre las había tenido de ser esposa de don Félix: tantas eran las muestras de amor que miraba en él. Mas considerando que fuera mayor tormento vivir en brazos de un hombre que no fuese don Félix, empezó a divertir la memoria de los pasados pensamientos, conformándose con su fortuna y entregando la libertad a mejor Esposo.
+Súpolo don Félix, y sintiólo de suerte que fue mucho no hacer un desatino con su madre; porque le dijeron que ella sola era quien más había estorbado su gusto. Y así, muchas noches le aconteció ir al monasterio y, como loco, dar voces pidiendo su esposa, sin consentir que aun sus mayores amigos le consolasen en tal pérdida. Disculpa tenía don Félix, que en llegando a ser verdadero el amor ni puede alegrarse ni divertirse. Amaba lo que perdía; milagro era que no muriese y liviandad fuera que se consolase, si bien solamente podía sosegarle el desengaño de su ignorancia, pues quería para mujer propia a quien era su hermana y su hija. ¿Pero quién podía avisarle de lo que Casandra, el cielo y una criada sabían?
+Ya se iba acercando la profesión de Diana, y don Félix perdía el juicio de ver cuán poco se le daba de vivir sin él. Porque Casandra (para quitarle la esperanza) decía que Diana no sólo le olvidaba, sino que estaba arrepentida de haberle escuchado; mas lo cierto era que sabiendo que casarse con don Félix era imposible, había el entendimiento a perseverar en la religión. No creía don Félix a su madre, porque otras personas le decían lo contrario. Y así, quisiera saber de su misma boca si el estado que tenía era por elección suya, o si acaso las persuasiones de su madre la habían obligado a seguir aquel camino; porque muchas veces la había oído encarecer a ella misma su contraria voluntad en aquella materia. Y así, una tarde que Casandra la enviaba cierto regalo, tuvo ocasión de poner un papel en parte que era fuerza llegase a sus manos y estaba seguro de que nadie le viera. Y esto con intención de que por lo menos entendiese Diana que su queja era justa, pues, sin más causa que tenerla amor, le había dejado.
+Halló el papel Diana, y pensando que era de su señora, le abrió; pero apenas leyó la firma, cuando le hizo pedazos (que no es cordura refrescar la memoria con lo que después ha de dar pesadumbre). Estuvo suspensa un gran rato, imaginando lo que podía escribirla un hombre que la había querido, y que esperaba perderla tan presto. Y si va a decir verdad, la pesó de haberle rompido. Y juntando turbada los divididos pedazos, dio a cada uno su lugar y luego leyó así:
+«De tus palabras siempre creí que no me querías; pero de tus ojos nunca me pude persuadir a que no me adorabas. Y en esta parte pienso que son los testigos más abonados; pero mintieron, hermosa Diana, que en fin son de mujer, aunque son tuyos. Perdóname si te hablo atrevido; y pues tengo razón, ni te disculpes ni me castigues; y advierte que no es mi intento impedir el estado que tienes; que gracias a Dios bien sé que es el más seguro, aunque no es el más fácil. Lo que te quiero preguntar es si mi madre, con algún género de violencia, te ha persuadido a que le sigas sin gusto tuyo; porque, si es así, hágote saber que te ha de costar el obedecerla vivir desesperada y perder con la vida el alma; porque un estado a disgusto no suele tener otros fines. Tiempo tienes, Diana, para volver por tu libertad; y para que veas si mi amor es fingido, porque te amo y porque tengo por cierto que vives ahora contra tu voluntad, digo que desde aquí prometo ser tu esposo; que para mí no he menester más calidad que tu virtud y tu cara, que si me tienes amor, con esto te he dicho harto. Tu esposo don Félix.»
+Admiróle a Diana la resolución de don Félix, y como el fuego de su amor, aunque estaba suspendido, no estaba muerto, volvió a dar nuevo aliento a las calientes cenizas. En fin, salió decretado de su entendimiento que era locura vivir descontenta toda la vida, por hacer el gusto de Casandra; y pocos días antes de la profesión la rogó no se cansase en fiestas ni en prevenciones, porque ella no se hallaba con ánimo de perseverar en aquel estado; fuera de que tenía marido que lo estorbase. Y en este tiempo vino don Félix, que ya estaba avisado, y confirmó que Diana era su esposa.
+Sacáronla luego del monasterio con lágrimas de todas, y aun con envidia de alguna que se holgara de acompañarla. Quedó Casandra muerta, y llamándola en secreto con determinación de decirla quién era, la rogó no la diese tanto pesar, que se casase con don Félix; porque el día que lo hiciera, sería el último que la había de ver; y que si quería casarse con otro, prometía favorecerla con tantas veras que se espantase el mundo de su liberalidad.
+-Por cierto, señora -replicó Diana-, que no acabo de entender la causa que te obliga a sentir tan mal de estas cosas, porque si como tú dices me tienes tanto amor, paréceme que amar a una persona no es quitarla el bien que la promete el cielo, procurando escurecer su fortuna. Y si piensas que obligas a tu hijo estorbando su amor, porque mi sangre no le iguala, es engaño conocido; porque quitarle el gusto más merece el nombre de tiranía. Mi calidad no puedo decir que es más ni menos, porque ignoro los padres que tuve; pero como suele un hombre hacer hermoso el objeto que ama con la imaginación, aunque no le sea, así don Félix puede presumir que soy noble, pues no le cuesta más que encomendarlo a su pensamiento; que harta nobleza me sobra, pues tuve suerte para agradarle. Y si esto es verdad, ¿de qué sirve ser tan cruel con tu sangre y conmigo; y que siendo tú quien más había de alentarme, seas solamente quien me desanime?
+Responderla quiso Casandra con el desengaño; pero la vergüenza y el temor la pusieron un nudo a la garganta; que esto de llegar a quitarse una mujer el honor a sí misma es dificultoso en su naturaleza. Mucho erraba Casandra en callar aquella verdad, que a todas horas la estaba dando voces con el pecho, mas la extrañeza del delito la disculpa; y así, viendo resuelta a Diana de gozar por esposo al que era hermano y padre suyo, buscaba medios que estorbasen el amor de entrambos. Y acordándose de una señora a quien don Félix antes de amar a Diana había querido, y que se murmuraba que la debía su honra, se fue a su casa y la dijo que ella se había informado de que su hijo la tenía obligaciones, que no podían satisfacerse menos que con ser su esposo, y que no era justo que se casase con una criada suya, cuyo nacimiento podía deslucir su sangre, teniendo tan antiguas deudas.
+Con justa admiración la escuchó Fulgencia (que así se llamaba esta dama), y después de encarecer el favor que la hacía, y dejar salir algunos suspiros, que la ingratitud de don Félix tenía depositados en su pecho, la dijo:
+-Debe de haber ocho meses que, saliendo una mañana de mayo con dos amigas y una criada a curar el achaque de una opilación, aunque más con deseo de ser vista que con ánimo de tomar el acero, me vio don Félix y llegando a comprar unos ramilletes en Provincia, donde todas las mañanas deste mes hay un jardín portátil, según él dijo le parecí bien; pero engañáronme sus ojos y sus palabras, pues las obras me lo han dicho tan a mi costa, y con despejo de soldado, si bien con la cortesía que se debe tener con las mujeres, se llegó a mí (o por más hermosa o por más desdichada) con los engaños y lisonjas que en semejantes ocasiones dicen todos. No pude culparle de atrevido, porque cuando las mujeres van dando ocasión, no es mucho que pierdan el respeto a su decoro. Siguióme toda la mañana, galán y cortesano, encareciendo con mentiras y amores (que a mi opinión todo es uno) el que me tenía, hasta que me dejó en mi calle. Apenas al siguiente día el amante de Dafne esparcía sus rayos, cuando vi a don Félix que estaba a la puerta de mi casa aguardándome. Salí con más cuidado, así en el vestido como en la cara, pareciéndome que ya tenía quien me mirase con alguna atención. Llevaba un faldellín de damasco verde con pretinillas de lo mismo, sombrero de color con plumas, pies pequeños con zapatos de ámbar; y sobre todo, muy poco juicio. Porfió don Félix, y en efecto, lo que resultó fue que, enternecida a sus ruegos, confiada en sus palabras, y lo que más es, perdida por su talle, le hice dueño de mi honor: tan poderoso es el amor de una mujer, el engaño de un hombre y la ocasión de entrambos. Prometió ser mi esposo, si bien no es bastante disculpa para mi yerro, que no la tiene una mujer que se fía de quien con la fuerza del deseo promete lo que suele negar arrepentido. Bien lo tengo experimentado, pues apenas me gozó cuando hallé el desengaño desta verdad; porque luego empezó a descuidarse tanto conmigo, que se pasaba muchos días sin que le viese. Lo que entonces sentí y lo que lloré no lo digo, porque ni sé ni puedo. Supe que la causa de olvidarme era por amar con extremo a una criada suya, que sin duda debe de ser esa misma. Vime burlada y aborrecida, dos agravios para una mujer de bien, los mayores que puede usar la traición de los hombres. Procuré hablarle por haber la ocasión que le obligaba a semejante ingratitud; mas no lo pudieron alcanzar mis ruegos ni mis lágrimas: que los hombres en viéndose culpados, por no satisfacer no escuchan; y así, me obligó a decir mis quejas a un papel y mi liviandad a una amiga, para que le riñese sus sinrazones. Pero la respuesta fue de suerte que aún ahora la temo. ¡Ay señora mía, si una mujer cuando aventura su opinión se acordara del pago que han dado a otras, qué cierto sería que hubiera menos burladas en el mundo! Lo que me respondió fue que cuando dijo que me tenía amor, estaba empleado en Diana; y que por despicarse de sus desdenes, y parecerle que yo recibía con gusto su voluntad, había proseguido en desvanecerme; y así, procurase olvidar los pensamientos (si tenía algunos) de ser suya, porque era imposible, y de pretenderlo sólo podía seguirse tenerle menos obligado y hacer más pública mi deshonra. Bien me podéis creer que, cuando pasé los ojos por estas razones, quisiera tenerle delante para hacerle pedazos y satisfacer con su sangre mi justa venganza. Mas viendo que si ponía en manos de la justicia la mucha que tenía, era quedar con eterna infamia, porque él había de salir con vitoria de todo, por tener hacienda que le solicitase las sentencias, me determiné a callar mi agravio. Esto es, señora, lo que me debe don Félix; mirad vos si tengo causa bastante para ser suya y para quejarme mientras viviere de su trato y de mi desdicha.
+Grande fue el contento que recibió Casandra con la historia de Fulgencia por haber hallado ocasión tan fuerte para dividir a Diana y a don Félix. Y así, después de consolar a la triste y afligida dama, habló a sus padres y les contó la traición de su hijo, disculpando en todo a Fulgencia; y prometiéndoles que había de ser su esposo, aunque le pesase, porque quien podía hacer dudoso el pleito era ella, gastando dos mil escudos para librar a su hijo; pero que estaba de tan diferente parecer, que si fuera necesario juraría contra don Félix. De manera que por cualquier camino estaría el pleito seguro, pues lo más que él podía hacer, si la aborrecía, era casarse y dejar luego a España, y eso importaba poco, pues en cuanto a su honra ya lo cobraba con ser su marido; en lo demás ella tenía seis mil ducados cada año con que podía haber moderadamente para todos. Sintieron los padres de Fulgencia su liviandad, mas viendo lo que Casandra les prometía, disimularon cuerdamente; y sin dilatarlo más, hicieron información con todo secreto.
+Ya Diana esperaba por puntos a don Félix, que más enamorado cada día de sus hermosos ojos iba abreviando su desposorio, y el padre de Fulgencia, pensando que con buenas palabras pudiera reducirle a lo que después había de hacer forzado, se llegó a hablarle, y le refirió todo lo que pasaba; mas respondióle don Félix tan colérico y libre, que le obligó a sacar un nombramiento para prenderle y hacer que moderase en la cárcel los bríos que había cobrado en la soldadesca. No faltó quien avisase a don Félix del riesgo que tenía si le prendiesen, porque su madre era quien más le perseguía; y recelándose de alguna violencia, se llegó a Diana y diciéndola que por quererla tanto era forzoso estar algunos días sin verla, se despidió de sus ojos y de sus brazos.
+Confusa quedó Diana escuchando novedad tan grande; mas cuando vio que la justicia hacía diligencia para buscarle, no podía entender lo que encerraba aquella enigma. Y aunque la dijeron la causa, no quiso creerla, porque del amor de don Félix le parecía imposible que hubiese mirado otros ojos; pero cuando advirtió que se ponía el pleito, que don Félix faltaba y que Fulgencia decía que era su marido, porque las obligaciones que la tenían eran de tal peso que no podían pasar sin paga, creyólo de suerte que con sus propias manos quiso poner fin a su vida.
+-¡Ay ingrato! -decía bañándose en su mismo aljófar-, ¿éste es el amor con que me esperabas? Muy bien has pagado mi voluntad, pues sabe Dios que no te lo he merecido; pero sin duda es venganza del cielo, que quien dejó de ser esposa suya por estimarte, bien merece cualquier castigo. Nunca pensé, traidor, que en los hombres principales había bajezas; pero engañéme, porque en fin son hombres; y si bien esto hacen con nosotras, ¿cómo nos infaman murmurando de nuestras costumbres y de nuestra naturaleza? Una cosa solamente me ha de servir de consuelo, y es que ninguno ha de engañarme segunda vez, porque si don Félix, cuando está más fino y cuando hace tantos géneros de locuras, tiene aquesto encubierto, ¿qué puede esperarse de los demás? Paréceme que si él estuviera aquí, me respondiera que no por gozar un hombre de otros brazos, deja de amar al dueño principal. Pero dijérale yo que mentía, que quien ama de veras no ha de tener ánimo para mirar otros ojos, aunque sea de burlas, porque la voluntad, cuando es verdadera, no puede pasar por semejantes traiciones. Confieso que he tenido mucha culpa en haberte creído; pero ¿por qué no te había de creer mil veces, viéndote intentar por tu loco amor no finezas, sino desatinos? ¡Ah traidor don Félix, si como te di lugar en el alma consintiera en otros deseos buena quedara mi honestidad, pues ya eras ajeno! ¿Quién duda que en cualquier parte te alabarás de haber engañado y vencido el recato de dos mujeres principales? Pues engañóte tu presunción, que aunque te quiero más que Fulgencia, no por eso me olvido de mi honor, que amar a un hombre y servirle hasta perder la vida, es cosa justa, y más si se llama esposo o lo solicita; pero aventurar la honra antes que lo sea, por cumplir sus locos antojos, no hay voluntad que lo mande ni lo aconseje.
+Así se quejaba la hermosa Diana, pidiendo al cielo que antes que le viese en poder de Fulgencia a ella o a él los quitase la vida.
+Pasáronse muchos días sin tener nuevas de don Félix; el pleito estaba tan bien solicitado, que sólo le aguardaban para concluirse. Casandra vivía confusa y Fulgencia con esperanzas de cobrar el honor perdido; mas a todas sacó de duda una carta que desde Sanlúcar escribió don Félix a su madre, que decía:
+«Pues en v. m. no he tenido madre que me ampare, sino enemigo que me persiga, tenga por cierto que no me verán sus ojos en España. Mañana me embarco con intento de llegar a Lima, que aún en el otro mundo no sé si estaré libre de llegar seguro de sus crueldades. La razón que me obliga es solamente huir de quien aborrezco, porque me parece menos peligroso el mar que un casamiento a disgusto. Y si acaso v. m. se hubiere cansado de ser tirana conmigo, dígale a Diana que siempre me debe una misma voluntad; y si vale el ruego de un ausente, la suplico no disponga de la suya, porque aún no he perdido las esperanzas de gozarla. De Sanlúcar, etc.»
+Mucho dio que dudar y que sentir esta carta, y más a Fulgencia, que, viéndose sin gusto y sin honra, murmurada de sus deudos y martirizada de sus padres, que a todas horas la acusaban de fácil y liviana, se resolvió a huir de todos en el sagrado de un convento, donde estuvo el primer año tan contenta y favorecido del cielo, que casi tuvo a ventura su yerro, por haber sido causa de hallar estado tan libre de las desdichas que suelen sobrar en el siglo. Y en efecto, olvidada de don Félix, hizo su profesión y dio gracias al cielo de que la había alumbrado el alma, cuando estaba más ajena de remedio y de gusto.
+Bien diferente lo pasaba Diana, porque sin poder borrar de la memoria a don Félix y haber año y medio que no le vía, le lloraba como si se acabase de ausentar. Y lo que más la ofendía era ver a su señora que la perseguía, porque eligiese estado, cosa que era imposible viviendo don Félix y estando ya sin el estorbo de Fulgencia. Ofreciósele en este tiempo a Casandra hacer una ausencia de Madrid por quince días, y mirando a Diana con tan poco gusto, no se atrevió a decirla que la acompañase, por saber lo que había de responder; sólo la mandó que en tanto que estaba ausente pensase lo que había de hacer de su vida, porque ya estaba cansada de los importunos ruegos de sus amantes, y si a la vuelta no la hallaba determinada, podía hacer cuenta que no la conocía.
+Fuese con esto y quedó Diana afligida de ver que era forzoso ser ingrata a lo mucho que debía a su señora. Y estando una tarde llorando su fortuna y la ausencia de don Félix, llegó a ella un hombre diciendo que le traía un recado de cierta amiga suya, y asegurándose primero de que era Diana, la dijo que en un lugar de las Indias estuvo con un caballero, el cual, sabiendo que venía a España, le había rogado le diese en secreto aquel pliego. Turbada entonces Diana, leyó el sobrescrito, y conociendo que la letra era de su ausente dueño, le respondió antes de abrirle:
+-Bien pienso que me habréis visto en los ojos el alma, y así me puedo excusar de encarecer el gusto que he recibido; mas porque no quisiera que la gente de mi casa sospechara algo, no me detengo con vos y porque el deseo de saber lo que me escribe don Félix no me consiente más cortesía.
+-Harto tengo que deciros acerca de su ausencia -replicó el criado-, y así mirad en qué ocasión puedo hablaros con menos testigos.
+-De día será imposible -dijo Diana-, porque tengo muchos fiscales, que no llevan bien cualquiera cosa de don Félix en tocando a esta voluntad; pero si no os cansáis de hacerme merced, venid esta noche y por esta reja baja podremos hablar más seguros y os pagaré el porte de la carta.
+Despidiéronse con este concierto, y Diana, loca con la nueva alegría, se retiró a su cuarto, y más lo estuvo cuando leyó la carta, porque toda venía llena de humildades y lástimas, encareciendo la triste vida que pasaba sin su hermosura; pero que tenía confianza de que antes de muchos días había de verse en sus brazos, y que el mensajero le daría cuenta de su determinación.
+En tanto que Diana solemnizaba su dicha, se llegó la noche y la hora en que había de saber los varios sucesos de don Félix. Bajó a la reja y vio junto a ella un hombre solo, que en sintiendo ruido y conociendo que era Diana, la dijo que por lo menos no podía acusarle de perezoso, porque había más de dos horas que la esperaba.
+-Yo os prometo -respondió ella- que tampoco ha sido descuido mío, sino advertencia de aguardar a que toda la gente de mi casa se recoja para poder hablar con menos miedo.
+-Sin él no estaré yo -replicó algo turbado el hombre-, porque los galanes que conquistan estas paredes son tantos, que si os confieso verdad, más temor he tenido en el tiempo que he paseado esta calle que en algunos años que me ha visto Milán a los ojos de los enemigos. Y así os quisiera suplicar (si vuestro amor lo consiente) se dilate para otro día esta conversación, pues estoy, como digo, con algún recelo por estar solo y no con bastantes armas para defenderme.
+-No sé yo -respondió Diana- la ocasión que pueden haber dado mis ojos a nadie para que mire atrevidamente estas rejas; porque os puedo asegurar que después que se ausentó don Félix aún no he tenido ánimo de preguntar a un espejo por mi hermosura, que en faltándole a una mujer el gusto ni se acuerda de la cara ni otros accidentes. Las pesadumbres, los celos y las ansias con que me dejó fueron de manera que, si no es hoy, no puedo decir que he tenido una hora de gusto. Esto os he dicho; porque si alguno se desvanece, no imaginéis que soy parte en su locura, porque las mujeres principales, cuando se empeñan en amar a un hombre, no es para divertirse a otros desvelos. Pero volviendo a vuestro temor, digo que ni quiero que vos estéis con ese disgusto, ni yo he de poder pasar esta noche sin hablar en don Félix. Y así me parece, que en viendo que no pasa gente, llegaréis a esa primera puerta, abriendo con esta llave, y yo os estaré aguardando; para que con más seguridad podáis, hasta que llegue el día, hacerme el favor que decís.
+Hízolo así, y recibióle Diana con grandes muestras de alegría; y apenas estuvo dentro, cuando vio que el hombre que traía consigo era don Félix. El cual, abrazándose della, estuvo un gran rato sin poder hablar. Volvió a mirarle Diana, y quedó tan suspensa, que casi le abrazaba con miedo, pensando que era alguna ilusión de su fantasía, que suele con las especies que conserva de las cosas vistas proponer a los ojos una forma semejante a lo que desea; y don Félix, por no tenerla turbada, dijo:
+-Después que supe, Diana, la resolución de Fulgencia por aquella pasada travesura, no quise esperar los rigores de la justicia, y más sabiendo lo mucho que favorecen las leyes el honor de cualquiera mujer. Y estando en la casa de un amigo con ánimo de ausentarme, le pareció a él y a mí que era mejor medio quedarme en Madrid, hasta ver el fin que tenían estas cosas, determinándome primero a no salir de una sala en todo este tiempo. Y para que desconfiada de ser mía dispusiese Fulgencia de su voluntad, escribí aquella carta fingiendo que estaba en Sanlúcar. Supe después que Fulgencia era religiosa y que había profesado; con que, seguro de mis temores, me prometí la cierta posesión de tu divina hermosura, y cuando estaba ya dispuesto para venir públicamente a mi casa, me dijeron que se ausentaba mi madre por algunos días, y porque no pudiese impedir (como otras veces) nuestros amores, aguardé a que se fuese. Luego te envié la carta que ayer recibiste, y después ha sucedido lo que has visto. Esta es, hermosa Diana, la breve relación de mi historia, que no puedo llamar ausencia, pues siempre he tenido el mismo lugar en tu memoria. Yo te adoro por tu virtud y firmeza, y estoy dispuesto a cumplir la palabra que con tanta razón te debo; pues por lo menos ahora ni Casandra lo puede estorbar ni hay otra Fulgencia que lo impida.
+Por bien empleado dio la hermosa Diana cuantos trabajos había padecido, viendo que paraban en tanto gusto, y dijo a don Félix que ya estaba satisfecha de su voluntad, y que así, procurase, antes que viniese su señora, trazarlo de modo que no pudiera deshacerlo su diligencia; pero advirtiese que primero había de ser su esposo, para no aventurarse con peligro de su honestidad, porque en siendo de otra suerte [no] la había de perdonar. Y como don Félix la amaba para propia, estimó por favor aquella honesta resistencia, y la rogó que le esperase y vería con cuánta facilidad la aseguraba.
+Fue luego en casa de su amigo, y con él y un criado y el cura de la misma parroquia volvió donde estaba Diana, y en desposándolos se despidieron, quedando Diana tan contenta de lo que había sucedido como vergonzosa de lo que le esperaba (que aun en las cosas que se desean tiene su lugar el recato).
+Vino la descuidada Casandra, y hallando tan impensadamente a don Félix, que ya se llamaba esposo de Diana, y coligiendo lo que podría haber pasado entre dos que se amaban y no tenían quien los estorbase, se quedó difunta. Y por no hacerse sospechosa con sus hijos, acreditó la prudente elección de entrambos; pero cuando se vio sola, considerando que ella tenía la culpa de aquel suceso, se deshacía en un perpetuo llanto, y se volvía loca, viendo que con la licencia de recién casados estaban juntos a todas horas.
+Dos años vivió Casandra con eternas lágrimas y profunda tristeza, hasta que la muerte la atajó este sentimiento; porque una enfermedad, aunque de poca consideración, bastó a quitarle la vida; que no ha menester mucha causa quien vive muriendo. Lloró don Félix la muerte de su madre, y más lo que por su ocasión le quedó que padecer; pues fue la mayor desgracia que le pudo suceder a un hombre que tenía tanto amor, tanto gusto y tantas obligaciones; porque cuando ya Casandra estaba peleando con la muerte, o mal aconsejada de la persona con quien comunicó este caso o pensando que acertaba, le llamó y dio un papel, diciendo:
+-Hijo, si acaso este nombre basta a enternecerte, te ruego que hasta que yo haya pasado desta triste vida, y tenga mi cuerpo aquel breve sepulcro que ha de aposentar a tantos, no le leas, y después le mires con atención y adviertas que solamente lo que en él te digo me ha puesto en el estado que ves. Y echándole mil veces su bendición, se volvió a un crucifijo, y haciendo los ojos y el corazón lo que ya no podía la lengua, se despidió el alma de los humanos lazos, con admiración y lástima de los presentes. Hízolo así don Félix, y después de haber cumplido con las exequias y honras últimas, se recogió a su aposento, y abriendo el papel vio que con mal formadas letras decía:
+«Don Félix: yo te doy licencia, que cuando leyeres estos renglones me tengas por la mujer más desdichada y más infame que ha nacido en el mundo. Y porque creas mejor esta verdad (que no estoy en tiempo para no decirla), has de saber que yo nací con tan mala inclinación, que cuanto miraba me parecía bien; y en efecto, fui tan loca, liviana y descompuesta, que vencida de un lascivo pensamiento puse los ojos en tu persona; y sabiendo que como mozo mirabas bien entonces a una criada mía, que llamaban Lisena, tracé con ella que yo te aguardase en su lugar, para que me gozases con aquel engaño; pero fue tan desgraciadamente, que luego me sentí preñada, cosa que me obligó a enviarte a España y que yo me ausentase de Madrid en tanto que salía a luz Diana, que es la que tienes en posesión de tu esposa, siendo tu hija por haberla engendrado y tu hermana por ser hija mía; y ésta fue la causa porque en tantas ocasiones estorbé tu amor; pero, en fin, pudo más mi desdicha que mi deseo. Esto te he dicho, porque des orden de buscar el remedio que más importe a la seguridad de tu alma y no quieras vivir como bárbaro, ofendiendo al cielo y a la Naturaleza.»
+Puso fin al papel don Félix con mil suspiros, y llevándole al fuego, porque solamente su pecho entendiese aquella desdicha, se arrojó en la cama haciendo tales extremos que todos le tenían justa lástima; y pensando que era dolor de la muerte de su madre le consolaban; pero como suele un hombre sin juicio ni saber lo que hace ni atender a lo que le dicen, así don Félix ni oía ni hablaba, ni aun sabía lo que le había sucedido. Llegábase a él la afligida Diana, y dejando caer cantidad de aljófar sobre las mejillas, que por estar faltas del rosado color parecían perlas en azucena o en rosa blanca, le rogaba que, pues sabía que no podía ella de tener más vida que lo que durase la suya, no se la quitase tan rigurosamente. Volvía a mirarla el afligido caballero, porque la voz le lastimaba el alma y su dueño tenía gran imperio en su voluntad; mas presumiendo que podría enojarse su sangre, si la miraba con ojos de esposo y con caricias de enamorado, huía della como si no la amara; y se iba al campo a dar voces y quejas contra la crueldad de su madre, pues pudiera callar su deshonra y dejarle vivir con aquel engaño, que mientras le ignoraba no tenía obligación de prevenirle ni remediarle. Andaba todo el día como embelesado, ofendido de tristes imaginaciones, sin hallar camino por donde pudiese vivir con sosiego, porque contarle la causa a su esposa era escandalizarla, y no acaso para fiarle del secreto de una mujer. Vivir con ella y gozarla como solía era ocasionar al cielo que, aunque lo consentía, lo miraba. Ausentarse de sus ojos no era posible porque la adoraba. Deshacer el sacramento tampoco era justo porque el cielo les había dado hijos. Pues estar en su compañía sin corresponder a gustos de amante y a deudas de marido era hacerse sospechoso en su amor con ella y aun dar ocasión a su deshonra, que más de una mujer por ver descuidado a su esposo ha intentado algún desatino. En fin, el triste don Félix en todo hallaba inconvenientes y dificultades, viviendo con la mayor confusión que ha padecido hombre en el mundo; y lo que más le afligía era mirar a Diana tan llorosa y muerta que le atravesaba el corazón cada vez que la vía. Y así se resolvió a fiar esta dificultad a un religioso de la Compañía de Jesús, y de los más graves y doctos que había en ella, que todos lo son, el cual le consoló y prometió solicitar su quietud con todas veras. Y luego lo comunicó con algunos de su casa y con muchos de los Catedráticos de la insigne Universidad de Salamanca y Alcalá, y de todos salió determinado que viviese con su esposa como antes, pues él ni ella habían tenido culpa en el delito. Habló con esto a don Félix, y cuando él vio firmado de tantos ingenios que podría seguramente gozar de la hermosa Diana se echó a sus pies agradeciéndole con lágrimas el favor que le había hecho, pues le sacaba de tan gran confusión. Volvió don Félix a su casa tan diferente que Diana atribuyó a piedad del cielo la nueva mudanza, y así vivieron contentos y conformes amándose por muchas causas, pues no era la menor tener tan unida la sangre que sus hijos vinieron a ser hermanos y primos: hermanos por ser hijos de Diana y don Félix, y primos por ser hijos de dos hermanos.

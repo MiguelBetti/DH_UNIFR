@@ -1,8 +1,5 @@
 
-
-
-El pretendiente al rev�s
-
+El pretendiente al revés
 Tirso de Molina
 
 PERSONAS
@@ -17,9 +14,9 @@ TIRSO, pastor.
 
 CARLOS, caballero.
 
-LA DUQUESA.
+LA DUQUESA.
 
-EL DUQUE DE BRETA�A.
+EL DUQUE DE BRETAÑA.
 
 SIRENA, dama.
 
@@ -27,9 +24,9 @@ CORBATO, pastor viejo.
 
 FENISA, pastora.
 
-GARGUEROS, sacrist�n.
+GARGUEROS, sacristán.
 
-EL DUQUE DE BORGO�A.
+EL DUQUE DE BORGOÑA.
 
 FLORO, caballero.
 
@@ -38,23 +35,20 @@ CLORI, pastora.
 PEINADO, pastor.
 
 
-
 Acto primero
 
-
-CARMENIO, CELAURO y TORILDA, pastores, cantando  y  bailando,  y  TIRSO  con
-ellos.
+CARMENIO, CELAURO y TORILDA, pastores, cantando y bailando, y TIRSO con ellos.
 
 TODOS
-[Cantan.] �Buenas eran las azucenas,
+[Cantan.] «Buenas eran las azucenas,
 
 
 
-mas las clavellinas eran m�s buenas.
+mas las clavellinas eran más buenas.
 
 
 UNO
-  Si las rosas eran lindas,
+  Si las rosas eran lindas,
 
 
 
@@ -69,16 +63,16 @@ mejores las clavellinas,
 olorosas las mosquetas.
 
 
-TODOS
-  Buenas eran las azucenas,
+TODOS 
+  Buenas eran las azucenas,
 
 
 
-mas las clavellinas eran m�s buenas.
+mas las clavellinas eran más buenas.
 
 
 UNO
-  Verde estaba el toronjil,
+  Verde estaba el toronjil,
 
 
 
@@ -86,7 +80,7 @@ el mastuerzo y perejil,
 
 
 
-y m�s verde por abril
+y más verde por abril
 
 
 
@@ -94,19 +88,19 @@ el poleo y la verbena.
 
 
 TODOS
-  Buenas eran las azucenas,
+  Buenas eran las azucenas,
 
 
 
-mas las clavellinas eran m�s buenas.�
+mas las clavellinas eran más buenas.»
 
 
 CARMENIO
-  �Venimos tarde o temprano?
+  ¿Venimos tarde o temprano?
 
 
 CELAURO
-  Buena hora pienso que es;
+  Buena hora pienso que es;
 
 
 
@@ -122,19 +116,19 @@ y el cura hisopaba ya,
 
 
 
-se�al que acabado hab�a
+señal que acabado había
 
 
 
-las v�speras.
+las vísperas.
 
 
 TORILDA
-  �Lindo d�a!
+  ¡Lindo día!
 
 
 TIRSO
-  Es San Juan: �qu� no tendr�?
+  Es San Juan: ¿qué no tendrá?
 
 
 
@@ -146,11 +140,11 @@ hoy al baile.
 
 
 TORILDA
-  Han madrugado,
+  Han madrugado,
 
 
 
-y estar� el pueblo cansado,
+y estará el pueblo cansado,
 
 
 
@@ -170,11 +164,11 @@ como son madrugadoras
 
 
 
-las ma�anas.
+las mañanas.
 
 
 CELAURO
-  Ac� est�n
+  Acá están
 
 
 
@@ -186,15 +180,15 @@ que nadie nos ha sentido.
 
 
 CARMENIO
-  Habr�n a las dos comido,
+  Habrán a las dos comido,
 
 
 
-y descansar�n despacio.
+y descansarán despacio.
 
 
 TIRSO
-  Mal hemos hecho en armar
+  Mal hemos hecho en armar
 
 
 
@@ -202,23 +196,23 @@ hoy el baile acostumbrado,
 
 
 
-que es, en fin, d�a cansado.
+que es, en fin, día cansado.
 
 
 CARMENIO
-  �Bueno es eso! Por bailar
+  ¡Bueno es eso! Por bailar
 
 
 
-no comer� una mujer
+no comerá una mujer
 
 
 
-ni dormir� en todo un a�o.
+ni dormirá en todo un año.
 
 
 TORILDA
-  Claro est�; de cualquier da�o
+  Claro está; de cualquier daño
 
 
 
@@ -226,7 +220,7 @@ la culpa hemos de tener.
 
 
 CARMENIO
-  �Si saldr� a vernos Sirena,
+  ¿Si saldrá a vernos Sirena,
 
 
 
@@ -234,11 +228,11 @@ como acostumbra?
 
 
 CELAURO
-  �Pues no?
+  ¿Pues no?
 
 
 
-�Cu�ndo de alegrar dej�
+¿Cuándo de alegrar dejó
 
 
 
@@ -246,15 +240,15 @@ nuestra fiesta, estando buena?
 
 
 TIRSO
-  Para ser tan principal,
+  Para ser tan principal,
 
 
 
-y, en fin, due�o del aldea,
+y, en fin, dueño del aldea,
 
 
 
-su conversaci�n recrea
+su conversación recrea
 
 
 
@@ -262,11 +256,11 @@ desde la seda al sayal.
 
 
 
-�Hay se�ora m�s afable?
+¿Hay señora más afable?
 
 
 CARMENIO
-  Muestra al menos que es posible
+  Muestra al menos que es posible
 
 
 
@@ -278,11 +272,11 @@ ser ilustre y conversable.
 
 
 CELAURO
-  Pardiez, ella es buena moza.
+  Pardiez, ella es buena moza.
 
 
 
-�Venturoso el desposado
+¡Venturoso el desposado
 
 
 
@@ -290,11 +284,11 @@ que ha de comer tal bocado!
 
 
 TIRSO
-  Poco el amor la retoza.
+  Poco el amor la retoza.
 
 
 
-No se casar� tan presto;
+No se casará tan presto;
 
 
 
@@ -318,11 +312,11 @@ sin sospechas su edad verde.
 
 
 CARMENIO
-  El tiempo que agora pierde
+  El tiempo que agora pierde
 
 
 
-llorar� cuando sea vieja.
+llorará cuando sea vieja.
 
 
 
@@ -342,25 +336,25 @@ que es ya hora de bailar. [Cantan.]
 
 
 
-�Buenas eran las azucenas,
+«Buenas eran las azucenas,
 
 
 
-mas las clavellinas eran m�s buenas.�
+mas las clavellinas eran más buenas.»
 
 
 Sale SIRENA, dama.
 
 SIRENA
-  Tan buena es vuesa venida
+  Tan buena es vuesa venida
 
 
 
-como la m�sica es buena.
+como la música es buena.
 
 
 TIRSO
-  A ser la vuesa, Sirena,
+  A ser la vuesa, Sirena,
 
 
 
@@ -376,7 +370,7 @@ de los alegres extremos
 
 
 
-que el d�a de fiesta hacemos
+que el día de fiesta hacemos
 
 
 
@@ -388,7 +382,7 @@ de venir al baile.
 
 
 SIRENA
-  �Bueno!
+  ¡Bueno!
 
 
 
@@ -400,15 +394,15 @@ mucho, y que tarde he salido.
 
 
 CELAURO
-  Por San Juan, el campo ameno
+  Por San Juan, el campo ameno
 
 
 
-dilata a la tarde el sue�o
+dilata a la tarde el sueño
 
 
 
-que por la ma�ana agrada;
+que por la mañana agrada;
 
 
 
@@ -416,7 +410,7 @@ pero no valemos nada
 
 
 
-sin vos, que sois nueso due�o,
+sin vos, que sois nueso dueño,
 
 
 
@@ -424,17 +418,17 @@ y llama el amor tardanza
 
 
 
-a lo que no es dilaci�n.
+a lo que no es dilación.
 
 
 SIRENA
-  Mer�celo mi afici�n.
+  Merécelo mi afición.
 
 
 Salen NISO y CLORI.
 
 NISO
-  Por ad�nde va la danza
+  Por adónde va la danza
 
 
 
@@ -442,11 +436,11 @@ iba el otro pescudando
 
 
 
-el Corpus, despu�s que hab�a
+el Corpus, después que había
 
 
 
-d�a y medio que dorm�a;
+día y medio que dormía;
 
 
 
@@ -458,7 +452,7 @@ porque si no me despierta
 
 
 
-Clori, hoy se hace sin m�
+Clori, hoy se hace sin mí
 
 
 
@@ -466,7 +460,7 @@ la fiesta.
 
 
 CARMENIO
-  Sentaos aqu�,
+  Sentaos aquí,
 
 
 
@@ -478,15 +472,15 @@ el baile.
 
 
 CELAURO
-  Presto los dos
+  Presto los dos
 
 
 
-os pare�is.
+os pareáis.
 
 
 CARMENIO
-  Siempre quiero
+  Siempre quiero
 
 
 
@@ -506,11 +500,11 @@ y contentaros codicio.
 
 
 NISO
-  �Por barbero?
+  ¿Por barbero?
 
 
 CARMENIO
-  Es vueso oficio
+  Es vueso oficio
 
 
 
@@ -530,11 +524,11 @@ al tumbo de una navaja
 
 
 
-pod�is tumbar un cristiano.
+podéis tumbar un cristiano.
 
 
 NISO
-  Y aun por aquesa raz�n
+  Y aun por aquesa razón
 
 
 
@@ -546,7 +540,7 @@ de barberos, se quemaba
 
 
 
-la barba con un tiz�n
+la barba con un tizón
 
 
 
@@ -554,7 +548,7 @@ a un espejo, pelo a pelo.
 
 
 CELAURO
-  �se lo m�s ten�a andado
+  Ése lo más tenía andado
 
 
 
@@ -562,15 +556,15 @@ para puerco chamuscado.
 
 
 NISO
-  �Ved lo que puede un recelo!
+  ¡Ved lo que puede un recelo!
 
 
 TORILDA
-  �Y lo que un barbero sabe!
+  ¡Y lo que un barbero sabe!
 
 
 
-No dejar� de encajar
+No dejará de encajar
 
 
 
@@ -582,11 +576,11 @@ por cuanto hay.
 
 
 CLORI
-  Cuando se alabe
+  Cuando se alabe
 
 
 
-de le�do, hacello pudo;
+de leído, hacello pudo;
 
 
 
@@ -602,7 +596,7 @@ que de aguzar quede agudo.
 
 
 TIRSO
-  Si el discreto, en cualquier parte,
+  Si el discreto, en cualquier parte,
 
 
 
@@ -610,7 +604,7 @@ dicen que parte un cabello,
 
 
 
-�qu� mucho que venga a sello
+¿qué mucho que venga a sello
 
 
 
@@ -618,15 +612,15 @@ quien tantos cabellos parte?
 
 
 TORILDA
-  Todo barbero es picudo.
+  Todo barbero es picudo.
 
 
 CELAURO
-  Unos imposibles vi
+  Unos imposibles vi
 
 
 
-ayer, y entre ellos le�
+ayer, y entre ellos leí
 
 
 
@@ -634,42 +628,42 @@ pedir un barbero mudo.
 
 
 NISO
-  No hablo mucho, pues consiento,
+  No hablo mucho, pues consiento,
 
 
 
-callando, tanto pic�n.
+callando, tanto picón.
 
 
 SIRENA
-  Niso ha tenido raz�n;
+  Niso ha tenido razón;
 
 
 
-d�jenle, y muden de intento.
+déjenle, y muden de intento.
 
 
 Salen CORBATO, alcalde, y FENISA.
 
 
 CORBATO
-  Salve y guarde.
+  Salve y guarde.
 
 
 SIRENA
-  Bien venido,
+  Bien venido,
 
 
 
-alcalde, �c�mo tan tarde?
+alcalde, ¿cómo tan tarde?
 
 
 CORBATO
-  �Oh se�ora! Dios la guarde,
+  ¡Oh señora! Dios la guarde,
 
 
 
-y d� un famoso marido.
+y dé un famoso marido.
 
 
 
@@ -681,27 +675,27 @@ unos prados del concejo;
 
 
 
-puj�los Ant�n Bermejo,
+pujólos Antón Bermejo,
 
 
 
-y pic�se Bras Delgado.
+y picóse Bras Delgado.
 
 
 
-Volvi� a pujallos m�s;
+Volvió a pujallos más;
 
 
 
-y emberrinch�ndose Ant�n,
+y emberrinchándose Antón,
 
 
 
-peg�les otro empuj�n;
+pególes otro empujón;
 
 
 
-puj� cuatro reales Bras;
+pujó cuatro reales Bras;
 
 
 
@@ -709,11 +703,11 @@ y a tabla puja los trujo,
 
 
 
-que aunque los llev� Delgado,
+que aunque los llevó Delgado,
 
 
 
-creo, seg�n han pujado,
+creo, según han pujado,
 
 
 
@@ -721,39 +715,39 @@ que quedan ambos con pujo.
 
 
 TIRSO
-  No ha gastado el tiempo en balde.
+  No ha gastado el tiempo en balde.
 
 
 CLORI
-  Ni se ha empezado a bailar.
+  Ni se ha empezado a bailar.
 
 
 SIRENA
-  Denle al alcalde lugar.
+  Denle al alcalde lugar.
 
 
 CELAURO
-  Asi�ntese aqu� el alcalde.
+  Asiéntese aquí el alcalde.
 
 
 SIRENA
-  Fenisa.
+  Fenisa.
 
 
 FENISA
-  �Se�ora m�a!
+  ¡Señora mía!
 
 
 SIRENA
-  Triste ven�s. �Qu� ten�is?
+  Triste venís. ¿Qué tenéis?
 
 
 FENISA
-  Porque la fiesta no ag��is
+  Porque la fiesta no agüéis
 
 
 
-ni el baile de aqueste d�a,
+ni el baile de aqueste día,
 
 
 
@@ -765,11 +759,11 @@ no he de decir lo que ha habido.
 
 
 SIRENA
-  Por amor de m�, �qu� ha sido?
+  Por amor de mí, ¿qué ha sido?
 
 
 FENISA
-  Movi� habr� un hora mi burra;
+  Movió habrá un hora mi burra;
 
 
 
@@ -777,15 +771,15 @@ ya su merced la conoce,
 
 
 
-la moh�na...
+la mohína...
 
 
 SIRENA
-  Bien est�.
+  Bien está.
 
 
 FENISA
-  Que cuando al molino va,
+  Que cuando al molino va,
 
 
 
@@ -809,19 +803,19 @@ que dice que fue de antojo.
 
 
 SIRENA
-  �De antojo?
+  ¿De antojo?
 
 
 FENISA
-  Como lo pinto.
+  Como lo pinto.
 
 
 SIRENA
-  �Y fue el antojo?
+  ¿Y fue el antojo?
 
 
 FENISA
-  Creo yo,
+  Creo yo,
 
 
 
@@ -833,19 +827,19 @@ dos sopas en vino tinto,
 
 
 
-porque rebuzn� al momento,
+porque rebuznó al momento,
 
 
 
-y s� yo que come bien
+y sé yo que come bien
 
 
 
-sopas en vino tambi�n;
+sopas en vino también;
 
 
 
-ella, en fin, movi� un jumento,
+ella, en fin, movió un jumento,
 
 
 
@@ -861,7 +855,7 @@ que si se lo cuelga al cuello
 
 
 
-su merced, no habr� borrico
+su merced, no habrá borrico
 
 
 
@@ -869,23 +863,23 @@ que tras ella no se vaya.
 
 
 SIRENA
-  El presente es de estimar.
+  El presente es de estimar.
 
 
 FENISA
-  Hoy jur� de no bailar.
+  Hoy juré de no bailar.
 
 
 SIRENA
-  Jura mala en piedra caya.
+  Jura mala en piedra caya.
 
 
 FENISA
-  Y m�s en tocando Gil;
+  Y más en tocando Gil;
 
 
 
-que si va a decir verd�,
+que si va a decir verdá,
 
 
 
@@ -896,22 +890,22 @@ a cada golpe que da,
 me retoza el tamboril.
 
 
-Sale GARGUEROS, sacrist�n.
+Sale GARGUEROS, sacristán.
 
 GARGUEROS
-  �La fiesta se hace sin m�?
+  ¿La fiesta se hace sin mí?
 
 
 CORBATO
-  �Qu� fiesta hay sin sacrist�n?
+  ¿Qué fiesta hay sin sacristán?
 
 
 SIRENA
-  Y m�s fiesta de San Juan.
+  Y más fiesta de San Juan.
 
 
 GARGUEROS
-  �Oh se�ora! �Vos aqu�?
+  ¡Oh señora! ¿Vos aquí?
 
 
 
@@ -927,11 +921,11 @@ y un esposo hecho y derecho,
 
 
 
-�per omnia saecula, amen�.
+«per omnia saecula, amen».
 
 
 SIRENA
-  Dios os d� lo que dese�is,
+  Dios os dé lo que deseáis,
 
 
 
@@ -939,15 +933,15 @@ Gargueros.
 
 
 FENISA
-  Ser�n entierros.
+  Serán entierros.
 
 
 TIRSO
-  Aqueso no, doile a perros.
+  Aqueso no, doile a perros.
 
 
 GARGUEROS
-  A lo menos que par�is
+  A lo menos que paráis
 
 
 
@@ -959,11 +953,11 @@ las mujeres desta aldea
 
 
 
-el sacrist�n os desea,
+el sacristán os desea,
 
 
 
-y os cas�is antes con antes,
+y os caséis antes con antes,
 
 
 
@@ -971,11 +965,11 @@ que es desearos lo mismo;
 
 
 
-porque no hay melancol�a
+porque no hay melancolía
 
 
 
-ni pariente pobre el d�a
+ni pariente pobre el día
 
 
 
@@ -983,23 +977,23 @@ que es de boda o de bautismo.
 
 
 NISO
-  �Qu� hay de bodigos, Gargueros?
+  ¿Qué hay de bodigos, Gargueros?
 
 
 GARGUEROS
-  Buena ha estado el pie de altar.
+  Buena ha estado el pie de altar.
 
 
 SIRENA
-  �Qu� hace el cura?
+  ¿Qué hace el cura?
 
 
 GARGUEROS
-  Repasar
+  Repasar
 
 
 
-ant�fonas y dineros,
+antífonas y dineros,
 
 
 
@@ -1007,11 +1001,11 @@ con unos antojos viejos
 
 
 
-y un sombrero con m�s grasa
+y un sombrero con más grasa
 
 
 
-que el arroz que hac�is en casa.
+que el arroz que hacéis en casa.
 
 
 
@@ -1027,7 +1021,7 @@ donde tal vez, si se enoja,
 
 
 
-el b�culo les arroja;
+el báculo les arroja;
 
 
 
@@ -1063,19 +1057,19 @@ se quiere entrar por los ojos.
 
 
 CARMENIO
-  �Qu� bien sab�is alaballo!
+  ¡Qué bien sabéis alaballo!
 
 
 GARGUEROS
-  Harto mejor s� bebello.
+  Harto mejor sé bebello.
 
 
 CELAURO
-  �Linda vida rompe un cura!
+  ¡Linda vida rompe un cura!
 
 
 GARGUEROS
-  Es regalada y segura;
+  Es regalada y segura;
 
 
 
@@ -1083,19 +1077,19 @@ no me muera yo hasta sello.
 
 
 NISO
-  �Hemos de jugar un rato?
+  ¿Hemos de jugar un rato?
 
 
 GARGUEROS
-  Ajedrez no, damas s�.
+  Ajedrez no, damas sí.
 
 
 NISO
-  Vaya, pues, sentaos aqu�.
+  Vaya, pues, sentaos aquí.
 
 
 TORILDA
-  Juego donde no hay barato,
+  Juego donde no hay barato,
 
 
 
@@ -1103,11 +1097,11 @@ no es bueno.
 
 
 NISO
-  Venga el tablero.
+  Venga el tablero.
 
 
 SIRENA
-  �Qu� ordinario es cada vez
+  ¡Qué ordinario es cada vez
 
 
 
@@ -1115,11 +1109,11 @@ jugar damas o ajedrez
 
 
 
-un sacrist�n y un barbero!
+un sacristán y un barbero!
 
 
 GARGUEROS
-  Un pe�n me hab�is de dar,
+  Un peón me habéis de dar,
 
 
 
@@ -1127,15 +1121,15 @@ y tablas.
 
 
 NISO
-  Aqueso no.
+  Aqueso no.
 
 
 
-Media pieza os dar� yo.
+Media pieza os daré yo.
 
 
 GARGUEROS
-  Las tablas quiero soltar,
+  Las tablas quiero soltar,
 
 
 
@@ -1143,11 +1137,11 @@ y dadme la pieza entera.
 
 
 NISO
-  Vaya, no os quej�is de m�.
+  Vaya, no os quejéis de mí.
 
 
 CORBATO
-  �Qu� hac�is los dem�s aqu�?
+  ¿Qué hacéis los demás aquí?
 
 
 
@@ -1155,79 +1149,77 @@ Echemos el pesar fuera.
 
 
 
-�Hay naipes?
+¿Hay naipes?
 
 
 CELAURO
-  Donde yo estoy,
+  Donde yo estoy,
 
 
 
-�pueden faltar?
+¿pueden faltar?
 
 
 CARMENIO
-  Claro es.
+  Claro es.
 
 
 CORBATO
-  Juguemos los cuatro, pues.
+  Juguemos los cuatro, pues.
 
 
 TIRSO
-  �Qu� juego?
+  ¿Qué juego?
 
 
 CORBATO
-  Flor, o rentoy.
+  Flor, o rentoy.
 
 
 CELAURO
-  Va al rentoy: tended la capa.
+  Va al rentoy: tended la capa.
 
 
 CARMENIO
-  Dos contra dos.
+  Dos contra dos.
 
 
 CORBATO
-  Claro est�.
+  Claro está.
 
 
 CELAURO
-  Carmenio, pasaos ac�.
+  Carmenio, pasaos acá.
 
 
 TIRSO
-  �Juega bien?
+  ¿Juega bien?
 
 
 CELAURO
-  Mejor quel Papa.
+  Mejor quel Papa.
 
 
-Juegan a las damas GARGUEROS y NISO, y sobre una capa en el  suelo  CORBATO,
-CELAURO, CARMENIO y TIRSO; y a otra parte, alrededor de SIRENA, que est�  en
-una silla, sentadas en el suelo, parlan TORILDA, CLORI y FENISA.
+Juegan a las damas GARGUEROS y NISO, y sobre una capa en el suelo CORBATO, CELAURO, CARMENIO y TIRSO; y a otra parte, alrededor de SIRENA, que está en una silla, sentadas en el suelo, parlan TORILDA, CLORI y FENISA.
 
 SIRENA
-  Clori, �c�mo va de tela?
+  Clori, ¿cómo va de tela?
 
 
 CLORI
-  Ya est� empezada a tejer.
+  Ya está empezada a tejer.
 
 
 SIRENA
-  �Es delgada?
+  ¿Es delgada?
 
 
 CLORI
-  �Qu� ha de ser?
+  ¿Qué ha de ser?
 
 
 
-Si como muri� mi abuela,
+Si como murió mi abuela,
 
 
 
@@ -1235,15 +1227,15 @@ no me ha vagado el hilar.
 
 
 
-Y as� saldr� poca y gruesa.
+Y así saldrá poca y gruesa.
 
 
 SIRENA
-  De vuestros males me pesa.
+  De vuestros males me pesa.
 
 
 
-�Est� bueno el palomar,
+¿Está bueno el palomar,
 
 
 
@@ -1251,7 +1243,7 @@ Torilda?
 
 
 TORILDA
-  Hay poca alcarce�a,
+  Hay poca alcarceña,
 
 
 
@@ -1263,51 +1255,51 @@ me comen los palominos.
 
 
 SIRENA
-  �Qu�, no hay ganancia?
+  ¿Qué, no hay ganancia?
 
 
 TORILDA
-  Peque�a.
+  Pequeña.
 
 
 NISO
-  Coma vuesarc� esa dama,
+  Coma vuesarcé esa dama,
 
 
 
-comer�le cuatro yo.
+comeréle cuatro yo.
 
 
 GARGUEROS
-  Par Dios que me la peg�.
+  Par Dios que me la pegó.
 
 
 SIRENA
-  �Y el ni�o, Fenisa?
+  ¿Y el niño, Fenisa?
 
 
 FENISA
-  A un ama
+  A un ama
 
 
 
-le he dado, se�ora m�a;
+le he dado, señora mía;
 
 
 
-que yo cr�o al de un marqu�s.
+que yo crío al de un marqués.
 
 
 SIRENA
-  Mal hac�is.
+  Mal hacéis.
 
 
 FENISA
-  El inter�s,
+  El interés,
 
 
 
-y el dar leche a un se�or�a
+y el dar leche a un señoría
 
 
 
@@ -1319,19 +1311,19 @@ hace que a mi hijo olvide.
 
 
 SIRENA
-  No es madre aquella que impide
+  No es madre aquella que impide
 
 
 
-con inter�s el amor.
+con interés el amor.
 
 
 
-Clori, �ten�is muchos gansos?
+Clori, ¿tenéis muchos gansos?
 
 
 CLORI
-  Gansos y pavos, se�ora,
+  Gansos y pavos, señora,
 
 
 
@@ -1339,15 +1331,15 @@ he dado en criar agora.
 
 
 SIRENA
-  Provechosos son y mansos.
+  Provechosos son y mansos.
 
 
 
-�Qu� tantos tendr�is?
+¿Qué tantos tendréis?
 
 
 CLORI
-  Tendr�
+  Tendré
 
 
 
@@ -1355,61 +1347,61 @@ como obra de dos docenas.
 
 
 CORBATO
-  Rentoy.
+  Rentoy.
 
 
 CELAURO
-  �Ten�is cartas buenas?
+  ¿Tenéis cartas buenas?
 
 
 CARMENIO
-  As�, as�.
+  Así, así.
 
 
 CORBATO
-  Rentoy.
+  Rentoy.
 
 
 CARMENIO
-  �Querr�?
+  ¿Querré?
 
 
 CELAURO
-  S�.
+  Sí.
 
 
 CARMENIO
-  Pues qui�role...
+  Pues quiérole...
 
 
 CORBATO
-  Perder.
+  Perder.
 
 
 CELAURO
-  La malilla.
+  La malilla.
 
 
 CORBATO
-  Rendivuy.
+  Rendivuy.
 
 
 CARMENIO
-  Non rendire, permanfuy;
+  Non rendire, permanfuy;
 
 
 
-que a�n otro juego ha de haber.
+que aún otro juego ha de haber.
 
 
 Dicen dentro.
 
 CARLOS
-  Ten� este estribo.
+  Tené este estribo.
 
 
 SIRENA
-  �ste es
+  Éste es
 
 
 
@@ -1417,17 +1409,17 @@ Carlos.
 
 
 FENISA
-  Ya yo me espantaba
+  Ya yo me espantaba
 
 
 
 que nuestra fiesta olvidaba.
 
 
-Sale CARLOS, y lev�ntanse todos.
+Sale CARLOS, y levántanse todos.
 
 CELAURO
-  Qu�dese para despu�s
+  Quédese para después
 
 
 
@@ -1435,23 +1427,23 @@ el juego.
 
 
 CARLOS
-  �Prima Sirena!
+  ¡Prima Sirena!
 
 
 SIRENA
-  Ya yo, Carlos, os quer�a
+  Ya yo, Carlos, os quería
 
 
 
-acusar la rebeld�a.
+acusar la rebeldía.
 
 
 CARLOS
-  Sin culpa fuera esa pena.
+  Sin culpa fuera esa pena.
 
 
 SIRENA
-  �Sin culpa, d�a de San Juan,
+  ¿Sin culpa, día de San Juan,
 
 
 
@@ -1463,15 +1455,15 @@ a quien por sola y mujer
 
 
 
-los que en este pueblo est�n
+los que en este pueblo están
 
 
 
-vienen a hacer compa��a?
+vienen a hacer compañía?
 
 
 CARLOS
-  Unas cartas de importancia
+  Unas cartas de importancia
 
 
 
@@ -1479,7 +1471,7 @@ que he despachado al de Francia,
 
 
 
-envidiosas, prima m�a,
+envidiosas, prima mía,
 
 
 
@@ -1491,7 +1483,7 @@ el tiempo me han ocupado.
 
 
 
-�Oh Tirso, oh alcalde honrado,
+¡Oh Tirso, oh alcalde honrado,
 
 
 
@@ -1503,35 +1495,35 @@ Clori, Torilda, Fenisa!
 
 
 
-Donde vosotros est�is,
+Donde vosotros estáis,
 
 
 
-�qu� falta en mi ausencia hall�is?
+¿qué falta en mi ausencia halláis?
 
 
 CORBATO
-  Por Dios que es cosa de risa
+  Por Dios que es cosa de risa
 
 
 
-la fiesta y conversaci�n
+la fiesta y conversación
 
 
 
-do no est� su se�or�a.
+do no está su señoría.
 
 
 FENISA
-  Sin �l, la mejor es fr�a.
+  Sin él, la mejor es fría.
 
 
 CARLOS
-  Todo es pagar mi afici�n.
+  Todo es pagar mi afición.
 
 
 
-�Ea!, vu�lvanse a poner
+¡Ea!, vuélvanse a poner
 
 
 
@@ -1546,11 +1538,10 @@ volveos todos a sentar,
 a jugar y entretener.
 
 
-Como estaban primero, se vuelven a asentar, si no son  los  labradores,  que
-se apartan de SIRENA, la cual habla con CARLOS, en dos sillas.
+Como estaban primero, se vuelven a asentar, si no son los labradores, que se apartan de SIRENA, la cual habla con CARLOS, en dos sillas.
 
 TIRSO
-  Pardiez, pues nos da licencia,
+  Pardiez, pues nos da licencia,
 
 
 
@@ -1558,11 +1549,11 @@ que hemos de acabar un juego.
 
 
 CARLOS
-  Jugad, y b�ilese luego.
+  Jugad, y báilese luego.
 
 
 GARGUEROS
-  Yo he perdido la paciencia,
+  Yo he perdido la paciencia,
 
 
 
@@ -1574,15 +1565,15 @@ la desquito.
 
 
 CARLOS
-  �Qu� es, Gargueros?
+  ¿Qué es, Gargueros?
 
 
 
-�Hab�is menester dineros?
+¿Habéis menester dineros?
 
 
 GARGUEROS
-  Pocos gasta el ajedrez;
+  Pocos gasta el ajedrez;
 
 
 
@@ -1594,23 +1585,23 @@ Yo agradezco la merced.
 
 
 NISO
-  Entable vuesa merced.
+  Entable vuesa merced.
 
 
 CARMENIO
-  Siempre os entra la malilla.
+  Siempre os entra la malilla.
 
 
 GARGUEROS
-  Yo abrir� el ojo, de suerte
+  Yo abriré el ojo, de suerte
 
 
 
-que no me sopl�is m�s pieza.
+que no me sopléis más pieza.
 
 
 CARLOS
-  Mi bien, sin vuestra belleza,
+  Mi bien, sin vuestra belleza,
 
 
 
@@ -1622,7 +1613,7 @@ Sola una legua que dista
 
 
 
-mi castillo de Pe�alba
+mi castillo de Peñalba
 
 
 
@@ -1638,11 +1629,11 @@ cuando os vengo a ver, se me hace
 
 
 
-una peregrinaci�n.
+una peregrinación.
 
 
 
-Prolija la dilaci�n
+Prolija la dilación
 
 
 
@@ -1666,7 +1657,7 @@ que en cortas distancias veo.
 
 
 SIRENA
-  No son, mi esposo, diversos
+  No son, mi esposo, diversos
 
 
 
@@ -1678,7 +1669,7 @@ del amor que os tengo, hijos.
 
 
 
-�Qu� de lisonjas y versos
+¡Qué de lisonjas y versos
 
 
 
@@ -1690,7 +1681,7 @@ y en la noche su luz borre,
 
 
 
-d�ndole porque no corre,
+dándole porque no corre,
 
 
 
@@ -1698,7 +1689,7 @@ para que se corra, vaya!
 
 
 
-�Qu� de veces que le ri�o,
+¡Qué de veces que le riño,
 
 
 
@@ -1710,7 +1701,7 @@ madrugando como viejo,
 
 
 
-nace y llora como ni�o!
+nace y llora como niño!
 
 
 
@@ -1734,7 +1725,7 @@ Que de su poco amor pienso
 
 
 
-que es mentira lo que d�l
+que es mentira lo que dél
 
 
 
@@ -1782,11 +1773,11 @@ y todo es por el deseo
 
 
 
-que con la noche cumpl�s,
+que con la noche cumplís,
 
 
 
-esposo, cuando ven�s,
+esposo, cuando venís,
 
 
 
@@ -1810,7 +1801,7 @@ madrugando me los quita.
 
 
 CARLOS
-  Ya, Sirena de mis ojos,
+  Ya, Sirena de mis ojos,
 
 
 
@@ -1834,7 +1825,7 @@ que hizo mudo al secreto,
 
 
 
-tendr� el esperado efeto
+tendrá el esperado efeto
 
 
 
@@ -1842,7 +1833,7 @@ nuestro venturoso amor.
 
 
 
-Un a�o ha que a vuestro llanto
+Un año ha que a vuestro llanto
 
 
 
@@ -1862,11 +1853,11 @@ sin que hayamos parte dado,
 
 
 
-por lo que el peligro ense�a,
+por lo que el peligro enseña,
 
 
 
-ni vos a doncella o due�a,
+ni vos a doncella o dueña,
 
 
 
@@ -1874,7 +1865,7 @@ ni yo a amigo o criado.
 
 
 
-Las fuentes de aquel jard�n
+Las fuentes de aquel jardín
 
 
 
@@ -1902,11 +1893,11 @@ el duque dio a mis suspiros
 
 
 
-otra m�s copiosa fuente.
+otra más copiosa fuente.
 
 
 
-�Qu� de veces les di cuenta
+¡Qué de veces les di cuenta
 
 
 
@@ -1922,7 +1913,7 @@ nuestros amores violenta;
 
 
 
-y pidi�ndoles consejo
+y pidiéndoles consejo
 
 
 
@@ -1946,11 +1937,11 @@ pudiese conjeturar
 
 
 
-qu� partes pod�a envidiar,
+qué partes podía envidiar,
 
 
 
-en �l, m�s perfetas y altas!
+en él, más perfetas y altas!
 
 
 
@@ -1958,31 +1949,31 @@ Y aunque os parezca arrogancia,
 
 
 
-m�s de una vez, al mirarme,
+más de una vez, al mirarme,
 
 
 
-dije: ��Qui�n puede igualarme
+dije: «¿Quién puede igualarme
 
 
 
-en cuerpo e ingenio en Francia?�
+en cuerpo e ingenio en Francia?»
 
 
 
-Y si el temor no me enga�a,
+Y si el temor no me engaña,
 
 
 
-m�s de dos me pareci�
+más de dos me pareció
 
 
 
-que el agua me respondi�:
+que el agua me respondió:
 
 
 
-��Qui�n? El duque de Breta�a�.
+«¿Quién? El duque de Bretaña».
 
 
 
@@ -1990,11 +1981,11 @@ De aquesta suerte he pasado
 
 
 
-un a�o, Sirena m�a,
+un año, Sirena mía,
 
 
 
-siempre aguando mi alegr�a
+siempre aguando mi alegría
 
 
 
@@ -2006,7 +1997,7 @@ hasta que, cansado ya
 
 
 
-de cansaros, se cas�
+de cansaros, se casó
 
 
 
@@ -2014,7 +2005,7 @@ el duque, y alientos dio
 
 
 
-a mi esperanza, que est�
+a mi esperanza, que está
 
 
 
@@ -2026,7 +2017,7 @@ pues sin estorbo, Sirena,
 
 
 
-os llamar� a boca llena,
+os llamaré a boca llena,
 
 
 
@@ -2034,7 +2025,7 @@ y no con temor, esposa.
 
 
 SIRENA
-  �Qu� largo se me ha de hacer,
+  ¡Qué largo se me ha de hacer,
 
 
 
@@ -2042,23 +2033,23 @@ por corto que sea, ese plazo!
 
 
 NISO
-  Soplo aqu�sta.
+  Soplo aquésta.
 
 
 GARGUEROS
-  Soy un mazo.
+  Soy un mazo.
 
 
 CELAURO
-  Rentoy.
+  Rentoy.
 
 
 CORBATO
-  Hele de querer.
+  Hele de querer.
 
 
 GARGUEROS
-  Tablas son. �Qu� hay que esperar?
+  Tablas son. ¿Qué hay que esperar?
 
 
 
@@ -2066,11 +2057,11 @@ La calle tengo de en medio
 
 
 
-y una dama, �qu� remedio?
+y una dama, ¿qué remedio?
 
 
 NISO
-  Juegue, y comience a contar
+  Juegue, y comience a contar
 
 
 
@@ -2082,11 +2073,11 @@ tres damas, y la forzosa
 
 
 
-ver� a seis tretas.
+verá a seis tretas.
 
 
 GARGUEROS
-  �Donosa
+  ¡Donosa
 
 
 
@@ -2094,11 +2085,11 @@ flema!
 
 
 CORBATO
-  Gran juego gan�.
+  Gran juego ganó.
 
 
 FENISA
-  Torilda, daca el pandero,
+  Torilda, daca el pandero,
 
 
 
@@ -2110,75 +2101,75 @@ si es que habemos de bailar.
 
 
 TORILDA
-  Saca al sacrist�n primero.
+  Saca al sacristán primero.
 
 
-Lev�ntase FENISA y, cantando, saca a GARGUEROS.
+Levántase FENISA y, cantando, saca a GARGUEROS.
 
 FENISA
-  ��Ah mi se�or Gargueros! Salga y baile.
+  «¡Ah mi señor Gargueros! Salga y baile.
 
 
 GARGUEROS
-  Por vida de Gargueros, que tal no baile.�
+  Por vida de Gargueros, que tal no baile.»
 
 
 TODOS
-�Salga al baile, salga al baile!
+¡Salga al baile, salga al baile!
 
 
 GARGUEROS
-  En entablando otro juego.
+  En entablando otro juego.
 
 
 CORBATO
-  No, Gargueros, sal� luego.
+  No, Gargueros, salí luego.
 
 
 GARGUEROS
-  No har�, por vida del fraile.
+  No haré, por vida del fraile.
 
 
 Canta FENISA.
 
 FENISA
-  ��Ah mi se�or Gargueros, cuerpo garrido!
+  «¡Ah mi señor Gargueros, cuerpo garrido!
 
 
 
-Deje el juego, pues al baile le convido.�
+Deje el juego, pues al baile le convido.»
 
 
 Responde cantando, sentado, al son de una pieza con que toca el tablero.
 
 GARGUEROS
-  �No puedo, porque he perdido cuatro reales.
+  «No puedo, porque he perdido cuatro reales.
 
 
 FENISA
-  �Ah mi Gargueros! Salga y baile.
+  ¡Ah mi Gargueros! Salga y baile.
 
 
 GARGUEROS
-  Que por vida de Garguerico, que tal no baile.�
+  Que por vida de Garguerico, que tal no baile.»
 
 
 Dice dentro el DUQUE y sale luego con FLORO.
 
 DUQUE
-  Avisad a la marquesa.
+  Avisad a la marquesa.
 
 
 SIRENA
-  O mi sospecha me enga�a,
+  O mi sospecha me engaña,
 
 
 
-o es el duque de Breta�a.
+o es el duque de Bretaña.
 
 
 CARLOS
-  �Apenas un temor cesa,
+  ¡Apenas un temor cesa,
 
 
 
@@ -2186,23 +2177,23 @@ cuando entran en su lugar
 
 
 
-sin n�mero los recelos!
+sin número los recelos!
 
 
 
-�Oh cadenas de los celos,
+¡Oh cadenas de los celos,
 
 
 
-que os hab�is de eslabonar!
+que os habéis de eslabonar!
 
 
 SIRENA
-  Mi bien, tu esposa soy, deja el temor.
+  Mi bien, tu esposa soy, deja el temor.
 
 
 CARLOS
-  Soy desdichado;
+  Soy desdichado;
 
 
 
@@ -2210,27 +2201,27 @@ mozo el duque, enamorado,
 
 
 
-t� mujer: justa mi queja.
+tú mujer: justa mi queja.
 
 
 
-�Qu� he de hacer sino morir?
+¿Qué he de hacer sino morir?
 
 
 SIRENA
-  Sufre y calla, si eres cuerdo.
+  Sufre y calla, si eres cuerdo.
 
 
 CARLOS
-  Hoy, Sirena, el seso pierdo,
+  Hoy, Sirena, el seso pierdo,
 
 
 
-�Y he de callar y sufrir?
+¿Y he de callar y sufrir?
 
 
 DUQUE
-  Ya que a darme no hab�is ido
+  Ya que a darme no habéis ido
 
 
 
@@ -2250,15 +2241,15 @@ y por verme con Estado
 
 
 
-y esposa no os conform�is
+y esposa no os conformáis
 
 
 
-con los dem�s, y os holg�is
+con los demás, y os holgáis
 
 
 
-(que s� har�is) que haya cuidado
+(que sí haréis) que haya cuidado
 
 
 
@@ -2270,7 +2261,7 @@ y que de vos se divierta;
 
 
 
-porque advirt�is que no es cierta
+porque advirtáis que no es cierta
 
 
 
@@ -2278,11 +2269,11 @@ vuestra sospecha, a Belvalle
 
 
 
-vengo a veros, y podr�
+vengo a veros, y podré
 
 
 
-daros con m�s fundamento
+daros con más fundamento
 
 
 
@@ -2290,7 +2281,7 @@ de mi nuevo casamiento
 
 
 
-el parabi�n, pues que fue
+el parabién, pues que fue
 
 
 
@@ -2298,15 +2289,15 @@ para bien vuestro el casarme,
 
 
 
-conforme vuestra opini�n,
+conforme vuestra opinión,
 
 
 
-que con tan poca afici�n
+que con tan poca afición
 
 
 
-oblig� a desesperarme.
+obligó a desesperarme.
 
 
 
@@ -2314,7 +2305,7 @@ Y para mal de mi amor,
 
 
 
-que siendo en m� tan terrible,
+que siendo en mí tan terrible,
 
 
 
@@ -2326,11 +2317,11 @@ cuando su fuego es mayor.
 
 
 SIRENA
-  Vueselencia, pues es sabio,
+  Vueselencia, pues es sabio,
 
 
 
-en m� podr� disculpar
+en mí podrá disculpar
 
 
 
@@ -2342,7 +2333,7 @@ parabienes, pues no agravio
 
 
 
-la obligaci�n que confieso,
+la obligación que confieso,
 
 
 
@@ -2354,11 +2345,11 @@ estar sin padre y marido.
 
 
 DUQUE
-  Yo, sin esperanza y seso.
+  Yo, sin esperanza y seso.
 
 
 SIRENA
-  Goce un siglo prolongado
+  Goce un siglo prolongado
 
 
 
@@ -2374,11 +2365,11 @@ vueselencia, y noble estado;
 
 
 
-que de su buena elecci�n
+que de su buena elección
 
 
 
-ha llegado ac� la fama.
+ha llegado acá la fama.
 
 
 
@@ -2386,11 +2377,11 @@ De muy discreta y muy dama
 
 
 
-tiene en Breta�a opini�n;
+tiene en Bretaña opinión;
 
 
 
-y, seg�n esto, mal hace
+y, según esto, mal hace
 
 
 
@@ -2398,7 +2389,7 @@ en dejar vuestra excelencia,
 
 
 
-por venir ac�, presencia
+por venir acá, presencia
 
 
 
@@ -2410,11 +2401,11 @@ pues siendo ya prenda suya,
 
 
 
-justamente pedir�,
+justamente pedirá,
 
 
 
-si en nuestro poder est�,
+si en nuestro poder está,
 
 
 
@@ -2422,7 +2413,7 @@ que yo se la restituya.
 
 
 DUQUE
-  Siempre vos, bella Sirena,
+  Siempre vos, bella Sirena,
 
 
 
@@ -2438,11 +2429,11 @@ me llamastes prenda ajena.
 
 
 
-�Oh Carlos! �Ac� est�is vos?
+¡Oh Carlos! ¿Acá estáis vos?
 
 
 CARLOS
-  Parentesco y vecindad
+  Parentesco y vecindad
 
 
 
@@ -2450,7 +2441,7 @@ en aquesta soledad,
 
 
 
-se�or, nos junta a los dos.
+señor, nos junta a los dos.
 
 
 
@@ -2462,7 +2453,7 @@ me obliga a mirar por ella.
 
 
 DUQUE
-  Yo no s�lo vengo a vella,
+  Yo no sólo vengo a vella,
 
 
 
@@ -2474,11 +2465,11 @@ mi persona, ya que tengo
 
 
 
-Estado, en raz�n juzgu�
+Estado, en razón juzgué
 
 
 
-que a Sirena se le d�.
+que a Sirena se le dé.
 
 
 
@@ -2486,23 +2477,23 @@ Por esto a Belvalle vengo
 
 
 
-pues cuando el marqu�s muri�,
+pues cuando el marqués murió,
 
 
 
-su padre, dej�le al m�o
+su padre, dejóle al mío
 
 
 
-encargado lo que f�o
+encargado lo que fío
 
 
 
-sabr� por �l cumplir yo.
+sabré por él cumplir yo.
 
 
 
-No est� Sirena aqu� bien,
+No está Sirena aquí bien,
 
 
 
@@ -2522,11 +2513,11 @@ la merezca, me parece
 
 
 
-que en la duquesa hallar�
+que en la duquesa hallará
 
 
 
-m�s recelo, y la tendr�
+más recelo, y la tendrá
 
 
 
@@ -2538,15 +2529,15 @@ Ella lo desea mucho,
 
 
 
-y os est� bien a los dos.
+y os está bien a los dos.
 
 
 CARLOS
-  �Est�is contento, Amor dios? [Aparte.]
+  ¿Estáis contento, Amor dios? [Aparte.]
 
 
 
-�Con qu� de sospechas lucho!
+¡Con qué de sospechas lucho!
 
 
 
@@ -2566,11 +2557,11 @@ y hay tormenta, yo soy muerto.
 
 
 DUQUE
-  Que siga mi corte quiero
+  Que siga mi corte quiero
 
 
 
-Carlos tambi�n; que se queja
+Carlos también; que se queja
 
 
 
@@ -2582,15 +2573,15 @@ tan notable caballero.
 
 
 CARLOS
-  Beso sus pies. Siempre huyo
+  Beso sus pies. Siempre huyo
 
 
 
-la corte y su confusi�n.
+la corte y su confusión.
 
 
 DUQUE
-  No hac�is bien, porque es raz�n
+  No hacéis bien, porque es razón
 
 
 
@@ -2602,7 +2593,7 @@ A una vejez jubilada
 
 
 
-le est� bien tanta quietud,
+le está bien tanta quietud,
 
 
 
@@ -2614,11 +2605,11 @@ por cortesana estimada.
 
 
 
-El ver all� a vuestra prima,
+El ver allá a vuestra prima,
 
 
 
-pues la ten�is en lugar
+pues la tenéis en lugar
 
 
 
@@ -2626,19 +2617,19 @@ de hermana, os ha de obligar.
 
 
 CARLOS
-  Y el hacer yo justa estima
+  Y el hacer yo justa estima
 
 
 
-de lo que vos, gran se�or,
+de lo que vos, gran señor,
 
 
 
-mand�is.
+mandáis.
 
 
 DUQUE
-  Para entreteneros
+  Para entreteneros
 
 
 
@@ -2650,15 +2641,15 @@ sois mi cazador mayor.
 
 
 CARLOS
-  Honr�ndome de esta traza
+  Honrándome de esta traza
 
 
 
-pondr� a Pe�alba en olvido.
+pondré a Peñalba en olvido.
 
 
 
-Cazador soy: si has venido, [Aparte.]
+Cazador soy: si has venido, [Aparte.]
 
 
 
@@ -2666,11 +2657,11 @@ duque, a espantarme la caza,
 
 
 
-no har�s presa en el amor
+no harás presa en el amor
 
 
 
-que en ofensa m�a deseas,
+que en ofensa mía deseas,
 
 
 
@@ -2682,7 +2673,7 @@ soy yo cazador mayor.
 
 
 DUQUE
-  �Qu� me respond�is, se�ora,
+  ¿Qué me respondéis, señora,
 
 
 
@@ -2690,11 +2681,11 @@ a lo que he determinado?
 
 
 SIRENA
-  Puesto me hab�is en cuidado,
+  Puesto me habéis en cuidado,
 
 
 
-no s� lo que os diga agora,
+no sé lo que os diga agora,
 
 
 
@@ -2702,11 +2693,11 @@ sino agradecer la estima,
 
 
 
-gran se�or, que de m� hac�is.
+gran señor, que de mí hacéis.
 
 
 DUQUE
-  Ya, Carlos, la raz�n veis
+  Ya, Carlos, la razón veis
 
 
 
@@ -2714,7 +2705,7 @@ que hay para estar vuestra prima
 
 
 
-en m�s decente lugar
+en más decente lugar
 
 
 
@@ -2722,11 +2713,11 @@ y la voluntad que os muestro.
 
 
 
-Hoy he de ser hu�sped vuestro:
+Hoy he de ser huésped vuestro:
 
 
 
-ma�ana os he de llevar
+mañana os he de llevar
 
 
 
@@ -2734,11 +2725,11 @@ a la corte; la duquesa
 
 
 
-lo quiere, Sirena, as�.
+lo quiere, Sirena, así.
 
 
 SIRENA
-  Quisiera tener aqu�,
+  Quisiera tener aquí,
 
 
 
@@ -2746,7 +2737,7 @@ por lo mucho que interesa
 
 
 
-con tal hu�sped esta casa,
+con tal huésped esta casa,
 
 
 
@@ -2762,15 +2753,15 @@ mal de hacienda que es escasa.
 
 
 
-�Ay Carlos, y c�mo siento [Aparte.]
+¡Ay Carlos, y cómo siento [Aparte.]
 
 
 
-lo que aqu� sintiendo est�s!
+lo que aquí sintiendo estás!
 
 
 CARLOS
-  [Aparte.] A mi enemigo, Amor, das,
+  [Aparte.] A mi enemigo, Amor, das,
 
 
 
@@ -2790,15 +2781,15 @@ perro: ladrar y morder
 
 
 
-sabr� por guardar la casa.
+sabré por guardar la casa.
 
 
 FENISA
-  En fin: �el baile se queda...?
+  En fin: ¿el baile se queda...?
 
 
 CORBATO
-  Est� el lugar enducado;
+  Está el lugar enducado;
 
 
 
@@ -2806,15 +2797,15 @@ todo con velle ha cesado.
 
 
 CLORI
-  �Mal hay el oro y la seda
+  ¡Mal hay el oro y la seda
 
 
 
-que as� entristece el sayal!
+que así entristece el sayal!
 
 
 SIRENA
-  Vuecelencia, gran se�or,
+  Vuecelencia, gran señor,
 
 
 
@@ -2822,11 +2813,11 @@ entre en su casa.
 
 
 TIRSO
-  Mejor
+  Mejor
 
 
 
-ser� echar afuera el mal.
+será echar afuera el mal.
 
 
 
@@ -2834,7 +2825,7 @@ Cantemos.
 
 
 DUQUE
-  Id vos delante;
+  Id vos delante;
 
 
 
@@ -2842,23 +2833,23 @@ pues sois luz, Sirena bella,
 
 
 
-alumbrar�isnos con ella.
+alumbraréisnos con ella.
 
 
 GARGUEROS
-  �Bravo dicho!
+  ¡Bravo dicho!
 
 
 NISO
-  Es estudiante.
+  Es estudiante.
 
 
 CARLOS
-  (Vivid alerta, mi honor;
+  (Vivid alerta, mi honor;
 
 
 
-no sufr�is que en la marquesa
+no sufráis que en la marquesa
 
 
 
@@ -2872,25 +2863,25 @@ pues sois cazador mayor.)
 Cantan:
 
 
-�Buenas eran las azucenas,
+«Buenas eran las azucenas,
 
 
 
-mas las clavellinas eran m�s buenas.�
+mas las clavellinas eran más buenas.»
 
 
 Vanse. Salen la DUQUESA, LEONORA y LUDOVICO.
 
 LEONORA
-  �Tan presto el duque me enga�a?
+  ¿Tan presto el duque me engaña?
 
 
 LUDOVICO
-  La primera voluntad
+  La primera voluntad
 
 
 
-es la que siempre acompa�a
+es la que siempre acompaña
 
 
 
@@ -2898,23 +2889,23 @@ al alma.
 
 
 LEONORA
-  Si eso es la verdad,
+  Si eso es la verdad,
 
 
 
-�para qu� vine a Breta�a?
+¿para qué vine a Bretaña?
 
 
 
-Mejor me estaba en Borgo�a.
+Mejor me estaba en Borgoña.
 
 
 LUDOVICO
-  No es mucho que sint�is tanto
+  No es mucho que sintáis tanto
 
 
 
-los celos, que sois biso�a,
+los celos, que sois bisoña,
 
 
 
@@ -2922,7 +2913,7 @@ y suele aplacar el llanto
 
 
 
-la fuerza de su ponzo�a.
+la fuerza de su ponzoña.
 
 
 
@@ -2962,7 +2953,7 @@ ni el esperar ser duquesa
 
 
 
-de Breta�a, a que el desnudo
+de Bretaña, a que el desnudo
 
 
 
@@ -2982,11 +2973,11 @@ admitir nombre de dama
 
 
 
-quien no admiti� el de mujer.
+quien no admitió el de mujer.
 
 
 LEONORA
-  No s� en eso el natural
+  No sé en eso el natural
 
 
 
@@ -2998,7 +2989,7 @@ Una mujer principal
 
 
 
-s� yo que tuvo una g�erta,
+sé yo que tuvo una güerta,
 
 
 
@@ -3022,7 +3013,7 @@ se le antojase una pera,
 
 
 
-ni pre�ada ni parida.
+ni preñada ni parida.
 
 
 
@@ -3038,7 +3029,7 @@ la fruta, le desgajaban
 
 
 
-el pobre �rbol, que a guardar
+el pobre árbol, que a guardar
 
 
 
@@ -3062,7 +3053,7 @@ de noche al atrevimiento,
 
 
 
-vendi� a un vecino la g�erta.
+vendió a un vecino la güerta.
 
 
 
@@ -3070,7 +3061,7 @@ Luego, pues, que la vio ajena,
 
 
 
-la que peras no com�a,
+la que peras no comía,
 
 
 
@@ -3078,7 +3069,7 @@ tuvo por peras tal pena,
 
 
 
-que en su mesa cada d�a
+que en su mesa cada día
 
 
 
@@ -3090,11 +3081,11 @@ Ved si hay ejemplo igual:
 
 
 
-en Sirena podr� hacer
+en Sirena podrá hacer
 
 
 
-la privaci�n otro tal,
+la privación otro tal,
 
 
 
@@ -3106,15 +3097,15 @@ y viendo ajeno el peral.
 
 
 LUDOVICO
-  Mientras que fuere rogada,
+  Mientras que fuere rogada,
 
 
 
-no os teng�is por ofendida,
+no os tengáis por ofendida,
 
 
 
-porque la m�s recatada
+porque la más recatada
 
 
 
@@ -3126,27 +3117,27 @@ y aborrece requestada.
 
 
 LEONORA
-  Ludovico, esa ignorancia
+  Ludovico, esa ignorancia
 
 
 
-no es de vuestra discreci�n:
+no es de vuestra discreción:
 
 
 
-�Qu� Sagunto o qu� Numancia
+¿Qué Sagunto o qué Numancia
 
 
 
-no conquist� la ocasi�n,
+no conquistó la ocasión,
 
 
 
-y m�s con perseverancia?
+y más con perseverancia?
 
 
 
-Vence el amor que porf�a,
+Vence el amor que porfía,
 
 
 
@@ -3154,27 +3145,27 @@ y el oro todo lo merca;
 
 
 
-y aun por aqueso quer�a,
+y aun por aqueso quería,
 
 
 
-para gozarla m�s cerca,
+para gozarla más cerca,
 
 
 
-tenerla en mi compa��a.
+tenerla en mi compañía.
 
 
 LUDOVICO
-  �Eso, se�ora, os pidi�?
+  ¿Eso, señora, os pidió?
 
 
 LEONORA
-  Dice que la tiene a cargo,
+  Dice que la tiene a cargo,
 
 
 
-porque se la encomend�
+porque se la encomendó
 
 
 
@@ -3182,11 +3173,11 @@ con un discurso muy largo
 
 
 
-su padre cuando muri�;
+su padre cuando murió;
 
 
 
-y que por esta ocasi�n,
+y que por esta ocasión,
 
 
 
@@ -3194,7 +3185,7 @@ y porque yo me entretenga,
 
 
 
-y goce su discreci�n,
+y goce su discreción,
 
 
 
@@ -3202,15 +3193,15 @@ gusta que a la corte venga.
 
 
 
-�Ved lo que los hombres son!
+¡Ved lo que los hombres son!
 
 
 LUDOVICO
-  Eso os est� bien, se�ora;
+  Eso os está bien, señora;
 
 
 
-porque si ten�is en casa
+porque si tenéis en casa
 
 
 
@@ -3218,7 +3209,7 @@ a vuestra competidora,
 
 
 
-podr�is saber lo que pasa,
+podréis saber lo que pasa,
 
 
 
@@ -3226,11 +3217,11 @@ y ser vos su guardadora.
 
 
 
-Sed esp�a y centinela;
+Sed espía y centinela;
 
 
 
-Sirena en palacio est�;
+Sirena en palacio esté;
 
 
 
@@ -3246,7 +3237,7 @@ que el que dudoso recela.
 
 
 LEONORA
-  �se es consejo extremado;
+  Ése es consejo extremado;
 
 
 
@@ -3258,7 +3249,7 @@ que un contrario declarado
 
 
 
-m�s mal hace estando suelto,
+más mal hace estando suelto,
 
 
 
@@ -3266,7 +3257,7 @@ que no cautivo y atado.
 
 
 
-Vamos atajando enga�os
+Vamos atajando engaños
 
 
 
@@ -3274,7 +3265,7 @@ a costa de mis desvelos;
 
 
 
-que al fin viendo yo mis da�os,
+que al fin viendo yo mis daños,
 
 
 
@@ -3282,11 +3273,11 @@ por no llorar entre celos,
 
 
 
-llorar� entre desenga�os.
+lloraré entre desengaños.
 
 
 
-�Cu�nto est� de aqu� el lugar
+¿Cuánto está de aquí el lugar
 
 
 
@@ -3294,51 +3285,51 @@ adonde vive esa dama?
 
 
 LUDOVICO
-  Seis millas debe de estar
+  Seis millas debe de estar
 
 
 
-de aqu�.
+de aquí.
 
 
 LEONORA
-  �Belvalle se llama?
+  ¿Belvalle se llama?
 
 
 LUDOVICO
-  Bello se puede llamar
+  Bello se puede llamar
 
 
 
-porque es bella recreaci�n.
+porque es bella recreación.
 
 
 LEONORA
-  �Hola! Aderezadme un coche.
+  ¡Hola! Aderezadme un coche.
 
 
 LUDOVICO
-  �Qu� es, se�ora, tu intenci�n?
+  ¿Qué es, señora, tu intención?
 
 
 LEONORA
-  Traella a casa esta noche;
+  Traella a casa esta noche;
 
 
 
-que da�a la dilaci�n.
+que daña la dilación.
 
 
 
-Yo s� que el duque est� all�;
+Yo sé que el duque está allá;
 
 
 
-si est�n cerca, yendo, impido
+si están cerca, yendo, impido
 
 
 
-lo que amor temiendo est�.
+lo que amor temiendo está.
 
 
 
@@ -3350,7 +3341,7 @@ de camino.
 
 
 LUDOVICO
-  �No ser�
+  ¿No será
 
 
 
@@ -3358,7 +3349,7 @@ justo pensallo mejor?
 
 
 LEONORA
-  No, que si no vamos luego
+  No, que si no vamos luego
 
 
 
@@ -3376,7 +3367,7 @@ suele apagarse el amor.
 Vanse. Sale CARLOS de pastor, de noche, rebozado.
 
 CARLOS
-  Un a�o, cielos, ha, que Amor me obliga
+  Un año, cielos, ha, que Amor me obliga
 
 
 
@@ -3400,11 +3391,11 @@ en amoroso e indisoluble nudo;
 
 
 
-mas con tal condici�n, que siendo mudo
+mas con tal condición, que siendo mudo
 
 
 
-goce callando; �viose tal fatiga!
+goce callando; ¡viose tal fatiga!
 
 
 
@@ -3434,7 +3425,7 @@ a que calle un celoso, es imposible.
 SIRENA, a la ventana.
 
 SIRENA
-  �Qu� de mercedes no hubiera hecho
+  ¡Qué de mercedes no hubiera hecho
 
 
 
@@ -3442,7 +3433,7 @@ Naturaleza, madre verdadera,
 
 
 
-si, porque el coraz�n se descubriera,
+si, porque el corazón se descubriera,
 
 
 
@@ -3454,7 +3445,7 @@ Industria hubiera sido de provecho,
 
 
 
-pues mir�ndola Carlos, descubriera
+pues mirándola Carlos, descubriera
 
 
 
@@ -3466,31 +3457,31 @@ en lugar de celoso, satisfecho.
 
 
 
-�Qu� de males cesaran, qu� de enojos,
+¡Qué de males cesaran, qué de enojos,
 
 
 
-si no estuviera el coraz�n secreto!
+si no estuviera el corazón secreto!
 
 
 
-Pero esta condici�n ya est� cumplida.
+Pero esta condición ya está cumplida.
 
 
 
-Ventanas son del coraz�n los ojos,
+Ventanas son del corazón los ojos,
 
 
 
-por donde ver� Carlos, si es discreto,
+por donde verá Carlos, si es discreto,
 
 
 
-que es el duque mi muerte, y �l mi vida.
+que es el duque mi muerte, y él mi vida.
 
 
 CARLOS
-  Sirena, para excusar
+  Sirena, para excusar
 
 
 
@@ -3498,15 +3489,15 @@ la sospecha que me abrasa,
 
 
 
-al duque dej� su casa,
+al duque dejó su casa,
 
 
 
-pues no la quiere �l dejar.
+pues no la quiere él dejar.
 
 
 
-A �sta se pasa, y �qui�n duda
+A ésta se pasa, y ¿quién duda
 
 
 
@@ -3522,7 +3513,7 @@ mi esposa, la casa muda?
 
 
 
-�Si dormir�? Pero �c�mo,
+¿Si dormirá? Pero ¿cómo,
 
 
 
@@ -3538,7 +3529,7 @@ son pesadilla de plomo?
 
 
 
-Mas s� har�; que es pretendida
+Mas sí hará; que es pretendida
 
 
 
@@ -3546,7 +3537,7 @@ del duque, a quien desvanece,
 
 
 
-y la que m�s aborrece
+y la que más aborrece
 
 
 
@@ -3562,23 +3553,23 @@ y con ruegos os obligo,
 
 
 
-que no sue�e en mi enemigo,
+que no sueñe en mi enemigo,
 
 
 
-que aun so�ando, me da celos.
+que aun soñando, me da celos.
 
 
 SIRENA
-  Quejas en la calle siento.
+  Quejas en la calle siento.
 
 
 
-�Si ser� Carlos?, �qui�n duda?
+¿Si será Carlos?, ¿quién duda?
 
 
 
-Un a�o ha que por ser muda,
+Un año ha que por ser muda,
 
 
 
@@ -3590,11 +3581,11 @@ No oso hablar; que estoy agora
 
 
 
-en casa villana, y s�
+en casa villana, y sé
 
 
 
-que, desde que naci�, fue
+que, desde que nació, fue
 
 
 
@@ -3602,15 +3593,15 @@ la malicia labradora.
 
 
 
-�Ay cielos! �Si ser� �l?
+¡Ay cielos! ¿Si será él?
 
 
 
-Desde aqu� quiero escuchalle.
+Desde aquí quiero escuchalle.
 
 
 CARLOS
-  Ya que me mandan que calle,
+  Ya que me mandan que calle,
 
 
 
@@ -3618,27 +3609,27 @@ medio, aunque sabio, cruel,
 
 
 
-si quej�ndose el mal mengua,
+si quejándose el mal mengua,
 
 
 
-o�d, Cielos, mis enojos,
+oíd, Cielos, mis enojos,
 
 
 
-que aunque est�is sembrados de ojos,
+que aunque estéis sembrados de ojos,
 
 
 
-o estrellas, no ten�is lengua.
+o estrellas, no tenéis lengua.
 
 
 
-Yo ha un a�o que en posesi�n
+Yo ha un año que en posesión
 
 
 
-gozo a un �ngel; pero en duda
+gozo a un ángel; pero en duda
 
 
 
@@ -3646,15 +3637,15 @@ que se mude...
 
 
 SIRENA
-  No se muda
+  No se muda
 
 
 
-la ang�lica perfecci�n.
+la angélica perfección.
 
 
 CARLOS
-  �V�lgame Dios! �No es Sirena
+  ¡Válgame Dios! ¿No es Sirena
 
 
 
@@ -3670,19 +3661,19 @@ la noche clara y serena?
 
 
 
-�Sois vos, mi bien?
+¿Sois vos, mi bien?
 
 
 SIRENA
-  No lo s�,
+  No lo sé,
 
 
 
-pues no hac�is de m� confianza.
+pues no hacéis de mí confianza.
 
 
 CARLOS
-  Navego, temo mudanza;
+  Navego, temo mudanza;
 
 
 
@@ -3698,7 +3689,7 @@ mas no me oso asegurar.
 
 
 SIRENA
-  De que se alborote el mar,
+  De que se alborote el mar,
 
 
 
@@ -3706,7 +3697,7 @@ poco se le da a la roca.
 
 
 CARLOS
-  Ya yo s� que vence ella
+  Ya yo sé que vence ella
 
 
 
@@ -3726,7 +3717,7 @@ y basta para perder
 
 
 
-la opini�n; joya estimada,
+la opinión; joya estimada,
 
 
 
@@ -3734,7 +3725,7 @@ que mella en honra o espada,
 
 
 
-�qu� valor ha de tener?
+¿qué valor ha de tener?
 
 
 
@@ -3742,7 +3733,7 @@ Que aunque firme se autoriza
 
 
 
-por m�s que el mar la combata,
+por más que el mar la combata,
 
 
 
@@ -3754,7 +3745,7 @@ al menos la esteriliza.
 
 
 
-�D� hallar�is pe�a ni amor,
+¿Dó hallaréis peña ni amor,
 
 
 
@@ -3770,11 +3761,11 @@ permita yerba ni flor?
 
 
 
-�Qu� importa, esposa querida,
+¿Qué importa, esposa querida,
 
 
 
-que inm�vil permanezc�is,
+que inmóvil permanezcáis,
 
 
 
@@ -3790,7 +3781,7 @@ donde yo en celos eternos
 
 
 
-est�ril vuestro amor vea,
+estéril vuestro amor vea,
 
 
 
@@ -3798,11 +3789,11 @@ pues aunque el alma os posea,
 
 
 
-ser� ya imposible el vernos?
+será ya imposible el vernos?
 
 
 
-Mud�is de casa y lugar;
+Mudáis de casa y lugar;
 
 
 
@@ -3810,15 +3801,15 @@ no sin causa temo y dudo.
 
 
 SIRENA
-  Mi bien, sitio, no amor, mudo.
+  Mi bien, sitio, no amor, mudo.
 
 
 CARLOS
-  Al fin, Sirena, es mudar.
+  Al fin, Sirena, es mudar.
 
 
 
-En la corte cada d�a
+En la corte cada día
 
 
 
@@ -3830,7 +3821,7 @@ el sitio, el estado, el traje,
 
 
 
-la amistad, la cortes�a,
+la amistad, la cortesía,
 
 
 
@@ -3838,7 +3829,7 @@ la privanza, el querer bien;
 
 
 
-por eso el que os vais reh�so;
+por eso el que os vais rehúso;
 
 
 
@@ -3846,19 +3837,19 @@ que por vos andar al uso,
 
 
 
-os querr�is mudar tambi�n.
+os querréis mudar también.
 
 
 SIRENA
-  Antes tendr� m�s ganancia
+  Antes tendrá más ganancia
 
 
 
-all� la firmeza m�a;
+allá la firmeza mía;
 
 
 
-que toda mercadur�a
+que toda mercaduría
 
 
 
@@ -3874,19 +3865,19 @@ que hay tan poca fortaleza,
 
 
 
-claro est� que mi firmeza,
+claro está que mi firmeza,
 
 
 
-por sola, ha de valer m�s.
+por sola, ha de valer más.
 
 
 CARLOS
-  �Ya habl�is del valor? Temer
+  ¿Ya habláis del valor? Temer
 
 
 
-puedo que saldr�is ingrata,
+puedo que saldréis ingrata,
 
 
 
@@ -3894,11 +3885,11 @@ porque quien del precio trata,
 
 
 
-no est� lejos de vender.
+no está lejos de vender.
 
 
 
-Mas, �ay amores!, no trates
+Mas, ¡ay amores!, no trates
 
 
 
@@ -3914,7 +3905,7 @@ cuanto dice es disparates.
 
 
 
-No puedo m�s: �qu� he de hacer?
+No puedo más: ¿qué he de hacer?
 
 
 
@@ -3926,19 +3917,19 @@ sino con celos de honor,
 
 
 
-gigantes que har�n temer
+gigantes que harán temer
 
 
 
-al coraz�n m�s valiente.
+al corazón más valiente.
 
 
 
-Ll�vate el duque a su casa,
+Llévate el duque a su casa,
 
 
 
-t�ngote de ver por tasa;
+téngote de ver por tasa;
 
 
 
@@ -3950,15 +3941,15 @@ a sus importunos ruegos;
 
 
 
-�qu� mucho que tema, pues?
+¿qué mucho que tema, pues?
 
 
 SIRENA
-  Carlos m�o, poco ves;
+  Carlos mío, poco ves;
 
 
 
-que tambi�n hay celos ciegos.
+que también hay celos ciegos.
 
 
 
@@ -3970,7 +3961,7 @@ de mi fama y de tu honor,
 
 
 
-�puede haber cosa mejor
+¿puede haber cosa mejor
 
 
 
@@ -3978,7 +3969,7 @@ que llevarme a la ciudad?
 
 
 
-�En qu� fortaleza habito,
+¿En qué fortaleza habito,
 
 
 
@@ -3994,7 +3985,7 @@ de un poderoso apetito?
 
 
 
-�Tiene de poder Belvalle
+¿Tiene de poder Belvalle
 
 
 
@@ -4010,7 +4001,7 @@ defenderme y ausentalle?
 
 
 
-Dir�s que no, claro est�,
+Dirás que no, claro está,
 
 
 
@@ -4034,7 +4025,7 @@ guardarme ha de pretender,
 
 
 
-�qu� temes, si una mujer
+¿qué temes, si una mujer
 
 
 
@@ -4042,7 +4033,7 @@ recelosa me defiende?
 
 
 
-�Hay vida tan cuidadosa
+¿Hay vida tan cuidadosa
 
 
 
@@ -4050,7 +4041,7 @@ que asegure tus enojos?
 
 
 
-�Hay Argos tan lleno de ojos
+¿Hay Argos tan lleno de ojos
 
 
 
@@ -4058,11 +4049,11 @@ como una mujer celosa?
 
 
 
-�Pues qu� temor te acobarda,
+¿Pues qué temor te acobarda,
 
 
 
-si aqu� segura no estoy,
+si aquí segura no estoy,
 
 
 
@@ -4070,11 +4061,11 @@ y he de llevar donde voy
 
 
 
-un �ngel tras m� de guarda?
+un ángel tras mí de guarda?
 
 
 
-Yo le dir� a la duquesa
+Yo le diré a la duquesa
 
 
 
@@ -4090,7 +4081,7 @@ lo que su amor interesa;
 
 
 
-y andando yo cada d�a
+y andando yo cada día
 
 
 
@@ -4102,19 +4093,19 @@ es lo mismo que tener
 
 
 
-tu honor en una alcanc�a.
+tu honor en una alcancía.
 
 
 CARLOS
-  �Qu� importa si no he de hablarte,
+  ¿Qué importa si no he de hablarte,
 
 
 
-querida Sirena m�s?
+querida Sirena más?
 
 
 SIRENA
-  Pues �qu�daste aqu�? �No vas,
+  Pues ¿quédaste aquí? ¿No vas,
 
 
 
@@ -4122,7 +4113,7 @@ Carlos, a la misma parte?
 
 
 
-�Puede haber inconveniente
+¿Puede haber inconveniente
 
 
 
@@ -4130,7 +4121,7 @@ que al fin un primo no acabe?
 
 
 
-�Qu� puerta hay jam�s con llave
+¿Qué puerta hay jamás con llave
 
 
 
@@ -4138,7 +4129,7 @@ para el amor que es pariente?
 
 
 
-�No eres cazador mayor?
+¿No eres cazador mayor?
 
 
 
@@ -4156,23 +4147,23 @@ ni sin diligencia, amor.
 Salen el DUQUE y FLORO, como de noche.
 
 DUQUE
-  �Qu� importa que me aconsejes,
+  ¿Qué importa que me aconsejes,
 
 
 
-si yo muri�ndome estoy?
+si yo muriéndome estoy?
 
 
 FLORO
-  �No eres duque?
+  ¿No eres duque?
 
 
 DUQUE
-  Amante soy.
+  Amante soy.
 
 
 FLORO
-  Por lo m�s, es bien que dejes
+  Por lo más, es bien que dejes
 
 
 
@@ -4180,39 +4171,39 @@ lo menos.
 
 
 DUQUE
-  �Cu�l es lo m�s?
+  ¿Cuál es lo más?
 
 
 FLORO
-  Ser duque.
+  Ser duque.
 
 
 DUQUE
-  �Que ser amante?
+  ¿Que ser amante?
 
 
 FLORO
-  �Pues no?
+  ¿Pues no?
 
 
 DUQUE
-  Eres ignorante;
+  Eres ignorante;
 
 
 
-no he de admitirte jam�s
+no he de admitirte jamás
 
 
 
-a cosa del gusto m�o.
+a cosa del gusto mío.
 
 
 
-�Amor no es dios?
+¿Amor no es dios?
 
 
 FLORO
-  Esa fama
+  Esa fama
 
 
 
@@ -4220,23 +4211,23 @@ tiene acerca de quien ama.
 
 
 DUQUE
-  Luego has dicho un desvar�o;
+  Luego has dicho un desvarío;
 
 
 
-que si Amor en s� transforma
+que si Amor en sí transforma
 
 
 
-al amante, claro est�
+al amante, claro está
 
 
 
-que Amor, lo que soy, ser�:
+que Amor, lo que soy, será:
 
 
 
-yo la materia, �l la forma,
+yo la materia, él la forma,
 
 
 
@@ -4244,11 +4235,11 @@ y si de dios tiene nombre,
 
 
 
-�cu�l es mejor de los dos?
+¿cuál es mejor de los dos?
 
 
 
-�El que amando es, con �l, dios,
+¿El que amando es, con él, dios,
 
 
 
@@ -4256,43 +4247,43 @@ o el duque, que, al fin, es hombre?
 
 
 FLORO
-  Lo que yo s� es que te enga�a
+  Lo que yo sé es que te engaña
 
 
 
-el frenes� de tu pena.
+el frenesí de tu pena.
 
 
 DUQUE
-  Dios soy amando a Sirena,
+  Dios soy amando a Sirena,
 
 
 
-y no duque de Breta�a.
+y no duque de Bretaña.
 
 
 CARLOS
-  El duque es �ste.
+  El duque es éste.
 
 
 SIRENA
-  �Ay de m�!
+  ¡Ay de mí!
 
 
 
-Carlos m�o, vete luego.
+Carlos mío, vete luego.
 
 
 CARLOS
-  �Tocan los celos a fuego,
+  ¿Tocan los celos a fuego,
 
 
 
-y he de partirme de aqu�?
+y he de partirme de aquí?
 
 
 
-No me est� bien esta traza;
+No me está bien esta traza;
 
 
 
@@ -4308,11 +4299,11 @@ el que huye y deja la caza.
 
 
 SIRENA
-  �Si te conoce?
+  ¿Si te conoce?
 
 
 CARLOS
-  El disfraz
+  El disfraz
 
 
 
@@ -4324,15 +4315,15 @@ de ese temor me asegura.
 
 
 SIRENA
-  �Ay esposo! Vete en paz
+  ¡Ay esposo! Vete en paz
 
 
 
-o ir�me yo, no me vea.
+o iréme yo, no me vea.
 
 
 CARLOS
-  El huir es claro indicio,
+  El huir es claro indicio,
 
 
 
@@ -4340,7 +4331,7 @@ Sirena, del maleficio.
 
 
 
-Tambi�n se ama en el aldea.
+También se ama en el aldea.
 
 
 
@@ -4348,23 +4339,23 @@ Finge que Fenisa eres,
 
 
 
-y har� que Carmenio soy.
+y haré que Carmenio soy.
 
 
 SIRENA
-  Mala fingidora soy.
+  Mala fingidora soy.
 
 
 CARLOS
-  Pues bien fing�s las mujeres.
+  Pues bien fingís las mujeres.
 
 
 SIRENA
-  �Qu� sacas de que aqu� est�?
+  ¿Qué sacas de que aquí esté?
 
 
 CARLOS
-  Defender pared o puerta,
+  Defender pared o puerta,
 
 
 
@@ -4372,7 +4363,7 @@ viendo que hay gente despierta,
 
 
 
-cuando tan perdido est�
+cuando tan perdido esté
 
 
 
@@ -4388,15 +4379,15 @@ por obra suelen poner.
 
 
 DUQUE
-  Escucha, en la calle hay gente.
+  Escucha, en la calle hay gente.
 
 
 FLORO
-  Tambi�n rondan labradores;
+  También rondan labradores;
 
 
 
-que contra el sue�o y trabajo
+que contra el sueño y trabajo
 
 
 
@@ -4408,23 +4399,23 @@ esta gente sus amores.
 
 
 DUQUE
-  �No es la casa del alcalde
+  ¿No es la casa del alcalde
 
 
 
-�sta en que Sirena est�?
+ésta en que Sirena está?
 
 
 FLORO
-  Pienso que s�.
+  Pienso que sí.
 
 
 DUQUE
-  �Qui�n ser�?
+  ¿Quién será?
 
 
 FLORO
-  Quien por no pagar de balde
+  Quien por no pagar de balde
 
 
 
@@ -4436,7 +4427,7 @@ de noche.
 
 
 DUQUE
-  En fin, ni al sayal,
+  En fin, ni al sayal,
 
 
 
@@ -4452,7 +4443,7 @@ amor de noche preserva.
 
 
 FLORO
-  No hay quien no la pague escote,
+  No hay quien no la pague escote,
 
 
 
@@ -4460,15 +4451,15 @@ porque es la noche un pipote,
 
 
 
-se�or, de toda conserva.
+señor, de toda conserva.
 
 
 DUQUE
-  �Qu� hablar�n?
+  ¿Qué hablarán?
 
 
 FLORO
-  Cosas de risa,
+  Cosas de risa,
 
 
 
@@ -4476,7 +4467,7 @@ con que entretengan su mal:
 
 
 
-�l requiebros de sayal,
+él requiebros de sayal,
 
 
 
@@ -4484,19 +4475,19 @@ y ella favores de frisa.
 
 
 DUQUE
-  Oig�moslos, dios tirano,
+  Oigámoslos, dios tirano,
 
 
 
-�por qu� ha de amar un pastor?
+¿por qué ha de amar un pastor?
 
 
 FLORO
-  Porque es hombre.
+  Porque es hombre.
 
 
 DUQUE
-  No es amor
+  No es amor
 
 
 
@@ -4504,7 +4495,7 @@ bocado para un villano.
 
 
 CARLOS
-  En fin, �que no hay quillotrar
+  En fin, ¿que no hay quillotrar
 
 
 
@@ -4524,15 +4515,15 @@ la tribuna abajo?
 
 
 SIRENA
-  No.
+  No.
 
 
 CARLOS
-  Hello por fuerza.
+  Hello por fuerza.
 
 
 SIRENA
-  Eso es malo;
+  Eso es malo;
 
 
 
@@ -4540,15 +4531,15 @@ que tien el mando y el palo.
 
 
 
-�No soy vuesa mujer yo?
+¿No soy vuesa mujer yo?
 
 
 
-�De qu� diabros veis querella?
+¿De qué diabros veis querella?
 
 
 CARLOS
-  Mas �de qu� no la he de her?
+  Mas ¿de qué no la he de her?
 
 
 
@@ -4556,11 +4547,11 @@ De noche sois mi mujer,
 
 
 
-y de d�a sois doncella.
+y de día sois doncella.
 
 
 
-A medias est� casado;
+A medias estó casado;
 
 
 
@@ -4572,11 +4563,11 @@ mi Fenisa, dentro o fuera.
 
 
 FLORO
-  �Labrador determinado!
+  ¡Labrador determinado!
 
 
 DUQUE
-  A habello yo, Floro, sido,
+  A habello yo, Floro, sido,
 
 
 
@@ -4584,7 +4575,7 @@ no tuviera que temer.
 
 
 FLORO
-  Habla, por ser su mujer,
+  Habla, por ser su mujer,
 
 
 
@@ -4596,11 +4587,11 @@ no lo es tuya la marquesa.
 
 
 CARLOS
-  �Entrar�?
+  ¿Entraré?
 
 
 SIRENA
-  Lo dicho, dicho;
+  Lo dicho, dicho;
 
 
 
@@ -4612,19 +4603,19 @@ sabe el amor que me pesa.
 
 
 
-�Mal haya Sirena, am�n!
+¡Mal haya Sirena, amén!
 
 
 CARLOS
-  No la maldigas, que es linda.
+  No la maldigas, que es linda.
 
 
 SIRENA
-  �Es bella?
+  ¿Es bella?
 
 
 CARLOS
-  Como una guinda;
+  Como una guinda;
 
 
 
@@ -4632,11 +4623,11 @@ par Dios que la quiero bien.
 
 
 SIRENA
-  No gusto yo mucho deso.
+  No gusto yo mucho deso.
 
 
 CARLOS
-  Ya que hayas de maldecir,
+  Ya que hayas de maldecir,
 
 
 
@@ -4652,27 +4643,27 @@ que esta noche nos estorba.
 
 
 SIRENA
-  Como �sas nos ha estorbado.
+  Como ésas nos ha estorbado.
 
 
 DUQUE
-  Yo vengo a ser el culpado.
+  Yo vengo a ser el culpado.
 
 
 SIRENA
-  �Mala landre que le sorba!
+  ¡Mala landre que le sorba!
 
 
 
-�No tiene ya su mujer?
+¿No tiene ya su mujer?
 
 
 
-Qu� diabros nos quiere aqu�?
+Qué diabros nos quiere aquí?
 
 
 CARLOS
-  Como no vuelva por s�,
+  Como no vuelva por sí,
 
 
 
@@ -4680,11 +4671,11 @@ palos debe de querer.
 
 
 DUQUE
-  �Yo palos?
+  ¿Yo palos?
 
 
 FLORO
-  Esto va malo,
+  Esto va malo,
 
 
 
@@ -4700,35 +4691,35 @@ se sanan tomando el palo.
 
 
 SIRENA
-  Palos a un duque es pecado.
+  Palos a un duque es pecado.
 
 
 CARLOS
-  En dando en ser cascabel,
+  En dando en ser cascabel,
 
 
 
-yo le apalear� a �l,
+yo le apalearé a él,
 
 
 
-y no tocar� al ducado.
+y no tocaré al ducado.
 
 
 
-�Si me estuviese escuchando...!
+¡Si me estuviese escuchando...!
 
 
 SIRENA
-  �Pues para qu�?
+  ¿Pues para qué?
 
 
 CARLOS
-  �No pod�a,
+  ¿No podía,
 
 
 
-viendo que en casa dorm�a
+viendo que en casa dormía
 
 
 
@@ -4736,7 +4727,7 @@ Sirena, andalla rondando?
 
 
 SIRENA
-  Pardiobre, por m�s que ronde,
+  Pardiobre, por más que ronde,
 
 
 
@@ -4744,15 +4735,15 @@ no temas que la trabuque.
 
 
 CARLOS
-  �No, Fenisa, siendo un duque?
+  ¿No, Fenisa, siendo un duque?
 
 
 SIRENA
-  Ni un rey, ni un papa, ni un conde.
+  Ni un rey, ni un papa, ni un conde.
 
 
 DUQUE
-  Todos son historiadores
+  Todos son historiadores
 
 
 
@@ -4760,7 +4751,7 @@ de mi desdicha.
 
 
 CARLOS
-  Sirena
+  Sirena
 
 
 
@@ -4788,19 +4779,19 @@ y aliviar la pesadumbre.
 
 
 SIRENA
-  �Est�s loco?
+  ¿Estás loco?
 
 
 CARLOS
-  Loco est�.
+  Loco estó.
 
 
 
-Yo soy vuestro esposo y due�o;
+Yo soy vuestro esposo y dueño;
 
 
 
-at�ngome al matrime�o;
+aténgome al matrimeño;
 
 
 
@@ -4808,7 +4799,7 @@ o sois mi mujer, o no.
 
 
 SIRENA
-  Ruido suena, padre llama
+  Ruido suena, padre llama
 
 
 
@@ -4816,11 +4807,11 @@ la gente; voime a acostar.
 
 
 CARLOS
-  �Y qu� he de her yo?
+  ¿Y qué he de her yo?
 
 
 SIRENA
-  �Qu�? Esperar
+  ¿Qué? Esperar
 
 
 
@@ -4828,81 +4819,81 @@ que es costumbre de quien ama.
 
 
 CARLOS
-  �Cu�ndo habraremos los dos,
+  ¿Cuándo habraremos los dos,
 
 
 
-ya que as� mi fuego atizas?
+ya que así mi fuego atizas?
 
 
 SIRENA
-  M�s d�as hay que longanizas.
+  Más días hay que longanizas.
 
 
 
-En y�ndose el duque, adi�s.
+En yéndose el duque, adiós.
 
 
 Vase.
 
 DUQUE
-  Floro, con la ayuda deste,
+  Floro, con la ayuda deste,
 
 
 
-que, en fin, es ladr�n de casa,
+que, en fin, es ladrón de casa,
 
 
 
-el fuego que as� me abrasa,
+el fuego que así me abrasa,
 
 
 
-podr� ser no me moleste.
+podrá ser no me moleste.
 
 
 
-�Ah de la calle! �Qui�n va?
+¡Ah de la calle! ¿Quién va?
 
 
 CARLOS
-  �Ah de la calle! �Qui�n viene?
+  ¡Ah de la calle! ¿Quién viene?
 
 
 DUQUE
-  Quien cerrado el paso tiene.
+  Quien cerrado el paso tiene.
 
 
 CARLOS
-  Pasos abrimos ac�;
+  Pasos abrimos acá;
 
 
 
-es el monte m�s cerrado.
+es el monte más cerrado.
 
 
 DUQUE
-  �Con qui�n hablabais aqu�?
+  ¿Con quién hablabais aquí?
 
 
 CARLOS
-  �Confes�isme vos a m�,
+  ¿Confesáisme vos a mí,
 
 
 
-que pescud�is mis pecados?
+que pescudáis mis pecados?
 
 
 DUQUE
-  Ea, no repliqu�is m�s.
+  Ea, no repliquéis más.
 
 
 
-�Con qui�n hablabais?
+¿Con quién hablabais?
 
 
 CARLOS
-  �Buen cuento!
+  ¡Buen cuento!
 
 
 
@@ -4910,23 +4901,23 @@ En los diez no hay mandamiento
 
 
 
-que nos mande: �No hablar�s�.
+que nos mande: «No hablarás».
 
 
 DUQUE
-  Pues yo os lo mando.
+  Pues yo os lo mando.
 
 
 CARLOS
-  �Sois vos
+  ¿Sois vos
 
 
 
-m�s que los diez mandamientos?
+más que los diez mandamientos?
 
 
 DUQUE
-  Ahorremos de fingimientos,
+  Ahorremos de fingimientos,
 
 
 
@@ -4938,27 +4929,27 @@ y vos uno.
 
 
 CARLOS
-  Uno, y no manco.
+  Uno, y no manco.
 
 
 DUQUE
-  Haced lo que os digo, pues.
+  Haced lo que os digo, pues.
 
 
 CARLOS
-  Dos sois y conmigo tres;
+  Dos sois y conmigo tres;
 
 
 
-a�n no hay para pies a un banco.
+aún no hay para pies a un banco.
 
 
 
-�Qu� quer�is?
+¿Qué queréis?
 
 
 DUQUE
-  En casa ajena
+  En casa ajena
 
 
 
@@ -4966,7 +4957,7 @@ y donde el alcalde vive,
 
 
 
-y por g��speda recibe
+y por güéspeda recibe
 
 
 
@@ -4978,11 +4969,11 @@ es notable desacato
 
 
 
-que a su ventana habl�is vos.
+que a su ventana habléis vos.
 
 
 CARLOS
-  Perdonadme, que, par Dios,
+  Perdonadme, que, par Dios,
 
 
 
@@ -4990,27 +4981,27 @@ que sois lindo mentecato.
 
 
 DUQUE
-  Villano, �sab�is quien soy?
+  Villano, ¿sabéis quien soy?
 
 
 CARLOS
-  Del duque me parec�is
+  Del duque me parecéis
 
 
 
-en el traje que tra�is.
+en el traje que traéis.
 
 
 
-Por �l este nombre os doy.
+Por él este nombre os doy.
 
 
 DUQUE
-  �Por qu� el duque lo merece?
+  ¿Por qué el duque lo merece?
 
 
 CARLOS
-  Porque si fue recuestada
+  Porque si fue recuestada
 
 
 
@@ -5022,7 +5013,7 @@ y aun con esto le aborrece,
 
 
 
-�qu� tien ya que responder
+¿qué tien ya que responder
 
 
 
@@ -5030,7 +5021,7 @@ si se ha casado con otra?
 
 
 
-�Ha de gustar ser quillotra
+¿Ha de gustar ser quillotra
 
 
 
@@ -5038,15 +5029,15 @@ quien no quiso ser mujer?
 
 
 DUQUE
-  �Qui�n os mete a vos en eso?
+  ¿Quién os mete a vos en eso?
 
 
 CARLOS
-  �Qui�n? El que a vos os meti�
+  ¿Quién? El que a vos os metió
 
 
 
-en re�irme si habro o no.
+en reñirme si habro o no.
 
 
 
@@ -5054,7 +5045,7 @@ Los dos estamos sin seso.
 
 
 
-Y as� d�ndonos por buenos
+Y así dándonos por buenos
 
 
 
@@ -5070,23 +5061,23 @@ cual vos, por duelos ajenos.
 
 
 DUQUE
-  �Y si fuese el duque yo,
+  ¿Y si fuese el duque yo,
 
 
 
-a quien hab�is eso dicho?
+a quien habéis eso dicho?
 
 
 CARLOS
-  Si sois vos, lo dicho, dicho.
+  Si sois vos, lo dicho, dicho.
 
 
 DUQUE
-  �No os desdir�is de ello?
+  ¿No os desdiréis de ello?
 
 
 CARLOS
-  No.
+  No.
 
 
 
@@ -5098,7 +5089,7 @@ porque de honrado me precio.
 
 
 DUQUE
-  Ni sois cobarde, ni necio;
+  Ni sois cobarde, ni necio;
 
 
 
@@ -5106,23 +5097,23 @@ yo quiero ser vuestro amigo.
 
 
 
-�Quer�is vos?
+¿Queréis vos?
 
 
 CARLOS
-  Si me estuviere
+  Si me estuviere
 
 
 
-bien, podr� ser que lo sea.
+bien, podrá ser que lo sea.
 
 
 DUQUE
-  �Y estaraos bien?
+  ¿Y estaraos bien?
 
 
 CARLOS
-  Cuando os vea,
+  Cuando os vea,
 
 
 
@@ -5130,19 +5121,19 @@ y vuestro Estado supiere.
 
 
 DUQUE
-  Decidme, pues, vuestro nombre,
+  Decidme, pues, vuestro nombre,
 
 
 CARLOS
-  Vos propon�is el partido;
+  Vos proponéis el partido;
 
 
 
-lo que me ped�s os pido.
+lo que me pedís os pido.
 
 
 DUQUE
-  �Has visto, Floro, tal hombre?
+  ¿Has visto, Floro, tal hombre?
 
 
 
@@ -5158,7 +5149,7 @@ a que Estado y nombre os diga.
 
 
 CARLOS
-  Mal podr�is mi amigo ser,
+  Mal podréis mi amigo ser,
 
 
 
@@ -5170,11 +5161,11 @@ que amistad interesable
 
 
 
-jam�s ha sido durable.
+jamás ha sido durable.
 
 
 DUQUE
-  �No se obliga una amistad
+  ¿No se obliga una amistad
 
 
 
@@ -5182,11 +5173,11 @@ con buenas obras?
 
 
 CARLOS
-  A veces;
+  A veces;
 
 
 
-mas despu�s de recebida,
+mas después de recebida,
 
 
 
@@ -5194,19 +5185,19 @@ o se paga mal u olvida.
 
 
 DUQUE
-  Labrador, m�s me pareces
+  Labrador, más me pareces
 
 
 
-fil�sofo que villano.
+filósofo que villano.
 
 
 CARLOS
-  Lo uno y otro puede ser.
+  Lo uno y otro puede ser.
 
 
 DUQUE
-  �Qu� de ello te he de querer,
+  ¡Qué de ello te he de querer,
 
 
 
@@ -5214,7 +5205,7 @@ si me remedia tu mano!
 
 
 
-Discreci�n tienes extra�a,
+Discreción tienes extraña,
 
 
 
@@ -5226,11 +5217,11 @@ sacarte del sayal puedo,
 
 
 
-que soy duque de Breta�a.
+que soy duque de Bretaña.
 
 
 CARLOS
-  �V�lgame Dios! �Que el Duque es?,
+  ¡Válgame Dios! ¿Que el Duque es?,
 
 
 
@@ -5246,23 +5237,23 @@ y deme a besar los pies
 
 
 
-desde aqu�.
+desde aquí.
 
 
 DUQUE
-  Ll�gate m�s.
+  Llégate más.
 
 
 CARLOS
-  Hame dado una lici�n
+  Hame dado una lición
 
 
 
-la f�bula del le�n;
+la fábula del león;
 
 
 
-ya t�, se�or, la sabr�s.
+ya tú, señor, la sabrás.
 
 
 
@@ -5282,7 +5273,7 @@ estar cojo a la vejez.
 
 
 
-Como no pod�a cazar,
+Como no podía cazar,
 
 
 
@@ -5290,11 +5281,11 @@ y andaba solo y hambriento,
 
 
 
-remiti� al entendimiento
+remitió al entendimiento
 
 
 
-los pies que sol�an volar;
+los pies que solían volar;
 
 
 
@@ -5302,7 +5293,7 @@ y llamando a cortes reales,
 
 
 
-mand� por edito y ley
+mandó por edito y ley
 
 
 
@@ -5322,23 +5313,23 @@ Fueron todos, y asentados,
 
 
 
-dijo: �Vasallos honrados,
+dijo: «Vasallos honrados,
 
 
 
-a m� me han dado una nueva
+a mí me han dado una nueva
 
 
 
-extra�a, y que me provoca
+extraña, y que me provoca
 
 
 
-a pesadumbre y pasi�n,
+a pesadumbre y pasión,
 
 
 
-y es que dicen que al le�n
+y es que dicen que al león
 
 
 
@@ -5350,7 +5341,7 @@ No es bien que un supuesto real,
 
 
 
-de tantos brutos se�or,
+de tantos brutos señor,
 
 
 
@@ -5358,11 +5349,11 @@ en vez de dar buen olor,
 
 
 
-a todos g�ela tan mal.
+a todos güela tan mal.
 
 
 
-Y as� buscando el remedio,
+Y así buscando el remedio,
 
 
 
@@ -5370,11 +5361,11 @@ hallo que a todos os toca
 
 
 
-que lleg�ndoos a mi boca
+que llegándoos a mi boca
 
 
 
-ve�is si al principio o medio
+veáis si al principio o medio
 
 
 
@@ -5382,7 +5373,7 @@ alguna muela podrida
 
 
 
-g�ele mal, porque se saque,
+güele mal, porque se saque,
 
 
 
@@ -5390,11 +5381,11 @@ y desta suerte se aplaque
 
 
 
-afrenta tan conocida�.
+afrenta tan conocida».
 
 
 
-Meti�se con esto adentro,
+Metióse con esto adentro,
 
 
 
@@ -5410,11 +5401,11 @@ La raposa, que es el centro
 
 
 
-de malicias, oli� el poste;
+de malicias, olió el poste;
 
 
 
-y convid�ndola a entrar
+y convidándola a entrar
 
 
 
@@ -5422,7 +5413,7 @@ para ver y visitar
 
 
 
-al le�n, respondi�: ��Oste!�
+al león, respondió: «¡Oste!»
 
 
 
@@ -5430,7 +5421,7 @@ Y asomando la cabeza,
 
 
 
-dijo: �Por no ser tenida
+dijo: «Por no ser tenida
 
 
 
@@ -5478,7 +5469,7 @@ que hay muela con agujero,
 
 
 
-y el sacalla est� a otra cuenta:
+y el sacalla está a otra cuenta:
 
 
 
@@ -5486,7 +5477,7 @@ que yo estoy sin herramienta,
 
 
 
-y en mi vida fui barbero�.
+y en mi vida fui barbero».
 
 
 
@@ -5514,63 +5505,63 @@ decir, cuando a alguien me allego:
 
 
 
-�Del rey, del sol y del fuego,
+«Del rey, del sol y del fuego,
 
 
 
-lejos; que de cerca, quema�.
+lejos; que de cerca, quema».
 
 
 DUQUE
-  �Pues no me hab�is de decir
+  ¿Pues no me habéis de decir
 
 
 
-qui�n sois si os lo he dicho yo?
+quién sois si os lo he dicho yo?
 
 
 CARLOS
-  Antes s�; pero ya no,
+  Antes sí; pero ya no,
 
 
 
-por lo que acab�is de o�r.
+por lo que acabáis de oír.
 
 
 DUQUE
-  No habr� amistad en los dos,
+  No habrá amistad en los dos,
 
 
 
-si el nombre encubr�s as�.
+si el nombre encubrís así.
 
 
 CARLOS
-  Vos me heis menester a m�,
+  Vos me heis menester a mí,
 
 
 
-seg�n dec�s, yo no a vos.
+según decís, yo no a vos.
 
 
 
-Si as� amistad no quer�is,
+Si así amistad no queréis,
 
 
 
-tom�osla, se�or, all�.
+tomáosla, señor, allá.
 
 
 DUQUE
-  Sabio simple, ven ac�;
+  Sabio simple, ven acá;
 
 
 
-ya he visto lo que os quer�is
+ya he visto lo que os queréis
 
 
 
-t� y Fenisa, y que ha llegado,
+tú y Fenisa, y que ha llegado,
 
 
 
@@ -5586,15 +5577,15 @@ que espera un enamorado.
 
 
 
-S� la poca voluntad
+Sé la poca voluntad
 
 
 
-que tiene de que os cas�is
+que tiene de que os caséis
 
 
 
-el alcalde, a quien quer�is
+el alcalde, a quien queréis
 
 
 
@@ -5618,7 +5609,7 @@ paredes que son villanas.
 
 
 
-De m� os sent� formar quejas
+De mí os sentí formar quejas
 
 
 
@@ -5634,19 +5625,19 @@ si a un lado recelos dejas
 
 
 
-que dices tienes de m�,
+que dices tienes de mí,
 
 
 
-y al aposento me gu�as
+y al aposento me guías
 
 
 
-de Sirena, ya podr�as
+de Sirena, ya podrías
 
 
 
-quedar, de villano, aqu�
+quedar, de villano, aquí
 
 
 
@@ -5658,11 +5649,11 @@ y con Fenisa casado.
 
 
 CARLOS
-  (�Por alcahuete, privado!
+  (¡Por alcahuete, privado!
 
 
 
-Pero no ser� el primero.)
+Pero no seré el primero.)
 
 
 
@@ -5670,7 +5661,7 @@ Tiene mil dificultades
 
 
 
-se�or, lo que me mand�is:
+señor, lo que me mandáis:
 
 
 
@@ -5678,7 +5669,7 @@ el oficio que me dais
 
 
 
-�sase por las ciudades,
+úsase por las ciudades,
 
 
 
@@ -5686,11 +5677,11 @@ mas no por aldeas ni villas;
 
 
 
-alcahuetes hay all�
+alcahuetes hay allá
 
 
 
-se�or�as; pero ac�
+señorías; pero acá
 
 
 
@@ -5710,7 +5701,7 @@ como Sirena, y mi esposa;
 
 
 
-y si all� os meto, despu�s
+y si allá os meto, después
 
 
 
@@ -5718,7 +5709,7 @@ cuando Sirena os reproche,
 
 
 
-quiz� dar�is en Fenisa;
+quizá daréis en Fenisa;
 
 
 
@@ -5734,7 +5725,7 @@ Hay en la puerta un cencerro
 
 
 
-gru�idor, y en el corral
+gruñidor, y en el corral
 
 
 
@@ -5762,7 +5753,7 @@ que se os meriende una pierna.
 
 
 
-Lo cuarto, hab�is de pasar
+Lo cuarto, habéis de pasar
 
 
 
@@ -5770,11 +5761,11 @@ por la cama del alcalde,
 
 
 
-y no pasar�is de balde
+y no pasaréis de balde
 
 
 
-si al mast�n siente ladrar;
+si al mastín siente ladrar;
 
 
 
@@ -5786,11 +5777,11 @@ mientras se averigua o no
 
 
 
-si es el duque el que pas�,
+si es el duque el que pasó,
 
 
 
-sabr�is lo que es una tranca.
+sabréis lo que es una tranca.
 
 
 
@@ -5810,11 +5801,11 @@ todo lo que toca al sexto.
 
 
 DUQUE
-  Mata ese villano, Floro.
+  Mata ese villano, Floro.
 
 
 CARLOS
-  No consiento mataduras;
+  No consiento mataduras;
 
 
 
@@ -5834,35 +5825,35 @@ no te quedes en Belvalle.
 
 
 FLORO
-  Hachas vienen por la calle,
+  Hachas vienen por la calle,
 
 
 
-y detr�s de ellas un coche.
+y detrás de ellas un coche.
 
 
 DUQUE
-  �Coche y hachas por aqu�?
+  ¿Coche y hachas por aquí?
 
 
 
-�Hachas y coche en aldea?
+¿Hachas y coche en aldea?
 
 
 
-�Qui�n ser�?
+¿Quién será?
 
 
 CARLOS
-  Sea quien sea,
+  Sea quien sea,
 
 
 
-se�or duque, adi�s.
+señor duque, adiós.
 
 
 DUQUE
-  �Que as� [Vase CARLOS.]
+  ¡Que así [Vase CARLOS.]
 
 
 
@@ -5874,7 +5865,7 @@ un villano!
 
 
 FLORO
-  Est� en su villa,
+  Está en su villa,
 
 
 
@@ -5882,11 +5873,11 @@ y villanos en cuadrilla
 
 
 
-deshar�n un campo armado.
+desharán un campo armado.
 
 
 
-Oye, que el coche atasc�,
+Oye, que el coche atascó,
 
 
 
@@ -5898,7 +5889,7 @@ los ha obligado a apear.
 
 
 DUQUE
-  �No es aquella que sali�
+  ¿No es aquella que salió
 
 
 
@@ -5906,23 +5897,23 @@ la duquesa?
 
 
 FLORO
-  O sue�o, o s�.
+  O sueño, o sí.
 
 
 DUQUE
-  Ret�rate.
+  Retírate.
 
 
 FLORO
-  �Para qu�,
+  ¿Para qué,
 
 
 
-si est� ya tu esposa aqu�?
+si está ya tu esposa aquí?
 
 
 
-La guarnici�n de la capa,
+La guarnición de la capa,
 
 
 
@@ -5930,7 +5921,7 @@ que con la luz resplandece,
 
 
 
-se�or, a tu esposa, ofrece
+señor, a tu esposa, ofrece
 
 
 
@@ -5942,7 +5933,7 @@ Ya te ha visto.
 
 
 DUQUE
-  Por saber
+  Por saber
 
 
 
@@ -5952,39 +5943,39 @@ lo que es esto, no me voy.
 Salen la duquesa LEONORA, de camino, LUDOVICO y dos pajes con hachas.
 
 LEONORA
-  Basta, que en Belvalle estoy,
+  Basta, que en Belvalle estoy,
 
 
 
-haza�a al fin de mujer
+hazaña al fin de mujer
 
 
 
-reci�n casada y celosa.
+recién casada y celosa.
 
 
 DUQUE
-  �Leonora!
+  ¡Leonora!
 
 
 LEONORA
-  �Es el duque?
+  ¿Es el duque?
 
 
 DUQUE
-  Ya
+  Ya
 
 
 
-ser� duque, pues est�
+seré duque, pues está
 
 
 
-aqu� mi duquesa hermosa.
+aquí mi duquesa hermosa.
 
 
 
-Pues, mi bien, �qu� causa pudo
+Pues, mi bien, ¿qué causa pudo
 
 
 
@@ -5992,11 +5983,11 @@ obligaros a tal hora
 
 
 
-venir as�?
+venir así?
 
 
 LEONORA
-  Quien no ignora
+  Quien no ignora
 
 
 
@@ -6020,7 +6011,7 @@ en fe que con alas viene.
 
 
 
-Como soy reci�n casada
+Como soy recién casada
 
 
 
@@ -6028,31 +6019,31 @@ y novicia en el amor,
 
 
 
-despu�s que os quiero, se�or,
+después que os quiero, señor,
 
 
 
-me ten�is mal ense�ada.
+me tenéis mal enseñada.
 
 
 
-Vi que la noche ven�a,
+Vi que la noche venía,
 
 
 
-y estando ausente mi due�o,
+y estando ausente mi dueño,
 
 
 
-lo hab�a de estar el sue�o,
+lo había de estar el sueño,
 
 
 
-que sin vuestra compa��a
+que sin vuestra compañía
 
 
 
-ya ser� imposible hallalle:
+ya será imposible hallalle:
 
 
 
@@ -6060,7 +6051,7 @@ y para estar desvelada,
 
 
 
-m�s quise hacer la jornada
+más quise hacer la jornada
 
 
 
@@ -6072,7 +6063,7 @@ que a sospechas dar lugar.
 
 
 DUQUE
-  El haberme encomendado
+  El haberme encomendado
 
 
 
@@ -6084,11 +6075,11 @@ de Sirena, disculpar
 
 
 
-me puede en esta ocasi�n.
+me puede en esta ocasión.
 
 
 LEONORA
-  No tengo yo que os re�ir,
+  No tengo yo que os reñir,
 
 
 
@@ -6096,35 +6087,35 @@ antes vengo por cumplir
 
 
 
-esa justa obligaci�n.
+esa justa obligación.
 
 
 
-�Ad�nde est� la marquesa?
+¿Adónde está la marquesa?
 
 
 DUQUE
-  Por aposentarme a m�
+  Por aposentarme a mí
 
 
 
-en su casa, vive aqu�.
+en su casa, vive aquí.
 
 
 LEONORA
-  Cortes�a suya es �sa.
+  Cortesía suya es ésa.
 
 
 
-Y vos, porque est� segura,
+Y vos, porque esté segura,
 
 
 
-sue�o y puerta le guard�is.
+sueño y puerta le guardáis.
 
 
 DUQUE
-  Cuando vos, mi bien, est�is
+  Cuando vos, mi bien, estáis
 
 
 
@@ -6140,7 +6131,7 @@ en la luna y las estrellas.
 
 
 LEONORA
-  Y hallar�is m�s luz en ellas
+  Y hallaréis más luz en ellas
 
 
 
@@ -6152,19 +6143,19 @@ Haced que la llamen luego:
 
 
 
-que ha de ir en mi compa��a.
+que ha de ir en mi compañía.
 
 
 DUQUE
-  �No aguardaremos al d�a?
+  ¿No aguardaremos al día?
 
 
 LEONORA
-  �Para qu� es tanto sosiego?
+  ¿Para qué es tanto sosiego?
 
 
 
-Est� desapercibido
+Está desapercibido
 
 
 
@@ -6172,7 +6163,7 @@ a estas horas el lugar,
 
 
 
-y no podr� aposentar
+y no podrá aposentar
 
 
 
@@ -6180,7 +6171,7 @@ los que conmigo han venido.
 
 
 
-La corte a�n no est� de aqu�
+La corte aún no está de aquí
 
 
 
@@ -6188,7 +6179,7 @@ dos leguas.
 
 
 DUQUE
-  Yendo con vos,
+  Yendo con vos,
 
 
 
@@ -6196,15 +6187,15 @@ docientas no fueran dos.
 
 
 LEONORA
-  Pues si eso sent�s as�,
+  Pues si eso sentís así,
 
 
 
-�qu� hay que aguardar?
+¿qué hay que aguardar?
 
 
 DUQUE
-  Por m�, nada,
+  Por mí, nada,
 
 
 
@@ -6224,7 +6215,7 @@ ha de juzgar por rigor
 
 
 
-lo que, a venir m�s de asiento,
+lo que, a venir más de asiento,
 
 
 
@@ -6232,7 +6223,7 @@ tuviera a entretenimiento.
 
 
 LEONORA
-  Yo s� que me har� favor
+  Yo sé que me hará favor
 
 
 
@@ -6252,21 +6243,21 @@ a nuestra corte y ciudad.
 
 
 
-D�ganla c�mo aqu� estoy.
+Díganla cómo aquí estoy.
 
 
 FLORO
-  La puerta han abierto ya.
+  La puerta han abierto ya.
 
 
 Sale CORBATO con un candil y FENISA.
 
 CORBATO
-  �Qui�n diabros voces nos da?
+  ¿Quién diabros voces nos da?
 
 
 
-Arre all�: �soy, o no soy
+Arre allá: ¿soy, o no soy
 
 
 
@@ -6274,55 +6265,55 @@ alcalde?
 
 
 FENISA
-  �Toda la noche
+  ¿Toda la noche
 
 
 
-a nuestra puerta ro�do?
+a nuestra puerta roído?
 
 
 
-Pero �aho! �Qui�n ha venido
+Pero ¡aho! ¿Quién ha venido
 
 
 
-ac� con cirios y coche?
+acá con cirios y coche?
 
 
 
-�El duque, padre, y la duca!
-
-
-CORBATO
-  No era el ro�do de balde.
-
-
-
-�Se�or!
-
-
-DUQUE
-  �Sois vos el alcalde?
+¡El duque, padre, y la duca!
 
 
 CORBATO
-  Aunque la vejez caduca,
+  No era el roído de balde.
 
 
 
-yo so hoga�o el envarado.
+¡Señor!
 
 
 DUQUE
-  �Y es Fenisa esa doncella?
+  ¿Sois vos el alcalde?
 
 
 CORBATO
-  Para serville yo y ella.
+  Aunque la vejez caduca,
+
+
+
+yo so hogaño el envarado.
 
 
 DUQUE
-  Ponelda, alcalde, en estado;
+  ¿Y es Fenisa esa doncella?
+
+
+CORBATO
+  Para serville yo y ella.
+
+
+DUQUE
+  Ponelda, alcalde, en estado;
 
 
 
@@ -6330,7 +6321,7 @@ que es ya grande.
 
 
 CORBATO
-  Duerme bien,
+  Duerme bien,
 
 
 
@@ -6346,7 +6337,7 @@ Ni hasta agora canas tien.
 
 
 
-�Qui�n me mete a m� en metella
+¿Quién me mete a mí en metella
 
 
 
@@ -6354,37 +6345,37 @@ en prensa?
 
 
 FENISA
-  �Casarme? Jo!
+  ¿Casarme? Jo!
 
 
 DUQUE
-  Haced lo que os digo yo:
+  Haced lo que os digo yo:
 
 
 
-si no, casar�se ella.
+si no, casaráse ella.
 
 
 Sale SIRENA.
 
 SIRENA
-  �Se�ora! �Aqu� vueselencia?
+  ¡Señora! ¿Aquí vueselencia?
 
 
 
-M�ndeme dar esos pies.
+Mándeme dar esos pies.
 
 
 DUQUE
-  La Marquesa, mi bien, es.
+  La Marquesa, mi bien, es.
 
 
 LEONORA
-  La fama de vuestra ausencia,
+  La fama de vuestra ausencia,
 
 
 
-Sirena, me trae as�
+Sirena, me trae así
 
 
 
@@ -6396,7 +6387,7 @@ que no siento la jornada,
 
 
 
-pues por ella os hallo aqu�.
+pues por ella os hallo aquí.
 
 
 
@@ -6404,7 +6395,7 @@ No he de partirme sin vos;
 
 
 
-que he de ser vuestro gal�n,
+que he de ser vuestro galán,
 
 
 
@@ -6416,23 +6407,23 @@ que estando ausentes los dos
 
 
 
-me hab�is de quitar el sue�o.
+me habéis de quitar el sueño.
 
 
 SIRENA
-  Si al principio tal favor,
+  Si al principio tal favor,
 
 
 
-se�ora, hallo en vuestro amor,
+señora, hallo en vuestro amor,
 
 
 
-aunque en m�ritos peque�o
+aunque en méritos pequeño
 
 
 
-el m�o aceta el partido;
+el mío aceta el partido;
 
 
 
@@ -6448,7 +6439,7 @@ de Belvalle me despido.
 
 
 CORBATO
-  De mujer a mujer va,
+  De mujer a mujer va,
 
 
 
@@ -6456,33 +6447,33 @@ pata para la traviesa.
 
 
 CARLOS
-  �En Belvalle la duquesa?
+  ¿En Belvalle la duquesa?
 
 
-Sale CARLOS de gal�n.
+Sale CARLOS de galán.
 
 CORBATO
-  A escuras se vino ac�.
+  A escuras se vino acá.
 
 
 CARLOS
-  �Tanta merced, gran se�ora?
+  ¿Tanta merced, gran señora?
 
 
 DUQUE
-  �Oh Carlos! Mucho dorm�s.
+  ¡Oh Carlos! Mucho dormís.
 
 
 CARLOS
-  Si en el aldea viv�s,
+  Si en el aldea vivís,
 
 
 
-sabr�is que el que en ella mora,
+sabréis que el que en ella mora,
 
 
 
-todo el tiempo, gran se�or,
+todo el tiempo, gran señor,
 
 
 
@@ -6490,11 +6481,11 @@ gasta si no va a cazar,
 
 
 
-s�lo en dormir y jugar.
+sólo en dormir y jugar.
 
 
 LEONORA
-  Hab�isme de hacer favor
+  Habéisme de hacer favor
 
 
 
@@ -6514,7 +6505,7 @@ la corte, porque es precisa
 
 
 
-la ocasi�n que de tornarme
+la ocasión que de tornarme
 
 
 
@@ -6522,15 +6513,15 @@ esta misma noche tengo,
 
 
 
-y pues s�lo a veros vengo,
+y pues sólo a veros vengo,
 
 
 
-ya sin vos no podr� hallarme.
+ya sin vos no podré hallarme.
 
 
 SIRENA
-  Cuenta el duque me hab�a dado
+  Cuenta el duque me había dado
 
 
 
@@ -6558,11 +6549,11 @@ mi seguridad arguyo.
 
 
 LEONORA
-  No tenemos que esperar;
+  No tenemos que esperar;
 
 
 
-que porque mejor lo est�is,
+que porque mejor lo estéis,
 
 
 
@@ -6570,19 +6561,19 @@ vengo en persona por vos.
 
 
 SIRENA
-  Y estar�moslo las dos,
+  Y estarémoslo las dos,
 
 
 
-si vos tal merced me hac�is.
+si vos tal merced me hacéis.
 
 
 LEONORA
-  Ya os entiendo. Venga el coche.
+  Ya os entiendo. Venga el coche.
 
 
 DUQUE
-  Floro, cumpli� mi deseo
+  Floro, cumplió mi deseo
 
 
 
@@ -6590,7 +6581,7 @@ el amor.
 
 
 CARLOS
-  �Que en poder veo
+  ¡Que en poder veo
 
 
 
@@ -6598,11 +6589,11 @@ de mi enemigo, cruel noche,
 
 
 
-mi honor! �Que sufrillo pudo
+mi honor! ¡Que sufrillo pudo
 
 
 
-mi amor honrado! �Sirena
+mi amor honrado! ¡Sirena
 
 
 
@@ -6614,7 +6605,7 @@ y yo con celos y mudo!
 
 
 DUQUE
-  Carlos, mirad que os aguarda
+  Carlos, mirad que os aguarda
 
 
 
@@ -6622,11 +6613,11 @@ el oficio que os he dado.
 
 
 CARLOS
-  Yo tengo, se�or, cuidado.
+  Yo tengo, señor, cuidado.
 
 
 CORBATO
-  Fenisa, pon el albarda
+  Fenisa, pon el albarda
 
 
 
@@ -6634,7 +6625,7 @@ al rucio, y alto, al molino,
 
 
 
-pues los g��spedes se van.
+pues los güéspedes se van.
 
 
 
@@ -6642,11 +6633,11 @@ Echa en las alforjas pan.
 
 
 LEONORA
-  Cierto es, marquesa, el camino.
+  Cierto es, marquesa, el camino.
 
 
 SIRENA
-  Todo en tu favor se traza. [A CARLOS]
+  Todo en tu favor se traza. [A CARLOS]
 
 
 
@@ -6654,20 +6645,18 @@ No tengas, mi bien, temor.
 
 
 CARLOS
-  Pues soy cazador mayor,
+  Pues soy cazador mayor,
 
 
 
 recelos, ojo a la caza.
 
-
 Acto segundo
-
 
 Salen el DUQUE y la duquesa LEONORA.
 
 DUQUE
-  Saben los cielos, mi Leonora hermosa,
+  Saben los cielos, mi Leonora hermosa,
 
 
 
@@ -6687,7 +6676,7 @@ quisiera aposentarte de manera
 
 
 
-en ella, que no hubiera otra se�ora,
+en ella, que no hubiera otra señora,
 
 
 
@@ -6715,7 +6704,7 @@ si en cada cuerpo es una el alma bella,
 
 
 
-no es bien que est�n en ella dos se�ores,
+no es bien que estén en ella dos señores,
 
 
 
@@ -6755,15 +6744,15 @@ Tu virtud, tu hermosura, tu nobleza,
 
 
 
-la c�lebre grandeza de tu casa,
+la célebre grandeza de tu casa,
 
 
 
-mi memoria repasa cada d�a;
+mi memoria repasa cada día;
 
 
 
-mas, �ay Leonora m�a!, que no basta
+mas, ¡ay Leonora mía!, que no basta
 
 
 
@@ -6779,23 +6768,23 @@ de suerte asiento ha hecho, que con todo
 
 
 
-alz�ndose, no hay modo que se aplaque,
+alzándose, no hay modo que se aplaque,
 
 
 
-si no es que con �l saque el alma y vida
+si no es que con él saque el alma y vida
 
 
 
-que est� con �l asida, y porque goce
+que está con él asida, y porque goce
 
 
 
-su reino desconoce al propio due�o.
+su reino desconoce al propio dueño.
 
 
 
-Esto me quita el sue�o; que quisiera
+Esto me quita el sueño; que quisiera
 
 
 
@@ -6803,15 +6792,15 @@ un alma darte entera, y no partida.
 
 
 
-No s� qu� medio impida aqueste da�o,
+No sé qué medio impida aqueste daño,
 
 
 
-pues contra el desenga�o, esposa m�a,
+pues contra el desengaño, esposa mía,
 
 
 
-crece m�s cada d�a; s�lo uno
+crece más cada día; sólo uno
 
 
 
@@ -6823,7 +6812,7 @@ si bien dificultoso, pues comienza
 
 
 
-la t�mida verg�enza a refrenalle
+la tímida vergüenza a refrenalle
 
 
 
@@ -6839,11 +6828,11 @@ a tanto, que atropella de los celos
 
 
 
-la l�nea y paralelos, porque estriba
+la línea y paralelos, porque estriba
 
 
 
-s�lo en que el duque viva, que padece.
+sólo en que el duque viva, que padece.
 
 
 
@@ -6851,7 +6840,7 @@ Si el tuyo te parece que es bastante
 
 
 
-a haza�a semejante, har�te cierta
+a hazaña semejante, haréte cierta
 
 
 
@@ -6859,11 +6848,11 @@ de la herida encubierta, que te llama
 
 
 
-su m�dico.
+su médico.
 
 
 LEONORA
-  Quien ama como debe
+  Quien ama como debe
 
 
 
@@ -6875,7 +6864,7 @@ del matrimonio, esposo, no repara
 
 
 
-en cosa, por m�s cara que parezca;
+en cosa, por más cara que parezca;
 
 
 
@@ -6907,15 +6896,15 @@ que la Naturaleza en ti me ha dado.
 
 
 
-Si el fin de tu cuidado en m� consiste,
+Si el fin de tu cuidado en mí consiste,
 
 
 
-no est�s, Filipo, triste; dame cuenta
+no estés, Filipo, triste; dame cuenta
 
 
 
-de la pasi�n violenta que te abrasa,
+de la pasión violenta que te abrasa,
 
 
 
@@ -6927,7 +6916,7 @@ que dices, ponte en cura, aunque yo muera.
 
 
 DUQUE
-  �Oh mi bien! �Qui�n pudiera, para amarte
+  ¡Oh mi bien! ¿Quién pudiera, para amarte
 
 
 
@@ -6943,15 +6932,15 @@ No imaginas ni entiendas que te pido
 
 
 
-que si por su marido ofreci� Alceste
+que si por su marido ofreció Alceste
 
 
 
-la vida, imites este ejemplo extra�o,
+la vida, imites este ejemplo extraño,
 
 
 
-ni que tan en tu da�o mi sosiego
+ni que tan en tu daño mi sosiego
 
 
 
@@ -6987,15 +6976,15 @@ dentro del alma ingrata y homicida;
 
 
 
-la posesi�n debida a tu hermosura
+la posesión debida a tu hermosura
 
 
 
-tiranizar procura; ya ha dos a�os
+tiranizar procura; ya ha dos años
 
 
 
-que con mil desenga�os menosprecia
+que con mil desengaños menosprecia
 
 
 
@@ -7003,7 +6992,7 @@ la voluntad que necia permanece,
 
 
 
-cuando m�s me aborrece, m�s constante.
+cuando más me aborrece, más constante.
 
 
 
@@ -7011,7 +7000,7 @@ Ni el verme mozo amante, ni el Estado
 
 
 
-ilustre que he heredado y su se�ora
+ilustre que he heredado y su señora
 
 
 
@@ -7023,19 +7012,19 @@ aquel pecho desnudo de clemencia;
 
 
 
-ni el ver que la potencia, en compa��a
+ni el ver que la potencia, en compañía
 
 
 
-del poder, cada d�a precipita
+del poder, cada día precipita
 
 
 
-la raz�n, si la irrita el menosprecio,
+la razón, si la irrita el menosprecio,
 
 
 
-la oblig�, �caso necio!, a ser mi esposa.
+la obligó, ¡caso necio!, a ser mi esposa.
 
 
 
@@ -7047,27 +7036,27 @@ para tomar venganza y olvidalla,
 
 
 
-del alma quise echalla, haciendo due�o
+del alma quise echalla, haciendo dueño
 
 
 
-suyo, en tiempo peque�o, a mi Leonora.
+suyo, en tiempo pequeño, a mi Leonora.
 
 
 
-Llam�te al fin se�ora mi Breta�a,
+Llamóte al fin señora mi Bretaña,
 
 
 
-y como te acompa�a la belleza
+y como te acompaña la belleza
 
 
 
-igual a tu nobleza, cre� contento
+igual a tu nobleza, creí contento
 
 
 
-echar del pensamiento al due�o ingrato
+echar del pensamiento al dueño ingrato
 
 
 
@@ -7079,7 +7068,7 @@ de Sirena, y presente tu hermosura,
 
 
 
-�en qu� pizarra dura se esculpiera
+¿en qué pizarra dura se esculpiera
 
 
 
@@ -7095,11 +7084,11 @@ ni el ver por experiencia ya imposible
 
 
 
-mi frenes� terrible, hizo otra cosa
+mi frenesí terrible, hizo otra cosa
 
 
 
-que aumentar m�s furiosa la cruel llama
+que aumentar más furiosa la cruel llama
 
 
 
@@ -7115,11 +7104,11 @@ viendo de hora en hora alborotada
 
 
 
-y ya banderizada el alma m�a,
+y ya banderizada el alma mía,
 
 
 
-que de tu parte cr�a atrevimiento,
+que de tu parte cría atrevimiento,
 
 
 
@@ -7147,11 +7136,11 @@ la vitoria y despojos de mi vida.
 
 
 
-Vi�ndote de vencida y ya olvidada,
+Viéndote de vencida y ya olvidada,
 
 
 
-porque desenga�ada te siguiese
+porque desengañada te siguiese
 
 
 
@@ -7167,11 +7156,11 @@ de quien mi mal procura, fui por ella
 
 
 
-y aqu� quise traella; que un contrario
+y aquí quise traella; que un contrario
 
 
 
-junto a otro, es ordinario dar m�s muestra
+junto a otro, es ordinario dar más muestra
 
 
 
@@ -7179,11 +7168,11 @@ de la virtud que muestra. Desta suerte
 
 
 
-cre�, mi bien, que en verte m�s perfeta,
+creí, mi bien, que en verte más perfeta,
 
 
 
-m�s hermosa y discreta, se enlazara
+más hermosa y discreta, se enlazara
 
 
 
@@ -7199,7 +7188,7 @@ la ventaja que incluye tu hermosura.
 
 
 
-No sal� con la cura; antes creciendo
+No salí con la cura; antes creciendo
 
 
 
@@ -7211,7 +7200,7 @@ que si no es que la muerte le reporte,
 
 
 
-desde que est� en la corte a tal estado
+desde que está en la corte a tal estado
 
 
 
@@ -7219,7 +7208,7 @@ me trae, que me ha obligado a que disponga
 
 
 
-mi vida y que la ponga, �ay Leonor bella!,
+mi vida y que la ponga, ¡ay Leonor bella!,
 
 
 
@@ -7231,11 +7220,11 @@ cualquiera cura es vana.
 
 
 LEONORA
-  El c�mo aguardo.
+  El cómo aguardo.
 
 
 DUQUE
-  �Creer�s que me acobardo y no me atrevo
+  ¿Creerás que me acobardo y no me atrevo
 
 
 
@@ -7247,21 +7236,21 @@ viendo que tu hermosura, entendimiento
 
 
 
-y discreci�n afrento? Leonor m�a,
+y discreción afrento? Leonor mía,
 
 
 
-quita mi cobard�a; en esta mano
+quita mi cobardía; en esta mano
 
 
 
 que beso, y por quien gano el bien que espero,
 
 
-[B�sasela.]
+[Bésasela.]
 
 
-poner mi salud quiero; ans� me veas
+poner mi salud quiero; ansí me veas
 
 
 
@@ -7277,11 +7266,11 @@ No has de estar descontenta ni enojarte.
 
 
 LEONORA
-  Empieza a declararte, lisonjero.
+  Empieza a declararte, lisonjero.
 
 
 DUQUE
-  Si me juras primero no hacer caso
+  Si me juras primero no hacer caso
 
 
 
@@ -7293,11 +7282,11 @@ olvidar...
 
 
 LEONORA
-  Yo lo juro. �Ea!, acabemos.
+  Yo lo juro. ¡Ea!, acabemos.
 
 
 DUQUE
-  No te cansen extremos, ten paciencia.
+  No te cansen extremos, ten paciencia.
 
 
 
@@ -7309,7 +7298,7 @@ causar odio y enfado, si se alcanza,
 
 
 
-lo que hace la esperanza m�s perfeto.
+lo que hace la esperanza más perfeto.
 
 
 
@@ -7357,7 +7346,7 @@ ser un grosero anjeo, en que afeitado,
 
 
 
-ni cr�a yerba el prado, ni la fuente
+ni cría yerba el prado, ni la fuente
 
 
 
@@ -7369,15 +7358,15 @@ la imagen que la tabla representa,
 
 
 
-y as� lleno de afrenta, busca viva
+y así lleno de afrenta, busca viva
 
 
 
-la que la perspectiva ense�a muerta.
+la que la perspectiva enseña muerta.
 
 
 
-Mi voluntad incierta, que enga�ada
+Mi voluntad incierta, que engañada
 
 
 
@@ -7401,15 +7390,15 @@ juzga lo que delante le parece,
 
 
 
-y enga�ada apetece como loca
+y engañada apetece como loca
 
 
 
-lo que si gusta y toca, ser podr�a
+lo que si gusta y toca, ser podría
 
 
 
-que hiciese, esposa m�a, m�s segura
+que hiciese, esposa mía, más segura
 
 
 
@@ -7417,19 +7406,19 @@ la divina hermosura que en ti siento,
 
 
 
-y el aborrecimiento y desenga�o
+y el aborrecimiento y desengaño
 
 
 
-remediasen el da�o que me abrasa.
+remediasen el daño que me abrasa.
 
 
 
-El remedio est� en casa, por quien peno:
+El remedio está en casa, por quien peno:
 
 
 
-t� has de ser mi Galeno y mi bien todo.
+tú has de ser mi Galeno y mi bien todo.
 
 
 
@@ -7441,7 +7430,7 @@ tus celos, que yo tenga esa pintura;
 
 
 
-desenga�ar procura mi deseo;
+desengañar procura mi deseo;
 
 
 
@@ -7457,15 +7446,15 @@ sepa yo si es divino o si es humano
 
 
 
-este �ngel, porque sano, como es justo,
+este ángel, porque sano, como es justo,
 
 
 
-te estime m�s mi gusto y la experiencia
+te estime más mi gusto y la experiencia
 
 
 
-me ense�e la excelencia, mi Leonora,
+me enseñe la excelencia, mi Leonora,
 
 
 
@@ -7473,7 +7462,7 @@ con que eres vencedora; y yo mudado,
 
 
 
-vuelva desenga�ado y reducido,
+vuelva desengañado y reducido,
 
 
 
@@ -7485,7 +7474,7 @@ un amor verdadero.
 
 
 LEONORA
-  La primera
+  La primera
 
 
 
@@ -7493,7 +7482,7 @@ mujer que sea tercera de su esposo
 
 
 
-ser�; mas si es forzoso el agradarte,
+seré; mas si es forzoso el agradarte,
 
 
 
@@ -7509,7 +7498,7 @@ la vida con el seso. A los desvelos
 
 
 
-de averiguados celos pondr� pausa,
+de averiguados celos pondré pausa,
 
 
 
@@ -7517,7 +7506,7 @@ si con justa causa no dan pena.
 
 
 
-Persuadir� a Sirena con caricias,
+Persuadiré a Sirena con caricias,
 
 
 
@@ -7525,7 +7514,7 @@ con ruegos, con caricias y de modo
 
 
 
-tentar� al vado todo, que si a ruegos
+tentaré al vado todo, que si a ruegos
 
 
 
@@ -7537,19 +7526,19 @@ su belleza forzada, a que la fuerces
 
 
 
-y el torpe deseo esfuerces dar� traza.
+y el torpe deseo esfuerces daré traza.
 
 
 
-�Est�s contento?
+¿Estás contento?
 
 
 DUQUE
-  Enlaza en este cuello
+  Enlaza en este cuello
 
 
 
-el tus�n rico y bello de tus brazos;
+el tusón rico y bello de tus brazos;
 
 
 
@@ -7561,7 +7550,7 @@ si a mi dicha la exhortas, el agravio
 
 
 
-que te hago; y cuerdo y sabio podr� darte
+que te hago; y cuerdo y sabio podré darte
 
 
 
@@ -7571,15 +7560,15 @@ toda el alma, que jura de adorarte.
 Vase.
 
 LEONORA
-  No s� c�mo he reprimido
+  No sé cómo he reprimido
 
 
 
-el �mpetu a la pasi�n;
+el ímpetu a la pasión;
 
 
 
-ni c�mo mi coraz�n
+ni cómo mi corazón
 
 
 
@@ -7587,47 +7576,47 @@ disimular ha podido.
 
 
 
-�Ha visto el mundo o ha o�do
+¿Ha visto el mundo o ha oído
 
 
 
-combate de amor m�s necio?
+combate de amor más necio?
 
 
 
-�Ah Filipo, torpe y necio!
+¡Ah Filipo, torpe y necio!
 
 
 
-A engendrar en m� comienza
+A engendrar en mí comienza
 
 
 
-venganza tu desverg�enza
+venganza tu desvergüenza
 
 
 
-y desd�n mi menosprecio.
+y desdén mi menosprecio.
 
 
 
-�Tan fuerte es una mujer
+¿Tan fuerte es una mujer
 
 
 
-que la pruebas en tu da�o?
+que la pruebas en tu daño?
 
 
 
-�Tan sufrible un desenga�o
+¿Tan sufrible un desengaño
 
 
 
-que en m� le quieras hacer?
+que en mí le quieras hacer?
 
 
 
-�No pudieras escoger
+¿No pudieras escoger
 
 
 
@@ -7643,7 +7632,7 @@ No es mucho, pues indiscreto
 
 
 
-me pierdes as� el respeto,
+me pierdes así el respeto,
 
 
 
@@ -7655,11 +7644,11 @@ Pon los ojos en Sirena,
 
 
 
-necio, que yo los pondr�
+necio, que yo los pondré
 
 
 
-en quien venganza me d�
+en quien venganza me dé
 
 
 
@@ -7671,7 +7660,7 @@ Tu tercera hacerme ordena;
 
 
 
-que yo te har� mi tercero,
+que yo te haré mi tercero,
 
 
 
@@ -7693,7 +7682,7 @@ con las armas que yo muero.
 Sale SIRENA.
 
 SIRENA
-  Para ser vuestra excelencia
+  Para ser vuestra excelencia
 
 
 
@@ -7701,7 +7690,7 @@ la guarda que se ha encargado
 
 
 
-de m�, muy poco cuidado
+de mí, muy poco cuidado
 
 
 
@@ -7729,7 +7718,7 @@ las cosas de mi honor mira.
 
 
 LEONORA
-  �Ay Sirena, que estoy loca!
+  ¡Ay Sirena, que estoy loca!
 
 
 
@@ -7761,7 +7750,7 @@ otro amor, ya es permitido,
 
 
 
-y que su t�lamo ofenda
+y que su tálamo ofenda
 
 
 
@@ -7773,7 +7762,7 @@ la esposa que ha aborrecido;
 
 
 
-pero �que se descomida
+pero ¡que se descomida
 
 
 
@@ -7801,15 +7790,15 @@ quitalle, amiga, el honor,
 
 
 
-en �l tan mal empleado.
+en él tan mal empleado.
 
 
 SIRENA
-  Ocasi�n justa te ha dado,
+  Ocasión justa te ha dado,
 
 
 
-pues mirar�slo mejor,
+pues miraráslo mejor,
 
 
 
@@ -7829,7 +7818,7 @@ aunque con ellas se aplaca.
 
 
 LEONORA
-  No halla mejor triaca,
+  No halla mejor triaca,
 
 
 
@@ -7845,7 +7834,7 @@ en esto me determino:
 
 
 
-pague as� su desatino
+pague así su desatino
 
 
 
@@ -7857,11 +7846,11 @@ Tan lejos de imaginar
 
 
 
-est� que me agravia en esto,
+está que me agravia en esto,
 
 
 
-que en mi inter�s propio ha puesto
+que en mi interés propio ha puesto
 
 
 
@@ -7869,15 +7858,15 @@ el dar a su amor lugar:
 
 
 
-en lleg�ndote a gozar,
+en llegándote a gozar,
 
 
 
-dice que ech�ndote fuera
+dice que echándote fuera
 
 
 
-del coraz�n, que es tu esfera,
+del corazón, que es tu esfera,
 
 
 
@@ -7889,11 +7878,11 @@ el alma, por ti partida
 
 
 
-me volver� a dar entera;
+me volverá a dar entera;
 
 
 
-y as�, que te solicite
+y así, que te solicite
 
 
 
@@ -7921,11 +7910,11 @@ nombre de esposa me ha dado,
 
 
 
-y a esto vine de Borgo�a,
+y a esto vine de Borgoña,
 
 
 
-yo le dar� la ponzo�a
+yo le daré la ponzoña
 
 
 
@@ -7949,15 +7938,15 @@ como la esposa, Sirena.
 
 
 SIRENA
-  Se�ora m�a, refrena
+  Señora mía, refrena
 
 
 
-resoluci�n tan extra�a.
+resolución tan extraña.
 
 
 LEONORA
-  El duque me desenga�a;
+  El duque me desengaña;
 
 
 
@@ -7969,7 +7958,7 @@ vine, y no infame tercera,
 
 
 
-desde Borgo�a a Breta�a.
+desde Borgoña a Bretaña.
 
 
 
@@ -7977,19 +7966,19 @@ Goce el Duque tu hermosura,
 
 
 
-que ya en m� no hay resistencia.
+que ya en mí no hay resistencia.
 
 
 SIRENA
-  �Luego con vuestra excelencia
+  ¿Luego con vuestra excelencia
 
 
 
-mi honra no est� segura?
+mi honra no está segura?
 
 
 
-�Luego ya sali� perjura
+¿Luego ya salió perjura
 
 
 
@@ -8001,7 +7990,7 @@ mi fama, quiere romper?
 
 
 LEONORA
-  Si tu amistad no me ayuda,
+  Si tu amistad no me ayuda,
 
 
 
@@ -8017,15 +8006,15 @@ El duque y su desatino,
 
 
 
-mi afici�n volvi� en furor
+mi afición volvió en furor
 
 
 
-porque del m�s fino amor
+porque del más fino amor
 
 
 
-nace el odio, que es m�s fino.
+nace el odio, que es más fino.
 
 
 
@@ -8037,7 +8026,7 @@ no me ayudas, con mi fe
 
 
 
-tu honor a riesgo pondr�,
+tu honor a riesgo pondré,
 
 
 
@@ -8069,11 +8058,11 @@ tu primo.
 
 
 SIRENA
-  �C�mo? [Aparte.] �Ay de m�!
+  ¿Cómo? [Aparte.] ¡Ay de mí!
 
 
 LEONORA
-  Mi desprecio vengo as�;
+  Mi desprecio vengo así;
 
 
 
@@ -8089,7 +8078,7 @@ de su prima vengo a ser
 
 
 
-tercera, y as� he de hacer
+tercera, y así he de hacer
 
 
 
@@ -8105,7 +8094,7 @@ y que te ruegue permite;
 
 
 
-yo har� que �l le solicite
+yo haré que él le solicite
 
 
 
@@ -8113,15 +8102,15 @@ y le ruegue de mi parte.
 
 
 SIRENA
-  Vendr�s a desenojarte,
+  Vendrás a desenojarte,
 
 
 
-y mirar�slo mejor.
+y miraráslo mejor.
 
 
 LEONORA
-  Ya lo he visto; mi rigor
+  Ya lo he visto; mi rigor
 
 
 
@@ -8141,11 +8130,11 @@ Si por ti Carlos me ama,
 
 
 
-al duque har� tal enga�o,
+al duque haré tal engaño,
 
 
 
-que, resultando en su da�o,
+que, resultando en su daño,
 
 
 
@@ -8169,15 +8158,15 @@ tu afrenta.
 
 
 SIRENA
-  [Aparte.] �Qu� es esto, cielos?
+  [Aparte.] ¿Qué es esto, cielos?
 
 
 
-�Entre la deshonra y celos
+¡Entre la deshonra y celos
 
 
 
-me hab�is venido a meter!
+me habéis venido a meter!
 
 
 
@@ -8197,7 +8186,7 @@ a Carlos, me mate amor.
 
 
 
-No s� cu�l da�o es menor:
+No sé cuál daño es menor:
 
 
 
@@ -8221,23 +8210,23 @@ eso, no, que es imposible.
 
 
 
-�Qu� he de hacer, triste de m�?
+¿Qué he de hacer, triste de mí?
 
 
 LEONORA
-  Marquesa, a Carlos prev�n,
+  Marquesa, a Carlos prevén,
 
 
 
-que a las dos nos est� bien
+que a las dos nos está bien
 
 
 
-vengarnos del duque as�.
+vengarnos del duque así.
 
 
 SIRENA
-  [Aparte.] Disimular quiero aqu�
+  [Aparte.] Disimular quiero aquí
 
 
 
@@ -8245,7 +8234,7 @@ el tormento que reprimo.
 
 
 
-Tu gusto, se�ora, estimo;
+Tu gusto, señora, estimo;
 
 
 
@@ -8253,11 +8242,11 @@ mas mira...
 
 
 LEONORA
-  No hay que mirar;
+  No hay que mirar;
 
 
 
-env�a luego a llamar,
+envía luego a llamar,
 
 
 
@@ -8281,7 +8270,7 @@ haz que venga a mi presencia.
 
 
 SIRENA
-  Si, de dar a vueselencia
+  Si, de dar a vueselencia
 
 
 
@@ -8293,7 +8282,7 @@ del duque, a servilla voy.
 
 
 
-(Agora, Carlos, ver�
+(Agora, Carlos, veré
 
 
 
@@ -8307,7 +8296,7 @@ que empiezo a probar desde hoy.)
 Vase.
 
 LEONORA
-  Si consiste la prudencia
+  Si consiste la prudencia
 
 
 
@@ -8327,7 +8316,7 @@ la deshonesta insolencia
 
 
 
-del duque cu�n imprudente
+del duque cuán imprudente
 
 
 
@@ -8349,7 +8338,7 @@ para que su fama afrente.
 Sale CARLOS.
 
 CARLOS
-  Tener en casa el sustento,
+  Tener en casa el sustento,
 
 
 
@@ -8365,7 +8354,7 @@ y estar pobre el avariento;
 
 
 
-en el r�o estar sediento,
+en el río estar sediento,
 
 
 
@@ -8377,7 +8366,7 @@ con alas, y no volar;
 
 
 
-todo esto junto en m� pasa
+todo esto junto en mí pasa
 
 
 
@@ -8389,35 +8378,35 @@ y nunca la puedo hablar.
 
 
 LEONORA
-  �Carlos!
+  ¡Carlos!
 
 
 CARLOS
-  �Gran se�ora!
+  ¡Gran señora!
 
 
 LEONORA
-  Pues
+  Pues
 
 
 
-�de qu� ven�s pensativo?
+¿de qué venís pensativo?
 
 
 CARLOS
-  Disgustos son con que vivo,
+  Disgustos son con que vivo,
 
 
 
-despu�s que aqu� estoy.
+después que aquí estoy.
 
 
 LEONORA
-  �Despu�s?
+  ¿Después?
 
 
 
-�Pues en qu� dama hab�is puesto
+¿Pues en qué dama habéis puesto
 
 
 
@@ -8433,11 +8422,11 @@ de vuestro talle dispuesto?
 
 
 
-�Son desdenes? �Llor�is celos?
+¿Son desdenes? ¿Lloráis celos?
 
 
 CARLOS
-  No s� a qu� sabe, se�ora,
+  No sé a qué sabe, señora,
 
 
 
@@ -8445,23 +8434,23 @@ ese manjar hasta agora.
 
 
 LEONORA
-  Muchos deb�is a los cielos.
+  Muchos debéis a los cielos.
 
 
 
-�Quer�is bien?
+¿Queréis bien?
 
 
 CARLOS
-  Ni bien ni mal.
+  Ni bien ni mal.
 
 
 LEONORA
-  Miraldo, Carlos, mejor;
+  Miraldo, Carlos, mejor;
 
 
 
-que yo s� que os tiene amor
+que yo sé que os tiene amor
 
 
 
@@ -8473,11 +8462,11 @@ de palacio.
 
 
 CARLOS
-  �A m�?
+  ¿A mí?
 
 
 LEONORA
-  Y por veros
+  Y por veros
 
 
 
@@ -8485,7 +8474,7 @@ en donde estorbos no hubiera,
 
 
 
-no s� si la vida diera,
+no sé si la vida diera,
 
 
 
@@ -8493,7 +8482,7 @@ que sustenta con quereros.
 
 
 CARLOS
-  [Aparte.] �Si le ha contado Sirena
+  [Aparte.] ¿Si le ha contado Sirena
 
 
 
@@ -8501,7 +8490,7 @@ a Leonora nuestro amor?
 
 
 
-Pero no har� tal error,
+Pero no hará tal error,
 
 
 
@@ -8513,19 +8502,19 @@ sino el silencio discreto,
 
 
 
-despu�s que con ella trato.
+después que con ella trato.
 
 
 LEONORA
-  Si dais lugar al recato,
+  Si dais lugar al recato,
 
 
 
-y no ofend�is al secreto,
+y no ofendéis al secreto,
 
 
 
-a un duque, Carlos, s� yo
+a un duque, Carlos, sé yo
 
 
 
@@ -8537,7 +8526,7 @@ por vuestra causa.
 
 
 CARLOS
-  Mi prima
+  Mi prima
 
 
 
@@ -8545,7 +8534,7 @@ cuenta de todo le dio.
 
 
 
-No hay m�s; el deseo de hallar
+No hay más; el deseo de hallar
 
 
 
@@ -8561,7 +8550,7 @@ peligros atropellar.
 
 
 
-Y porque est� la duquesa
+Y porque esté la duquesa
 
 
 
@@ -8577,7 +8566,7 @@ con este medio interesa
 
 
 
-su amistad e intercesi�n,
+su amistad e intercesión,
 
 
 
@@ -8585,15 +8574,15 @@ para que pueda segura
 
 
 
-hablarme. �Extra�a cordura!
+hablarme. ¡Extraña cordura!
 
 
 
-�Peregrina discreci�n!
+¡Peregrina discreción!
 
 
 LEONORA
-  Entrado hab�is en consejo
+  Entrado habéis en consejo
 
 
 
@@ -8605,7 +8594,7 @@ que en peligro tan urgente,
 
 
 
-no es mucho que est�is perplejo.
+no es mucho que estéis perplejo.
 
 
 
@@ -8613,7 +8602,7 @@ Mas pues que yo os aseguro,
 
 
 
-no creo que har� el temor
+no creo que hará el temor
 
 
 
@@ -8621,15 +8610,15 @@ agravio a mi mucho amor.
 
 
 CARLOS
-  Aunque es el enigma oscuro,
+  Aunque es el enigma oscuro,
 
 
 
-no tanto que d�l no entienda
+no tanto que dél no entienda
 
 
 
-cu�n favorecido quedo
+cuán favorecido quedo
 
 
 
@@ -8649,7 +8638,7 @@ el bien que de vos consigo;
 
 
 
-s�lo, gran se�ora, digo
+sólo, gran señora, digo
 
 
 
@@ -8665,15 +8654,15 @@ por vuestro cautivo y preso;
 
 
 
-y en se�al, la mano os beso.
+y en señal, la mano os beso.
 
 
 LEONORA
-  Poco hubo que negociar.
+  Poco hubo que negociar.
 
 
 
-La materia hall� dispuesta,
+La materia hallé dispuesta,
 
 
 
@@ -8681,7 +8670,7 @@ Carlos, que dudaba en vos.
 
 
 CARLOS
-  Ya ha un a�o, y va para dos,
+  Ya ha un año, y va para dos,
 
 
 
@@ -8693,15 +8682,15 @@ mi pecho tuve encubierto.
 
 
 LEONORA
-  Pues de un a�o ya habla amor.
+  Pues de un año ya habla amor.
 
 
 CARLOS
-  Tuve del duque temor.
+  Tuve del duque temor.
 
 
 LEONORA
-  Castigad su desconcierto,
+  Castigad su desconcierto,
 
 
 
@@ -8717,7 +8706,7 @@ os dijere, haced; con ella
 
 
 
-pod�is sin temor hablar.
+podéis sin temor hablar.
 
 
 
@@ -8725,11 +8714,11 @@ Seguid las trazas que os diere;
 
 
 
-que yo os facilitar�
+que yo os facilitaré
 
 
 
-estorbos, y dispondr�
+estorbos, y dispondré
 
 
 
@@ -8745,7 +8734,7 @@ sin peligro de mudanza,
 
 
 
-dar�is del duque venganza
+daréis del duque venganza
 
 
 
@@ -8755,7 +8744,7 @@ a una mujer que os adora.
 Vase.
 
 CARLOS
-  Lleg� mi dicha a su extremo,
+  Llegó mi dicha a su extremo,
 
 
 
@@ -8763,11 +8752,11 @@ Sirena, si para hablarte,
 
 
 
-Leonora est� de mi parte,
+Leonora está de mi parte,
 
 
 
-�qu� hay que dudar, o qu� temo?
+¿qué hay que dudar, o qué temo?
 
 
 
@@ -8775,7 +8764,7 @@ Afuera, celosa pena;
 
 
 
-no pong�is mi dicha en duda,
+no pongáis mi dicha en duda,
 
 
 
@@ -8789,7 +8778,7 @@ y es tan constante Sirena.
 Vase. Salen el DUQUE y FLORO.
 
 DUQUE
-  No ha de quedar diligencia
+  No ha de quedar diligencia
 
 
 
@@ -8833,11 +8822,11 @@ me promete hacerse guerra
 
 
 
-a s� misma, por templar
+a sí misma, por templar
 
 
 
-el fuego que en m� se encierra,
+el fuego que en mí se encierra,
 
 
 
@@ -8869,7 +8858,7 @@ a Carlos, porque la ruegue,
 
 
 
-solicite y pers�ada;
+solicite y persüada;
 
 
 
@@ -8889,11 +8878,11 @@ lo que estando sazonada:
 
 
 
-con saz�n quiero cogella.
+con sazón quiero cogella.
 
 
 FLORO
-  Si en el consejo de estado
+  Si en el consejo de estado
 
 
 
@@ -8901,7 +8890,7 @@ de amor (donde se atropella
 
 
 
-la raz�n, sabio letrado,
+la razón, sabio letrado,
 
 
 
@@ -8921,11 +8910,11 @@ saludable, si es que quieres,
 
 
 
-gran se�or, no despe�arte.
+gran señor, no despeñarte.
 
 
 DUQUE
-  Tal puede ser el que dieres,
+  Tal puede ser el que dieres,
 
 
 
@@ -8937,19 +8926,19 @@ divertirme de Sirena.
 
 
 FLORO
-  No, gran se�or.
+  No, gran señor.
 
 
 DUQUE
-  Dile, pues.
+  Dile, pues.
 
 
 FLORO
-  Edificas sobre arena,
+  Edificas sobre arena,
 
 
 
-y todo ha sido al rev�s
+y todo ha sido al revés
 
 
 
@@ -8957,7 +8946,7 @@ cuanto hasta este punto has hecho.
 
 
 
-Un fil�sofo ense�aba
+Un filósofo enseñaba
 
 
 
@@ -8973,7 +8962,7 @@ juntamente honra y provecho.
 
 
 
-Al que estudiado no hab�a,
+Al que estudiado no había,
 
 
 
@@ -8981,27 +8970,27 @@ con un precio moderado
 
 
 
-a su escuela le admit�a;
+a su escuela le admitía;
 
 
 
-pero el que estaba ense�ado,
+pero el que estaba enseñado,
 
 
 
-y algunas letras ten�a,
+y algunas letras tenía,
 
 
 
-dos precios hab�a de darle
+dos precios había de darle
 
 
 
-si su oyente hab�a de ser:
+si su oyente había de ser:
 
 
 
-uno por desense�arle,
+uno por desenseñarle,
 
 
 
@@ -9009,7 +8998,7 @@ que sobre ajeno saber
 
 
 
-no quer�a lici�n darle
+no quería lición darle
 
 
 
@@ -9021,7 +9010,7 @@ a hacelle en su escuela sabio.
 
 
 
-Yo, que esta opini�n apruebo,
+Yo, que esta opinión apruebo,
 
 
 
@@ -9033,7 +9022,7 @@ a cumplir tu amor me atrevo;
 
 
 
-pero con tal condici�n,
+pero con tal condición,
 
 
 
@@ -9041,15 +9030,15 @@ que deshagas cuanto has hecho
 
 
 
-en tu ciega pretensi�n,
+en tu ciega pretensión,
 
 
 
-pues no ser� de provecho
+pues no será de provecho
 
 
 
-de otra suerte la lici�n,
+de otra suerte la lición,
 
 
 
@@ -9069,7 +9058,7 @@ siendo Sirena tu igual,
 
 
 
-y as� imposibilitaste
+y así imposibilitaste
 
 
 
@@ -9109,11 +9098,11 @@ quieres que ablande su pecho
 
 
 
-la duquesa mi se�ora,
+la duquesa mi señora,
 
 
 
-que por m�s que te parece
+que por más que te parece
 
 
 
@@ -9133,11 +9122,11 @@ la duquesa te aborrece.
 
 
 
-Y ser� cosa pesada
+Y será cosa pesada
 
 
 
-cualquiera destas, se�or:
+cualquiera destas, señor:
 
 
 
@@ -9185,7 +9174,7 @@ si aqueste agravio le anima,
 
 
 
-podr� ser que a la venganza
+podrá ser que a la venganza
 
 
 
@@ -9193,7 +9182,7 @@ le fuerce tu desestima.
 
 
 
-Sirena es, se�or, mujer;
+Sirena es, señor, mujer;
 
 
 
@@ -9205,7 +9194,7 @@ al natural de su ser.
 
 
 
-Lo que m�s suelen sentir
+Lo que más suelen sentir
 
 
 
@@ -9225,11 +9214,11 @@ no la mires lisonjero,
 
 
 
-preg�ntala descuidado,
+pregúntala descuidado,
 
 
 
-y resp�ndela severo.
+y respóndela severo.
 
 
 
@@ -9249,7 +9238,7 @@ de cuando en cuando suspira,
 
 
 
-muestra, habl�ndole, tristeza,
+muestra, hablándole, tristeza,
 
 
 
@@ -9257,7 +9246,7 @@ ponte en parte que te vea
 
 
 
-celebrar alg�n papel
+celebrar algún papel
 
 
 
@@ -9265,19 +9254,19 @@ a solas, y aquesto sea
 
 
 
-fingiendo la letra en �l;
+fingiendo la letra en él;
 
 
 
-y porque despu�s le lea,
+y porque después le lea,
 
 
 
-haz al sacar el pa�uelo,
+haz al sacar el pañuelo,
 
 
 
-despu�s que le hayas guardado
+después que le hayas guardado
 
 
 
@@ -9285,7 +9274,7 @@ que se te cae en el suelo;
 
 
 
-escribe en �l el cuidado
+escribe en él el cuidado
 
 
 
@@ -9301,7 +9290,7 @@ y en su amor te desvaneces,
 
 
 
-y por m�s que la aseguras
+y por más que la aseguras
 
 
 
@@ -9313,7 +9302,7 @@ que mientes en cuanto juras.
 
 
 
-Ver�s, aunque el coraz�n
+Verás, aunque el corazón
 
 
 
@@ -9321,19 +9310,19 @@ tenga como el bronce recio,
 
 
 
-que vale en esta ocasi�n
+que vale en esta ocasión
 
 
 
-m�s una hora de desprecio,
+más una hora de desprecio,
 
 
 
-que un a�o de pretensi�n.
+que un año de pretensión.
 
 
 DUQUE
-  Como m�dico de aldea,
+  Como médico de aldea,
 
 
 
@@ -9341,11 +9330,11 @@ comunes recetas das:
 
 
 
-en b�rbaros las emplea,
+en bárbaros las emplea,
 
 
 
-que en la corte no hallar�s
+que en la corte no hallarás
 
 
 
@@ -9357,7 +9346,7 @@ Los medios que yo he escogido
 
 
 
-me dar�n por fuerza o grado
+me darán por fuerza o grado
 
 
 
@@ -9377,27 +9366,27 @@ Estudia un consejo nuevo,
 
 
 
-y d�jame hacer a m�,
+y déjame hacer a mí,
 
 
 
-que el camino s� que llevo.
+que el camino sé que llevo.
 
 
 FLORO
-  La duquesa viene aqu�.
+  La duquesa viene aquí.
 
 
 DUQUE
-  Vete, pues, Floro.
+  Vete, pues, Floro.
 
 
 FLORO
-  No apruebo,
+  No apruebo,
 
 
 
-por m�s que te determines,
+por más que te determines,
 
 
 
@@ -9405,11 +9394,11 @@ tan peligrosos remedios.
 
 
 DUQUE
-  No importa que eso imagines.
+  No importa que eso imagines.
 
 
 FLORO
-  Malos principios y medios
+  Malos principios y medios
 
 
 
@@ -9419,15 +9408,15 @@ nunca alcanzan buenos fines.
 Vase y sale la DUQUESA.
 
 LEONORA
-  Duque, la mayor haza�a
+  Duque, la mayor hazaña
 
 
 
-que han visto jam�s los cielos,
+que han visto jamás los cielos,
 
 
 
-tiene hoy de honrarme en Breta�a.
+tiene hoy de honrarme en Bretaña.
 
 
 
@@ -9435,7 +9424,7 @@ Contra el rigor de mis celos,
 
 
 
-el amor que me acompa�a,
+el amor que me acompaña,
 
 
 
@@ -9447,7 +9436,7 @@ persuadir que hable a Sirena.
 
 
 
-Con l�grimas la he pedido
+Con lágrimas la he pedido
 
 
 
@@ -9459,7 +9448,7 @@ la esperanza que he perdido,
 
 
 
-y me rob� su beldad,
+y me robó su beldad,
 
 
 
@@ -9471,7 +9460,7 @@ que quiero, aunque es necedad,
 
 
 
-verte m�s en su poder,
+verte más en su poder,
 
 
 
@@ -9491,7 +9480,7 @@ y sus desdenes refrena,
 
 
 
-segura se casar�
+segura se casará
 
 
 
@@ -9519,11 +9508,11 @@ en las manos del secreto.
 
 
 
-�Puedo hacer m�s?
+¿Puedo hacer más?
 
 
 DUQUE
-  No te quiero
+  No te quiero
 
 
 
@@ -9543,11 +9532,11 @@ no partido, sino entero.
 
 
 
-Mas �qu� responde?
+Mas ¿qué responde?
 
 
 LEONORA
-  No hay cosa
+  No hay cosa
 
 
 
@@ -9567,7 +9556,7 @@ entre airada y vergonzosa.
 
 
 DUQUE
-  Reina agora la verg�enza
+  Reina agora la vergüenza
 
 
 
@@ -9575,7 +9564,7 @@ y el temor que della nace.
 
 
 LEONORA
-  Yo har� que tu amor la venza,
+  Yo haré que tu amor la venza,
 
 
 
@@ -9619,7 +9608,7 @@ hace el peligro menor.
 
 
 DUQUE
-  Tu ingenio mi dicha alabe,
+  Tu ingenio mi dicha alabe,
 
 
 
@@ -9627,19 +9616,19 @@ tu lealtad, tu firme amor.
 
 
 
-�No es bueno que hab�a enviado
+¿No es bueno que había enviado
 
 
 
-con aqueste fin por �l?
+con aqueste fin por él?
 
 
 LEONORA
-  Carlos es noble y honrado;
+  Carlos es noble y honrado;
 
 
 
-no te declares con �l,
+no te declares con él,
 
 
 
@@ -9651,7 +9640,7 @@ llega a perderte el respeto.
 
 
 
-Yo lo dispondr� mejor;
+Yo lo dispondré mejor;
 
 
 
@@ -9659,7 +9648,7 @@ que soy mujer, en efeto.
 
 
 
-Enc�brele de tu amor
+Encúbrele de tu amor
 
 
 
@@ -9675,7 +9664,7 @@ servirte y tenerte grato,
 
 
 
-con m�s frecuencia me vea,
+con más frecuencia me vea,
 
 
 
@@ -9687,7 +9676,7 @@ cuanto le dijere crea,
 
 
 
-porque en darme gusto a m�
+porque en darme gusto a mí
 
 
 
@@ -9695,11 +9684,11 @@ estriba todo tu gusto.
 
 
 DUQUE
-  Dices bien, yo lo har� as�.
+  Dices bien, yo lo haré así.
 
 
 LEONORA
-  [Aparte.] Y yo con castigo justo
+  [Aparte.] Y yo con castigo justo
 
 
 
@@ -9707,7 +9696,7 @@ me pienso vengar de ti,
 
 
 
-haci�ndote mi tercero,
+haciéndote mi tercero,
 
 
 
@@ -9715,11 +9704,11 @@ pues que tu tercera me haces.
 
 
 DUQUE
-  Si a Sirena por ti adquiero,
+  Si a Sirena por ti adquiero,
 
 
 
-despu�s con eternas paces
+después con eternas paces
 
 
 
@@ -9727,11 +9716,11 @@ servirte, Leonora, espero.
 
 
 LEONORA
-  Carlos viene; el declararte
+  Carlos viene; el declararte
 
 
 
-excusa con �l, y di
+excusa con él, y di
 
 
 
@@ -9739,29 +9728,29 @@ que el servirme es agradarte.
 
 
 
-�Enviar�sle luego?
+¿Enviarásle luego?
 
 
 DUQUE
-  S�,
+  Sí,
 
 
 
-luego, duquesa, ir� a hablarte.
+luego, duquesa, irá a hablarte.
 
 
 Vase LEONORA y sale CARLOS.
 
 CARLOS
-  �Qu� manda vuestra excelencia?
+  ¿Qué manda vuestra excelencia?
 
 
 DUQUE
-  La baron�a de Flor
+  La baronía de Flor
 
 
 
-est� vaca, y el valor,
+está vaca, y el valor,
 
 
 
@@ -9769,19 +9758,19 @@ Carlos, de vuestra presencia,
 
 
 
-por due�o os ha de tener.
+por dueño os ha de tener.
 
 
 
-Bar�n de Flor sois desde hoy.
+Barón de Flor sois desde hoy.
 
 
 CARLOS
-  Tu esclavo, s�, aquesto soy.
+  Tu esclavo, sí, aquesto soy.
 
 
 DUQUE
-  Dicen que llega a valer
+  Dicen que llega a valer
 
 
 
@@ -9801,15 +9790,15 @@ que os tengo muy por mi cuenta.
 
 
 CARLOS
-  Ya deseo que se ofrezca
+  Ya deseo que se ofrezca
 
 
 
-ocasi�n en que poder
+ocasión en que poder
 
 
 
-con alg�n servicio hacer
+con algún servicio hacer
 
 
 
@@ -9817,7 +9806,7 @@ que tanta merced merezca.
 
 
 DUQUE
-  La que entre manos tra�is
+  La que entre manos traéis
 
 
 
@@ -9825,15 +9814,15 @@ os le puede bien cumplir,
 
 
 
-si me dese�is servir
+si me deseáis servir
 
 
 
-seg�n me lo promet�is.
+según me lo prometéis.
 
 
 CARLOS
-  (�Mas que es la merced tan cara,
+  (¿Mas que es la merced tan cara,
 
 
 
@@ -9845,19 +9834,19 @@ con mi esposa sea en su amor?
 
 
 
-Morir� si se declara.)
+Moriré si se declara.)
 
 
 
-D�game vuestra excelencia:
+Dígame vuestra excelencia:
 
 
 
-de m�, �en qu� se servir�?
+de mí, ¿en qué se servirá?
 
 
 DUQUE
-  La duquesa os lo dir�;
+  La duquesa os lo dirá;
 
 
 
@@ -9869,11 +9858,11 @@ haced lo que ella os mandare
 
 
 
-dalde gusto vos; que as�
+dalde gusto vos; que así
 
 
 
-me tendr�is contento a m�;
+me tendréis contento a mí;
 
 
 
@@ -9897,7 +9886,7 @@ Andad, que Leonora os llama.
 
 
 CARLOS
-  Declaraos m�s, gran se�or;
+  Declaraos más, gran señor;
 
 
 
@@ -9905,11 +9894,11 @@ mirad que confuso quedo.
 
 
 DUQUE
-  Carlos amigo, no puedo;
+  Carlos amigo, no puedo;
 
 
 
-ella os lo dir� mejor.
+ella os lo dirá mejor.
 
 
 
@@ -9925,17 +9914,17 @@ y advertir que si se queja,
 
 
 
-hemos de re�ir los dos.
+hemos de reñir los dos.
 
 
 Vase.
 
 CARLOS
-  �Hay confusi�n m�s extra�a!
+  ¡Hay confusión más extraña!
 
 
 
-�La duquesa no me anima
+¿La duquesa no me anima
 
 
 
@@ -9943,7 +9932,7 @@ para que sirva a mi prima?
 
 
 
-�No ha que el duque de Breta�a
+¿No ha que el duque de Bretaña
 
 
 
@@ -9951,7 +9940,7 @@ sin seso por ella anda,
 
 
 
-dos a�os? �Pues c�mo agora
+dos años? ¿Pues cómo agora
 
 
 
@@ -9975,7 +9964,7 @@ para gozalla lugar:
 
 
 
-el duque tambi�n ordena
+el duque también ordena
 
 
 
@@ -9983,15 +9972,15 @@ que obedezca a la duquesa:
 
 
 
-si el obedecer me est�
+si el obedecer me está
 
 
 
-tan bien, �qu� pena me da?
+tan bien, ¿qué pena me da?
 
 
 
-�Qu� temo?, �de qu� me pesa?
+¿Qué temo?, ¿de qué me pesa?
 
 
 
@@ -10007,21 +9996,21 @@ digo que soy obediente
 
 
 
-m�s que un fraile desde agora.
+más que un fraile desde agora.
 
 
 Sale SIRENA.
 
 SIRENA
-  Por muchos a�os y buenos,
+  Por muchos años y buenos,
 
 
 
-aunque sea a costa m�a,
+aunque sea a costa mía,
 
 
 
-se emplee vuese�or�a
+se emplee vueseñoría
 
 
 
@@ -10029,19 +10018,19 @@ en pensamientos ajenos,
 
 
 
-y mejore de afici�n;
+y mejore de afición;
 
 
 
-que por lo bien que le est�,
+que por lo bien que le está,
 
 
 
-una tercera tendr�
+una tercera tendrá
 
 
 
-en m�, con obligaci�n,
+en mí, con obligación,
 
 
 
@@ -10049,7 +10038,7 @@ aunque lo sienta y me pese,
 
 
 
-de acudir desde este d�a
+de acudir desde este día
 
 
 
@@ -10057,17 +10046,17 @@ a su gusto.
 
 
 CARLOS
-  Esposa m�a,
+  Esposa mía,
 
 
 
-�qu� modo de hablar es �se?
+¿qué modo de hablar es ése?
 
 
 Sale un paje.
 
 PAJE
-  A vuese�or�a espera
+  A vueseñoría espera
 
 
 
@@ -10075,15 +10064,15 @@ la duquesa.
 
 
 SIRENA
-  �A m�? Ya voy.
+  ¿A mí? Ya voy.
 
 
 CARLOS
-  �Qu� es esto, prima?
+  ¿Qué es esto, prima?
 
 
 SIRENA
-  No soy
+  No soy
 
 
 
@@ -10093,11 +10082,11 @@ prima ya, sino tercera.
 Vanse los dos.
 
 CARLOS
-  �Tercera? �C�mo o de qui�n?
+  ¿Tercera? ¿Cómo o de quién?
 
 
 
-Cielos, a�ad� eslabones
+Cielos, añadí eslabones
 
 
 
@@ -10109,11 +10098,11 @@ para que muerte me den.
 
 
 
-�En qu� encantamiento estoy?
+¿En qué encantamiento estoy?
 
 
 
-�V�lgame Dios! �Si he perdido
+¡Válgame Dios! ¿Si he perdido
 
 
 
@@ -10121,7 +10110,7 @@ con la ventura el sentido?
 
 
 
-�Qu� hechizos me espantan hoy?
+¿Qué hechizos me espantan hoy?
 
 
 
@@ -10149,41 +10138,41 @@ gozalla, y su esposo soy,
 
 
 
-se va, y me dice: �No soy
+se va, y me dice: «No soy
 
 
 
-prima ya, sino tercera�.
+prima ya, sino tercera».
 
 
 
-�Ah corte llena de encantos!
+¡Ah corte llena de encantos!
 
 
 
-L�breme el cielo de ti.
+Líbreme el cielo de ti.
 
 
 Sale un paje.
 
 PAJE
-  El duque os llama.
+  El duque os llama.
 
 
 CARLOS
-  �A m�?
+  ¿A mí?
 
 
 PAJE
-  S�.
+  Sí.
 
 
 CARLOS
-  Despertadme, cielos santos.
+  Despertadme, cielos santos.
 
 
 PAJE
-  Mudad vestido, que quiere
+  Mudad vestido, que quiere
 
 
 
@@ -10191,73 +10180,73 @@ salir con vos a rondar.
 
 
 CARLOS
-  Si se llega a declarar,
+  Si se llega a declarar,
 
 
 
-y a mi confusi�n luz diere,
+y a mi confusión luz diere,
 
 
 
-yo escribir� esta quimera.
+yo escribiré esta quimera.
 
 
 PAJE
-  �Ven�s?
+  ¿Venís?
 
 
 CARLOS
-  A vestirme voy.
+  A vestirme voy.
 
 
 
-�Que me dijese: �No soy
+¡Que me dijese: «No soy
 
 
 
-prima ya, sino tercera�!
+prima ya, sino tercera»!
 
 
 Vanse. Y salen la DUQUESA y SIRENA a la ventana.
 
 LEONORA
-  Digo pues, Sirena amiga,
+  Digo pues, Sirena amiga,
 
 
 
-que cuando a Carlos habl�
+que cuando a Carlos hablé
 
 
 
-y le cont� mi fatiga,
+y le conté mi fatiga,
 
 
 
-tan de mi parte le hall�,
+tan de mi parte le hallé,
 
 
 
-que no s� c�mo te diga
+que no sé cómo te diga
 
 
 
-el gozo que recibi�,
+el gozo que recibió,
 
 
 
-cu�n pocos estorbos puso...
+cuán pocos estorbos puso...
 
 
 
-Ni de o�rme se alter�
+Ni de oírme se alteró
 
 
 
-ni me respondi� confuso,
+ni me respondió confuso,
 
 
 
-ni al rostro el color mud�;
+ni al rostro el color mudó;
 
 
 
@@ -10281,7 +10270,7 @@ los labios puso en mi mano.
 
 
 SIRENA
-  �Pues tan presto, gran se�ora?
+  ¿Pues tan presto, gran señora?
 
 
 
@@ -10289,7 +10278,7 @@ Mirad que es Carlos discreto.
 
 
 LEONORA
-  Marquesa, Carlos me adora;
+  Marquesa, Carlos me adora;
 
 
 
@@ -10297,39 +10286,39 @@ el temor tuvo secreto
 
 
 
-lo que manifest� agora.
+lo que manifestó agora.
 
 
 
-Un a�o, y va para dos,
+Un año, y va para dos,
 
 
 
-ha que se muere por m�.
+ha que se muere por mí.
 
 
 SIRENA
-  [Aparte.] Para uno sois los dos.
+  [Aparte.] Para uno sois los dos.
 
 
 
-�Que no me arroje de aqu�!
+¡Que no me arroje de aquí!
 
 
 
-�El firme, Carlos, sois vos?
+¿El firme, Carlos, sois vos?
 
 
 
-�En tierra a la primer prueba!
+¡En tierra a la primer prueba!
 
 
 
-�Si una mujer se mudara,
+¡Si una mujer se mudara,
 
 
 
-que en s� la inconstancia lleva,
+que en sí la inconstancia lleva,
 
 
 
@@ -10341,11 +10330,11 @@ la dieron todos con Eva!
 
 
 
-�Ay hombres, hombres!
+¡Ay hombres, hombres!
 
 
 LEONORA
-  Parece
+  Parece
 
 
 
@@ -10357,7 +10346,7 @@ pues mi dicha te enmudece.
 
 
 SIRENA
-  Ti�neme puesta en cuidado
+  Tiéneme puesta en cuidado
 
 
 
@@ -10373,7 +10362,7 @@ mi primo.
 
 
 LEONORA
-  Amor es discreto,
+  Amor es discreto,
 
 
 
@@ -10397,7 +10386,7 @@ no para que a Carlos hables.
 
 
 SIRENA
-  [Aparte.] �Fr�gil llam�is nuestro ser,
+  [Aparte.] ¡Frágil llamáis nuestro ser,
 
 
 
@@ -10409,11 +10398,11 @@ sois menos que una mujer!
 
 
 LEONORA
-  �Sabes lo que he colegido
+  ¿Sabes lo que he colegido
 
 
 
-del pesar que has ense�ado
+del pesar que has enseñado
 
 
 
@@ -10433,7 +10422,7 @@ Bien le quieres.
 
 
 SIRENA
-  Si te enga�a
+  Si te engaña
 
 
 
@@ -10441,7 +10430,7 @@ tu sospechosa quimera,
 
 
 
-cree que no soy tan extra�a
+cree que no soy tan extraña
 
 
 
@@ -10449,33 +10438,33 @@ si amara, que no quisiera
 
 
 
-ser duquesa de Breta�a
+ser duquesa de Bretaña
 
 
 
-m�s que ser dama de Carlos.
+más que ser dama de Carlos.
 
 
 LEONORA
-  No s�: de celos me muero.
+  No sé: de celos me muero.
 
 
 SIRENA
-  (Y yo no puedo ocultarlos.)
+  (Y yo no puedo ocultarlos.)
 
 
 LEONORA
-  Gente ha venido al terrero;
+  Gente ha venido al terrero;
 
 
 
-mas yo vendr� a averiguarlos.
+mas yo vendré a averiguarlos.
 
 
 Salen el DUQUE y CARLOS, de noche.
 
 DUQUE
-  Traidor, no busques rodeos,
+  Traidor, no busques rodeos,
 
 
 
@@ -10491,15 +10480,15 @@ lo que mis penas te mandan.
 
 
 
-Por m�s que encubrirte pienses,
+Por más que encubrirte pienses,
 
 
 
-la turbaci�n con que hablas
+la turbación con que hablas
 
 
 
-me ense�a por el aliento
+me enseña por el aliento
 
 
 
@@ -10519,15 +10508,15 @@ sino el tenerla, en mi agravio,
 
 
 
-m�s que prima, por tu dama.
+más que prima, por tu dama.
 
 
 CARLOS
-  Gran se�or, sosi�gate,
+  Gran señor, sosiégate,
 
 
 
-y con la c�lera envaina
+y con la cólera envaina
 
 
 
@@ -10535,19 +10524,19 @@ el enojo, que te incita
 
 
 
-sin raz�n a la venganza.
+sin razón a la venganza.
 
 
 
-�Qu� has visto en m� que te obligue
+¿Qué has visto en mí que te obligue
 
 
 
-y a creer te pers�ada,
+y a creer te persüada,
 
 
 
-haci�ndote competencia,
+haciéndote competencia,
 
 
 
@@ -10555,11 +10544,11 @@ que a mi prima adora mi alma?
 
 
 
-�As� se encubre el amor,
+¿Así se encubre el amor,
 
 
 
-que en ser ni�o nunca calla,
+que en ser niño nunca calla,
 
 
 
@@ -10567,7 +10556,7 @@ y en ser fuego manifiesta
 
 
 
-d�nde vive en humo y llamas?
+dónde vive en humo y llamas?
 
 
 
@@ -10611,7 +10600,7 @@ que tercero vil me hagas
 
 
 
-de quien, por ser prima m�a,
+de quien, por ser prima mía,
 
 
 
@@ -10623,7 +10612,7 @@ tanta parte, no te espantes,
 
 
 
-pues sabes lo que Breta�a
+pues sabes lo que Bretaña
 
 
 
@@ -10635,7 +10624,7 @@ y de lo mejor de Francia.,
 
 
 DUQUE
-  �Pues qu� afrenta se te sigue
+  ¿Pues qué afrenta se te sigue
 
 
 
@@ -10663,35 +10652,35 @@ sobre mi silla ducal?
 
 
 CARLOS
-  Hablar siento en la ventana.
+  Hablar siento en la ventana.
 
 
 
-Mira, gran se�or, que piden
+Mira, gran señor, que piden
 
 
 
-m�s recato esas palabras.
+más recato esas palabras.
 
 
 DUQUE
-  �Qui�n puede ser?
+  ¿Quién puede ser?
 
 
 CARLOS
-  F�cilmente
+  Fácilmente
 
 
 
-lo sabr�s, si oyendo callas.
+lo sabrás, si oyendo callas.
 
 
 SIRENA
-  Mal sabes qui�n es Sirena:
+  Mal sabes quién es Sirena:
 
 
 
-ni he dado ni dar� entrada
+ni he dado ni daré entrada
 
 
 
@@ -10703,15 +10692,15 @@ sin obras y con palabras.
 
 
 DUQUE
-  �No es tu prima?
+  ¿No es tu prima?
 
 
 CARLOS
-  Ella parece.
+  Ella parece.
 
 
 DUQUE
-  Carlos, disculpas no bastan
+  Carlos, disculpas no bastan
 
 
 
@@ -10727,11 +10716,11 @@ habla con Sirena agora;
 
 
 
-finge que no te acompa�a
+finge que no te acompaña
 
 
 
-ninguno, y colegir�n
+ninguno, y colegirán
 
 
 
@@ -10751,15 +10740,15 @@ para que verme no pueda;
 
 
 
-as� sabr� si me enga�a.
+así sabré si me engaña.
 
 
 CARLOS
-  �Qu� la tengo de decir?
+  ¿Qué la tengo de decir?
 
 
 DUQUE
-  Desdenes, desconfianzas,
+  Desdenes, desconfianzas,
 
 
 
@@ -10771,7 +10760,7 @@ con que la provoques, y hagas
 
 
 
-que te responda: ver�
+que te responda: veré
 
 
 
@@ -10779,11 +10768,11 @@ mis sospechas confirmadas
 
 
 
-o m�s firme tu lealtad.
+o más firme tu lealtad.
 
 
 CARLOS
-  [Aparte.] �Hay confusi�n m�s extra�a!
+  [Aparte.] ¡Hay confusión más extraña!
 
 
 
@@ -10791,11 +10780,11 @@ Desta vez mi poca dicha,
 
 
 
-d�ndome la muerte, saca
+dándome la muerte, saca
 
 
 
-a�o y medio de secreto,
+año y medio de secreto,
 
 
 
@@ -10803,31 +10792,31 @@ para avergonzarme, a plaza.
 
 
 
-�Oh peligros del honor!
+¡Oh peligros del honor!
 
 
 DUQUE
-  �No llegas? �Qu� te acobarda?
+  ¿No llegas? ¿Qué te acobarda?
 
 
 CARLOS
-  Lo que he de decir prevengo.
+  Lo que he de decir prevengo.
 
 
 
-�Ah de las rejas!
+¡Ah de las rejas!
 
 
 SIRENA
-  �Qui�n llama?
+  ¿Quién llama?
 
 
 CARLOS
-  Carlos soy.
+  Carlos soy.
 
 
 LEONORA
-  Oye, marquesa.
+  Oye, marquesa.
 
 
 
@@ -10847,11 +10836,11 @@ estoy contigo.
 
 
 SIRENA
-  �Pues qu�?
+  ¿Pues qué?
 
 
 LEONORA
-  Finge que porque me ama
+  Finge que porque me ama
 
 
 
@@ -10863,19 +10852,19 @@ pierdes el seso y te abrasas.
 
 
 
-P�dele celos de m�.
+Pídele celos de mí.
 
 
 SIRENA
-  [Aparte.] No los pedir� sin causa.
+  [Aparte.] No los pediré sin causa.
 
 
 LEONORA
-  �Qu� dices?
+  ¿Qué dices?
 
 
 SIRENA
-  Que por servirte,
+  Que por servirte,
 
 
 
@@ -10883,27 +10872,27 @@ quiero hacer lo que me mandas.
 
 
 
-�Ah Carlos! �Rondando vos?
+¡Ah Carlos! ¿Rondando vos?
 
 
 
-�Ten�is en palacio dama?
+¿Tenéis en palacio dama?
 
 
 
-�No os dejan dormir sospechas?
+¿No os dejan dormir sospechas?
 
 
 
-�Llor�is desd�n o mudanzas?
+¿Lloráis desdén o mudanzas?
 
 
 CARLOS
-  �Qui�n os mete a vos en eso?
+  ¿Quién os mete a vos en eso?
 
 
 SIRENA
-  �Ser vuestra prima no basta
+  ¿Ser vuestra prima no basta
 
 
 
@@ -10915,15 +10904,15 @@ vuestras dichas o desgracias?
 
 
 CARLOS
-  �Pues qu�! �Es pedirme eso celos?
+  ¡Pues qué! ¿Es pedirme eso celos?
 
 
 SIRENA
-  �Fuera mucho?
+  ¿Fuera mucho?
 
 
 CARLOS
-  Si me cansa
+  Si me cansa
 
 
 
@@ -10931,19 +10920,19 @@ vuestra memoria de suerte,
 
 
 
-que no hay cosa m�s contraria
+que no hay cosa más contraria
 
 
 
-para mi gusto que o�ros,
+para mi gusto que oíros,
 
 
 
-�por qu� con vuestras palabras
+¿por qué con vuestras palabras
 
 
 
-agu�is de mis pensamientos
+aguáis de mis pensamientos
 
 
 
@@ -10951,27 +10940,27 @@ pretensiones y esperanzas?
 
 
 
-�Heos querido yo jam�s?
+¿Heos querido yo jamás?
 
 
 SIRENA
-  �A qu� prop�sito y causa
+  ¿A qué propósito y causa
 
 
 
-eslabon�is disparates?
+eslabonáis disparates?
 
 
 
-�P�doos yo cuenta tan larga?
+¿Pídoos yo cuenta tan larga?
 
 
 
-�Heos rogado que me am�is
+¿Heos rogado que me améis
 
 
 
-alguna vez? �Qu� embajadas
+alguna vez? ¿Qué embajadas
 
 
 
@@ -10979,15 +10968,15 @@ de mi parte os solicitan?
 
 
 
-�Qu� papeles os enfadan?
+¿Qué papeles os enfadan?
 
 
 
-�Qu� prendas m�as adornan
+¿Qué prendas mías adornan
 
 
 
-en p�blico vuestras galas,
+en público vuestras galas,
 
 
 
@@ -11007,7 +10996,7 @@ por la dama que os desvela
 
 
 
-desde aqu�, por no enfadaros,
+desde aquí, por no enfadaros,
 
 
 
@@ -11019,15 +11008,15 @@ ni veros.
 
 
 CARLOS
-  [Aparte, al DUQUE.] �Est�s contento?
+  [Aparte, al DUQUE.] ¿Estás contento?
 
 
 SIRENA
-  [Aparte a LEONORA.] �Vives ya desenga�ada?
+  [Aparte a LEONORA.] ¿Vives ya desengañada?
 
 
 DUQUE
-  Carlos, prosigue tu tema;
+  Carlos, prosigue tu tema;
 
 
 
@@ -11039,7 +11028,7 @@ de aquellos dulces desdenes.
 
 
 LEONORA
-  Sirena, presto te cansas
+  Sirena, presto te cansas
 
 
 
@@ -11051,15 +11040,15 @@ y fe que Carlos me guarda,
 
 
 
-cuando por m� te desprecia.
+cuando por mí te desprecia.
 
 
 
-Muestra que est�s enojada,
+Muestra que estás enojada,
 
 
 
-p�dele celos por m�,
+pídele celos por mí,
 
 
 
@@ -11071,39 +11060,39 @@ estas burlas.
 
 
 SIRENA
-  [Aparte.] Estas veras,
+  [Aparte.] Estas veras,
 
 
 
-dir�s mejor, pues me matan.
-
-
-DUQUE
-  Veamos c�mo te airas;
-
-
-
-Carlos, en�jala; acaba.
-
-
-CARLOS
-  (�Que a esto el duque me fuerce!
-
-
-
-�Ay Sirena de mi alma!
-
-
-
-�Cu�l debes de estar conmigo!)
+dirás mejor, pues me matan.
 
 
 DUQUE
-  �Qu� esperas, Carlos?
+  Veamos cómo te airas;
+
+
+
+Carlos, enójala; acaba.
 
 
 CARLOS
-  Mi dama
+  (¡Que a esto el duque me fuerce!
+
+
+
+¡Ay Sirena de mi alma!
+
+
+
+¡Cuál debes de estar conmigo!)
+
+
+DUQUE
+  ¿Qué esperas, Carlos?
+
+
+CARLOS
+  Mi dama
 
 
 
@@ -11119,7 +11108,7 @@ celos tiene de que os quiero;
 
 
 
-dos d�as ha que no me habla
+dos días ha que no me habla
 
 
 
@@ -11131,7 +11120,7 @@ y sin el sol de su cara.
 
 
 
-�Qu� he de hacer? A m� me importa
+¿Qué he de hacer? A mí me importa
 
 
 
@@ -11147,7 +11136,7 @@ y pues os va poco o nada,
 
 
 
-ni me habl�is ni me mir�is;
+ni me habléis ni me miréis;
 
 
 
@@ -11163,7 +11152,7 @@ echad vos por otra sala.
 
 
 LEONORA
-  Mis celos ha penetrado:
+  Mis celos ha penetrado:
 
 
 
@@ -11175,15 +11164,15 @@ menosprecia a la marquesa.
 
 
 
-�Oh amor discreto! �Qu� os falta?
+¡Oh amor discreto! ¿Qué os falta?
 
 
 CARLOS
-  Esto, Sirena, os suplico.
+  Esto, Sirena, os suplico.
 
 
 SIRENA
-  Eso mismo imaginaba
+  Eso mismo imaginaba
 
 
 
@@ -11195,7 +11184,7 @@ que de resistir cansada
 
 
 
-pretensiones de dos a�os,
+pretensiones de dos años,
 
 
 
@@ -11211,15 +11200,15 @@ en mi pecho encender brasas.
 
 
 
-De vos est� receloso,
+De vos está receloso,
 
 
 
-cont�ndoos los pasos anda,
+contándoos los pasos anda,
 
 
 
-puede mucho, y har�os mal
+puede mucho, y haráos mal
 
 
 
@@ -11227,11 +11216,11 @@ si hablando conmigo os halla.
 
 
 
-No alc�is los ojos a verme.
+No alcéis los ojos a verme.
 
 
 CARLOS
-  [Aparte.] �C�mo, �ay Cielos!, si eso pasa,
+  [Aparte.] ¿Cómo, ¡ay Cielos!, si eso pasa,
 
 
 
@@ -11239,11 +11228,11 @@ y el duque mi honor usurpa,
 
 
 
-c�mo no tomo venganza
+cómo no tomo venganza
 
 
 
-de m� mismo? Mas dir�lo
+de mí mismo? Mas dirálo
 
 
 
@@ -11251,19 +11240,19 @@ celosa de mis palabras.
 
 
 DUQUE
-  Carlos, si mis dichas oyes,
+  Carlos, si mis dichas oyes,
 
 
 
-llega a abrazarme. �Qu� aguardas?
+llega a abrazarme. ¿Qué aguardas?
 
 
 
-P�deme largas albricias.
+Pídeme largas albricias.
 
 
 
-�No ves c�mo se declara
+¿No ves cómo se declara
 
 
 
@@ -11271,11 +11260,11 @@ en mi favor la marquesa?
 
 
 
-�Oh venturosa mudanza,
+¡Oh venturosa mudanza,
 
 
 
-oh averiguaci�n discreta,
+oh averiguación discreta,
 
 
 
@@ -11283,11 +11272,11 @@ oh firmeza bien empleada!
 
 
 CARLOS
-  Pues de fingir desatinos
+  Pues de fingir desatinos
 
 
 
-tanto inter�s tu amor saca,
+tanto interés tu amor saca,
 
 
 
@@ -11303,11 +11292,11 @@ tanta quimera.
 
 
 DUQUE
-  Bien dices.
+  Bien dices.
 
 
 CARLOS
-  [Aparte,] Hablemos verdades, alma:
+  [Aparte,] Hablemos verdades, alma:
 
 
 
@@ -11323,11 +11312,11 @@ rompa mi agravio el silencio,
 
 
 
-mudo fui dos a�os, basta.
+mudo fui dos años, basta.
 
 
 
-[Alto.] �Con qu� peque�a ocasi�n
+[Alto.] ¡Con qué pequeña ocasión
 
 
 
@@ -11343,7 +11332,7 @@ pagar pecho a la mudanza!
 
 
 
-Ya yo s� que al duque quieres;
+Ya yo sé que al duque quieres;
 
 
 
@@ -11371,21 +11360,21 @@ que para no vella yo,
 
 
 
-muerte me dar� esta daga.
+muerte me dará esta daga.
 
 
-Vase a dar con la daga, y ti�nele el DUQUE.
+Vase a dar con la daga, y tiénele el DUQUE.
 
 DUQUE
-  Carlos, para burlas sobran.
+  Carlos, para burlas sobran.
 
 
 
-�Est�s loco?
+¿Estás loco?
 
 
 CARLOS
-  �Pues pensabas
+  ¿Pues pensabas
 
 
 
@@ -11393,7 +11382,7 @@ que me mataba de veras?
 
 
 DUQUE
-  Es de suerte la eficacia
+  Es de suerte la eficacia
 
 
 
@@ -11401,11 +11390,11 @@ con que celoso te finges,
 
 
 
-que por instantes me enga�as.
+que por instantes me engañas.
 
 
 CARLOS
-  Todo es de burlas. [Aparte.] �Ay cielo,
+  Todo es de burlas. [Aparte.] ¡Ay cielo,
 
 
 
@@ -11413,7 +11402,7 @@ si de veras me matara!
 
 
 LEONORA
-  �No ves que celos te pide?
+  ¿No ves que celos te pide?
 
 
 
@@ -11421,15 +11410,15 @@ Luego mis sospechas claras
 
 
 
-desenga�os averiguan
+desengaños averiguan
 
 
 
-�Qu� es esto, Sirena?
+¿Qué es esto, Sirena?
 
 
 SIRENA
-  Calla,
+  Calla,
 
 
 
@@ -11441,11 +11430,11 @@ siendo de mi sangre y casa,
 
 
 
-que con los dem�s le injurie.
+que con los demás le injurie.
 
 
 
-Porque veas s� te ama,
+Porque veas sí te ama,
 
 
 
@@ -11461,15 +11450,15 @@ que ni te hable ni vea,
 
 
 
-y est� celosa tu dama,
+y está celosa tu dama,
 
 
 
-�por qu� me injurias as�?
+¿por qué me injurias así?
 
 
 
-�Por qu� mudable me llamas?
+¿Por qué mudable me llamas?
 
 
 
@@ -11505,11 +11494,11 @@ que al duque tu amor quebranta.
 
 
 DUQUE
-  �C�mo es esto?
+  ¿Cómo es esto?
 
 
 CARLOS
-  El verme hablar
+  El verme hablar
 
 
 
@@ -11521,7 +11510,7 @@ que a menudo sirva y vea,
 
 
 
-le ha dado, gran se�or, causa
+le ha dado, gran señor, causa
 
 
 
@@ -11529,19 +11518,19 @@ para pensar tal malicia.
 
 
 DUQUE
-  Es discreta: no me espanta;
+  Es discreta: no me espanta;
 
 
 
-que hay ocasi�n de creerlo;
+que hay ocasión de creerlo;
 
 
 
-no se te d�, Carlos, nada.
+no se te dé, Carlos, nada.
 
 
 SIRENA
-  Si afrento, porque amo al duque,
+  Si afrento, porque amo al duque,
 
 
 
@@ -11549,7 +11538,7 @@ tu linaje y mi prosapia,
 
 
 
-�por eso le honrar� mucho
+¡por eso le honrará mucho
 
 
 
@@ -11557,7 +11546,7 @@ la lealtad que al duque guardas!
 
 
 
-V�yase uno por lo otro;
+Váyase uno por lo otro;
 
 
 
@@ -11565,27 +11554,27 @@ si quieres que calle, calla,
 
 
 
-y adi�s, que siento ruido.
+y adiós, que siento ruido.
 
 
 LEONORA
-  �Ad�nde vas?
+  ¿Adónde vas?
 
 
 SIRENA
-  No s�.
+  No sé.
 
 
 LEONORA
-  Aguarda.
+  Aguarda.
 
 
 SIRENA
-  No puedo.
+  No puedo.
 
 
 LEONORA
-  Confusa voy [Vase SIRENA.]
+  Confusa voy [Vase SIRENA.]
 
 
 
@@ -11593,21 +11582,21 @@ y entre temor y esperanza,
 
 
 
-no s� si Carlos me burla;
+no sé si Carlos me burla;
 
 
 
-mas yo lo sabr� ma�ana.
+mas yo lo sabré mañana.
 
 
 Vase.
 
 CARLOS
-  Ya Sirena se entr� dentro.
+  Ya Sirena se entró dentro.
 
 
 DUQUE
-  Y t�, Carlos, en el alma
+  Y tú, Carlos, en el alma
 
 
 
@@ -11623,15 +11612,15 @@ hasta igualarte conmigo:
 
 
 
-marqu�s eres de Anguiana.
+marqués eres de Anguiana.
 
 
 CARLOS
-  Gran se�or...
+  Gran señor...
 
 
 DUQUE
-  No hay para qu�
+  No hay para qué
 
 
 
@@ -11655,29 +11644,27 @@ mi dicha.
 
 
 CARLOS
-  Ciegas mara�as,
+  Ciegas marañas,
 
 
 
-vosotras me matar�is.
+vosotras me mataréis.
 
 
 DUQUE
-  �Ay mi Sirena!
+  ¡Ay mi Sirena!
 
 
 CARLOS
-  (�Ay ingrata!)
-
+  (¡Ay ingrata!)
 
 
 Acto tercero
 
-
 Salen CARLOS y la duquesa LEONORA.
 
 LEONORA
-  Carlos, ni sois obediente
+  Carlos, ni sois obediente
 
 
 
@@ -11685,7 +11672,7 @@ a lo que el duque os encarga,
 
 
 
-ni con dilaci�n tan larga
+ni con dilación tan larga
 
 
 
@@ -11693,11 +11680,11 @@ dais muestra de diligente.
 
 
 
-Un a�o ha que me jur�is
+Un año ha que me juráis
 
 
 
-que ten�is amor a quien
+que tenéis amor a quien
 
 
 
@@ -11705,7 +11692,7 @@ os dije que os quiere bien;
 
 
 
-y tan poco lo mostr�is,
+y tan poco lo mostráis,
 
 
 
@@ -11721,19 +11708,19 @@ o dais muestras de cobarde,
 
 
 
-o hac�is de m� poco caso.
+o hacéis de mí poco caso.
 
 
 CARLOS
-  Hay tantas contradiciones
+  Hay tantas contradiciones
 
 
 
-se�ora, en lo que mand�is,
+señora, en lo que mandáis,
 
 
 
-que aunque estorbos allan�is,
+que aunque estorbos allanáis,
 
 
 
@@ -11749,15 +11736,15 @@ que es seguro aqueste amor.
 
 
 LEONORA
-  No hay, Carlos, sordo peor
+  No hay, Carlos, sordo peor
 
 
 
-que aquel que no quiere o�r.
+que aquel que no quiere oír.
 
 
 CARLOS
-  Vueselencia me ha mandado
+  Vueselencia me ha mandado
 
 
 
@@ -11765,15 +11752,15 @@ que hable a Sirena.
 
 
 LEONORA
-  �Pues?
+  ¿Pues?
 
 
 CARLOS
-  Y para gozar despu�s
+  Y para gozar después
 
 
 
-esta ocasi�n sin cuidado,
+esta ocasión sin cuidado,
 
 
 
@@ -11781,7 +11768,7 @@ dice que tome a su cargo,
 
 
 
-por m�s que el duque se ofenda,
+por más que el duque se ofenda,
 
 
 
@@ -11789,19 +11776,19 @@ que no lo sepa ni entienda.
 
 
 LEONORA
-  De todo aqueso me encargo.
+  De todo aqueso me encargo.
 
 
 
-�Qu� hay de dificultad
+¿Qué hay de dificultad
 
 
 
-en eso qu� os da cuidado?
+en eso qué os da cuidado?
 
 
 CARLOS
-  Mucho. El duque me ha mandado
+  Mucho. El duque me ha mandado
 
 
 
@@ -11813,15 +11800,15 @@ no salga un punto, si intento
 
 
 
-privar con �l, como veis,
+privar con él, como veis,
 
 
 
-porque de que vos lo est�is,
+porque de que vos lo estéis,
 
 
 
-pende el estar �l contento.
+pende el estar él contento.
 
 
 
@@ -11833,27 +11820,27 @@ por Sirena, y cada hora
 
 
 
-le sirve m�s y enamora;
+le sirve más y enamora;
 
 
 
-pues �c�mo se compadece
+pues ¿cómo se compadece
 
 
 
-amalla, y mandarme a m�
+amalla, y mandarme a mí
 
 
 
-que cuanto vos me dig�is
+que cuanto vos me digáis
 
 
 
-ejecute, si gust�is,
+ejecute, si gustáis,
 
 
 
-pues vive Sirena aqu�,
+pues vive Sirena aquí,
 
 
 
@@ -11861,15 +11848,15 @@ que la hable y que la goce?
 
 
 LEONORA
-  �C�mo!
+  ¡Cómo!
 
 
 CARLOS
-  �No me dais promesa
+  ¿No me dais promesa
 
 
 
-de hacer c�mo a la marquesa,
+de hacer cómo a la marquesa,
 
 
 
@@ -11877,7 +11864,7 @@ que este favor reconoce,
 
 
 
-alcance, por m�s que intente
+alcance, por más que intente
 
 
 
@@ -11885,7 +11872,7 @@ mi dicha el duque estorbar,
 
 
 
-d�ndome industria y lugar
+dándome industria y lugar
 
 
 
@@ -11893,7 +11880,7 @@ para la merced presente?
 
 
 LEONORA
-  �Que a Sirena alcanc�is vos
+  ¿Que a Sirena alcancéis vos
 
 
 
@@ -11901,11 +11888,11 @@ os tengo yo prometido?
 
 
 CARLOS
-  Como la corte es olvido,
+  Como la corte es olvido,
 
 
 
-no me espantar�, por Dios,
+no me espantaré, por Dios,
 
 
 
@@ -11917,23 +11904,23 @@ lo hayas olvidado ya.
 
 
 LEONORA
-  (Medrado mi amor est�.)
+  (Medrado mi amor está.)
 
 
 
-�Lindamente me entendistes!
+¡Lindamente me entendistes!
 
 
 
-�Seg�n eso de Sirena
+¿Según eso de Sirena
 
 
 
-ha un a�o que sois amante?
+ha un año que sois amante?
 
 
 CARLOS
-  (Qu� mudanza en un instante
+  (Qué mudanza en un instante
 
 
 
@@ -11941,11 +11928,11 @@ mis dichas hoy desordena.)
 
 
 LEONORA
-  �Y que por cierto tuvistes
+  ¿Y que por cierto tuvistes
 
 
 
-que yo, Carlos, os serv�a
+que yo, Carlos, os servía
 
 
 
@@ -11953,11 +11940,11 @@ con Sirena de tercera?
 
 
 CARLOS
-  Vos �no me lo prometistes?
+  Vos ¿no me lo prometistes?
 
 
 LEONORA
-  Alg�n planeta tercero
+  Algún planeta tercero
 
 
 
@@ -11969,11 +11956,11 @@ pues me da el duque ese oficio,
 
 
 
-y de vos tambi�n le adquiero.
+y de vos también le adquiero.
 
 
 
-A amaros me hab�an movido
+A amaros me habían movido
 
 
 
@@ -11985,11 +11972,11 @@ y por huir de los unos,
 
 
 
-en los otros he ca�do.
+en los otros he caído.
 
 
 
-Pero porque no alegu�is,
+Pero porque no aleguéis,
 
 
 
@@ -12001,7 +11988,7 @@ y, para ejemplo de Francia,
 
 
 
-pues os ofende, os vengu�is
+pues os ofende, os venguéis
 
 
 
@@ -12025,11 +12012,11 @@ los ojos he puesto en vos,
 
 
 
-y la voluntad tambi�n.
+y la voluntad también.
 
 
 
-Vengarnos nos est� bien
+Vengarnos nos está bien
 
 
 
@@ -12049,7 +12036,7 @@ que no es tan constante y firme
 
 
 
-como en Breta�a se suena;
+como en Bretaña se suena;
 
 
 
@@ -12065,11 +12052,11 @@ diamantes de acero, en cera,
 
 
 
-que el tiempo y oro abland�.
+que el tiempo y oro ablandó.
 
 
 CARLOS
-  [Aparte.] Eso anoche a una ventana,
+  [Aparte.] Eso anoche a una ventana,
 
 
 
@@ -12081,11 +12068,11 @@ lo oyeron mis justos celos.
 
 
 
-�Ah Sirena! Al fin, liviana.
+¡Ah Sirena! Al fin, liviana.
 
 
 LEONORA
-  Procurad corresponder
+  Procurad corresponder
 
 
 
@@ -12105,11 +12092,11 @@ que su amor os manifiesta.
 
 
 
-Porque al duque le dir�
+Porque al duque le diré
 
 
 
-lo que de Sirena s�,
+lo que de Sirena sé,
 
 
 
@@ -12117,7 +12104,7 @@ si me dais mala respuesta.
 
 
 CARLOS
-  (A tanta desenvoltura,
+  (A tanta desenvoltura,
 
 
 
@@ -12125,7 +12112,7 @@ delito es el responder.
 
 
 
-�Ah Sirena! Al fin, mujer,
+¡Ah Sirena! Al fin, mujer,
 
 
 
@@ -12135,11 +12122,11 @@ sol de enero, que no dura.)
 Vase.
 
 LEONORA
-  Sin responderme se ha ido;
+  Sin responderme se ha ido;
 
 
 
-pero no hay de qu� espantar,
+pero no hay de qué espantar,
 
 
 
@@ -12151,15 +12138,15 @@ y va de celos perdido.
 
 
 
-A hacer el efeto en �l
+A hacer el efeto en él
 
 
 
-que en m� los del duque han hecho,
+que en mí los del duque han hecho,
 
 
 
-mi amor ver� satisfecho,
+mi amor veré satisfecho,
 
 
 
@@ -12167,7 +12154,7 @@ y mi venganza cruel.
 
 
 
-No pienso yo que osar�
+No pienso yo que osará
 
 
 
@@ -12179,7 +12166,7 @@ que por vengarme le agravio,
 
 
 
-porque satisfecho est�,
+porque satisfecho está,
 
 
 
@@ -12201,7 +12188,7 @@ lo que peligra su vida.
 Sale SIRENA.
 
 SIRENA
-  No quepo en toda la casa;
+  No quepo en toda la casa;
 
 
 
@@ -12209,7 +12196,7 @@ mas si los celos son fuego,
 
 
 
-�c�mo ha de tener sosiego
+¿cómo ha de tener sosiego
 
 
 
@@ -12217,11 +12204,11 @@ quien entre celos se abrasa?
 
 
 
-�Carlos tiene atrevimiento
+¿Carlos tiene atrevimiento
 
 
 
-de decirme a m� en la cara
+de decirme a mí en la cara
 
 
 
@@ -12233,23 +12220,23 @@ el gusto que en velle siento?
 
 
 
-�Carlos vuelve el paso atr�s
+¿Carlos vuelve el paso atrás
 
 
 
-que mi amor llev� adelante?
+que mi amor llevó adelante?
 
 
 
-�Carlos me dice, inconstante,
+¿Carlos me dice, inconstante,
 
 
 
-que no me ha amado jam�s?
+que no me ha amado jamás?
 
 
 
-�Obligaciones olvida
+¿Obligaciones olvida
 
 
 
@@ -12257,7 +12244,7 @@ Carlos, mudable y cruel?
 
 
 
-�Que cuando encuentre con �l,
+¿Que cuando encuentre con él,
 
 
 
@@ -12265,7 +12252,7 @@ que no le mire me pida?
 
 
 
-�Que eche por otra sala,
+¿Que eche por otra sala,
 
 
 
@@ -12273,11 +12260,11 @@ porque hay quien le pida celos?
 
 
 
-�As� paga Carlos, �cielos!,
+¿Así paga Carlos, ¡cielos!,
 
 
 
-a quien no s�lo le iguala,
+a quien no sólo le iguala,
 
 
 
@@ -12289,7 +12276,7 @@ que quiso duquesa hacerme?
 
 
 
-�Carlos se atreve a ofenderme?
+¿Carlos se atreve a ofenderme?
 
 
 
@@ -12297,7 +12284,7 @@ El seso y vida perdone,
 
 
 
-pues raz�n es que le pierda;
+pues razón es que le pierda;
 
 
 
@@ -12313,19 +12300,19 @@ queda viva o queda cuerda.
 
 
 LEONORA
-  �Qu� cara es �sa, Sirena?
+  ¿Qué cara es ésa, Sirena?
 
 
 
-Mala est�is.
+Mala estáis.
 
 
 SIRENA
-  Habr� ocasi�n,
+  Habrá ocasión,
 
 
 
-porque la indisposici�n
+porque la indisposición
 
 
 
@@ -12333,15 +12320,15 @@ no sabe hacer cara buena.
 
 
 LEONORA
-  Ayer est�bades sana,
+  Ayer estábades sana,
 
 
 
-y hoy ten�is color mortal.
+y hoy tenéis color mortal.
 
 
 
-Mas qu�, �os hizo anoche mal
+Mas qué, ¿os hizo anoche mal
 
 
 
@@ -12349,27 +12336,27 @@ el sereno a la ventana?
 
 
 SIRENA
-  Bien puede ser; no lo s�.
+  Bien puede ser; no lo sé.
 
 
 LEONORA
-  Si tan indispuesta and�is,
+  Si tan indispuesta andáis,
 
 
 
-�por qu� causa madrug�is?
+¿por qué causa madrugáis?
 
 
 SIRENA
-  Por morir, se�ora, en pie.
+  Por morir, señora, en pie.
 
 
 LEONOR
-�Morir? No tanto como eso.
+¿Morir? No tanto como eso.
 
 
 
-Celos ser�n; que de quien ama,
+Celos serán; que de quien ama,
 
 
 
@@ -12381,15 +12368,15 @@ que tienen humor travieso.
 
 
 SIRENA
-  �Yo celos?
+  ¿Yo celos?
 
 
 LEONORA
-  A lo que escucho,
+  A lo que escucho,
 
 
 
-pues madrug�is, no son vanos;
+pues madrugáis, no son vanos;
 
 
 
@@ -12409,11 +12396,11 @@ de amor vais tan adelante,
 
 
 
-madrug�is como estudiante.
+madrugáis como estudiante.
 
 
 SIRENA
-  Se�ora, �qu� novedad
+  Señora, ¿qué novedad
 
 
 
@@ -12425,15 +12412,15 @@ vueselencia...
 
 
 LEONORA
-  No me enga�o:
+  No me engaño:
 
 
 
-Carlos dice que ha ya un a�o
+Carlos dice que ha ya un año
 
 
 
-que os lee c�tedra de prima
+que os lee cátedra de prima
 
 
 
@@ -12441,11 +12428,11 @@ y goza la propiedad:
 
 
 
-como es primo y le quer�is,
+como es primo y le queréis,
 
 
 
-primog�nito le hac�is,
+primogénito le hacéis,
 
 
 
@@ -12457,15 +12444,15 @@ Celosa estoy; que aunque jura
 
 
 
-no hablaros por m� ocasi�n,
+no hablaros por mí ocasión,
 
 
 
-si es de un a�o el afici�n,
+si es de un año el afición,
 
 
 
-dif�cil ser� la cura.
+difícil será la cura.
 
 
 
@@ -12473,7 +12460,7 @@ Y de vos estoy quejosa,
 
 
 
-pues no os�ndoos declarar
+pues no osándoos declarar
 
 
 
@@ -12481,7 +12468,7 @@ conmigo, distes lugar
 
 
 
-a mi pasi�n amorosa.
+a mi pasión amorosa.
 
 
 
@@ -12489,11 +12476,11 @@ Amad al duque, Sirena,
 
 
 
-y no deis a una pasi�n
+y no deis a una pasión
 
 
 
-con sospechas ocasi�n,
+con sospechas ocasión,
 
 
 
@@ -12513,7 +12500,7 @@ todos suelen imitar
 
 
 
-a su due�o en una casa;
+a su dueño en una casa;
 
 
 
@@ -12521,19 +12508,19 @@ yo imito al duque en los modos
 
 
 
-de su loco frenes�;
+de su loco frenesí;
 
 
 
-imitadme vos a m�,
+imitadme vos a mí,
 
 
 
-y desquit�monos todos.
+y desquitémonos todos.
 
 
 SIRENA
-  Perd�neme vueselencia;
+  Perdóneme vueselencia;
 
 
 
@@ -12549,7 +12536,7 @@ de mi agravio la experiencia,
 
 
 
-de mi desesperaci�n,
+de mi desesperación,
 
 
 
@@ -12561,13 +12548,13 @@ de un secreto mal guardado
 
 
 
-y una rota obligaci�n.
+y una rota obligación.
 
 
 Vase.
 
 LEONORA
-  Es reloj la voluntad:
+  Es reloj la voluntad:
 
 
 
@@ -12587,7 +12574,7 @@ La rueda han desconcertado
 
 
 
-los celos que amor labr�,
+los celos que amor labró,
 
 
 
@@ -12601,15 +12588,15 @@ nada ha de andar ordenado.
 Sale el DUQUE.
 
 DUQUE
-  Duquesa, si verme sano
+  Duquesa, si verme sano
 
 
 
-porque os adore, quer�is,
+porque os adore, queréis,
 
 
 
-�c�mo en mi cura pon�is
+¿cómo en mi cura ponéis
 
 
 
@@ -12617,23 +12604,23 @@ tan tibiamente la mano?
 
 
 
-�Por qu� la vais alargando,
+¿Por qué la vais alargando,
 
 
 
-pues cuanto fuere m�s corta,
+pues cuanto fuere más corta,
 
 
 
-m�s, mi Leonora, os importa?
+más, mi Leonora, os importa?
 
 
 LEONORA
-  De vicio os ven�s quejando.
+  De vicio os venís quejando.
 
 
 
-�Tan mala noche tuvistes
+¿Tan mala noche tuvistes
 
 
 
@@ -12649,11 +12636,11 @@ de cera un diamante vistes,
 
 
 
-que del m�dico dais quejas?
+que del médico dais quejas?
 
 
 
-Diligencias m�as fueron
+Diligencias mías fueron
 
 
 
@@ -12665,35 +12652,35 @@ no la noche ni las rejas.
 
 
 DUQUE
-  �Luego ya os cont� Sirena
+  ¿Luego ya os contó Sirena
 
 
 
-lo que con ella pas�?
-
-
-LEONORA
-  Si industriada de m� fue,
-
-
-
-�qu� mucho?
-
-
-DUQUE
-  Ces� mi pena.
-
-
-
-�Est�bades vos all�?
+lo que con ella pasé?
 
 
 LEONORA
-  �A qu� prop�sito?
+  Si industriada de mí fue,
+
+
+
+¿qué mucho?
 
 
 DUQUE
-  Debo
+  Cesó mi pena.
+
+
+
+¿Estábades vos allí?
+
+
+LEONORA
+  ¿A qué propósito?
+
+
+DUQUE
+  Debo
 
 
 
@@ -12701,15 +12688,15 @@ mucho a Carlos; mas no es nuevo
 
 
 
-servirme Carlos as�.
+servirme Carlos así.
 
 
 LEONORA
-  Antes le deb�is tan poco,
+  Antes le debéis tan poco,
 
 
 
-que si alg�n estorbo impide
+que si algún estorbo impide
 
 
 
@@ -12725,7 +12712,7 @@ es Carlos, que por no hacer
 
 
 
-lo que le mand�is, no hace
+lo que le mandáis, no hace
 
 
 
@@ -12733,7 +12720,7 @@ mi gusto.
 
 
 DUQUE
-  �Pues de qu� nace
+  ¿Pues de qué nace
 
 
 
@@ -12741,7 +12728,7 @@ su rebelde proceder?
 
 
 LEONORA
-  De que vos no le mand�is
+  De que vos no le mandáis
 
 
 
@@ -12753,7 +12740,7 @@ sin poner estorbo o duda,
 
 
 
-a servirme: si gust�is
+a servirme: si gustáis
 
 
 
@@ -12761,15 +12748,15 @@ ver este imposible llano,
 
 
 
-mand�dselo con rigor.
+mandádselo con rigor.
 
 
 DUQUE
-  Esto ser� lo mejor.
+  Esto será lo mejor.
 
 
 
-Har�lo, como villano,
+Harálo, como villano,
 
 
 
@@ -12785,7 +12772,7 @@ Llamalde.
 
 
 LEONORA
-  �l mismo ha venido.
+  Él mismo ha venido.
 
 
 
@@ -12793,7 +12780,7 @@ Voime.
 
 
 DUQUE
-  Si no satisface
+  Si no satisface
 
 
 
@@ -12801,11 +12788,11 @@ a vuestro gusto, desde hoy
 
 
 
-satisfar� mi venganza.
+satisfará mi venganza.
 
 
 LEONORA
-  De �l estriba la esperanza
+  De él estriba la esperanza
 
 
 
@@ -12815,7 +12802,7 @@ que de la marquesa os doy.
 Vase. Sale CARLOS.
 
 CARLOS
-  Porque el fuego no me ahogue
+  Porque el fuego no me ahogue
 
 
 
@@ -12843,19 +12830,19 @@ por un monte que se abrasa,
 
 
 
-como el ladr�n que anda huido,
+como el ladrón que anda huido,
 
 
 
-as� me traen mis desvelos;
+así me traen mis desvelos;
 
 
 
-pero �qu� mucho, si son
+pero ¿qué mucho, si son
 
 
 
-veneno, azogue y ladr�n
+veneno, azogue y ladrón
 
 
 
@@ -12863,7 +12850,7 @@ los infiernos de mis celos?
 
 
 DUQUE
-  No es posible que en tus venas
+  No es posible que en tus venas
 
 
 
@@ -12875,7 +12862,7 @@ sino que por deshonrarte,
 
 
 
-est�n de villana llenas.
+están de villana llenas.
 
 
 
@@ -12883,11 +12870,11 @@ No es posible que tu madre,
 
 
 
-con liviano desvar�o,
+con liviano desvarío,
 
 
 
-por no hacerte deudo m�o,
+por no hacerte deudo mío,
 
 
 
@@ -12895,7 +12882,7 @@ no hizo agravio a tu padre.
 
 
 
-Vete, villano, de aqu�,
+Vete, villano, de aquí,
 
 
 
@@ -12903,11 +12890,11 @@ sal de mi corte.
 
 
 CARLOS
-  Se�or...
+  Señor...
 
 
 DUQUE
-  �Buen pago das a mi amor,
+  ¡Buen pago das a mi amor,
 
 
 
@@ -12919,7 +12906,7 @@ Vete, o si no...
 
 
 CARLOS
-  �Pues qu� he hecho
+  ¿Pues qué he hecho
 
 
 
@@ -12927,7 +12914,7 @@ para indignarte conmigo?
 
 
 DUQUE
-  No por lo hecho te castigo,
+  No por lo hecho te castigo,
 
 
 
@@ -12951,7 +12938,7 @@ como yo te lo he mandado.
 
 
 
-Cuando en su presencia est�s,
+Cuando en su presencia estás,
 
 
 
@@ -12967,15 +12954,15 @@ sin respondella te vas.
 
 
 
-�Bien tu lealtad solicito!
+¡Bien tu lealtad solicito!
 
 
 
-�Bien en agradarme entiendes!
+¡Bien en agradarme entiendes!
 
 
 CARLOS
-  [Aparte.] �Bueno es que me reprehendes,
+  [Aparte.] ¡Bueno es que me reprehendes,
 
 
 
@@ -12983,15 +12970,15 @@ porque el honor no te quito!
 
 
 
-�Ah mujeres, monstruos fieros!
+¡Ah mujeres, monstruos fieros!
 
 
 
-�Con qu� traici�n no saldr�is,
+¿Con qué traición no saldréis,
 
 
 
-si aun los maridos hac�is
+si aun los maridos hacéis
 
 
 
@@ -13003,7 +12990,7 @@ Estoy por decillo todo.
 
 
 DUQUE
-  Maquina entre ti, villano,
+  Maquina entre ti, villano,
 
 
 
@@ -13011,7 +12998,7 @@ disculpas; piensa, aunque en vano,
 
 
 
-para enga�arme alg�n modo;
+para engañarme algún modo;
 
 
 
@@ -13031,19 +13018,19 @@ por diligencias que hagas.
 
 
 
-�Callas?
+¿Callas?
 
 
 CARLOS
-  Digo que me pesa
+  Digo que me pesa
 
 
 
-que de m� quejas te den;
+que de mí quejas te den;
 
 
 
-mas no te est�, se�or, bien
+mas no te está, señor, bien
 
 
 
@@ -13051,15 +13038,15 @@ que yo sirva a la duquesa.
 
 
 DUQUE
-  �Por qu�, villano?
+  ¿Por qué, villano?
 
 
 CARLOS
-  Tu honor...
+  Tu honor...
 
 
 DUQUE
-  No le pierdo en que a Leonora
+  No le pierdo en que a Leonora
 
 
 
@@ -13071,7 +13058,7 @@ ni en eso me hables, traidor.
 
 
 
-Sirena es �sta; si intentas
+Sirena es ésta; si intentas
 
 
 
@@ -13079,7 +13066,7 @@ tus culpas satisfacer,
 
 
 
-delante de m� has de hacer
+delante de mí has de hacer
 
 
 
@@ -13099,11 +13086,11 @@ cumplir lo que la pasada
 
 
 
-signific� en el terrero;
+significó en el terrero;
 
 
 
-y cuando rebelde est�,
+y cuando rebelde esté,
 
 
 
@@ -13115,11 +13102,11 @@ el serme hoy agradecida.
 
 
 
-Conj�rala, en�jate;
+Conjúrala, enójate;
 
 
 
-que si como anoche o�,
+que si como anoche oí,
 
 
 
@@ -13127,7 +13114,7 @@ mi amor le causa cuidado,
 
 
 
-y hoy de opini�n ha mudado,
+y hoy de opinión ha mudado,
 
 
 
@@ -13135,40 +13122,40 @@ te he de echar la culpa a ti.
 
 
 CARLOS
-  Si as� quedas satisfecho,
+  Si así quedas satisfecho,
 
 
 
-digo mil veces, se�or,
+digo mil veces, señor,
 
 
 
-que le hablar�.
+que le hablaré.
 
 
 
-(�Ay ciego amor!
+(¡Ay ciego amor!
 
 
 
-�Qu� de injurias que me has hecho!)
+¡Qué de injurias que me has hecho!)
 
-[Ap�rtase el DUQUE y sale SIRENA.]
-
-
-Confusa, prima, ven�s,
+[Apártase el DUQUE y sale SIRENA.]
 
 
-
-y tan pensativa and�is,
+Confusa, prima, venís,
 
 
 
-que ni sab�is d�nde est�is
+y tan pensativa andáis,
 
 
 
-ni en qui�n os mira advert�s.
+que ni sabéis dónde estáis
+
+
+
+ni en quién os mira advertís.
 
 
 
@@ -13176,15 +13163,15 @@ Mas no me espanto, que habita
 
 
 
-en vuestra alma nuevo due�o,
+en vuestra alma nuevo dueño,
 
 
 
-que al antiguo, por peque�o,
+que al antiguo, por pequeño,
 
 
 
-posesi�n y vida quita.
+posesión y vida quita.
 
 
 
@@ -13196,31 +13183,31 @@ que la alborote no hay duda;
 
 
 
-que cuando el g��sped se muda,
+que cuando el güésped se muda,
 
 
 
-descomp�nese la casa.
+descompónese la casa.
 
 
 
-�Qu� ten�is? �Estar�is mala?
+¿Qué tenéis? ¿Estaréis mala?
 
 
 SIRENA
-  �C�mo a hablarme os atrev�is?
+  ¿Cómo a hablarme os atrevéis?
 
 
 
-�Por qu�, Carlos, si me veis,
+¿Por qué, Carlos, si me veis,
 
 
 
-no ech�is por esotra sala?
+no echáis por esotra sala?
 
 
 CARLOS
-  Del duque traigo licencia,
+  Del duque traigo licencia,
 
 
 
@@ -13228,7 +13215,7 @@ que para hablaros me llama.
 
 
 SIRENA
-  Pues yo no de vuestra dama,
+  Pues yo no de vuestra dama,
 
 
 
@@ -13236,23 +13223,23 @@ que como es toda excelencia,
 
 
 
-por excelencia os dar�,
+por excelencia os dará,
 
 
 
-si ve que me habl�is, enojos.
+si ve que me habláis, enojos.
 
 
 CARLOS
-  �Qu� bajos ten�is los ojos!
+  ¡Qué bajos tenéis los ojos!
 
 
 
-�Sois novicia?
+¿Sois novicia?
 
 
 SIRENA
-  No, que ya
+  No, que ya
 
 
 
@@ -13264,15 +13251,15 @@ a quien por mi amor suspire.
 
 
 
-�No me mand�is que no os mire?
+¿No me mandáis que no os mire?
 
 
 
-�C�mo los he de tener?
+¿Cómo los he de tener?
 
 
 CARLOS
-  Licencia el duque os ha dado;
+  Licencia el duque os ha dado;
 
 
 
@@ -13284,23 +13271,23 @@ no por tenelle presente,
 
 
 
-teng�is recelo o cuidado,
+tengáis recelo o cuidado,
 
 
 
-que aqu� estoy por su respeto.
+que aquí estoy por su respeto.
 
 
 SIRENA
-  �Donosa est� la porf�a!
+  ¡Donosa está la porfía!
 
 
 CARLOS
-  De m� su secreto f�a.
+  De mí su secreto fía.
 
 
 SIRENA
-  �Qu� mal fiado secreto!
+  ¡Qué mal fiado secreto!
 
 
 
@@ -13316,7 +13303,7 @@ de quien hay que fiar tan poco,
 
 
 
-perder�se por fianzas;
+perderáse por fianzas;
 
 
 
@@ -13328,11 +13315,11 @@ moneda para fiar,
 
 
 
-pues aun no sab�is guardar
+pues aun no sabéis guardar
 
 
 
-el vuestro. A no estar los dos [Enojada.]
+el vuestro. A no estar los dos [Enojada.]
 
 
 
@@ -13356,7 +13343,7 @@ hubiera ya ejecutado,
 
 
 
-sac�ndote esa vil lengua,
+sacándote esa vil lengua,
 
 
 
@@ -13364,15 +13351,15 @@ que en mi agravio y en tu mengua,
 
 
 
-lo que un a�o oculto ha estado
+lo que un año oculto ha estado
 
 
 
-hizo p�blico, en deshonra
+hizo público, en deshonra
 
 
 
-de quien tu traici�n confiesa.
+de quien tu traición confiesa.
 
 
 
@@ -13380,15 +13367,15 @@ Gozaras de la duquesa,
 
 
 
-quit�rasle al duque la honra,
+quitárasle al duque la honra,
 
 
 
-no hicieras cosa de m�,
+no hicieras cosa de mí,
 
 
 
-y con t�rminos aleves
+y con términos aleves
 
 
 
@@ -13396,7 +13383,7 @@ pagaras lo que me debes;
 
 
 
-muriera yo honrada as�,
+muriera yo honrada así,
 
 
 
@@ -13416,7 +13403,7 @@ hasta el punto que se sabe.
 
 
 CARLOS
-  Eso quisieras t�, ingrata,
+  Eso quisieras tú, ingrata,
 
 
 
@@ -13436,7 +13423,7 @@ que a mi firme amor has sido,
 
 
 
-despu�s de un a�o, traidora,
+después de un año, traidora,
 
 
 
@@ -13452,7 +13439,7 @@ Y andando al uso del mundo,
 
 
 
-el enga�o jardinero
+el engaño jardinero
 
 
 
@@ -13468,7 +13455,7 @@ Cogelle esta noche intenta;
 
 
 
-pero no le has de enga�ar,
+pero no le has de engañar,
 
 
 
@@ -13480,7 +13467,7 @@ mil testigos en tu afrenta.
 
 
 
-Morir� vengado as�,
+Moriré vengado así,
 
 
 
@@ -13488,15 +13475,15 @@ que no es bien que viva oculta
 
 
 
-infamia que en m� resulta.
+infamia que en mí resulta.
 
 
 SIRENA
-  Huyendo d�l y de ti
+  Huyendo dél y de ti
 
 
 
-esta noche, har� segura
+esta noche, haré segura
 
 
 
@@ -13504,7 +13491,7 @@ la fama que me has quitado,
 
 
 
-y buscar� un despoblado
+y buscaré un despoblado
 
 
 
@@ -13512,7 +13499,7 @@ donde me den sepultura
 
 
 
-los brutos que en �l est�n,
+los brutos que en él están,
 
 
 
@@ -13520,15 +13507,15 @@ que aunque de piedad desnudos,
 
 
 
-por lo menos ser�n mudos
+por lo menos serán mudos
 
 
 
-y no me deshonrar�n.
+y no me deshonrarán.
 
 
 CARLOS
-  Cruel, aunque finjas m�s,
+  Cruel, aunque finjas más,
 
 
 
@@ -13536,29 +13523,29 @@ hoy has de ser mi homicida.
 
 
 SIRENA
-  Si hoy has de perder la vida,
+  Si hoy has de perder la vida,
 
 
 
-a la noche lo ver�s.
+a la noche lo verás.
 
 
 Vase.
 
 CARLOS
-  �Buen enojo me ha costado
+  ¡Buen enojo me ha costado
 
 
 
-el haber sido, se�or,
+el haber sido, señor,
 
 
 
-aqu� tu procurador!
+aquí tu procurador!
 
 
 DUQUE
-  Como hab�is tan bajo hablado,
+  Como habéis tan bajo hablado,
 
 
 
@@ -13566,7 +13553,7 @@ solamente he percibido,
 
 
 
-Carlos, cu�l y cu�l raz�n,
+Carlos, cuál y cuál razón,
 
 
 
@@ -13586,15 +13573,15 @@ diciendo a la despedida:
 
 
 
-�Si hoy has de perder la vida,
+«Si hoy has de perder la vida,
 
 
 
-a la noche lo ver�s�.
+a la noche lo verás».
 
 
 CARLOS
-  Es que habi�ndome injuriado,
+  Es que habiéndome injuriado,
 
 
 
@@ -13602,7 +13589,7 @@ porque siendo caballero
 
 
 
-y haci�ndome tu tercero,
+y haciéndome tu tercero,
 
 
 
@@ -13610,7 +13597,7 @@ su amor he solicitado,
 
 
 
-me respondi�: �Aunque es verdad
+me respondió: «Aunque es verdad
 
 
 
@@ -13618,7 +13605,7 @@ que fiada del secreto
 
 
 
-pens� poner en efeto
+pensé poner en efeto
 
 
 
@@ -13642,7 +13629,7 @@ por esposo al de Lorena;
 
 
 
-pues as� te has declarado,
+pues así te has declarado,
 
 
 
@@ -13654,11 +13641,11 @@ no te he de hablar, en castigo
 
 
 
-de un secreto mal guardado�.
+de un secreto mal guardado».
 
 
 DUQUE
-  As� es: no s� qu� o�
+  Así es: no sé qué oí
 
 
 
@@ -13670,11 +13657,11 @@ dando de agraviada efetos.
 
 
 CARLOS
-  D�jela que si de m�
+  Díjela que si de mí
 
 
 
-ten�a l�stima, advirtese
+tenía lástima, advirtese
 
 
 
@@ -13682,7 +13669,7 @@ que esta noche, de no hacer
 
 
 
-tus ruegos, hab�a de ser
+tus ruegos, había de ser
 
 
 
@@ -13694,19 +13681,19 @@ y en fin, como visto has,
 
 
 
-respondi� al irse, sentida:
+respondió al irse, sentida:
 
 
 
-�Si te ha de costar la vida,
+«Si te ha de costar la vida,
 
 
 
-a la noche lo ver�s�.
+a la noche lo verás».
 
 
 DUQUE
-  Ya de ti quedo seguro,
+  Ya de ti quedo seguro,
 
 
 
@@ -13714,15 +13701,15 @@ Carlos; si sin hijos muero,
 
 
 
-Breta�a por mi heredero
+Bretaña por mi heredero
 
 
 
-te jurar�, y yo lo juro.
+te jurará, y yo lo juro.
 
 
 
-Vu�lvela a hablar, no te canses,
+Vuélvela a hablar, no te canses,
 
 
 
@@ -13738,11 +13725,11 @@ y de que su enojo amanses.
 
 
 CARLOS
-  Voy, porque el servirte elijo.
+  Voy, porque el servirte elijo.
 
 
 
-[Aparte.] Qui�rola satisfacer,
+[Aparte.] Quiérola satisfacer,
 
 
 
@@ -13750,29 +13737,29 @@ no se vaya; que es mujer,
 
 
 
-y lo har�, pues que lo dijo.
+y lo hará, pues que lo dijo.
 
 
 Vase. Salen la DUQUESA y FLORO.
 
 LEONORA
-  El duque mi padre est�
+  El duque mi padre está
 
 
 
-tan cercano de Breta�a,
+tan cercano de Bretaña,
 
 
 
-que, si Floro no me enga�a,
+que, si Floro no me engaña,
 
 
 
-a tu corte llegar�
+a tu corte llegará
 
 
 
-ma�ana al amanecer.
+mañana al amanecer.
 
 
 
@@ -13784,7 +13771,7 @@ luego te puedes partir.
 
 
 DUQUE
-  Pues �qu� ocasi�n puede ser
+  Pues ¿qué ocasión puede ser
 
 
 
@@ -13800,7 +13787,7 @@ le trae con tal prisa agora?
 
 
 LEONORA
-  Por excusar gastos, quiso
+  Por excusar gastos, quiso
 
 
 
@@ -13812,11 +13799,11 @@ a verte sin avisarte.
 
 
 DUQUE
-  �D�nde est�?
+  ¿Dónde está?
 
 
 FLORO
-  Esta noche parte
+  Esta noche parte
 
 
 
@@ -13824,29 +13811,29 @@ de tu casa de placer,
 
 
 
-que los duques de Breta�a
+que los duques de Bretaña
 
 
 
-tienen, se�or, en Dinhan;
+tienen, señor, en Dinhan;
 
 
 
-diez millas hay; llegar�n
+diez millas hay; llegarán
 
 
 
-ma�ana.
+mañana.
 
 
 Vase.
 
 DUQUE
-  Desdicha extra�a
+  Desdicha extraña
 
 
 
-es la m�a; cre� gozar
+es la mía; creí gozar
 
 
 
@@ -13862,41 +13849,41 @@ cuanto pretendo trazar.
 
 
 LEONORA
-  �No te quedan hartas noches?
+  ¿No te quedan hartas noches?
 
 
 DUQUE
-  Ya sabes que la ocasi�n
+  Ya sabes que la ocasión
 
 
 
-ri�� con la dilaci�n;
+riñó con la dilación;
 
 
 
-mas �qu� he de hacer? Traigan coches.
+mas ¿qué he de hacer? Traigan coches.
 
 
 LEONORA
-  Ya yo mand� aparejarlos,
+  Ya yo mandé aparejarlos,
 
 
 
-que he de ir en tu compa��a.
+que he de ir en tu compañía.
 
 
 DUQUE
-  Vamos. (�Ay Sirena m�a!)
+  Vamos. (¡Ay Sirena mía!)
 
 
 LEONORA
-  (Ya voy olvidando a Carlos.)
+  (Ya voy olvidando a Carlos.)
 
 
 Vanse. Y salen CORBATO, NISO y FENISA, pastores; y SIRENA.
 
 CORBATO
-  Par Dios, se�ora, si entre tanta seda,
+  Par Dios, señora, si entre tanta seda,
 
 
 
@@ -13908,7 +13895,7 @@ tanto paje sin capa y caperuza,
 
 
 
-tanta bellaquer�a tambi�n vive,
+tanta bellaquería también vive,
 
 
 
@@ -13924,7 +13911,7 @@ un pedazo de pan y una cebolla.
 
 
 SIRENA
-  Corbato, los deseos del aldea,
+  Corbato, los deseos del aldea,
 
 
 
@@ -13944,15 +13931,15 @@ donde son los pecados cortesanos.
 
 
 FENISA
-  �Y luego dir�n mal de los villanos!
+  ¡Y luego dirán mal de los villanos!
 
 
 NISO
-  Pues Carlos, vueso primo, �no os defiende?
+  Pues Carlos, vueso primo, ¿no os defiende?
 
 
 SIRENA
-  Cortesano es tambi�n, todos son uno;
+  Cortesano es también, todos son uno;
 
 
 
@@ -13960,31 +13947,31 @@ no hay que fiar.
 
 
 NISO
-  Es hospital la corte.
+  Es hospital la corte.
 
 
 
-�Venturoso el que sano de ella escapa!
+¡Venturoso el que sano de ella escapa!
 
 
 
-P�ganse como bubas los pecados.
+Péganse como bubas los pecados.
 
 
 CORBATO
-  Y aun por aqueso tien tantos bubosos.
+  Y aun por aqueso tien tantos bubosos.
 
 
 FENISA
-  �Ah cortesanos tiesos y engomados!
+  ¡Ah cortesanos tiesos y engomados!
 
 
 
-L�breme Dios de cuellos amoldados.
+Líbreme Dios de cuellos amoldados.
 
 
 SIRENA
-  Ya los duques, Corbato, se habr�n ido,
+  Ya los duques, Corbato, se habrán ido,
 
 
 
@@ -13996,7 +13983,7 @@ o mi vida, o mi honra, o todo junto.
 
 
 
-A m� me importa, hasta que tenga aviso
+A mí me importa, hasta que tenga aviso
 
 
 
@@ -14008,7 +13995,7 @@ esconderme de suerte, que no sepa
 
 
 
-el duque d�nde estoy, aunque me busquen
+el duque dónde estoy, aunque me busquen
 
 
 
@@ -14016,7 +14003,7 @@ sus mismos pensamientos.
 
 
 CORBATO
-  No os d� pena,
+  No os dé pena,
 
 
 
@@ -14024,11 +14011,11 @@ que a veros a buen tiempo hemos venido.
 
 
 SIRENA
-  Amigos, permisi�n del cielo ha sido.
+  Amigos, permisión del cielo ha sido.
 
 
 CORBATO
-  Ya vos sab�is que cerca de Belvalle,
+  Ya vos sabéis que cerca de Belvalle,
 
 
 
@@ -14036,7 +14023,7 @@ en Fuente-Rubia, tengo yo una granja
 
 
 
-de encinas y casta�os guarnecida,
+de encinas y castaños guarnecida,
 
 
 
@@ -14048,11 +14035,11 @@ por si acaso faltasen en el mundo
 
 
 
-los �rboles diversos que la adornan,
+los árboles diversos que la adornan,
 
 
 
-quiso juntar all� cuantos reparte
+quiso juntar allí cuantos reparte
 
 
 
@@ -14068,7 +14055,7 @@ que es cabeza del mundo aquella sierra,
 
 
 
-seg�n son los cabellos que la cubren,
+según son los cabellos que la cubren,
 
 
 
@@ -14076,7 +14063,7 @@ y de la gente y sol mi granja encubren.
 
 
 SIRENA
-  Pues a tal tiempo el cielo os trajo a verme,
+  Pues a tal tiempo el cielo os trajo a verme,
 
 
 
@@ -14092,7 +14079,7 @@ sus aldeanas ropas.
 
 
 FENISA
-  Que me place.
+  Que me place.
 
 
 
@@ -14100,7 +14087,7 @@ Tres sayas traigo, dos de cordellate
 
 
 
-y una de pa�o fino; que la gala
+y una de paño fino; que la gala
 
 
 
@@ -14108,27 +14095,27 @@ de nuestras labradoras los disantos
 
 
 
-es cargar de sayuelos y basqui�as.
+es cargar de sayuelos y basquiñas.
 
 
 
-Venid, trocad palacios por campi�as.
+Venid, trocad palacios por campiñas.
 
 
 SIRENA
-  S�gueme, pues; que en este cuarto m�o
+  Sígueme, pues; que en este cuarto mío
 
 
 
-esta transformaci�n har� segura.
+esta transformación haré segura.
 
 
 
-Los dem�s me aguardad en esta sala.
+Los demás me aguardad en esta sala.
 
 
 CORBATO
-  Par Dios, si vais all� que no os descubra
+  Par Dios, si vais allá que no os descubra
 
 
 
@@ -14142,23 +14129,23 @@ el monte todo el papa, rey o duque.
 Vanse SIRENA y FENISA y sale CARLOS.
 
 CARLOS
-  En despedir los duques he ocupado
+  En despedir los duques he ocupado
 
 
 
-el tiempo. �Ay mi Sirena! �Si te has ido?
+el tiempo. ¡Ay mi Sirena! ¿Si te has ido?
 
 
 
-�Desdichado de m� que lo sospecho!
+¡Desdichado de mí que lo sospecho!
 
 
 
-Y si es verdad, mis juveniles a�os
+Y si es verdad, mis juveniles años
 
 
 
-ver�n hoy su fin tr�gico, acabando
+verán hoy su fin trágico, acabando
 
 
 
@@ -14170,7 +14157,7 @@ Las puertas la cerrad, piadosos cielos.
 
 
 CORBATO
-  �Ah se�or Carlos! �Ya no quiere hablarnos?
+  ¡Ah señor Carlos! ¿Ya no quiere hablarnos?
 
 
 
@@ -14178,23 +14165,23 @@ Mas no me espanto, que entre tanta seda
 
 
 
-pi�rdese un pobre labrador de vista.
+piérdese un pobre labrador de vista.
 
 
 CARLOS
-  �Oh alcalde! �Oh Niso! �Qu� hay ac� de nuevo?
+  ¡Oh alcalde! ¡Oh Niso! ¿Qué hay acá de nuevo?
 
 
 
-�Hab�is visto a mi prima?
+¿Habéis visto a mi prima?
 
 
 NISO
-  A eso venimos.
+  A eso venimos.
 
 
 CORBATO
-  Y habrando, con perd�n de vuesas barbas,
+  Y habrando, con perdón de vuesas barbas,
 
 
 
@@ -14202,7 +14189,7 @@ par Dios, que diz que sois un gran bellaco.
 
 
 NISO
-  La marquesa Sirena lo confiesa,
+  La marquesa Sirena lo confiesa,
 
 
 
@@ -14210,11 +14197,11 @@ y no puede mentir una marquesa.
 
 
 CARLOS
-  Luego �ya la hab�is visto?
+  Luego ¿ya la habéis visto?
 
 
 CORBATO
-  Si sois hombre
+  Si sois hombre
 
 
 
@@ -14222,7 +14209,7 @@ de guardarme un secreto, que me hurga
 
 
 
-ac� porque le escupa, sabr�is cosa
+acá porque le escupa, sabréis cosa
 
 
 
@@ -14230,15 +14217,15 @@ que tien, por lo que os toca, de importaros.
 
 
 CARLOS
-  Acaba, pues. �Qu� esperas?
+  Acaba, pues. ¿Qué esperas?
 
 
 NISO
-  Call�, alcalde.
+  Callá, alcalde.
 
 
 CORBATO
-  Pardiobre que no puedo, y tengo miedo
+  Pardiobre que no puedo, y tengo miedo
 
 
 
@@ -14250,15 +14237,15 @@ con que me muera yo y enviude Menga.
 
 
 
-Niso, c�maras hay tambi�n de lengua.
+Niso, cámaras hay también de lengua.
 
 
 
-Sabed que est� Sirena en su aposento,
+Sabed que está Sirena en su aposento,
 
 
 
-visti�ndose dos sayas de Fenisa
+vistiéndose dos sayas de Fenisa
 
 
 
@@ -14274,7 +14261,7 @@ diz que quiso, par Dios, desdoncellalla;
 
 
 
-y de vos tambi�n huye, porque dice
+y de vos también huye, porque dice
 
 
 
@@ -14282,7 +14269,7 @@ que por gozar lo mucho que os promete,
 
 
 
-de primo, hab�is saltado en alcag�ete.
+de primo, habéis saltado en alcagüete.
 
 
 
@@ -14294,7 +14281,7 @@ que parece que estoy desopilado.
 
 
 CARLOS
-  Sirena me ha culpado injustamente,
+  Sirena me ha culpado injustamente,
 
 
 
@@ -14302,7 +14289,7 @@ que ignora lo que su honra he defendido.
 
 
 
-Mas �d�nde podr� estar tan encubierta
+Mas ¿dónde podrá estar tan encubierta
 
 
 
@@ -14314,7 +14301,7 @@ ha de hacer diligencias exquisitas?
 
 
 CORBATO
-  Par Dios, aunque haga m�s que un pleiteante,
+  Par Dios, aunque haga más que un pleiteante,
 
 
 
@@ -14330,7 +14317,7 @@ y cansadas, morir a nuestras manos;
 
 
 
-bien sab�is vos el sitio y la espesura,
+bien sabéis vos el sitio y la espesura,
 
 
 
@@ -14338,11 +14325,11 @@ que le esconden y guardan de la gente.
 
 
 CARLOS
-  La traza y el lugar es excelente.
+  La traza y el lugar es excelente.
 
 
 
-Yo tambi�n quiero irme con vosotros,
+Yo también quiero irme con vosotros,
 
 
 
@@ -14354,7 +14341,7 @@ mas no sepa Sirena de esto nada,
 
 
 
-que est� de m� sentida injustamente,
+que está de mí sentida injustamente,
 
 
 
@@ -14366,7 +14353,7 @@ ha de mudar de intento y de camino.
 
 
 CORBATO
-  Yo no pienso encargarme de secretos
+  Yo no pienso encargarme de secretos
 
 
 
@@ -14378,19 +14365,19 @@ si es que se atreve, porque yo en dos credos,
 
 
 
-si me embargaren, meter� los dedos.
+si me embargaren, meteré los dedos.
 
 
 CARLOS
-  Pues ven�os conmigo, iremos juntos,
+  Pues veníos conmigo, iremos juntos,
 
 
 
-y Niso podr� irse con mi prima;
+y Niso podrá irse con mi prima;
 
 
 
-que si ella est� a peligro de la honra,
+que si ella está a peligro de la honra,
 
 
 
@@ -14398,19 +14385,19 @@ yo del alma, que no se halla sin vella.
 
 
 CORBATO
-  V�monos, pues, que ya estar� vestida.
+  Vámonos, pues, que ya estará vestida.
 
 
 CARLOS
-  Cortesanos agravios y recelos,
+  Cortesanos agravios y recelos,
 
 
 
-hasta el vestido aqu� quiero dejaros,
+hasta el vestido aquí quiero dejaros,
 
 
 
-como en lugar que est� apestado todo;
+como en lugar que está apestado todo;
 
 
 
@@ -14418,14 +14405,13 @@ que es la corte ramera, y ya no dudo
 
 
 
-que he de salir de su inter�s desnudo.
+que he de salir de su interés desnudo.
 
 
-Vanse. Grita de dentro, y van saliendo mojados  CARMENIO,  CELAURO  y  otros
-pastores. Dentro CARMENIO.
+Vanse. Grita de dentro, y van saliendo mojados CARMENIO, CELAURO y otros pastores. Dentro CARMENIO.
 
 CARMENIO
-  Tirso, a recoger las parvas,
+  Tirso, a recoger las parvas,
 
 
 
@@ -14433,7 +14419,7 @@ que viene el agua sin tino.
 
 
 CELAURO
-  Deja el bieldo con que escarbas
+  Deja el bieldo con que escarbas
 
 
 
@@ -14445,7 +14431,7 @@ nos da con ella en las barbas.
 
 
 CLORI
-  Saca el trigo de las eras,
+  Saca el trigo de las eras,
 
 
 
@@ -14455,51 +14441,51 @@ las gavillas mete en casa.
 Salen CELAURO y CARMENIO.
 
 CELAURO
-  Junta la paja. �Qu� esperas?
+  Junta la paja. ¿Qué esperas?
 
 
 CARMENIO
-  Que ya la tempestad pasa.
+  Que ya la tempestad pasa.
 
 
 CELAURO
-  Par Dios que viene de veras.
+  Par Dios que viene de veras.
 
 
 CARMENIO
-  El cielo tien mal de madre.
+  El cielo tien mal de madre.
 
 
 Sale PEINADO.
 
 PEINADO
-  Eso s�. �Ver�s si afloja!
+  Eso sí. ¡Verás si afloja!
 
 
 CARMENIO
-  Recogeos ac�, comadre.
+  Recogeos acá, comadre.
 
 
 Sale CLORI.
 
 CLORI
-  Agua, Dios, que ruin se moja.
+  Agua, Dios, que ruin se moja.
 
 
 PEINADO
-  Y moj�base su padre.
+  Y mojábase su padre.
 
 
 CARMENIO
-  �Est� el trigo recogido?
+  ¿Está el trigo recogido?
 
 
 CELAURO
-  Lo m�s se queda trillado.
+  Lo más se queda trillado.
 
 
 PEINADO
-  Seg�n el agua ha venido,
+  Según el agua ha venido,
 
 
 
@@ -14507,31 +14493,31 @@ temo que se ha de ir a nado
 
 
 
-lo que hoga�o hemos cogido.
+lo que hogaño hemos cogido.
 
 
 CELAURO
-  Fue a ver nuesamo a Sirena,
+  Fue a ver nuesamo a Sirena,
 
 
 
-y a fe que �l vuelva fiambre.
+y a fe que él vuelva fiambre.
 
 
 CLORI
-  S�, aguardaldos con la cena.
+  Sí, aguardaldos con la cena.
 
 
 CARMENIO
-  No ha de quedar vivo enjambre,
+  No ha de quedar vivo enjambre,
 
 
 
-seg�n lo mucho que truena.
+según lo mucho que truena.
 
 
 PEINADO
-  �sta es la hora que el cura,
+  Ésta es la hora que el cura,
 
 
 
@@ -14543,7 +14529,7 @@ nubes hisopa y conjura.
 
 
 CARMENIO
-  �No est� �l jugando a la polla!
+  ¡No esté él jugando a la polla!
 
 
 
@@ -14551,7 +14537,7 @@ Que si un todo dar procura,
 
 
 
-no le har�n ir por justicia
+no le harán ir por justicia
 
 
 
@@ -14559,7 +14545,7 @@ a conjurar.
 
 
 CELAURO
-  S�, eso tiene;
+  Sí, eso tiene;
 
 
 
@@ -14571,7 +14557,7 @@ no hay conjuros.
 
 
 PEINADO
-  Pues bien viene
+  Pues bien viene
 
 
 
@@ -14581,35 +14567,35 @@ por el diezmo y la primicia.
 Sale MENGO mojado.
 
 MENGO
-  �Madre de Dios, y cu�l vengo!
+  ¡Madre de Dios, y cuál vengo!
 
 
 
-Dadme un camis�n y un sayo.
+Dadme un camisón y un sayo.
 
 
 CLORI
-  Remojado ven�s, Mengo.
+  Remojado venís, Mengo.
 
 
 MENGO
-  Mat� las mulas un rayo;
+  Mató las mulas un rayo;
 
 
 
-no s� c�mo vida tengo.
+no sé cómo vida tengo.
 
 
 CARMENIO
-  �Las mulas?
+  ¿Las mulas?
 
 
 MENGO
-  Y de camino
+  Y de camino
 
 
 
-el mast�n. Dadme otra ropa;
+el mastín. Dadme otra ropa;
 
 
 
@@ -14617,11 +14603,11 @@ que vengo hecho un palomino.
 
 
 PEINADO
-  �Qu� calado!
+  ¡Qué calado!
 
 
 MENGO
-  Hecho una sopa;
+  Hecho una sopa;
 
 
 
@@ -14633,11 +14619,11 @@ porque unas sopas con otras
 
 
 
-se avengan ac� mejor.
+se avengan acá mejor.
 
 
 CLORI
-  Bien tu enfermedad quillotras.
+  Bien tu enfermedad quillotras.
 
 
 
@@ -14645,17 +14631,17 @@ Lumbre hay.
 
 
 MENGO
-  Vo a entrar en calor.
+  Vo a entrar en calor.
 
 
 
-�Qu� mal tiempo para potras!
+¡Qué mal tiempo para potras!
 
 
 Vase. Sale TIRSO.
 
 TIRSO
-  �Ah! �Pese a quien me pari�,
+  ¡Ah! ¡Pese a quien me parió,
 
 
 
@@ -14663,27 +14649,27 @@ y al borracho que me hizo!
 
 
 CARMENIO
-  �Qu� traes, Tirso?
+  ¿Qué traes, Tirso?
 
 
 TIRSO
-  �Qu� s� yo?
+  ¿Qué sé yo?
 
 
 
-No he de ser m�s porquerizo.
+No he de ser más porquerizo.
 
 
 CELAURO
-  �La piara...?
+  ¿La piara...?
 
 
 TIRSO
-  Ah� qued�
+  Ahí quedó
 
 
 
-en la zah�rda; ahogado
+en la zahúrda; ahogado
 
 
 
@@ -14691,11 +14677,11 @@ se han diez o doce cochinos.
 
 
 CARMENIO
-  Tal agua escupe el nublado.
+  Tal agua escupe el nublado.
 
 
 TIRSO
-  No han bastado los encinos
+  No han bastado los encinos
 
 
 
@@ -14707,15 +14693,15 @@ hasta el alma.
 
 
 CLORI
-  �ntrate all�.
+  Éntrate allá.
 
 
 TIRSO
-  �Pobre de aquel que le coge
+  ¡Pobre de aquel que le coge
 
 
 
-do tan presto no hallar�
+do tan presto no hallará
 
 
 
@@ -14723,11 +14709,11 @@ poblado!
 
 
 CARMENIO
-  Cuando se moje,
+  Cuando se moje,
 
 
 
-�deso a ti qu� te da?
+¿deso a ti qué te da?
 
 
 
@@ -14735,21 +14721,21 @@ Mas gente a caballo suena.
 
 
 CELAURO
-  A la fe que vien de prisa.
+  A la fe que vien de prisa.
 
 
 CLORI
-  Hu�spedes teme la cena.
+  Huéspedes teme la cena.
 
 
 Sale PEINADO.
 
 CARMENIO
-  �Qui�n son?
+  ¿Quién son?
 
 
 PEINADO
-  Corbato y Fenisa,
+  Corbato y Fenisa,
 
 
 
@@ -14769,15 +14755,15 @@ vienen del agua perdidos.
 
 
 CLORI
-  Echa en la lumbre un manojo.
+  Echa en la lumbre un manojo.
 
 
 CELAURO
-  Ellos sean bien venidos.
+  Ellos sean bien venidos.
 
 
 CLORI
-  Ropa enjuta les vo a dar,
+  Ropa enjuta les vo a dar,
 
 
 
@@ -14787,47 +14773,47 @@ y aderezalles la cena.
 Vase.
 
 CARMENIO
-  Corre, que si a su pesar
+  Corre, que si a su pesar
 
 
 
-tanta agua bebi� Sirena,
+tanta agua bebió Sirena,
 
 
 
-gana traer� de cenar.
+gana traerá de cenar.
 
 
 CELAURO
-  Aun no escampa, y ya anochece.
+  Aun no escampa, y ya anochece.
 
 
 Dentro, los duques.
 
 DUQUE
-  El camino hemos perdido.
+  El camino hemos perdido.
 
 
 FLORO
-  Hacia all� una luz parece.
+  Hacia allí una luz parece.
 
 
 TIRSO
-  De nuevo suena r�ido,
+  De nuevo suena rüido,
 
 
 
-y el tiempo se est� en sus trece.
+y el tiempo se está en sus trece.
 
 
 Sale FLORO.
 
 FLORO
-  �Ah buen hombre! Hac� avisar
+  ¡Ah buen hombre! Hacé avisar
 
 
 
-al due�o de aquesta casa
+al dueño de aquesta casa
 
 
 
@@ -14843,42 +14829,41 @@ que ya se entran a apear.
 
 
 PEINADO
-  �Qu� duques?
+  ¿Qué duques?
 
 
 FLORO
-  Los de Breta�a,
+  Los de Bretaña,
 
 
 
-y el de Borgo�a.
+y el de Borgoña.
 
 
 PEINADO
-  �Arre all�!
+  ¡Arre allá!
 
 
 TIRSO
-  Llama a Corbato, alima�a.
+  Llama a Corbato, alimaña.
 
 
 PEINADO
-  Si aun no cabemos ac�,
+  Si aun no cabemos acá,
 
 
 
-�d� cabr� tanta compa�a!
+¡dó cabrá tanta compaña!
 
 
-Vase. Salen mojados y de camino LEONORA,  el  DUQUE  DE  BRETA�A  y  ENRICO,
-duque de Borgo�a, viejo.
+Vase. Salen mojados y de camino LEONORA, el DUQUE DE BRETAÑA y ENRICO, duque de Borgoña, viejo.
 
 ENRICO
-  �Rigurosa tempestad!
+  ¡Rigurosa tempestad!
 
 
 DUQUE
-  No la vi igual en mi vida.
+  No la vi igual en mi vida.
 
 
 
@@ -14894,11 +14879,11 @@ los pierde la oscuridad.
 
 
 ENRICO
-  Poned luces, y ver�n
+  Poned luces, y verán
 
 
 
-d�nde estamos. Pues, Leonora,
+dónde estamos. Pues, Leonora,
 
 
 
@@ -14910,7 +14895,7 @@ las nubes.
 
 
 LEONORA
-  No ha m�s de un hora
+  No ha más de un hora
 
 
 
@@ -14918,15 +14903,15 @@ que salimos de Dinhan
 
 
 
-y m�s en ella he pasado,
+y más en ella he pasado,
 
 
 
-se�or, que en toda la vida.
+señor, que en toda la vida.
 
 
 ENRICO
-  Poco el coche os ha guardado
+  Poco el coche os ha guardado
 
 
 
@@ -14934,7 +14919,7 @@ esta vez.
 
 
 LEONORA
-  Vengo perdida.
+  Vengo perdida.
 
 
 
@@ -14942,7 +14927,7 @@ Lindamente me he mojado.
 
 
 DUQUE
-  No fue posible llegar
+  No fue posible llegar
 
 
 
@@ -14950,7 +14935,7 @@ a esta aspereza los coches,
 
 
 
-y oblig�nos a apear
+y obligónos a apear
 
 
 
@@ -14958,27 +14943,27 @@ la borrasca.
 
 
 LEONORA
-  A muchas noches
+  A muchas noches
 
 
 
-de �stas, no hay qu� desear.
+de éstas, no hay qué desear.
 
 
 ENRICO
-  �Extra�os truenos!
+  ¡Extraños truenos!
 
 
 LEONORA
-  No puedo
+  No puedo
 
 
 
-volver en m�.
+volver en mí.
 
 
 DUQUE
-  �Qu� de espantos
+  ¡Qué de espantos
 
 
 
@@ -14986,11 +14971,11 @@ hicistes!
 
 
 LEONORA
-  T�ngolos miedo.
+  Téngolos miedo.
 
 
 ENRICO
-  Pues hartas santas y santos
+  Pues hartas santas y santos
 
 
 
@@ -15000,7 +14985,7 @@ acomodastes al credo.
 Sale CORBATO.
 
 CORBATO
-  Mucho el agua me ha obrigado
+  Mucho el agua me ha obrigado
 
 
 
@@ -15008,7 +14993,7 @@ esta vez, en mi conciencia,
 
 
 
-pues por ac� los ha echado.
+pues por acá los ha echado.
 
 
 
@@ -15020,7 +15005,7 @@ y el buen viejo que trae al lado.
 
 
 DUQUE
-  �Oh Corbato! �Sois el due�o
+  ¡Oh Corbato! ¿Sois el dueño
 
 
 
@@ -15028,11 +15013,11 @@ de esta granja vos?
 
 
 CORBATO
-  �Pues no?
+  ¿Pues no?
 
 
 
-Aunque es astil el terre�o,
+Aunque es astil el terreño,
 
 
 
@@ -15040,21 +15025,21 @@ Menga esta hacienda me dio
 
 
 
-en dote del matrime�o.
+en dote del matrimeño.
 
 
 Sale FENISA.
 
 FENISA
-  Con salud la duca venga.
+  Con salud la duca venga.
 
 
 
-�ntrese ac�.
+Éntrese acá.
 
 
 CORBATO
-  Aho, Fenisa,
+  Aho, Fenisa,
 
 
 
@@ -15062,7 +15047,7 @@ haz que lumbre el hogar tenga,
 
 
 
-y saca t� una camisa
+y saca tú una camisa
 
 
 
@@ -15074,25 +15059,25 @@ que aunque groseras y rotas,
 
 
 
-limpias al menos est�n.
+limpias al menos están.
 
 
 FENISA
-  �Mas que heis de chorrear gotas?
+  ¿Mas que heis de chorrear gotas?
 
 
 TIRSO
-  Hechos palominos van.
+  Hechos palominos van.
 
 
 DUQUE
-  Descalzadnos estas botas.
+  Descalzadnos estas botas.
 
 
-�ntranse los duques.
+Éntranse los duques.
 
 CORBATO
-  Hola, Crinudo, Mellado,
+  Hola, Crinudo, Mellado,
 
 
 
@@ -15108,7 +15093,7 @@ y en el hogar la colgad.
 
 
 
-Corre t�, Tirso, al ganado;
+Corre tú, Tirso, al ganado;
 
 
 
@@ -15116,19 +15101,19 @@ trae dos cabritos o tres,
 
 
 
-y t� otros tantos lechones.
+y tú otros tantos lechones.
 
 
 TIRSO
-  �Ha escampado?
+  ¿Ha escampado?
 
 
 CORBATO
-  �No lo ves?
+  ¿No lo ves?
 
 
 
-Corre t�, y pela pichones
+Corre tú, y pela pichones
 
 
 
@@ -15136,41 +15121,41 @@ y gallinas.
 
 
 PEINADO
-  Vamos, pues.
+  Vamos, pues.
 
 
 CORBATO
-  Aqu� en el portal est�n
+  Aquí en el portal estén
 
 
 
-los esca�os y la mesa;
+los escaños y la mesa;
 
 
 
-que es m�s ancho y cabr�n bien.
+que es más ancho y cabrán bien.
 
 
 
-Saca t� fruta.
+Saca tú fruta.
 
 
 PEINADO
-  �La priesa...
+  ¡La priesa...
 
 
 TIRSO
-  Ya van.
+  Ya van.
 
 
 CORBATO
-  En un santiam�n.
+  En un santiamén.
 
 
 Vanse TIRSO y PEINADO, y salen CARLOS, SIRENA.
 
 CARLOS
-  Basta, esposa de mi vida,
+  Basta, esposa de mi vida,
 
 
 
@@ -15178,15 +15163,15 @@ que el cielo nos ha juntado
 
 
 
-todos aqu�.
+todos aquí.
 
 
 SIRENA
-  La venida
+  La venida
 
 
 
-del de Borgo�a ha quitado
+del de Borgoña ha quitado
 
 
 
@@ -15198,7 +15183,7 @@ servicios y parentesco
 
 
 
-de mi padre, espero d�l
+de mi padre, espero dél
 
 
 
@@ -15206,7 +15191,7 @@ el descanso que te ofrezco.
 
 
 CARLOS
-  No temo la ira cr�el
+  No temo la ira crüel
 
 
 
@@ -15214,31 +15199,31 @@ de Filipo, si parezco
 
 
 
-delante d�l, pues est�
+delante dél, pues está
 
 
 
-el de Borgo�a ahora aqu�.
+el de Borgoña ahora aquí.
 
 
 CORBATO
-  �A qu� os sal�s por ac�?
+  ¿A qué os salís por acá?
 
 
 
-�A que os conozcan? As�
+¿A que os conozcan? Así
 
 
 
-�desaquillotr�steos ya?
+¿desaquillotrásteos ya?
 
 
 
-�Hase el enojo acabado?
+¿Hase el enojo acabado?
 
 
 CARLOS
-  El agua del torbellino
+  El agua del torbellino
 
 
 
@@ -15246,7 +15231,7 @@ nuestros celos ha ahogado.
 
 
 CORBATO
-  �l es gentil desatino
+  Él es gentil desatino
 
 
 
@@ -15262,15 +15247,15 @@ que a los de la corte os da.
 
 
 SIRENA
-  �No hay celos aqu�?
+  ¿No hay celos aquí?
 
 
 CORBATO
-  Es quimera,
+  Es quimera,
 
 
 
-qu�tase eso por ac�
+quítase eso por acá
 
 
 
@@ -15282,23 +15267,23 @@ Mas escondeos, que si os ven
 
 
 
-los duques, que est�n al fuego,
+los duques, que están al fuego,
 
 
 
-no pienso que os ir� bien.
+no pienso que os irá bien.
 
 
 CARLOS
-  �No han de cenar aqu�?
+  ¿No han de cenar aquí?
 
 
 CORBATO
-  Y luego.
+  Y luego.
 
 
 CARLOS
-  Pues cuando a la mesa est�n,
+  Pues cuando a la mesa estén,
 
 
 
@@ -15310,7 +15295,7 @@ trazar los platos.
 
 
 CORBATO
-  S� haremos
+  Sí haremos
 
 
 
@@ -15322,26 +15307,25 @@ que en el campo no sabemos
 
 
 
-cu�l es principio o el pos.
+cuál es principio o el pos.
 
 
 CARLOS
-  Pues entr�monos, marquesa,
+  Pues entrémonos, marquesa,
 
 
 
 antes que a cenar se asienten.
 
 
-Vanse CARLOS y  SIRENA.  Salen  PEINADO  y  TIRSO,  con  mesa  y  sillas  de
-costillas; y viene la mesa puesta.
+Vanse CARLOS y SIRENA. Salen PEINADO y TIRSO, con mesa y sillas de costillas; y viene la mesa puesta.
 
 CORBATO
-  �Ea! �No pon�is la mesa?
+  ¡Ea! ¿No ponéis la mesa?
 
 
 TIRSO
-  �Ah! Pregue a Dios que revienten
+  ¡Ah! Pregue a Dios que revienten
 
 
 
@@ -15349,11 +15333,11 @@ con ello el duque y duquesa.
 
 
 CORBATO
-  Calla, bestia. Saca sillas.
+  Calla, bestia. Saca sillas.
 
 
 PEINADO
-  �Pues han de caber en �stas
+  ¿Pues han de caber en éstas
 
 
 
@@ -15361,7 +15345,7 @@ tanta braga y lechuguillas?
 
 
 CORBATO
-  Si a duques tienen acuestas,
+  Si a duques tienen acuestas,
 
 
 
@@ -15373,15 +15357,15 @@ Di que salgan a cenar;
 
 
 
-que ya se habr�n enjugado.
+que ya se habrán enjugado.
 
 
 PEINADO
-  Tirso, velos a llamar.
+  Tirso, velos a llamar.
 
 
 CORBATO
-  Mas qu�, �no tienes pensado
+  Mas qué, ¿no tienes pensado
 
 
 
@@ -15389,21 +15373,21 @@ algo agora que cantar?
 
 
 TIRSO
-  Si tengo o no, ello dir�.
+  Si tengo o no, ello dirá.
 
 
 PEINADO
-  �Mas que mos haces re�r?
+  ¿Mas que mos haces reír?
 
 
 TIRSO
-  Los duques salen ac�.
+  Los duques salen acá.
 
 
 Salen el duque, la duquesa y FLORO.
 
 DUQUE
-  Luego nos podemos ir,
+  Luego nos podemos ir,
 
 
 
@@ -15411,11 +15395,11 @@ pues ha serenado ya.
 
 
 CORBATO
-  Cenar�is, se�or primero;
+  Cenaréis, señor primero;
 
 
 
-que porque estim�is mijor
+que porque estiméis mijor
 
 
 
@@ -15431,7 +15415,7 @@ pues falta a lo caballero.
 
 
 DUQUE
-  Yo, Corbato, os pagar�
+  Yo, Corbato, os pagaré
 
 
 
@@ -15439,11 +15423,11 @@ la costa.
 
 
 CORBATO
-  Poca es la hecha;
+  Poca es la hecha;
 
 
 
-ning�n cuidado eso os d�;
+ningún cuidado eso os dé;
 
 
 
@@ -15451,15 +15435,15 @@ que todo es de la cosecha
 
 
 
-con lo que os hemos merc�.
+con lo que os hemos mercé.
 
 
 
-�Ea!, no hay m�s que esperar.
+¡Ea!, no hay más que esperar.
 
 
 
-Son sentarse; que se enfr�a
+Son sentarse; que se enfría
 
 
 
@@ -15467,7 +15451,7 @@ lo poco que hay que les dar,
 
 
 
-si es que antes que salga el d�a
+si es que antes que salga el día
 
 
 
@@ -15475,26 +15459,25 @@ a la corte han de llegar.
 
 
 DUQUE
-  Estamos en casa ajena:
+  Estamos en casa ajena:
 
 
 
-obedezcamos, se�or.
+obedezcamos, señor.
 
 
-Danle aguamanos. Si�ntanse, y van cenando los tres, y FLORO est� detr�s  del
-DUQUE DE BRETA�A.
+Danle aguamanos. Siéntanse, y van cenando los tres, y FLORO está detrás del DUQUE DE BRETAÑA.
 
 PEINADO
-  ��sta es la duca?
+  ¿Ésta es la duca?
 
 
 TIRSO
-  �No es buena?
+  ¿No es buena?
 
 
 PEINADO
-  En Belvalle el regidor
+  En Belvalle el regidor
 
 
 
@@ -15502,7 +15485,7 @@ dio aher una Madalena
 
 
 
-para muesa cofrad�a,
+para muesa cofradía,
 
 
 
@@ -15510,7 +15493,7 @@ y noramala, por Dios,
 
 
 
-aho, para su se�or�a,
+aho, para su señoría,
 
 
 
@@ -15518,37 +15501,37 @@ si se quedase entre nos.
 
 
 TIRSO
-  �Buena Madalena har�a!
+  ¡Buena Madalena haría!
 
 
 PEINADO
-  �No tien gorguera y copete?
+  ¿No tien gorguera y copete?
 
 
 
-�Falt�bale m�s que el bote?
+¿Faltábale más que el bote?
 
 
 
-Dig�moselo.
+Digámoselo.
 
 
 TIRSO
-  Anda, vete.
+  Anda, vete.
 
 
 PEINADO
-  M�s tiesa est� que un virote.
+  Más tiesa está que un virote.
 
 
 TIRSO
-  Es moza de buen jarrete.
+  Es moza de buen jarrete.
 
 
 Sirven FENISA y CLORI y pastores.
 
 DUQUE
-  ��sase poner ac�
+  ¿úsase poner acá
 
 
 
@@ -15560,19 +15543,19 @@ el cuchillo?
 
 
 CORBATO
-  Ser podr�.
+  Ser podrá.
 
 
 DUQUE
-  Al rev�s el pan me han dado.
+  Al revés el pan me han dado.
 
 
 FENISA
-  Anda todo al rev�s ya.
+  Anda todo al revés ya.
 
 
 CORBATO
-  Comed, y no par�is mientes
+  Comed, y no paréis mientes
 
 
 
@@ -15580,15 +15563,15 @@ en eso.
 
 
 PEINADO
-  Empieza a templar.
+  Empieza a templar.
 
 
 TIRSO
-  Yo no tiemplo, impertinentes.
+  Yo no tiemplo, impertinentes.
 
 
 NISO
-  Sin templar pod�is cantar
+  Sin templar podéis cantar
 
 
 
@@ -15596,11 +15579,11 @@ al son que os hacen los dientes.
 
 
 TIRSO
-  [Canta.] �Pero Gil amaba a Menga
+  [Canta.] «Pero Gil amaba a Menga
 
 
 
-desde el d�a que en la boda
+desde el día que en la boda
 
 
 
@@ -15620,11 +15603,11 @@ porque no hay amor sin obras,
 
 
 
-al rev�s del gusto suyo
+al revés del gusto suyo
 
 
 
-hac�a todas las cosas.
+hacía todas las cosas.
 
 
 
@@ -15632,7 +15615,7 @@ Erraba siempre en los medios
 
 
 
-gui�ndose por su cholla,
+guiándose por su cholla,
 
 
 
@@ -15640,11 +15623,11 @@ y quien en los medios yerra,
 
 
 
-jam�s con los fines topa.
+jamás con los fines topa.
 
 
 
-Por fuerza quer�a alcanzalla;
+Por fuerza quería alcanzalla;
 
 
 
@@ -15660,7 +15643,7 @@ para que el puerco la coma.
 
 
 
-Si botines le ped�a,
+Si botines le pedía,
 
 
 
@@ -15684,11 +15667,11 @@ y empeoraba de hora en hora,
 
 
 
-como roc�n de Gaeta,
+como rocín de Gaeta,
 
 
 
-quillotr�ndose la moza.
+quillotrándose la moza.
 
 
 
@@ -15696,11 +15679,11 @@ Fue con ella al palomar
 
 
 
-una ma�ana entre otras,
+una mañana entre otras,
 
 
 
-y mand�le que alcanzase
+y mandóle que alcanzase
 
 
 
@@ -15708,7 +15691,7 @@ una palomita hermosa.
 
 
 
-Subi� diligente Pedro,
+Subió diligente Pedro,
 
 
 
@@ -15716,19 +15699,19 @@ y al tomalla por la cola,
 
 
 
-vol�sele, y en las manos
+volósele, y en las manos
 
 
 
-dej�le las plumas solas.
+dejóle las plumas solas.
 
 
 
-Amohin�se Menga de esto,
+Amohinóse Menga de esto,
 
 
 
-cont�lo a las labradoras
+contólo a las labradoras
 
 
 
@@ -15748,15 +15731,15 @@ Pedro a las palomas.
 
 
 
-Por la cota las toma, toma.�
+Por la cota las toma, toma.»
 
 
 DUQUE
-  Si fueras poeta, Floro,
+  Si fueras poeta, Floro,
 
 
 
-en esta ocasi�n, no pongas
+en esta ocasión, no pongas
 
 
 
@@ -15764,7 +15747,7 @@ duda que de ti creyera
 
 
 
-que escrito hab�as la historia
+que escrito habías la historia
 
 
 
@@ -15772,11 +15755,11 @@ de mi amor mal gobernado.
 
 
 FLORO
-  Deseng��ente las coplas,
+  Desengáñente las coplas,
 
 
 
-pues no te desenga��
+pues no te desengañó
 
 
 
@@ -15784,7 +15767,7 @@ lo que yo te dije en prosa.
 
 
 DUQUE
-  Al rev�s serv� a Sirena;
+  Al revés serví a Sirena;
 
 
 
@@ -15800,15 +15783,15 @@ en fiarme de Leonora.
 
 
 
-Gal�n al rev�s he sido;
+Galán al revés he sido;
 
 
 
-mas, Floro, �c�mo no notas
+mas, Floro, ¿cómo no notas
 
 
 
-desde que aqu� me sent�,
+desde que aquí me senté,
 
 
 
@@ -15816,11 +15799,11 @@ que no hay manjar que me pongan
 
 
 
-sino al rev�s? El cuchillo
+sino al revés? El cuchillo
 
 
 
-la punta hacia m� acomodan,
+la punta hacia mí acomodan,
 
 
 
@@ -15832,19 +15815,19 @@ la servilleta me doblan
 
 
 
-al rev�s, el pan asientan
+al revés, el pan asientan
 
 
 
-la cara abajo: �qu� cosas
+la cara abajo: ¿qué cosas
 
 
 
-son �stas?
+son éstas?
 
 
 FLORO
-  Son groser�as
+  Son groserías
 
 
 
@@ -15852,11 +15835,11 @@ de esta gente labradora.
 
 
 DUQUE
-  No, Floro; ordenadamente
+  No, Floro; ordenadamente
 
 
 
-van sirviendo al de Borgo�a
+van sirviendo al de Borgoña
 
 
 
@@ -15864,7 +15847,7 @@ y a la duquesa los platos;
 
 
 
-s�lo excluyen mi persona.
+sólo excluyen mi persona.
 
 
 
@@ -15880,15 +15863,15 @@ me sirvieron la toalla.
 
 
 FLORO
-  Turbaci�n de gente tosca.
+  Turbación de gente tosca.
 
 
 DUQUE
-  Cuando sentarnos quisimos,
+  Cuando sentarnos quisimos,
 
 
 
-vuelta hall� mi silla sola
+vuelta hallé mi silla sola
 
 
 
@@ -15896,7 +15879,7 @@ las espaldas a la mesa;
 
 
 
-despu�s en la cena toda
+después en la cena toda
 
 
 
@@ -15904,7 +15887,7 @@ mi sospecha he confirmado:
 
 
 
-di�ronme asada una polla
+diéronme asada una polla
 
 
 
@@ -15916,11 +15899,11 @@ en un plato.
 
 
 FLORO
-  Calla agora.
+  Calla agora.
 
 
 DUQUE
-  Cuando pido de beber,
+  Cuando pido de beber,
 
 
 
@@ -15932,11 +15915,11 @@ y el vino me echan encima.
 
 
 FLORO
-  As� se usa en Barcelona.
+  Así se usa en Barcelona.
 
 
 
-�Qu� pueden aqu� saber
+¿Qué pueden aquí saber
 
 
 
@@ -15952,7 +15935,7 @@ ni trinchan sino cebollas?
 
 
 DUQUE
-  Pron�sticos con que amor,
+  Pronósticos con que amor,
 
 
 
@@ -15960,15 +15943,15 @@ porque me afrente y me corra,
 
 
 
-mandando al rev�s servirme,
+mandando al revés servirme,
 
 
 
-de amante al rev�s me nota.
+de amante al revés me nota.
 
 
 TIRSO
-  [Canta.] �Corrido Pedro de verse
+  [Canta.] «Corrido Pedro de verse
 
 
 
@@ -15984,7 +15967,7 @@ dio parte de sus congojas;
 
 
 
-mas respondi�le la vieja:
+mas respondióle la vieja:
 
 
 
@@ -16008,7 +15991,7 @@ no te espantes que no cojas,
 
 
 
-porque mal cantar� misa
+porque mal cantará misa
 
 
 
@@ -16020,7 +16003,7 @@ El que por las hojas tira,
 
 
 
-mal los r�banos quillotra,
+mal los rábanos quillotra,
 
 
 
@@ -16028,7 +16011,7 @@ que no se deja arrancar
 
 
 
-el r�bano por las hojas.
+el rábano por las hojas.
 
 
 
@@ -16036,7 +16019,7 @@ Ya que erraste a los principios,
 
 
 
-c�ntente en bateos y bodas,
+cántente en bateos y bodas,
 
 
 
@@ -16048,15 +16031,13 @@ a su pandero las mozas:
 
 
 
-Por la cola las toma, etc.�
+Por la cola las toma, etc.»
 
 
-Cuando cantan esto, salen CARLOS y SIRENA de labradores, y  sacan  cada  uno
-un plato y en �l un r�bano, las hojas hacia el DUQUE, h�ncanse  de  rodillas
-y dice FENISA.
+Cuando cantan esto, salen CARLOS y SIRENA de labradores, y sacan cada uno un plato y en él un rábano, las hojas hacia el DUQUE, híncanse de rodillas y dice FENISA.
 
 FENISA
-  Se�or duque de Breta�a,
+  Señor duque de Bretaña,
 
 
 
@@ -16064,7 +16045,7 @@ si no ha entendido la historia,
 
 
 
-sepa que por �l se ha dicho,
+sepa que por él se ha dicho,
 
 
 
@@ -16084,7 +16065,7 @@ le presentan lo que ve
 
 
 
-el r�bano por las hojas.
+el rábano por las hojas.
 
 
 
@@ -16104,11 +16085,11 @@ para acabar en la gloria.
 
 
 
-Si es discreci�n �sa o no,
+Si es discreción ésa o no,
 
 
 
-nueso duque de Borgo�a
+nueso duque de Borgoña
 
 
 
@@ -16120,15 +16101,15 @@ a que estos preitos componga.
 
 
 DUQUE
-  �Sirena! �Carlos! �Qu� es esto?
+  ¡Sirena! ¡Carlos! ¿Qué es esto?
 
 
 CARLOS
-  Diligencias que la honra,
+  Diligencias que la honra,
 
 
 
-gran se�or, hacer procura.
+gran señor, hacer procura.
 
 
 
@@ -16136,7 +16117,7 @@ La tempestad rigurosa
 
 
 
-nos ha juntado aqu� a todos,
+nos ha juntado aquí a todos,
 
 
 
@@ -16148,7 +16129,7 @@ contra amorosos deseos
 
 
 
-en ti la raz�n honrosa.
+en ti la razón honrosa.
 
 
 
@@ -16160,7 +16141,7 @@ es mi prima y es mi esposa.
 
 
 
-Juzga si es raz�n, se�or,
+Juzga si es razón, señor,
 
 
 
@@ -16180,11 +16161,11 @@ sal vencedor de ti mismo,
 
 
 
-y mi osad�a perdona.
+y mi osadía perdona.
 
 
 ENRICO
-  Duque, si vine a Breta�a,
+  Duque, si vine a Bretaña,
 
 
 
@@ -16232,7 +16213,7 @@ y agravio de vuestra esposa.
 
 
 
-Pues Dios aqu� nos junt�,
+Pues Dios aquí nos juntó,
 
 
 
@@ -16244,7 +16225,7 @@ con que ella y Carlos se partan
 
 
 
-desde este sitio a Borgo�a;
+desde este sitio a Borgoña;
 
 
 
@@ -16268,7 +16249,7 @@ juveniles apetitos.
 
 
 LEONORA
-  [Aparte.] Albricias, venganza loca
+  [Aparte.] Albricias, venganza loca
 
 
 
@@ -16288,15 +16269,15 @@ a fortalecerse torna
 
 
 
-la obligaci�n de mi honor.
+la obligación de mi honor.
 
 
 DUQUE
-  No es tiempo de que responda,
+  No es tiempo de que responda,
 
 
 
-se�or, al justo consejo
+señor, al justo consejo
 
 
 
@@ -16308,11 +16289,11 @@ sino que callando os pida
 
 
 
-que le hag�is poner por obra.
+que le hagáis poner por obra.
 
 
 ENRICO
-  Alto, pues; mis caballeros
+  Alto, pues; mis caballeros
 
 
 
@@ -16328,11 +16309,11 @@ y nosotros, pues es hora,
 
 
 
-a Breta�a nos partamos.
+a Bretaña nos partamos.
 
 
 CARLOS
-  Tu prudencia, se�or, sola
+  Tu prudencia, señor, sola
 
 
 
@@ -16348,19 +16329,19 @@ Tus pies mil veces besamos.
 
 
 DUQUE
-  Basta, Fenisa donosa,
+  Basta, Fenisa donosa,
 
 
 
-que al rev�s me dais le cena...
+que al revés me dais le cena...
 
 
 FENISA
-  Y el r�bano por las hojas.
+  Y el rábano por las hojas.
 
 
 DUQUE
-  Yo en dote os doy mil ducados;
+  Yo en dote os doy mil ducados;
 
 
 
@@ -16372,15 +16353,15 @@ de la cena otros dos mil.
 
 
 CORBATO
-  D�te Francia su corona.
+  Déte Francia su corona.
 
 
 ENRICO
-  Alto de aqu�, caballeros.
+  Alto de aquí, caballeros.
 
 
 CARMENIO
-  Aprienda a hacer desde agora
+  Aprienda a hacer desde agora
 
 
 
@@ -16392,21 +16373,20 @@ las diligencias que importan.
 
 
 FENISA
-  Y si no, v�ngase ac�,
+  Y si no, véngase acá,
 
 
 
-y cenar� a poca costa,
+y cenará a poca costa,
 
 
 
-porque s�lo le daremos
+porque sólo le daremos
 
 
 
-el r�bano por las hojas.
+el rábano por las hojas.
 
 
-Fin de la famosa comedia de El pretendiente al rev�s.
-
+Fin de la famosa comedia de El pretendiente al revés.
 

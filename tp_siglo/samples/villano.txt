@@ -1,13 +1,10 @@
+El villano en su rincón
+Lope de Vega
 
 
-                           El villano en su rincón
-
-                                Lope de Vega
-
-
-                                 Personajes
-
-
+Personajes
+ 
+                        
 LISARDA, labradora.
 
 BELISA.
@@ -40,7 +37,7 @@ TIRSO, labrador.
 
 UN ALCAIDE.
 
-ACOMPAŃAMIENTO.
+ACOMPAÑAMIENTO.
 
 VILLANOS.
 
@@ -52,21 +49,18 @@ ENMASCARADOS.
 
 
 
-
-                                Acto primero
-
+Acto primero
 
 
- Salen LISARDA, labradora, en hábito de dama, y BELISA, prima suya, y detrás
-          OTÓN, caballero, y FINARDO, amigo suyo, y MARÍN, lacayo.
+Salen LISARDA, labradora, en hábito de dama, y BELISA, prima suya, y detrás OTÓN, caballero, y FINARDO, amigo suyo, y MARÍN, lacayo.
 BELISA.
-żDesto gustas?
+¿Desto gustas?
 
 LISARDA.
-                           Desto gusto.
+                           Desto gusto.
 
 BELISA.
-ˇQué notable inclinación!
+¡Qué notable inclinación!
 
 OTÓN.
 Casadas pienso que son.
@@ -76,7 +70,7 @@ No te resulte disgusto;
 
 
 que en el hábito parecen
-                                                                           5
+5
 
 gente noble y principal.
 
@@ -90,8 +84,8 @@ juntas matan y enloquecen.
 Mas si el ánimo faltara,
 
 
-żqué ocasión no se perdiera?
-                                                                          10
+¿qué ocasión no se perdiera?
+10
 LISARDA.
 Si bien no me pareciera,
 
@@ -106,15 +100,15 @@ es el buen talle del hombre.
 
 BELISA.
 Por mi fe que es gentilhombre.
-                                                                          15
+15
 FINARDO.
-żVolverás a hablarla?
+¿Volverás a hablarla?
 
 OTÓN.
-                                    Sí.
+                                    Sí.
 
 LISARDA.
-ˇCon qué estilo tan galán
+¡Con qué estilo tan galán
 
 
 tantas joyas me compró!
@@ -124,7 +118,7 @@ Habla bajo, porque yo
 
 
 pienso, Lisarda, que van
-                                                                          20
+20
 
 siguiendo nuestras pisadas.
 
@@ -135,11 +129,11 @@ BELISA.
 Vuelve muy aprisa amor
 
 
-por las prendas empeńadas.
+por las prendas empeñadas.
 
 LISARDA.
 Todo lo que éste me ha dado,
-                                                                          25
+25
 
 de opinión ha de perder,
 
@@ -154,12 +148,12 @@ mas podrélo remediar
 
 
 con darle una prenda yo
-                                                                          30
+30
 
 que valga más.
 
 BELISA.
-                          Eso no.
+                          Eso no.
 
 OTÓN.
 Quiero, Finardo, llegar.
@@ -172,7 +166,7 @@ hermosa dama, tendréis,
 
 
 y apostaré que estaréis
-                                                                          35
+35
 
 descontenta de la mía,
 
@@ -187,9 +181,9 @@ Yo me holgara de obligaros,
 
 
 por el peligro que tengo,
-                                                                          40
+40
 
-seńor, a que me dejéis,
+señor, a que me dejéis,
 
 
 cierto de que en el lugar
@@ -202,7 +196,7 @@ muchas veces me veréis.
 
 
 Y para satisfación
-                                                                          45
+45
 
 de que no os digo mentira
 
@@ -217,7 +211,7 @@ esta sortija tomad.
 
 OTÓN.
 Por prenda vuestra la aceto,
-                                                                          50
+50
 
 y no seguiros prometo,
 
@@ -232,7 +226,7 @@ pues el alma me lleváis,
 
 
 ni el ver, pues ya me dejáis,
-                                                                          55
+55
 
 que esto tan aprisa os diga;
 
@@ -247,7 +241,7 @@ El noble que ama, jamás
 
 
 hizo a lo que quiso fuerza.
-                                                                          60
+60
 
 Esto espero yo de vos,
 
@@ -255,17 +249,17 @@ Esto espero yo de vos,
 pues vuestra nobleza es llana;
 
 
-que aquí me veréis mańana.
+que aquí me veréis mañana.
 
 
 Y quedaos con Dios.
 
 OTÓN.
-                                   Adiós.
+                                   Adiós.
 
 LISARDA.
 Yo juro, que si os agrado,
-                                                                          65
+65
 
 que de vos lo voy también,
 
@@ -280,7 +274,7 @@ Yo no pasaré de aquí,
 
 
 satisfecho que os veré.
-                                                                          70
+70
 LISARDA.
 Pues yo de aquí pasaré,
 
@@ -297,50 +291,50 @@ OTÓN.
 Id con Dios.
 
 LISARDA.
-                       Quedad con Dios.
-                                                                          75
-                                Vanse ellas.
+                       Quedad con Dios.
+75
+Vanse ellas.
 FINARDO.
-żQué tenemos?
+¿Qué tenemos?
 
 OTÓN.
-                           Que seńora
+                           Que señora
 
 
 de gran calidad, sin duda.
 
 FINARDO.
-Lindamente os ha engańado.
+Lindamente os ha engañado.
 
 OTÓN.
 Yo me doy por bien pagado,
 
 
 que eternamente acuda
-                                                                          80
+80
 
 donde dice que vendrá.
 
 FINARDO.
-żQué te parece, Marín,
+¿Qué te parece, Marín,
 
 
-deste tu seńor?
+deste tu señor?
 
 MARÍN.
-                          Que en fin
+                          Que en fin
 
 
 tras sus antojos se va.
 
 
-żQué bestia le hubiera dado
-                                                                          85
+¿Qué bestia le hubiera dado
+85
 
 tantas joyas a mujer
 
 
-sin coche, silla o tańer
+sin coche, silla o tañer
 
 
 sólo un escudero ha hallado?
@@ -350,7 +344,7 @@ No la pensaba seguir...
 
 
 La palabra me tomó...
-                                                                          90
+90
 
 pero perdone, que yo
 
@@ -365,7 +359,7 @@ que soy más cuerdo, aunque poco.
 
 
 Parte, por gusto de un loco,
-                                                                          95
+95
 
 Marín, hasta verla entrar
 
@@ -373,14 +367,14 @@ Marín, hasta verla entrar
 en la casa donde vive.
 
 
-żQué miras? Vela siguiendo.
+¿Qué miras? Vela siguiendo.
 
 MARÍN.
 Voy tras ella, porque entiendo
 
 
 que ya Finardo apercibe
-                                                                         100
+100
 
 la vaya que te ha de dar.
 
@@ -394,8 +388,8 @@ que yo sé que es ocasión
 para podella enviar.
 
 FINARDO.
-Fingís estar engańado
-                                                                         105
+Fingís estar engañado
+105
 
 porque no os tenga por necio.
 
@@ -406,16 +400,16 @@ Para mí no tiene precio,
 Finardo, un término honrado.
 
 FINARDO.
-żTérmino honrado es tomar
+¿Término honrado es tomar
 
 
 más de trecientos escudos
-                                                                         110
+110
 
 de joyas de oro?
 
 OTÓN.
-                             A los mudos
+                             A los mudos
 
 
 haréis, porfiando, hablar.
@@ -424,14 +418,14 @@ haréis, porfiando, hablar.
 No os lo pensaba decir.
 
 
-żConocéis piedras?
+¿Conocéis piedras?
 
 FINARDO.
-                                 Muy bien.
+                                 Muy bien.
 
 OTÓN.
-żPuede ser que a un hombre den
-                                                                         115
+¿Puede ser que a un hombre den
+115
 
 la que puede competir
 
@@ -445,8 +439,8 @@ FINARDO.
 Ésta tiene gran valor.
 
 OTÓN.
-Que son seńoras recelo.
-                                                                         120
+Que son señoras recelo.
+120
 FINARDO.
 Piedra es ésta que me admira.
 
@@ -461,9 +455,9 @@ porque mil veces se mira
 
 
 tan bien labrado un cristal
-                                                                         125
+125
 
-que aun engańa a quien lo entiende.
+que aun engaña a quien lo entiende.
 
 OTÓN.
 Ya vuestro temor me ofende:
@@ -476,7 +470,7 @@ Hay seis o siete maneras
 
 
 de mujeres pescadoras
-                                                                         130
+130
 
 que andan, Otón, a estas horas
 
@@ -491,7 +485,7 @@ que no se ha de destapar,
 
 
 porque, en viéndola, no hay dar
-                                                                         135
+135
 
 una blanca de valor.
 
@@ -506,7 +500,7 @@ y algo de un ojo rasgado
 
 
 que encubre nariz y hocico,
-                                                                         140
+140
 
 pesca de sólo su anzuelo
 
@@ -521,7 +515,7 @@ del boquirrubio mozuelo.
 
 
 Otra sale con su manto
-                                                                         145
+145
 
 como barba hasta la cinta;
 
@@ -536,7 +530,7 @@ Pesca un barbo boquiabierto,
 
 
 destos que andan a casarse,
-                                                                         150
+150
 
 que piensan que han de toparse
 
@@ -551,7 +545,7 @@ Otra sale a lo bizarro,
 
 
 tercia el manto con desgarro,
-                                                                         155
+155
 
 y anda el rostro entre dos luces.
 
@@ -566,7 +560,7 @@ descubierta a la respuesta,
 
 
 y, cuando pide, tapada,
-                                                                         160
+160
 
 pesca un delfín a caballo,
 
@@ -581,7 +575,7 @@ que sabe bien castigallo,
 
 
 y quédalo por la pena.
-                                                                         165
+165
 
 Otra veréis cuyo fin
 
@@ -589,14 +583,14 @@ Otra veréis cuyo fin
 es dar un nuevo chapín,
 
 
-que aquella mańana estrena.
+que aquella mañana estrena.
 
 
 Acuden a la virilla
 
 
 de plata resplandeciente
-                                                                         170
+170
 
 mil, pues de toda gente;
 
@@ -611,7 +605,7 @@ dice que vive, a diez hombres,
 
 
 en calles de treinta nombres.
-                                                                         175
+175
 
 Otras hay más cautelosas,
 
@@ -619,14 +613,14 @@ Otras hay más cautelosas,
 destas de coche prestado:
 
 
-pescan un seńor seguro,
+pescan un señor seguro,
 
 
 llevan diamante, oro puro,
 
 
 que se cobra ejecutado.
-                                                                         180
+180
 
 Haya la noche bujías,
 
@@ -641,7 +635,7 @@ después de seis gracias frías
 
 
 y un poquito de almohada.
-                                                                         185
+185
 
 Otras hay que andan al vuelo:
 
@@ -656,7 +650,7 @@ porque son red barredera
 
 
 de los altos y los bajos.
-                                                                         190
+190
 
 Éstas pescan renacuajos,
 
@@ -671,7 +665,7 @@ duraznos, melocatones,
 
 
 huevos, sardinas, melones,
-                                                                         195
+195
 
 besugos, peras, manzanas,
 
@@ -686,7 +680,7 @@ lo que vuestra dama ha sido;
 
 
 que yo lo sé para mí.
-                                                                         200
+200
 OTÓN.
 Paréceme discreción
 
@@ -694,39 +688,39 @@ Paréceme discreción
 de apretante cortesano.
 
 
-ˇQué enfadoso estáis!
+¡Qué enfadoso estáis!
 
 FINARDO.
-                                     Es llano,
+                                     Es llano,
 
 
 diciéndoos verdad, Otón.
 
-                                 Sale MARÍN.
+Sale MARÍN.
 MARÍN.
-ˇEa! ˇAlbricias!
+¡Ea! ¡Albricias!
 
 OTÓN.
-                           żCómo ansí?
-                                                                         205
+                           ¿Cómo ansí?
+205
 MARÍN.
-ˇLinda cosa!
+¡Linda cosa!
 
 OTÓN.
-                      żDe qué modo?
+                      ¿De qué modo?
 
 MARÍN.
-ˇOh! ˇBien empleado todo
+¡Oh! ¡Bien empleado todo
 
 
 cuanto se lleva de aquí!
 
 OTÓN.
-żEs acaso gran seńora?
+¿Es acaso gran señora?
 
 MARÍN.
 No, pero muy gran bellaca,
-                                                                         210
+210
 
 pues con invenciones saca.
 
@@ -740,11 +734,11 @@ FINARDO.
 sus guijas parecen dientes».
 
 OTÓN.
-żHacéis burla?
+¿Hacéis burla?
 
 FINARDO.
-                          No le cuente
-                                                                         215
+                          No le cuente
+215
 
 si era fregona de poyo,
 
@@ -755,11 +749,11 @@ a danicela de aquéllas
 de guadameco en invierno,
 
 
-sino ríńele lo tierno
+sino ríñele lo tierno
 
 
 con que se muere por ellas,
-                                                                         220
+220
 
 y el crédito que les da
 
@@ -773,11 +767,11 @@ Pienso dejaros helados
 si os lo cuento.
 
 OTÓN.
-                          Acaba ya.
+                          Acaba ya.
 
 MARÍN.
 Seguí este diablo o mujer
-                                                                         225
+225
 
 casi hasta el fin de París;
 
@@ -792,7 +786,7 @@ Llegó la tal a un mesón,
 
 
 entró en él y a un aposento
-                                                                         230
+230
 
 se fue derecha al momento.
 
@@ -803,11 +797,11 @@ Forjo una linda invención,
 y entro al descuido a saber
 
 
-de cierto espańol correo.
+de cierto español correo.
 
 
 Miro al aposento y veo
-                                                                         235
+235
 
 desnudarse la mujer,
 
@@ -821,8 +815,8 @@ de labradora, y después,
 salir con ella otros tres.
 
 FINARDO.
-ˇPara engańar a otro loco!
-                                                                         240
+¡Para engañar a otro loco!
+240
 MARÍN.
 No, por Dios; mas un villano
 
@@ -837,7 +831,7 @@ del rostro, con blanca mano,
 
 
 un velo sutil, subió,
-                                                                         245
+245
 
 y, en una alfombra sentada,
 
@@ -852,7 +846,7 @@ Bien puede ser que si vieras
 
 
 en el traje la mujer,
-                                                                         250
+250
 
 que tuvieras más que hacer
 
@@ -867,22 +861,22 @@ y preguntéle quién era,
 
 
 y dijo desta manera:
-                                                                         255
+255
 
-«żQué lo pregunta? żÉl no ve
+«¿Qué lo pregunta? ¿Él no ve
 
 
-que es hija de mi seńor,
+que es hija de mi señor,
 
 
 Juan Labrador?» «Es gallarda»,
 
 
-dije. «żDónde vive? Aguarda».
+dije. «¿Dónde vive? Aguarda».
 
 
 Y respondióme: «En Belflor,
-                                                                         260
+260
 
 ese lugar del camino
 
@@ -897,25 +891,25 @@ que en traje de dama vino
 
 
 a burlar en la ciudad
-                                                                         265
+265
 
 un moscatel como vos.
 
 OTÓN.
-ˇJuan Labrador!
+¡Juan Labrador!
 
 MARÍN.
-                            Sí, por Dios.
+                            Sí, por Dios.
 
 OTÓN.
-ˇQué extrańa temeridad!
+¡Qué extraña temeridad!
 
 
-Pues żcómo una labradora
+Pues ¿cómo una labradora
 
 
 este diamante me dio?
-                                                                         270
+270
 FINARDO.
 Porque, si es vidrio, os burló.
 
@@ -930,12 +924,12 @@ Sea dama o labradora,
 
 
 no es tan hermosa la aurora
-                                                                         275
+275
 
 cuando abre la puerta al día.
 
 FINARDO.
-żQue es tan hermosa, Marín?
+¿Que es tan hermosa, Marín?
 
 MARÍN.
 No hay cosa que más lo sea.
@@ -945,12 +939,12 @@ Haz cuenta que en una aldea
 
 
 se ha humanado un serafín.
-                                                                         280
-                                   Vanse.
-        Salen JUAN LABRADOR, villano viejo, FILETO, BRUNO y SALVANO,
+280
+Vanse.
+Salen JUAN LABRADOR, villano viejo, FILETO, BRUNO y SALVANO,
 labradores.
 JUAN.
-Creo que os he de reńir
+Creo que os he de reñir
 
 
 con las hoces en las manos.
@@ -959,11 +953,11 @@ con las hoces en las manos.
 Salid acá, cortesanos.
 
 FILETO.
-żYa escopienzas a reńir?
+¿Ya escopienzas a reñir?
 
 
 Pero donaire has tenido,
-                                                                         285
+285
 
 pues cortesanos mos llamas
 
@@ -978,7 +972,7 @@ Fileto, el nombre villano,
 
 
 del que en la villa venía
-                                                                         290
+290
 
 se dijo, cual se diría
 
@@ -993,7 +987,7 @@ por afrenta aqueste nombre,
 
 
 siendo villano aquel hombre
-                                                                         295
+295
 
 bueno, que en la villa vive.
 
@@ -1008,12 +1002,12 @@ también os llamo vosotros,
 
 
 por afrenta, cortesanos.
-                                                                         300
+300
 FILETO.
-Seńor, ha dicho muy bien.
+Señor, ha dicho muy bien.
 
 JUAN.
-ˇEa!, pues alto al trabajo,
+¡Ea!, pues alto al trabajo,
 
 
 y pues yo mi cuello abajo,
@@ -1022,8 +1016,8 @@ y pues yo mi cuello abajo,
 bájenle todos también.
 
 
-żCuántos salieron a arar?
-                                                                         305
+¿Cuántos salieron a arar?
+305
 SALVANO.
 Veinte mozos, diez con bueyes
 
@@ -1031,22 +1025,22 @@ Veinte mozos, diez con bueyes
 y diez con mulas.
 
 JUAN.
-                                żQué reyes
+                                ¿Qué reyes
 
 
 no me pueden envidiar?
 
 
-Vete tú, Salvano, a la vińa
+Vete tú, Salvano, a la viña
 
 
 de la ermita con tu carro.
-                                                                         310
+310
 SALVANO.
 Como ha llovido y es barro
 
 
-lo más de aquella campińa,
+lo más de aquella campiña,
 
 
 otra mula llevaré.
@@ -1056,12 +1050,12 @@ Lleva cuatro, Dios loado,
 
 
 que tantos pares me ha dado,
-                                                                         315
+315
 
 pues aun contarlos no sé.
 
 
-ˇEa!, tú, Bruno, a la cuesta
+¡Ea!, tú, Bruno, a la cuesta
 
 
 donde vendimia Costanza.
@@ -1070,11 +1064,11 @@ BRUNO.
 Yo voy.
 
 JUAN.
-                Tú, Fileto, alcanza
+                Tú, Fileto, alcanza
 
 
 la más blanca y limpia cesta,
-                                                                         320
+320
 
 y de unas uvas doradas
 
@@ -1085,11 +1079,11 @@ que se vengan a los ojos
 y estén sus racimos rojos
 
 
-por las mańanas heladas,
+por las mañanas heladas,
 
 
 descubriendo con el sol
-                                                                         325
+325
 
 el puro calor del oro,
 
@@ -1103,8 +1097,8 @@ FILETO.
 Manda a Gila que me dé
 
 
-un pańo de manos bueno,
-                                                                         330
+un paño de manos bueno,
+330
 
 labrado o de randas lleno,
 
@@ -1112,19 +1106,19 @@ labrado o de randas lleno,
 y en somo le posaré.
 
 JUAN.
-żNo eres más necio? żNo sabes
+¿No eres más necio? ¿No sabes
 
 
-que a peligro del pańo está
+que a peligro del paño está
 
 
 de que se te quede allá?
-                                                                         335
+335
 FILETO.
 Entre personas muy graves
 
 
-platos y pańos se vuelven.
+platos y paños se vuelven.
 
 JUAN.
 ................................................
@@ -1137,7 +1131,7 @@ unos en otros asidos,
 
 
 con clavellinas tejidos,
-                                                                         340
+340
 
 que vayan cayendo afuera;
 
@@ -1148,11 +1142,11 @@ que juntas hojas y flores
 parece, si están lozanos,
 
 
-sus hojas, pańos de manos,
+sus hojas, paños de manos,
 
 
 y los claveles, labores.
-                                                                         345
+345
 FILETO.
 Voy, y la pondré de suerte
 
@@ -1166,8 +1160,8 @@ FILETO.
 Al momento vuelvo a verte.
 
 JUAN.
-ˇGracias, inmenso cielo,
-                                                                         350
+¡Gracias, inmenso cielo,
+350
 
 a tu bondad divina!
 
@@ -1181,8 +1175,8 @@ pues todo aqueste suelo
 y esta sierra vecina
 
 
-cubren mis trigos, vińas y ganado,
-                                                                         355
+cubren mis trigos, viñas y ganado,
+355
 
 ni por haber colmado
 
@@ -1197,7 +1191,7 @@ de treinta y más tinajas,
 
 
 donde nadando los quesos por deleite,
-                                                                         360
+360
 
 sin las que de hinchir faltas
 
@@ -1208,11 +1202,11 @@ de olivas más ancianas y más altas;
 no porque mas colmenas,
 
 
-de nidos pequeńuelos,
+de nidos pequeñuelos,
 
 
 de tantas avecillas adornadas,
-                                                                         365
+365
 
 de blanca miel rellenas,
 
@@ -1227,7 +1221,7 @@ ni porque estén cargadas
 
 
 de montes de oro y trigo
-                                                                         370
+370
 
 las eras que a las trojes
 
@@ -1242,7 +1236,7 @@ si soy tu mayordomo,
 
 
 que mientras más adquiero, menos como;
-                                                                         375
+375
 
 no porque los lagares,
 
@@ -1257,7 +1251,7 @@ ni porque tantas partes
 
 
 de bien labradas cubas
-                                                                         380
+380
 
 puedan bastar a lo que otubre encierra;
 
@@ -1268,11 +1262,11 @@ no porque aquella sierra
 cubra al ganado mío,
 
 
-que allá parecen peńas,
+que allá parecen peñas,
 
 
-ni porque con mis seńas,
-                                                                         385
+ni porque con mis señas,
+385
 
 bebiendo de manera agota el río,
 
@@ -1287,7 +1281,7 @@ las gracias más colmadas
 
 
 te doy porque me has dado
-                                                                         390
+390
 
 contento en el estado que me has puesto.
 
@@ -1302,7 +1296,7 @@ por honras y ambiciones,
 
 
 que de tantas pasiones
-                                                                         395
+395
 
 el corazón y el pensamiento viste,
 
@@ -1317,9 +1311,9 @@ Nací en esta aldea,
 
 
 dos leguas de la Corte,
-                                                                         400
+400
 
-y no he visto la Corte en sesenta ańos,
+y no he visto la Corte en sesenta años,
 
 
 ni plega a Dios la vea,
@@ -1328,11 +1322,11 @@ ni plega a Dios la vea,
 aunque el vivir me importe
 
 
-por casos de fortuna tan extrańos.
+por casos de fortuna tan extraños.
 
 
-Estos mismos castańos,
-                                                                         405
+Estos mismos castaños,
+405
 
 que nacieron conmigo,
 
@@ -1347,9 +1341,9 @@ y la casa del hombre dulce abrigo
 
 
 adonde nace tiene,
-                                                                         410
+410
 
-żqué busca? żAdónde va? żAdónde viene?
+¿qué busca? ¿Adónde va? ¿Adónde viene?
 
 
 Ríome del soldado,
@@ -1362,7 +1356,7 @@ mil piernas y mil brazos, va a perdellos;
 
 
 el otro, desdichado,
-                                                                         415
+415
 
 que como si no hubiese
 
@@ -1377,7 +1371,7 @@ colgado el pensamiento,
 
 
 las libres mares ara,
-                                                                         420
+420
 
 y aun en el mar no para,
 
@@ -1385,17 +1379,17 @@ y aun en el mar no para,
 y que presume también beber el viento.
 
 
-ˇAy, Dios, qué gran locura
+¡Ay, Dios, qué gran locura
 
 
 buscar el hombre incierta sepultura!
 
-                   Sale FELICIANO, su hijo, del labrador.
+Sale FELICIANO, su hijo, del labrador.
 FELICIANO.
 Ansí Dios te dé placer,
-                                                                         425
+425
 
-padre mío y mi seńor,
+padre mío y mi señor,
 
 
 que me hagas un favor.
@@ -1408,7 +1402,7 @@ Pues ven, por tu vida, a ver
 
 
 al Rey, que muy cerca pasa
-                                                                         430
+430
 
 del umbral de nuestra casa,
 
@@ -1423,9 +1417,9 @@ que el sol en vendimia abrasa.
 
 
 Ven a ver las damas bellas
-                                                                         435
+435
 
-que acompańan a su hermana,
+que acompañan a su hermana,
 
 
 que sale como Diana
@@ -1438,12 +1432,12 @@ Con ella compiten ellas
 
 
 y ella con el sol divino.
-                                                                         440
+440
 
 Ven, porque todo el camino
 
 
-se cubre de más seńores
+se cubre de más señores
 
 
 que tienen los campos flores
@@ -1453,7 +1447,7 @@ y fruta aquel verde pino.
 
 
 Ven a ver cuán envidioso
-                                                                         445
+445
 
 está el sol de los caballos,
 
@@ -1468,12 +1462,12 @@ Verás tanto paje hermoso
 
 
 que el pecho tierno atraviesa
-                                                                         450
+450
 
 con banda blanca francesa,
 
 
-opuesta al rojo espańol,
+opuesta al rojo español,
 
 
 ir como rayos del sol
@@ -1482,8 +1476,8 @@ ir como rayos del sol
 por esa arboleda espesa.
 
 
-ˇEa, padre!, que esta vez
-                                                                         455
+¡Ea, padre!, que esta vez
+455
 
 no has de ser tan aldeano;
 
@@ -1498,7 +1492,7 @@ Alegra ya tu vejez,
 
 
 hinca la rodilla en tierra
-                                                                         460
+460
 
 al Rey, que con tanta guerra
 
@@ -1506,7 +1500,7 @@ al Rey, que con tanta guerra
 te mantiene en paz.
 
 JUAN.
-                                 No más;
+                                 No más;
 
 
 que pesadumbre me das.
@@ -1515,13 +1509,13 @@ que pesadumbre me das.
 La boca, inorante, cierra.
 
 
-żQué es ver al Rey? żEstás loco?
-                                                                         465
+¿Qué es ver al Rey? ¿Estás loco?
+465
 
-żDe qué le importa al villano
+¿De qué le importa al villano
 
 
-ver al seńor soberano,
+ver al señor soberano,
 
 
 que todo lo tiene en poco?
@@ -1531,12 +1525,12 @@ Los últimos pasos toco
 
 
 de mi vida, y no le vi
-                                                                         470
+470
 
 desde el día en que nací;
 
 
-pues, żtengo de verle ya,
+pues, ¿tengo de verle ya,
 
 
 cuando acabándose está?
@@ -1546,9 +1540,9 @@ Mas quiero morirme ansí.
 
 
 Yo he sido rey, Feliciano,
-                                                                         475
+475
 
-en mi pequeńo rincón;
+en mi pequeño rincón;
 
 
 reyes los que viven son
@@ -1561,7 +1555,7 @@ rey es quien con pecho sano
 
 
 descansa sin ver al Rey,
-                                                                         480
+480
 
 obedeciendo su ley
 
@@ -1576,9 +1570,9 @@ sé que es su mismo virrey.
 
 
 Yo adoro al Rey; mas si yo
-                                                                         485
+485
 
-nací en un monte, ża qué efeto
+nací en un monte, ¿a qué efeto
 
 
 veré al Rey, hombre perfecto,
@@ -1591,7 +1585,7 @@ El cura nos predicó
 
 
 que dos ángeles tenía
-                                                                         490
+490
 
 que le guardan noche y día,
 
@@ -1606,7 +1600,7 @@ de su armada infantería.
 
 
 Yo propuse, Feliciano,
-                                                                         495
+495
 
 de no ver al Rey jamás,
 
@@ -1621,7 +1615,7 @@ Si el Rey, al pobre villano
 
 
 que ves, prestados pidiese
-                                                                         500
+500
 
 cien mil escudos, si hubiese
 
@@ -1629,14 +1623,14 @@ cien mil escudos, si hubiese
 grande que así los prestase
 
 
-(żqué es prestase?, presentase),
+(¿qué es prestase?, presentase),
 
 
 que en un cordel me pusiese.
 
 
 Daré al Rey toda mi hacienda,
-                                                                         505
+505
 
 hasta la abeja y el buey;
 
@@ -1647,11 +1641,11 @@ mas yo no he de ver al Rey,
 mientras desto no se ofenda.
 
 
-żHame de dar encomienda
+¿Hame de dar encomienda
 
 
 ni plaza de consejero?
-                                                                         510
+510
 
 Servirle y no verle quiero,
 
@@ -1666,7 +1660,7 @@ pues tal al Rey considero.
 
 
 No se deja el sol mirar,
-                                                                         515
+515
 
 que es su rostro un fuego eterno;
 
@@ -1681,7 +1675,7 @@ el ave que hago matar,
 
 
 sábele allá de otro modo,
-                                                                         520
+520
 
 ni el vino oloroso todo,
 
@@ -1695,8 +1689,8 @@ antes le falta haber sido
 para que le sepa más;
 
 
-que en las vińas donde estás
-                                                                         525
+que en las viñas donde estás
+525
 
 lo que he sembrado he bebido.
 
@@ -1711,38 +1705,38 @@ Ya me escondo, imaginando
 
 
 su trápola y confusión.
-                                                                         530
+530
 
-ˇAy, mi divino rincón,
+¡Ay, mi divino rincón,
 
 
 donde soy rey de mis pajas!
 
 
-Dura ambición, żqué trabajas
+Dura ambición, ¿qué trabajas
 
 
 haciendo al aire edificios,
 
 
 pues los más altos oficios
-                                                                         535
+535
 
 no llevan más de mortajas?
 
-                                    Vase.
+Vase.
 FELICIANO.
-żQué bárbaro produjeron
+¿Qué bárbaro produjeron
 
 
-las montańas del Caucaso,
+las montañas del Caucaso,
 
 
 qué abarimo, qué circaso
 
 
 sus ocultos montes vieron,
-                                                                         540
+540
 
 a qué león leche dieron
 
@@ -1757,25 +1751,25 @@ vio el sol por fuegos o yelos,
 
 
 corriendo sus paralelos,
-                                                                         545
+545
 
 sus círculos y coronas?
 
 
-żHay semejante rigor?
+¿Hay semejante rigor?
 
 
-żHay tan grande villanía?
+¿Hay tan grande villanía?
 
 
-ˇDe ver al Rey se desvía,
+¡De ver al Rey se desvía,
 
 
-y al que es supremo seńor!
-                                                                         550
-               Sale LISARDA, en hábito de labradora, y BELISA.
+y al que es supremo señor!
+550
+Sale LISARDA, en hábito de labradora, y BELISA.
 LISARDA.
-ˇDe qué famosa labor
+¡De qué famosa labor
 
 
 iba bordada la saya!
@@ -1788,7 +1782,7 @@ en el Sur perlas más bellas.
 
 LISARDA.
 Allá envían a cogellas
-                                                                         555
+555
 
 a la más remota playa.
 
@@ -1803,12 +1797,12 @@ su hermosura era interés
 
 
 que en más alto reino estriba.
-                                                                         560
+560
 BELISA.
 Pensé que era, así yo viva,
 
 
-uno de aquellos seńores,
+uno de aquellos señores,
 
 
 el que allá te dijo amores
@@ -1817,8 +1811,8 @@ el que allá te dijo amores
 cuando fuiste disfrazada.
 
 LISARDA.
-Pues no estuviste engańada;
-                                                                         565
+Pues no estuviste engañada;
+565
 
 yo lo estuve en sus favores.
 
@@ -1829,16 +1823,16 @@ LISARDA.
 Feliciano...
 
 FELICIANO.
-                    Mi Lisarda...
+                    Mi Lisarda...
 
 LISARDA.
-żViste la Corte gallarda?
+¿Viste la Corte gallarda?
 
 FELICIANO.
 Vi nuestro Rey soberano.
-                                                                         570
+570
 LISARDA.
-żY no viste, Feliciano,
+¿Y no viste, Feliciano,
 
 
 tantas damas, tal belleza?
@@ -1851,7 +1845,7 @@ de suerte, que a toda furia
 
 
 vine a llamar quien injuria
-                                                                         575
+575
 
 la misma naturaleza.
 
@@ -1862,14 +1856,14 @@ Rogué a mi padre que fuese
 a ver al Rey.
 
 LISARDA.
-                      Necedad.
+                      Necedad.
 
 
-żTan extrańa novedad
+¿Tan extraña novedad
 
 
 querías que por ti hiciese?
-                                                                         580
+580
 
 Antes que Juan se moviese
 
@@ -1884,25 +1878,25 @@ porque, desde que nació,
 
 
 el no ver al Rey juró,
-                                                                         585
+585
 
 después de guardar su ley.
 
 FELICIANO.
-żEs posible que nacimos
+¿Es posible que nacimos
 
 
 deste monstruo?
 
 LISARDA.
-                             No lo sé.
+                             No lo sé.
 
 FELICIANO.
-Si es nuestro padre, żpor qué
+Si es nuestro padre, ¿por qué
 
 
 tan diferentes salimos?
-                                                                         590
+590
 
 Yo muero por ver la Corte
 
@@ -1917,7 +1911,7 @@ aunque a darle gusto importe.
 
 
 Cuando me puedo escapar,
-                                                                         595
+595
 
 voy a París con vestido
 
@@ -1932,7 +1926,7 @@ Escucho sus caballeros,
 
 
 su grandeza me alborota;
-                                                                         600
+600
 
 al juego de la pelota
 
@@ -1947,7 +1941,7 @@ ya que no puedo jugar
 
 
 porque sé bien que si pruebo
-                                                                         605
+605
 
 conmigo se ha de enojar).
 
@@ -1962,12 +1956,12 @@ allá procuro llegar,
 
 
 y si no, con los deseos.
-                                                                         610
+610
 
 No sé cómo me engendró.
 
 LISARDA.
-Pues żqué te diré de mí?
+Pues ¿qué te diré de mí?
 
 
 jamás a la Corte fui
@@ -1976,8 +1970,8 @@ jamás a la Corte fui
 que allá pareciese yo.
 
 
-Mi ropa, basquińa y manto,
-                                                                         615
+Mi ropa, basquiña y manto,
+615
 
 guante y dorado chapín,
 
@@ -1992,12 +1986,12 @@ Yo voy a la iglesia, hermana,
 
 
 porque oí decir que oiría
-                                                                         620
+620
 
 misa el Rey en la capilla.
 
 LISARDA.
-                                        Haría
+                                        Haría
 
 
 nuestra aldea cortesana.
@@ -2010,7 +2004,7 @@ que nuestro padre le viese,
 
 
 aunque verle no quisiese,
-                                                                         625
+625
 
 pues nunca le quiere ver.
 
@@ -2024,8 +2018,8 @@ desde que el Rey ha sentido,
 o encerrado o escondido.
 
 LISARDA.
-Pues ża misa no saldrá?
-                                                                         630
+Pues ¿a misa no saldrá?
+630
 FELICIANO.
 Perderála, por no ver
 
@@ -2033,20 +2027,20 @@ Perderála, por no ver
 la Corte, el Rey ni las damas.
 
 LISARDA.
-żY bárbaro no le llamas?
+¿Y bárbaro no le llamas?
 
 FELICIANO.
 Ni aun hombre mereció ser.
 
 
 Voyme, porque para mí
-                                                                         635
+635
 
 nunca amanece tal día.
 
-                                    Vase.
+Vase.
 LISARDA.
-żQué dirás, Belisa mía,
+¿Qué dirás, Belisa mía,
 
 
 de lo que ha pasado aquí?
@@ -2056,7 +2050,7 @@ Digo que como la gente
 
 
 del lugar toda entrará
-                                                                         640
+640
 
 a ver al Rey, si allá está,
 
@@ -2071,25 +2065,25 @@ al que las joyas te dio.
 
 LISARDA.
 Digo que le he visto yo,
-                                                                         645
+645
 
 Belisa, y muy cerca dél.
 
 BELISA.
-ˇCosa que fuese seńor
+¡Cosa que fuese señor
 
 
 de importancia!
 
 LISARDA.
-                            No quisiera
+                            No quisiera
 
 
-que tan grande seńor fuera
+que tan grande señor fuera
 
 
 como imposible mi amor.
-                                                                         650
+650
 
 Pero vamos a saber
 
@@ -2100,11 +2094,11 @@ lo que hizo la fortuna;
 que quien nació sin ninguna,
 
 
-żde qué la puede temer?
+¿de qué la puede temer?
 
 
-Mas tenga este desengańo
-                                                                         655
+Mas tenga este desengaño
+655
 
 mi padre, Juan Labrador;
 
@@ -2112,16 +2106,16 @@ mi padre, Juan Labrador;
 que no lo ha de ser mi honor
 
 
-sin hacer a mi honor dańo.
+sin hacer a mi honor daño.
 
 
 Yo no nací, mi Belisa,
 
 
-para labrador por dueńo;
-                                                                         660
+para labrador por dueño;
+660
 
-para mí su estilo es sueńo,
+para mí su estilo es sueño,
 
 
 y su condición es risa.
@@ -2134,12 +2128,12 @@ por mi gusto y por mi mano,
 
 
 con un hombre cortesano,
-                                                                         665
+665
 
 y no en mi proprio lugar.
 
 BELISA.
-żNo me llevarás contigo?
+¿No me llevarás contigo?
 
 LISARDA.
 Conmigo te llevaré.
@@ -2149,12 +2143,12 @@ Para Corte me crié;
 
 
 su estilo y leyes bendigo.
-                                                                         670
+670
 BELISA.
 Vamos, y deja el aldea.
 
 LISARDA.
-ˇAy, si hablase aquel seńor!
+¡Ay, si hablase aquel señor!
 
 BELISA.
 No es imposible tu amor,
@@ -2164,7 +2158,7 @@ como título no sea.
 
 LISARDA.
 Puédele mi padre dar
-                                                                         675
+675
 
 de dote cien mil ducados.
 
@@ -2174,18 +2168,17 @@ Ducados hacen ducados;
 
 con duque te has de casar.
 
-                                   Vanse.
-   Sale el REY DE FRANCIA con acompańamiento, la INFANTA, FINARDO, OTÓN y
-                                   MARÍN.
+Vanse.
+Sale el REY DE FRANCIA con acompañamiento, la INFANTA, FINARDO, OTÓN y MARÍN.
 REY.
-żHabéislo preguntado?
+¿Habéislo preguntado?
 
 OTÓN.
-                                       Ya se viste;
+                                       Ya se viste;
 
 
 que no fue poca dicha, porque es tarde.
-                                                                         680
+680
 INFANTA.
 La iglesia me contenta, aunque es antigua,
 
@@ -2200,44 +2193,44 @@ Pienso que en ella vive un hombre rico,
 
 
 que debe de tener este cuidado.
-                                                                         685
-                   Salen FILETO, BRUNO, SALVANO, villanos.
+685
+Salen FILETO, BRUNO, SALVANO, villanos.
 REY.
-żQué piedra es ésta escrita, que sostiene
+¿Qué piedra es ésta escrita, que sostiene
 
 
 este pilar?
 
 INFANTA.
-                   Será alguna memoria.
+                   Será alguna memoria.
 
 
-żEso a ler se pone vuestra alteza?
+¿Eso a ler se pone vuestra alteza?
 
 FILETO.
 Pisa quedito, Bruno, no te sientan.
 
 BRUNO.
-Pues żfuera yo más quedo sobre huevos?
-                                                                         690
+Pues ¿fuera yo más quedo sobre huevos?
+690
 SALVANO.
-żÉste es el Rey?
+¿Éste es el Rey?
 
 FILETO.
-                           Aquel mancebo rojo.
+                           Aquel mancebo rojo.
 
 SALVANO.
-ˇVálgame Dios! Los reyes żtienen barbas?
+¡Válgame Dios! Los reyes ¿tienen barbas?
 
 FILETO.
-Pues żcómo piensas tú que son los reyes?
+Pues ¿cómo piensas tú que son los reyes?
 
 SALVANO.
 Yo he visto en un jardín pintado al César,
 
 
 a Tito, a Vespasiano y a Trajano;
-                                                                         695
+695
 
 pero estaban rapados como frailes.
 
@@ -2251,10 +2244,10 @@ sufrían sus bigotes, y de enfado
 se dejaban rapar barba y cabeza.
 
 INFANTA.
-żDe qué se está riyendo vuestra alteza?
-                                                                         700
+¿De qué se está riyendo vuestra alteza?
+700
 REY.
-żNo quieres que me ría, si he leído
+¿No quieres que me ría, si he leído
 
 
 la cosa más notable en esta piedra
@@ -2267,9 +2260,9 @@ Pues no se espante deso vuestra alteza;
 
 
 que en los sepulcros hay notables cosas.
-                                                                         705
+705
 OTÓN.
-Estando yo en Espańa y en Italia,
+Estando yo en España y en Italia,
 
 
 he visto algunos de memoria dignos.
@@ -2282,7 +2275,7 @@ pone a Herodoto, del sepulcro insigne
 
 
 que en la puerta mayor de Babilonia
-                                                                         710
+710
 
 hizo la gran Semíramis de Nino,
 
@@ -2297,7 +2290,7 @@ Abrióle Dario, rey de Persia, y dentro
 
 
 halló sola una piedra que decía:
-                                                                         715
+715
 
 «Si no fueras avaro y ambicioso,
 
@@ -2312,7 +2305,7 @@ Josefo y historiador de tanto crédito.
 
 
 Abrió, pensando hallar ricos tesoros,
-                                                                         720
+720
 
 del gran David y Salomón las urnas.
 
@@ -2327,7 +2320,7 @@ En Lusitania, en una piedra había
 
 
 escritas estas letras: «Gundisalvo
-                                                                         725
+725
 
 yace debajo aquesta losa fría;
 
@@ -2342,30 +2335,30 @@ que quedará muy presto boca arriba,
 
 
 y así quiso excusarse del trabajo».
-                                                                         730
+730
 REY.
-ˇNotable!
+¡Notable!
 
 INFANTA.
-                  No se ha visto semejante.
+                  No se ha visto semejante.
 
 REY.
 Éste merece letras en diamante.
 
 INFANTA.
-żCómo dicen, seńor?
+¿Cómo dicen, señor?
 
 REY.
-                                 De aquesta suerte,
+                                 De aquesta suerte,
 
 
-aunque le falta el ańo de la muerte:
+aunque le falta el año de la muerte:
 
 
 «Yace aquí Juan Labrador,
-                                                                         735
+735
 
-que nunca sirvió a seńor,
+que nunca sirvió a señor,
 
 
 ni vio la Corte, ni al Rey,
@@ -2378,9 +2371,9 @@ no tuvo necesidad,
 
 
 ni estuvo herido ni preso,
-                                                                         740
+740
 
-ni en muchos ańos de edad
+ni en muchos años de edad
 
 
 vio en su casa mal suceso,
@@ -2389,16 +2382,16 @@ vio en su casa mal suceso,
 envidia ni enfermedad».
 
 INFANTA.
-żNo dice cuándo murió?
+¿No dice cuándo murió?
 
 REY.
-No escribe el ańo ni el mes.
-                                                                         745
+No escribe el año ni el mes.
+745
 INFANTA.
 Por ventura es vivo.
 
 REY.
-                                 Yo
+                                 Yo
 
 
 diera un notable interés
@@ -2407,30 +2400,30 @@ diera un notable interés
 porque viviera.
 
 INFANTA.
-                         Yo no.
+                         Yo no.
 
 REY.
 Yo sí, para conocer
 
 
 un hombre tan peregrino.
-                                                                         750
+750
 OTÓN.
 Presto lo podrás saber.
 
-                           Salen LISARDA y BELISA.
+Salen LISARDA y BELISA.
 LISARDA.
 A misa dicen que vino.
 
 BELISA.
-Mas żsi acertase a saber
+Mas ¿si acertase a saber
 
 
 aquel tu desasosiego?
 
 LISARDA.
 No dudes de que aquí esté.
-                                                                         755
+755
 BELISA.
 Si lo está, verásle luego.
 
@@ -2445,7 +2438,7 @@ Aquí hay muchos labradores
 
 
 de los que vienen a verte;
-                                                                         760
+760
 
 si es tu gusto, no lo ignores.
 
@@ -2459,8 +2452,8 @@ OTÓN.
 Hola, amigos, el Rey hablaros quiere.
 
 
-żCuál es de todos de mejor juicio?
-                                                                         765
+¿Cuál es de todos de mejor juicio?
+765
 BRUNO.
 Yo ha poco que era el más discreto; agora,
 
@@ -2475,22 +2468,22 @@ y yo suelo saber más que Salvano,
 
 
 porque sé de las misas lo que es quiries
-                                                                         770
+770
 
 y canto por la noche el Tanto negro;
 
 
-pero pienso, seńor, que me turbase...
+pero pienso, señor, que me turbase...
 
 OTÓN.
-żCómo turbar? żNo veis cuán apacible,
+¿Cómo turbar? ¿No veis cuán apacible,
 
 
 cuán humano es el Rey? Que los leones
 
 
 son graves con los graves animales,
-                                                                         775
+775
 
 y humildes con los tiernos corderillos.
 
@@ -2501,19 +2494,19 @@ FILETO.
 Yo voy en su grandeza confiado.
 
 OTÓN.
-Aquí viene, seńor, el más discreto
+Aquí viene, señor, el más discreto
 
 
 de aquestos labradores y villanos.
-                                                                         780
+780
 FILETO.
 Hablando con perdón, yo soy discreto.
 
 REY.
-żSois muy discreto vos?
+¿Sois muy discreto vos?
 
 FILETO.
-                                        Notablemente;
+                                        Notablemente;
 
 
 he jugado a la chuca y a los bolos;
@@ -2523,36 +2516,36 @@ yo pinto con almagre ricos mayos
 
 
 la noche de San Juan y de San Pedro,
-                                                                         785
+785
 
 y pongo Juana, Antona y Menga, víctor.
 
 REY.
-żQuién es Juan Labrador aquí?
+¿Quién es Juan Labrador aquí?
 
 FILETO.
-                                                   Es mi amo;
+                                                   Es mi amo;
 
 
 que por darme a comer ansí le llamo.
 
 REY.
-żQue vive?
+¿Que vive?
 
 FILETO.
-                    Sí, seńor.
+                    Sí, señor.
 
 REY.
-                                     Pues żcómo tiene
+                                     Pues ¿cómo tiene
 
 
 puesta su piedra aquí de sepultura?
-                                                                         790
+790
 FILETO.
 Porque dice que es loco el que edifica
 
 
-casi para la vida de cien ańos,
+casi para la vida de cien años,
 
 
 aunque muy pocos pasan de sesenta,
@@ -2562,28 +2555,28 @@ y no lo hace para tantos cuantos
 
 
 ha de estar en la casa de la muerte.
-                                                                         795
+795
 REY.
-żEs muy sabio?
+¿Es muy sabio?
 
 FILETO.
-                           Después de mí, no hay hombre
+                           Después de mí, no hay hombre
 
 
 que sepa tanto en toda aquesta aldea.
 
 REY.
-Ansí falta en las letras mes y ańo.
+Ansí falta en las letras mes y año.
 
 FILETO.
 Pondránsele en muriendo.
 
 REY.
-                                          żTiene hijos?
+                                          ¿Tiene hijos?
 
 FILETO.
 Dos tiene agora, un macho y una macha
-                                                                         800
+800
 
 más bella que una rosa alejandrina
 
@@ -2594,62 +2587,62 @@ cuando rompe el botín y por su extremo
 desplega algunas hojas y otras coge.
 
 REY.
-żEs rico?
+¿Es rico?
 
 FILETO.
-                 Es espantosa su riqueza.
+                 Es espantosa su riqueza.
 
 
 Tiene de su labor más de cien hombres,
-                                                                         805
+805
 
 ochenta bueyes y cincuenta mulas.
 
 REY.
-żQué viste?
+¿Qué viste?
 
 FILETO.
-                     Pańo tosco.
+                     Paño tosco.
 
 REY.
-                                         żEn qué come?
+                                         ¿En qué come?
 
 FILETO.
 En barro muy grosero.
 
 REY.
-                                     żPor qué causa?
+                                     ¿Por qué causa?
 
 FILETO.
 Porque es el más humilde de los hombres.
 
 REY.
-żTiene mucho dinero?
+¿Tiene mucho dinero?
 
 FILETO.
-                                    Como paja.
-                                                                         810
+                                    Como paja.
+810
 REY.
-żCómo trae sus hijos?
+¿Cómo trae sus hijos?
 
 FILETO.
-                                     En su traje,
+                                     En su traje,
 
 
 a honor y devoción de su linaje.
 
 REY.
-żEs avariento?
+¿Es avariento?
 
 FILETO.
-                         No, porque a los pobres
+                         No, porque a los pobres
 
 
 reparte la más parte de su hacienda.
 
 REY.
-żPor qué dice que al Rey jamás ha visto?
-                                                                         815
+¿Por qué dice que al Rey jamás ha visto?
+815
 FILETO.
 Porque él dice, y lo creo, que es honrado,
 
@@ -2664,7 +2657,7 @@ amaron, respetaron y temieron,
 
 
 y que él le teme y ama y le respecta,
-                                                                         820
+820
 
 y no le quiere ver, sino serville,
 
@@ -2675,11 +2668,11 @@ amalle, obedecelle y respetalle,
 y a su tiempo dineros emprestalle.
 
 REY.
-Si le envío a llamar, żno querrá verme?
+Si le envío a llamar, ¿no querrá verme?
 
 FILETO.
 Está escondido agora; que las veces
-                                                                         825
+825
 
 que pasas a cazar por esta aldea,
 
@@ -2687,16 +2680,16 @@ que pasas a cazar por esta aldea,
 se esconde, que no hay hombre que le vea.
 
 REY.
-ˇQue viva un hombre aquí tan poderoso...!
+¡Que viva un hombre aquí tan poderoso...!
 
 
-ˇDichoso el que da leyes a su casa
+¡Dichoso el que da leyes a su casa
 
 
 y en sus umbrales tan contento pasa!
-                                                                         830
+830
 FILETO.
-Si quieres ver, seńor, una serrana
+Si quieres ver, señor, una serrana
 
 
 hermosa como el sol, que es hija suya,
@@ -2711,33 +2704,33 @@ REY.
 Llámala, Otón.
 
 OTÓN.
-                           Aquí os llegad, seńora.
-                                                                         835
+                           Aquí os llegad, señora.
+835
 LISARDA.
-żQué manda su reverencia?
+¿Qué manda su reverencia?
 
 MARÍN.
-Seńor, żno es ésta la dama
+Señor, ¿no es ésta la dama
 
 
 de París?
 OTÓN.
-                  El Rey la llama.
+                  El Rey la llama.
 
 
 Ten silencio.
 
 MARÍN.
-                      Y tú, paciencia.
+                      Y tú, paciencia.
 
 REY.
-żSois hija deste buen viejo
-                                                                         840
+¿Sois hija deste buen viejo
+840
 
 que llaman Juan Labrador?
 
 LISARDA.
-Yo soy su hija, seńor,
+Yo soy su hija, señor,
 
 
 y aunque tosca, fui su espejo.
@@ -2747,7 +2740,7 @@ Hermana, por vida mía,
 
 
 que en la moza reparéis.
-                                                                         845
+845
 INFANTA.
 Muy buena traza tenéis.
 
@@ -2755,19 +2748,19 @@ LISARDA.
 Donde está tu infantería,
 
 
-żqué traza puedo tener?
+¿qué traza puedo tener?
 
 INFANTA.
-ˇInfantería! ˇOh, qué gracia!
+¡Infantería! ¡Oh, qué gracia!
 
 LISARDA.
-żCuál fuera mayor desgracia,
-                                                                         850
+¿Cuál fuera mayor desgracia,
+850
 
 si igualdad pudiera haber?
 
 
-żDecir vos que yo tenía
+¿Decir vos que yo tenía
 
 
 traza sin ser edificio,
@@ -2777,7 +2770,7 @@ o yo, pues es vuestro oficio,
 
 
 llamaros infantería?
-                                                                         855
+855
 
 El llamar a un rey alteza
 
@@ -2791,8 +2784,8 @@ aunque es lenguaje que corre,
 no es propiedad ni pureza.
 
 
-Si el seńor es si es seńor,
-                                                                         860
+Si el señor es si es señor,
+860
 
 y al excelente le dan
 
@@ -2807,7 +2800,7 @@ No me parece muy lerda,
 
 
 y al talle es todo donaire.
-                                                                         865
+865
 LISARDA.
 Como nos da tanto el aire,
 
@@ -2815,17 +2808,17 @@ Como nos da tanto el aire,
 no es mucho que el don se pierda.
 
 REY.
-żCómo os llamáis?
+¿Cómo os llamáis?
 
 LISARDA.
-                                Lisarda,
+                                Lisarda,
 
 
 con perdón de sus mercedes.
 
 FINARDO.
-Bien desengańarte puedes;
-                                                                         870
+Bien desengañarte puedes;
+870
 
 que la otra era gallarda,
 
@@ -2840,7 +2833,7 @@ El talle es, por Dios, gallardo.
 
 INFANTA.
 Que os lleva los ojos temo.
-                                                                         875
+875
 
 Vamos, hermano, de aquí.
 
@@ -2848,15 +2841,15 @@ REY.
 Vamos; que Juan Labrador
 
 
-ha de servir a seńor,
+ha de servir a señor,
 
 
 y ver Rey y todo en mí.
 
-                          Vase el REY y la INFANTA.
+Vase el REY y la INFANTA.
 OTÓN.
-żQueréis oír dos palabras?
-                                                                         880
+¿Queréis oír dos palabras?
+880
 LISARDA.
 Como no pasen de dos,
 
@@ -2864,14 +2857,14 @@ Como no pasen de dos,
 y otras dos daré en respuesta.
 
 OTÓN.
-ˇExtremada condición!
+¡Extremada condición!
 
 
-Pues sea: żsabéis, la una;
+Pues sea: ¿sabéis, la una;
 
 
 será la otra: quién soy?
-                                                                         885
+885
 LISARDA.
 Escuchadme las dos mías,
 
@@ -2886,7 +2879,7 @@ y la otra será: no.
 
 OTÓN.
 Replico que habéis mentido.
-                                                                         890
+890
 LISARDA.
 Replico que mentís vos.
 
@@ -2900,11 +2893,11 @@ y que esa mano me dio
 este diamante.
 
 LISARDA.
-                         Es verdad;
+                         Es verdad;
 
 
 pero no será razón
-                                                                         895
+895
 
 que os hable entre tanta gente,
 
@@ -2919,7 +2912,7 @@ y perderé mi opinión.
 
 
 Fuera deso, yo soy hija,
-                                                                         900
+900
 
 ya lo veis, de un labrador,
 
@@ -2934,7 +2927,7 @@ de la cámara del Rey;
 
 
 pero nos iguala amor.
-                                                                         905
+905
 LISARDA.
 Un olmo tiene esta aldea,
 
@@ -2949,7 +2942,7 @@ las mozas de Miraflor
 
 
 bailan por aquellos días:
-                                                                         910
+910
 
 aquí hablaremos los dos,
 
@@ -2963,8 +2956,8 @@ BELISA.
 Mira que te están mirando.
 
 LISARDA.
-ˇAy Belisa!, que ya voy.
-                                                                         915
+¡Ay Belisa!, que ya voy.
+915
 OTÓN.
 El corazón me lleváis.
 
@@ -2979,12 +2972,12 @@ habran las mozas de amor.
 
 FILETO.
 Son diablos, con sus razones
-                                                                         920
+920
 
 derribaran a Sansón.
 
 
-Seńora, vamos de aquí,
+Señora, vamos de aquí,
 
 
 porque tenemos temor
@@ -2994,7 +2987,7 @@ que si viene Feliciano,
 
 
 puede ser que haya cuestión.
-                                                                         925
+925
 LISARDA.
 Id delante; que ya vamos.
 
@@ -3002,18 +2995,18 @@ MARÍN.
 Un guante caer se dejó.
 
 FINARDO.
-ˇQué discreta!
+¡Qué discreta!
 
 MARÍN.
-                         ˇQué bellaca!
+                         ¡Qué bellaca!
 
-                         Vanse ellas y los villanos.
+Vanse ellas y los villanos.
 FINARDO.
 No en balde el Rey la miró:
 
 
 es mozo y ella gallarda.
-                                                                         930
+930
 
 No es de sardillo ni hoz
 
@@ -3027,8 +3020,8 @@ No es sino caja en que amor
 guarda las flechas que tira.
 
 MARÍN.
-ˇQué mala comparación!
-                                                                         935
+¡Qué mala comparación!
+935
 
 Porque habiendo de ser nieve
 
@@ -3043,7 +3036,7 @@ y vienen a ser carbón.
 
 OTÓN.
 Por lo que abrasan, me agradan.
-                                                                         940
+940
 
 Pero el Rey no me agradó;
 
@@ -3054,16 +3047,16 @@ FINARDO.
 Yo le entendí.
 
 OTÓN.
-                        Pues yo no.
+                        Pues yo no.
 
 FINARDO.
 Dijo que había de hacer
 
 
 que aqueste Juan Labrador
-                                                                         945
+945
 
-viese Rey, seńor sirviese.
+viese Rey, señor sirviese.
 
 OTÓN.
 Vamos, porque pienso yo
@@ -3072,16 +3065,16 @@ Vamos, porque pienso yo
 que ha de ser dificultoso.
 
 FINARDO.
-ˇA un Rey de tanto valor,
+¡A un Rey de tanto valor,
 
 
 que tiemblan sus flores de oro,
-                                                                         950
+950
 
 el scita, el turco feroz!
 
 OTÓN.
-ˇQué mal, Finardo, conoces,
+¡Qué mal, Finardo, conoces,
 
 
 si nunca te sucedió,
@@ -3091,7 +3084,7 @@ llegar de noche mojado,
 
 
 o a la siesta con el sol,
-                                                                         955
+955
 
 o perdido por un monte,
 
@@ -3106,22 +3099,22 @@ o de los perros el son,
 
 
 después que de voces ronco
-                                                                         960
+960
 
 te dieron alguna voz,
 
 
-y entraste en pobre cabańa
+y entraste en pobre cabaña
 
 
 que tiene por guardasol
 
 
-robles bańados en humo,
+robles bañados en humo,
 
 
 que pasa el viento veloz,
-                                                                         965
+965
 
 y haber de sacar las migas
 
@@ -3136,7 +3129,7 @@ cuchillo ni pan de flor,
 
 
 sino sentado en el suelo
-                                                                         970
+970
 
 sobre algún pardo vellón,
 
@@ -3151,13 +3144,11 @@ lo que se estima y se ensancha
 
 
 el villano en su rincón!
-                                                                         975
-
-                            Fin del acto primero.
-
+975
+ 
+Fin del acto primero.
 
 Acto segundo
-
 
 Salen el REY DE FRANCIA y FINARDO.
 
@@ -3170,7 +3161,7 @@ Para desasosegarse,
 
 
 
-żpuede en el mundo ser parte
+¿puede en el mundo ser parte
 
 
 
@@ -3182,7 +3173,7 @@ Este villano lo ha sido.
 980
 
 FINARDO.
-żEl villano o la villana?
+¿El villano o la villana?
 
 
 REY.
@@ -3242,7 +3233,7 @@ confieso que me ha picado.
 995
 
 
-ˇQue con tal descanso viva
+¡Que con tal descanso viva
 
 
 
@@ -3250,7 +3241,7 @@ en su rincón un villano,
 
 
 
-que a su seńor soberano
+que a su señor soberano
 
 
 
@@ -3258,7 +3249,7 @@ ver para siempre se priva!
 
 
 
-ˇQue trate con tal desprecio
+¡Que trate con tal desprecio
 1000
 
 
@@ -3274,7 +3265,7 @@ de que la desprecie un necio!
 
 
 
-ˇQue tanto descanso tenga
+¡Que tanto descanso tenga
 
 
 
@@ -3290,7 +3281,7 @@ y que a mirarme no venga!
 
 
 
-ˇQue le haya dado la suerte
+¡Que le haya dado la suerte
 
 
 
@@ -3306,7 +3297,7 @@ desde la vida a la muerte!
 
 
 
-ˇQue le sirvan sus criados,
+¡Que le sirvan sus criados,
 
 
 
@@ -3322,7 +3313,7 @@ sin ver los reyes sagrados!
 1015
 
 
-ˇQue la púrpura real
+¡Que la púrpura real
 
 
 
@@ -3338,7 +3329,7 @@ que viste pardo sayal!
 
 
 
-ˇQue tenga el alma segura,
+¡Que tenga el alma segura,
 1020
 
 
@@ -3346,7 +3337,7 @@ y el cuerpo en tanto descanso!
 
 
 
-Pero, żpara qué me canso?
+Pero, ¿para qué me canso?
 
 
 
@@ -3398,7 +3389,7 @@ que tiene el hombre que vive;
 
 
 
-y todas, seńor, las tienes.
+y todas, señor, las tienes.
 1035
 
 
@@ -3470,7 +3461,7 @@ Estando todos en ti,
 
 
 
-żcómo envidias a un villano,
+¿cómo envidias a un villano,
 
 
 
@@ -3518,7 +3509,7 @@ y era un grande emperador:
 
 
 
-y en un villano, ˇaún no veo
+y en un villano, ¡aún no veo
 1065
 
 
@@ -3526,7 +3517,7 @@ que tenga un justo deseo
 
 
 
-de ver al Rey su seńor!
+de ver al Rey su señor!
 
 
 
@@ -3554,7 +3545,7 @@ cuando paso por su puerta...
 
 
 
-Pues ˇvive el cielo!, que, abierta,
+Pues ¡vive el cielo!, que, abierta,
 
 
 
@@ -3562,15 +3553,15 @@ ha de saber que el Rey pasa.
 1075
 
 FINARDO.
-żEsto te da pesadumbre?
+¿Esto te da pesadumbre?
 
 
 
-ˇUn villano en su rincón!
+¡Un villano en su rincón!
 
 
 REY.
-Y, żno se espanta un león
+Y, ¿no se espanta un león
 
 
 
@@ -3586,11 +3577,11 @@ del floro, un ave tan vil,
 
 
 
-żno se espanta?
+¿no se espanta?
 
 
 FINARDO.
-              żQue el gentil
+              ¿Que el gentil
 
 
 
@@ -3614,7 +3605,7 @@ que es un carro finalmente.
 
 
 FINARDO.
-żQué tienes imaginado
+¿Qué tienes imaginado
 
 
 
@@ -3646,7 +3637,7 @@ contra reyes no le valga.
 1095
 
 FINARDO.
-Pues, żtú quieres ir allá?
+Pues, ¿tú quieres ir allá?
 
 
 
@@ -3654,7 +3645,7 @@ Venga acá Juan Labrador
 
 
 
-a ver al Rey su seńor;
+a ver al Rey su señor;
 
 
 
@@ -3694,7 +3685,7 @@ A muy buen tiempo llegamos.
 
 
 COSTANZA.
-żQuieres tú que solo esté?
+¿Quieres tú que solo esté?
 
 
 LISARDA.
@@ -3702,7 +3693,7 @@ Sí, porque hablemos un rato.
 
 
 COSTANZA.
-żMas que son cosas de amor?
+¿Mas que son cosas de amor?
 
 
 
@@ -3726,7 +3717,7 @@ pues eres tan entendida
 
 
 
-żtuvieras tú confianza
+¿tuvieras tú confianza
 1115
 
 
@@ -3738,7 +3729,7 @@ destos hidalgos de allá?
 
 
 COSTANZA.
-żDe la Corte?
+¿De la Corte?
 
 
 LISARDA.
@@ -3846,7 +3837,7 @@ cortesano enamorado.
 
 
 LISARDA.
-żQué es, Costanza, cosicosa,
+¿Qué es, Costanza, cosicosa,
 
 
 
@@ -3954,7 +3945,7 @@ no habléis cosa de sospecha.
 
 
 LISARDA.
-Cerrarte, amor, żqué aprovecha?
+Cerrarte, amor, ¿qué aprovecha?
 1170
 
 
@@ -3976,7 +3967,7 @@ de venir al baile.
 
 
 FELICIANO.
-              Cría
+              Cría
 
 
 
@@ -4032,7 +4023,7 @@ la fortuna a gran caudal.
 
 
 
-żNo has visto un enamorado,
+¿No has visto un enamorado,
 
 
 
@@ -4052,7 +4043,7 @@ que, dando en hacer por ella,
 
 
 
-tanto se viene a empreńar
+tanto se viene a empreñar
 
 
 
@@ -4128,7 +4119,7 @@ donde el mismo sol no alcanza.
 
 
 FELICIANO.
-żHabrá un poco de lugar
+¿Habrá un poco de lugar
 
 
 
@@ -4144,11 +4135,11 @@ esta posesión tomar?
 1215
 
 COSTANZA.
-żNo respondes a tu hermano?
+¿No respondes a tu hermano?
 
 
 LISARDA.
-żPara qué, si habla contigo?
+¿Para qué, si habla contigo?
 
 
 COSTANZA.
@@ -4156,11 +4147,11 @@ Pues yo que se siente digo.
 
 
 FELICIANO.
-żHacia qué mano?
+¿Hacia qué mano?
 
 
 COSTANZA.
-                A esta mano,
+                A esta mano,
 
 
 
@@ -4214,7 +4205,7 @@ Pues habrá en colmo el placer.
 
 
 
-żTraes tu vihuela ahí?
+¿Traes tu vihuela ahí?
 
 
 TIRSO.
@@ -4230,7 +4221,7 @@ menos el amor que a mí.
 1235
 
 TIRSO.
-żHay para todos asiento?
+¿Hay para todos asiento?
 
 
 BELISA.
@@ -4252,7 +4243,7 @@ Salga Lisarda a bailar.
 1240
 
 LISARDA.
-żSola? No tenéis razón.
+¿Sola? No tenéis razón.
 
 
 BRUNO.
@@ -4264,7 +4255,7 @@ con que la quiero sacar.
 
 
 OTÓN.
-Éste żno es el olmo?
+Éste ¿no es el olmo?
 
 
 MARÍN.
@@ -4272,7 +4263,7 @@ MARÍN.
 
 
 OTÓN.
-Pues, żcómo hablarla podré?
+Pues, ¿cómo hablarla podré?
 1245
 
 MARÍN.
@@ -4280,7 +4271,7 @@ Si no se aparta, no sé.
 
 
 OTÓN.
-żPudo ser confuso abismo
+¿Pudo ser confuso abismo
 
 
 
@@ -4318,7 +4309,7 @@ y en la derecha el neblí.
 1255
 
 
-Pensando va en su seńora
+Pensando va en su señora
 
 
 
@@ -4346,7 +4337,7 @@ los perros siguen las sendas
 
 
 
-entre hayas y peńas mil.
+entre hayas y peñas mil.
 
 
 
@@ -4388,15 +4379,15 @@ Por el montecico sola,
 
 
 
-żcómo iré?
+¿cómo iré?
 
 
 
-ˇAy, Dios! żsi me perderé?
+¡Ay, Dios! ¿si me perderé?
 
 
 
-żCómo iré, triste, cuitada,
+¿Cómo iré, triste, cuitada,
 1275
 
 
@@ -4408,15 +4399,15 @@ Sola, triste, enamorada,
 
 
 
-żdónde iré?
+¿dónde iré?
 
 
 
-ˇAy, Dios! żsi me perderé?
+¡Ay, Dios! ¿si me perderé?
 
 
 
--żDónde vais, serrana bella,
+-¿Dónde vais, serrana bella,
 1280
 
 
@@ -4448,7 +4439,7 @@ que ese valle abajo está.
 
 
 
--ˇOh mal haya el caballero
+-¡Oh mal haya el caballero
 
 
 
@@ -4464,7 +4455,7 @@ por matar un animal!
 
 
 
-Si os place, seńora mía,
+Si os place, señora mía,
 
 
 
@@ -4488,7 +4479,7 @@ con la mucha oscuridad;
 
 
 
-al pie de una parda peńa
+al pie de una parda peña
 
 
 
@@ -4516,11 +4507,11 @@ que llego a refrescarme aquella fuente.
 
 
 
-żSois vos mi cortesano?
+¿Sois vos mi cortesano?
 
 
 OTÓN.
-                    Labradora
+                    Labradora
 1305
 
 
@@ -4532,7 +4523,7 @@ pues en la cote tu belleza adora;
 
 
 
-żqué haré por ti, donde conozcas cuánto
+¿qué haré por ti, donde conozcas cuánto
 
 
 
@@ -4540,7 +4531,7 @@ te estima el alma que en tus ojos vive?
 
 
 LISARDA.
-ˇAy, por su vida! żQue me quiere tanto?
+¡Ay, por su vida! ¿Que me quiere tanto?
 1310
 
 OTÓN.
@@ -4576,7 +4567,7 @@ que me burléis, ilustre caballero,
 
 
 
-żqué puedo hacer? Siniestro fue mi hado;
+¿qué puedo hacer? Siniestro fue mi hado;
 
 
 
@@ -4588,7 +4579,7 @@ tal sin razón, no dejaré de amaros;
 
 
 
-pero, żcómo podré corresponderos?
+pero, ¿cómo podré corresponderos?
 
 
 
@@ -4600,7 +4591,7 @@ y si vos no queréis casar conmigo,
 
 
 
-ża qué puedo, seńor, aventurarme?
+¿a qué puedo, señor, aventurarme?
 1325
 
 
@@ -4608,7 +4599,7 @@ Mi padre es labrador, pero es honrado;
 
 
 
-no hay seńor en París de tanta hacienda;
+no hay señor en París de tanta hacienda;
 
 
 
@@ -4636,7 +4627,7 @@ una noble mujer en Corte aprende,
 
 
 
-y tengo estas entrańas amorosas...
+y tengo estas entrañas amorosas...
 
 
 
@@ -4648,7 +4639,7 @@ persuadir imposibles a los hombres.
 
 
 OTÓN.
-żCuándo tuvo imposibles la hermosura?
+¿Cuándo tuvo imposibles la hermosura?
 
 
 
@@ -4660,7 +4651,7 @@ que habéis de ser mujer...
 
 
 LISARDA.
-                      Seńor, dejadme.
+                      Señor, dejadme.
 
 
 OTÓN.
@@ -4668,7 +4659,7 @@ OTÓN.
 1340
 
 LISARDA.
-Y, żqué seguro deseo podéis darme?
+Y, ¿qué seguro deseo podéis darme?
 
 
 OTÓN.
@@ -4676,7 +4667,7 @@ Un papel de mi mano.
 
 
 LISARDA.
-                  Y, żpor papeles
+                  Y, ¿por papeles
 
 
 
@@ -4684,11 +4675,11 @@ queréis que yo me atreva aventurarme?
 
 
 OTÓN.
-Pues żno tienen valor?
+Pues ¿no tienen valor?
 
 
 LISARDA.
-                   El que se mira
+                   El que se mira
 
 
 
@@ -4700,7 +4691,7 @@ No hay verdad en amor, todo es mentira.
 
 
 OTÓN.
-żY si vos la notáis con penas tales,
+¿Y si vos la notáis con penas tales,
 
 
 
@@ -4708,7 +4699,7 @@ que me condene el cielo a pena eterna?
 
 
 LISARDA.
-ˇOh amor, gran juntador de desiguales!
+¡Oh amor, gran juntador de desiguales!
 
 
 
@@ -4756,11 +4747,11 @@ y hablaremos los dos secretamente.
 1360
 
 
-żCon quién y en qué venistes?
+¿Con quién y en qué venistes?
 
 
 OTÓN.
-                         En un coche;
+                         En un coche;
 
 
 
@@ -4772,7 +4763,7 @@ Id donde digo, que nos van sintiendo.
 
 
 OTÓN.
-Allá os espero. żQuién habrá que crea,
+Allá os espero. ¿Quién habrá que crea,
 
 
 
@@ -4780,7 +4771,7 @@ Marín, mi dicha?
 
 
 MARÍN
-              żEs buen suceso todo?
+              ¿Es buen suceso todo?
 1365
 
 OTÓN.
@@ -4792,7 +4783,7 @@ MARÍN.
 
 
 OTÓN.
-            Pasó de aqueste modo.
+            Pasó de aqueste modo.
 
 
 Vase OTÓN.
@@ -4824,11 +4815,11 @@ FELICIANO.
 Sale JUAN LABRADOR y el ALCAIDE.
 
 ALCAIDE.
-ˇBendígaos Dios, y qué os juntáis de mozos!
+¡Bendígaos Dios, y qué os juntáis de mozos!
 
 
 JUAN.
-żHabrá lugar también para los viejos?
+¿Habrá lugar también para los viejos?
 
 
 COSTANZA.
@@ -4848,7 +4839,7 @@ en tenérmele a mí.
 
 
 COSTANZA.
-                Saben los cielos
+                Saben los cielos
 
 
 
@@ -4860,7 +4851,7 @@ LISARDA.
 
 
 FELICIANO.
-ˇPluuiera a Dios que pasará el verano!
+¡Pluuiera a Dios que pasará el verano!
 1380
 
 LISARDA.
@@ -4868,7 +4859,7 @@ Para todo hay sazón.
 
 
 FELICIANO.
-                  Por mejor tengo
+                  Por mejor tengo
 
 
 
@@ -4896,11 +4887,11 @@ No lo oiga el viejo.
 
 
 FILETO.
-żFáltale más que dinero
+¿Fáltale más que dinero
 
 
 
-a Costanza? Pues, żqué importa,
+a Costanza? Pues, ¿qué importa,
 
 
 
@@ -4908,7 +4899,7 @@ si sobra tanto a su suegro?
 1390
 
 BRUNO.
-A Lisarda, żqué marido
+A Lisarda, ¿qué marido
 
 
 
@@ -4944,7 +4935,7 @@ y cierto que, bien mirado,
 
 
 
-aunque su padre es mi dueńo,
+aunque su padre es mi dueño,
 1400
 
 
@@ -5016,7 +5007,7 @@ de que el mundo está tan lleno,
 
 
 
-ża quién damos a Lisarda?
+¿a quién damos a Lisarda?
 
 
 BRUNO.
@@ -5024,7 +5015,7 @@ Dásela a algún palaciego.
 
 
 FILETO.
-ˇMalos ańos! Si mi amo
+¡Malos años! Si mi amo
 
 
 
@@ -5048,7 +5039,7 @@ SALVANO.
 
 
 BRUNO.
-żCómo quiero, siendo yo
+¿Cómo quiero, siendo yo
 1425
 
 
@@ -5116,7 +5107,7 @@ cuatro palos con un bieldo.
 
 
 FILETO.
-ˇÉse sí que fue favor,
+¡Ése sí que fue favor,
 1440
 
 
@@ -5152,7 +5143,7 @@ una artesa de lejía.
 
 
 FILETO.
-żMuy caliente?
+¿Muy caliente?
 
 
 SALVANO.
@@ -5252,7 +5243,7 @@ Es vieja.
 
 
 FILETO.
-        Es rica, y con eso
+        Es rica, y con eso
 
 
 
@@ -5280,7 +5271,7 @@ No debe de haber espejos.
 
 
 
-Las nińas pasen, son nińas;
+Las niñas pasen, son niñas;
 
 
 
@@ -5328,19 +5319,19 @@ como cortezas de queso,
 
 
 
-żpor qué han de dejar las tocas?
+¿por qué han de dejar las tocas?
 1490
 
 BRUNO.
-Por parecer nińas.
+Por parecer niñas.
 
 
 FILETO.
-                ˇBueno!
+                ¡Bueno!
 
 
 
-Como se cuentan los ańos
+Como se cuentan los años
 
 
 
@@ -5448,7 +5439,7 @@ Tierra soy de tus pies.
 
 
 JUAN.
-                   Vuelve a tu asiento,
+                   Vuelve a tu asiento,
 
 
 
@@ -5468,15 +5459,15 @@ Vamos agora a casa.
 
 
 ALCAIDE.
-                  Feliciano,
+                  Feliciano,
 
 
 
-besa a seńor por tal merced la mano.
+besa a señor por tal merced la mano.
 
 
 FELICIANO.
-No sé, seńor, con qué palabras diga
+No sé, señor, con qué palabras diga
 
 
 
@@ -5492,23 +5483,23 @@ mi voluntad en público declara.
 
 
 BRUNO.
-żEl casamiento?
+¿El casamiento?
 
 
 FILETO.
-              Sí.
+              Sí.
 
 
 SALVANO.
-                 Todo se diga.
+                 Todo se diga.
 
 
 
-ˇCómo! Esto żfue verdad?
+¡Cómo! Esto ¿fue verdad?
 
 
 JUAN.
-                      Nunca reparo
+                      Nunca reparo
 
 
 
@@ -5520,19 +5511,19 @@ fiesta que a todo el pueblo satisfaga.
 
 
 
-Dos toros quiero que corráis mańana.
+Dos toros quiero que corráis mañana.
 
 
 
-ˇHola Bruno!
+¡Hola Bruno!
 
 
 BRUNO.
-            Seńor...
+            Señor...
 
 
 JUAN.
-                    Busca dos toros
+                    Busca dos toros
 
 
 
@@ -5556,7 +5547,7 @@ y que no ha de quedar sangre en sus poros.
 
 
 ALCAIDE.
-Haga mańana fiestas nuestra aldea.
+Haga mañana fiestas nuestra aldea.
 
 
 BELISA.
@@ -5564,7 +5555,7 @@ Que sea para bien.
 
 
 TODOS.
-                 Para bien sea.
+                 Para bien sea.
 
 
 Vanse.
@@ -5588,7 +5579,7 @@ que cerca dividió el prado.
 
 
 
-ˇQue me haya puesto en cuidado
+¡Que me haya puesto en cuidado
 
 
 
@@ -5608,7 +5599,7 @@ para que vea que es justo
 
 
 
-ver rey y servir seńor.
+ver rey y servir señor.
 
 
 
@@ -5628,7 +5619,7 @@ en su tiempo estas memorias.
 
 
 
-No todas ańaden glorias
+No todas añaden glorias
 
 
 
@@ -5670,11 +5661,11 @@ desprecios de mi valor.
 Sale FINARDO.
 
 FINARDO.
-żAdónde mandas, seńor,
+¿Adónde mandas, señor,
 
 
 
-tenga el caballo mańana?
+tenga el caballo mañana?
 1565
 
 REY.
@@ -5750,23 +5741,23 @@ de la majestad olvido.
 
 
 
-ˇAh de casa!
+¡Ah de casa!
 
 
 FILETO.
-            żQuién vocea?
+            ¿Quién vocea?
 
 
 REY.
-żVive aquí Juan Labrador?
+¿Vive aquí Juan Labrador?
 1585
 
 FILETO.
-Por ti preguntan, seńor.
+Por ti preguntan, señor.
 
 
 JUAN.
-żQuién quieres que ahora sea?
+¿Quién quieres que ahora sea?
 
 
 FILETO.
@@ -5802,7 +5793,7 @@ de los nobles de París.
 1595
 
 
-Perdíme en esa montańa;
+Perdíme en esa montaña;
 
 
 
@@ -5814,7 +5805,7 @@ até mi caballo a un roble,
 
 
 
-por la oscuridad extrańa
+por la oscuridad extraña
 
 
 
@@ -5826,7 +5817,7 @@ donde el cura me ha informado...
 
 
 JUAN.
-El cura no os ha engańado.
+El cura no os ha engañado.
 
 
 
@@ -5850,15 +5841,15 @@ al modo que acá se pasa.
 
 
 
-żQué nombre tenéis?
+¿Qué nombre tenéis?
 
 
 REY.
-                  Dionís.
+                  Dionís.
 
 
 JUAN.
-żQué oficio o qué dignidad?
+¿Qué oficio o qué dignidad?
 
 
 REY.
@@ -5914,7 +5905,7 @@ Sentaos vos; que tiempo hay luego.
 
 
 JUAN.
-ˇQué cortesano de fama!
+¡Qué cortesano de fama!
 
 
 
@@ -5990,15 +5981,15 @@ por veros tan liberal.
 1640
 
 JUAN.
-ˇA París!
+¡A París!
 
 
 REY.
-         Pues żqué decís?
+         Pues ¿qué decís?
 
 
 
-żNo iréis tal vez a París
+¿No iréis tal vez a París
 
 
 
@@ -6010,11 +6001,11 @@ Mal mi gusto persuadís.
 
 
 JUAN.
-ˇYo a París!
+¡Yo a París!
 
 
 REY.
-           żNo puede ser?
+           ¿No puede ser?
 1645
 
 JUAN.
@@ -6030,7 +6021,7 @@ en mi vida os pienso ver.
 
 
 REY.
-Pues żqué os enfada de allá?
+Pues ¿qué os enfada de allá?
 
 
 JUAN.
@@ -6138,7 +6129,7 @@ que solo si quiero estoy,
 1675
 
 
-y acompańado, si quiero.
+y acompañado, si quiero.
 
 
 
@@ -6158,7 +6149,7 @@ es suma felicidad.
 1680
 
 REY.
-ˇOh filósofo villano!
+¡Oh filósofo villano!
 
 
 
@@ -6202,11 +6193,11 @@ Vuélvome luego almorzar.
 
 
 REY.
-żQué almorzáis?
+¿Qué almorzáis?
 
 
 JUAN.
-              Es nińería:
+              Es niñería:
 
 
 
@@ -6270,7 +6261,7 @@ Tras aquesto se apercibe
 
 
 
-(el Rey, seńor, me perdone)
+(el Rey, señor, me perdone)
 
 
 
@@ -6290,11 +6281,11 @@ a su gran palacio excede.
 
 
 REY.
-żQué tiene?
+¿Qué tiene?
 
 
 JUAN.
-           Vaca y carnero
+           Vaca y carnero
 
 
 
@@ -6302,7 +6293,7 @@ y una gallina.
 
 
 REY.
-            żY no más?
+            ¿Y no más?
 
 
 JUAN.
@@ -6346,7 +6337,7 @@ truhanes ni pasatiempo,
 
 
 
-sino algún nińo que alegra
+sino algún niño que alegra
 1725
 
 
@@ -6410,7 +6401,7 @@ dos perros y una ballesta;
 1740
 
 
-y dando vuelta a mis vińas,
+y dando vuelta a mis viñas,
 
 
 
@@ -6422,7 +6413,7 @@ trigos, huertas y heredades
 
 
 
-corro y mato en sus campińas
+corro y mato en sus campiñas
 
 
 
@@ -6474,11 +6465,11 @@ en el sentido del ver:
 
 
 
-los ojos żno han de mirar?
+los ojos ¿no han de mirar?
 
 
 
-żNo se hicieron para eso?
+¿No se hicieron para eso?
 
 
 JUAN.
@@ -6490,7 +6481,7 @@ cosa que les pueda dar.
 1760
 
 REY.
-żQué importa? żCuál hermosura
+¿Qué importa? ¿Cuál hermosura
 
 
 
@@ -6498,7 +6489,7 @@ puede a una Corte igualarse?
 
 
 
-żEn qué mapa puede hallarse
+¿En qué mapa puede hallarse
 
 
 
@@ -6530,7 +6521,7 @@ y el cordero sus vasallos,
 1770
 
 
-los nińos, rey de los gallos;
+los niños, rey de los gallos;
 
 
 
@@ -6602,7 +6593,7 @@ para servirle.
 
 
 REY.
-            En verdad es,
+            En verdad es,
 
 
 
@@ -6610,7 +6601,7 @@ si necesidad tuviese,
 
 
 
-żprestaréisle algún dinero?
+¿prestaréisle algún dinero?
 1790
 
 JUAN.
@@ -6622,7 +6613,7 @@ tres mil afrentas me hiciese;
 
 
 
-que del Seńor soberano
+que del Señor soberano
 
 
 
@@ -6642,7 +6633,7 @@ la defensa de su mano.
 
 
 REY.
-Pues żpor qué dais en no ver
+Pues ¿por qué dais en no ver
 
 
 
@@ -6703,8 +6694,7 @@ JUAN.
 Calla pedid para vos.
 
 
-Sacan una mesa baja, con pan, salero, cuchillo, y  vayan  entrando  villanos
-con platos y cubiertos.
+Sacan una mesa baja, con pan, salero, cuchillo, y vayan entrando villanos con platos y cubiertos.
 
 FILETO.
 La mesa tienes aquí.
@@ -6739,11 +6729,11 @@ obedecedme; que soy
 
 
 
-el dueńo.
+el dueño.
 
 
 REY.
-         Más justo fuera
+         Más justo fuera
 1820
 
 
@@ -6755,7 +6745,7 @@ Haced lo que os he mandado;
 
 
 
-que del dueńo que es honrado,
+que del dueño que es honrado,
 
 
 
@@ -6767,7 +6757,7 @@ y por ruin que el huésped sea,
 1825
 
 
-siempre el dueńo le ha de dar
+siempre el dueño le ha de dar
 
 
 
@@ -6775,7 +6765,7 @@ por honra el mejor lugar.
 
 
 REY.
-(żHabrá quien aquesto crea?)
+(¿Habrá quien aquesto crea?)
 
 
 JUAN.
@@ -6787,11 +6777,11 @@ cantarle alguna canción.
 1830
 
 REY.
-(ˇBuen villano y buen rincón!)
+(¡Buen villano y buen rincón!)
 
 
 
-żMúsica también tenéis?
+¿Música también tenéis?
 
 
 JUAN.
@@ -6801,11 +6791,11 @@ Es rústica. Comenzad.
 Salen BELISA y COSTANZA, LISARDA y FELICIANO.
 
 REY.
-żQuién son aquestas seńoras?
+¿Quién son aquestas señoras?
 
 
 JUAN.
-No seńoras, labradoras
+No señoras, labradoras
 1835
 
 
@@ -6837,7 +6827,7 @@ ni el alabar ni el mirar
 
 
 
-lo que el dueńo no ha de dar.
+lo que el dueño no ha de dar.
 
 
 REY.
@@ -6857,7 +6847,7 @@ que en vuestra casa no habrá
 
 
 
-por dicha mejor seńora.
+por dicha mejor señora.
 
 
 LISARDA.
@@ -6873,7 +6863,7 @@ al Rey.
 
 
 FELICIANO.
-       Un milagro nuevo
+       Un milagro nuevo
 
 
 
@@ -6881,7 +6871,7 @@ de naturaleza ofrece.
 
 
 
-Pero engáńase la vista,
+Pero engáñase la vista,
 
 
 
@@ -6893,11 +6883,11 @@ al Rey.
 
 
 COSTANZA.
-       Y tiene razón;
+       Y tiene razón;
 1855
 
 
-que żhay luz que al mirar resista
+que ¿hay luz que al mirar resista
 
 
 
@@ -6917,7 +6907,7 @@ si sed tuviera.
 
 
 LISARDA.
-            Y es ley
+            Y es ley
 1860
 
 
@@ -6929,11 +6919,11 @@ le lleve de beber yo.
 
 
 BRUNO.
-żCantaremos?
+¿Cantaremos?
 
 
 REY.
-            żPor qué no?
+            ¿Por qué no?
 
 
 
@@ -6941,7 +6931,7 @@ Que éste es convite real.
 
 
 MÚSICOS.
-ˇCuán bienaventurado
+¡Cuán bienaventurado
 1865
 
 
@@ -7009,7 +6999,7 @@ mi oración.
 
 
 REY.
-          (ˇQué labrador!)
+          (¡Qué labrador!)
 
 
 JUAN.
@@ -7021,15 +7011,15 @@ pues que me dais de comer,
 
 
 
-sin merecerlo, Seńor.
+sin merecerlo, Señor.
 
 
 REY.
-ˇBreve oración!
+¡Breve oración!
 
 
 JUAN.
-              Comprehende
+              Comprehende
 1885
 
 
@@ -7041,7 +7031,7 @@ Bien es que a acostaros vais;
 
 
 
-que es tarde y el sueńo ofende.
+que es tarde y el sueño ofende.
 
 
 
@@ -7059,7 +7049,7 @@ REY.
 
 
 
-Un poco aguardad, seńora.
+Un poco aguardad, señora.
 
 
 LISARDA.
@@ -7071,7 +7061,7 @@ No me tengáis, por mi vida.
 
 
 REY.
-żNo es cortesía que pida
+¿No es cortesía que pida
 1895
 
 
@@ -7083,7 +7073,7 @@ LISARDA.
 
 
 BELISA.
-Yo, seńor, me quedaré
+Yo, señor, me quedaré
 
 
 
@@ -7099,7 +7089,7 @@ será más merced.
 
 
 BELISA.
-               Sí haré.
+               Sí haré.
 1900
 
 REY.
@@ -7107,7 +7097,7 @@ Oíd.
 
 
 LISARDA.
-     żQué?
+     ¿Qué?
 
 
 REY.
@@ -7115,11 +7105,11 @@ REY.
 
 
 LISARDA.
-żLa mano?
+¿La mano?
 
 
 REY.
-          La mano quiero.
+          La mano quiero.
 
 
 LISARDA.
@@ -7147,11 +7137,11 @@ Pues eso no habéis de ver.
 
 
 REY.
-żY si me caso con vos?
+¿Y si me caso con vos?
 
 
 LISARDA.
-ˇQué presto los cortesanos
+¡Qué presto los cortesanos
 1910
 
 
@@ -7203,7 +7193,7 @@ si no le dé un mojicón.
 
 
 
-ˇA villana en su rincón
+¡A villana en su rincón
 
 
 
@@ -7211,7 +7201,7 @@ desa manera se atreve!
 
 
 
-ˇArre allá con treinta erres!
+¡Arre allá con treinta erres!
 1925
 
 REY.
@@ -7227,27 +7217,27 @@ Pues si te vas, no me cierres.
 
 
 
-Aquesta żes casa encantada?
+Aquesta ¿es casa encantada?
 
 
 
-żQué es esto, Dios? żDónde estamos?
+¿Qué es esto, Dios? ¿Dónde estamos?
 1930
 
 
-żQué filosofía es ésa?
+¿Qué filosofía es ésa?
 
 
 
-żEn qué laberinto he dado?
+¿En qué laberinto he dado?
 
 
 
-żCómo me he metido aquí?
+¿Cómo me he metido aquí?
 
 
 
-ˇHola, gente! żCon quién hablo?
+¡Hola, gente! ¿Con quién hablo?
 
 
 
@@ -7257,15 +7247,15 @@ Que es esta la cama pienso...
 Entra COSTANZA.
 
 COSTANZA.
-żQué dais voces? żMandáis algo?
+¿Qué dais voces? ¿Mandáis algo?
 
 
 REY.
-żEs esta mi cama?
+¿Es esta mi cama?
 
 
 COSTANZA.
-                Sí,
+                Sí,
 
 
 
@@ -7293,19 +7283,19 @@ Escucha.
 
 
 COSTANZA.
-        żQué he de escuchar?
+        ¿Qué he de escuchar?
 
 
 
-ˇValga el diablo el cortesano!
+¡Valga el diablo el cortesano!
 
 
 REY.
-ˇBueno me ponen por Dios!
+¡Bueno me ponen por Dios!
 1945
 
 
-Extrańas burlas me paso.
+Extrañas burlas me paso.
 
 
 
@@ -7317,7 +7307,7 @@ que entren también los villanos.
 
 
 
-Mas żsi me acuesto y es ésta
+Mas ¿si me acuesto y es ésta
 
 
 
@@ -7331,7 +7321,7 @@ y viene acostarse a escuras?
 Sale BELISA.
 
 BELISA.
-żQué manda, seńor hidalgo,
+¿Qué manda, señor hidalgo,
 
 
 
@@ -7339,7 +7329,7 @@ que da voces a tal hora?
 
 
 REY.
-Hállome aquí tan extrańo,
+Hállome aquí tan extraño,
 
 
 
@@ -7347,7 +7337,7 @@ que no sé adónde me acueste.
 1955
 
 BELISA.
-Pues żqué os falta?
+Pues ¿qué os falta?
 
 
 REY.
@@ -7359,7 +7349,7 @@ Debéis de ser melindroso.
 
 
 
-Por ventura, żtenéis asco?
+Por ventura, ¿tenéis asco?
 
 
 
@@ -7375,7 +7365,7 @@ ni tan limpios ni tan blancos.
 
 
 
-ˇValga el diablo el cortesano!
+¡Valga el diablo el cortesano!
 
 
 REY.
@@ -7383,7 +7373,7 @@ Descalzadme vos.
 
 
 BELISA.
-                ˇQué lindo!
+                ¡Qué lindo!
 
 
 
@@ -7395,7 +7385,7 @@ Tomar quiero su consejo.
 1965
 
 
-Paréceme, y no me engańo,
+Paréceme, y no me engaño,
 
 
 
@@ -7403,7 +7393,7 @@ que detrás destas cortinas
 
 
 
-tose un hombre. Pues, żqué aguardo?
+tose un hombre. Pues, ¿qué aguardo?
 
 
 
@@ -7413,15 +7403,15 @@ Sacaré la espada.
 Sale OTÓN.
 
 OTÓN.
-               ˇTente!
+               ¡Tente!
 
 
 REY.
-ˇTente! ˇOtón! ˇExtrańo caso!
+¡Tente! ¡Otón! ¡Extraño caso!
 1970
 
 
-ˇOtón detrás de la cama!
+¡Otón detrás de la cama!
 
 
 OTÓN.
@@ -7429,7 +7419,7 @@ Oye la causa.
 
 
 REY.
-            żQué tardo
+            ¿Qué tardo
 
 
 
@@ -7437,7 +7427,7 @@ en darte la muerte?
 
 
 OTÓN.
-                Escucha, seńor;
+                Escucha, señor;
 
 
 
@@ -7445,15 +7435,15 @@ que no estoy culpado.
 
 
 REY.
-Pues, żcómo has venido aquí?
+Pues, ¿cómo has venido aquí?
 1975
 
 OTÓN.
-żQuién hubiera imaginado,
+¿Quién hubiera imaginado,
 
 
 
-ˇoh famoso Ludovico,
+¡oh famoso Ludovico,
 
 
 
@@ -7489,7 +7479,7 @@ oír de su misma boca
 1985
 
 
-tan notables desengańos.
+tan notables desengaños.
 
 
 OTÓN.
@@ -7497,15 +7487,15 @@ Pues a mí me trujo amor.
 
 
 REY.
-żAquí estás enamorado?
+¿Aquí estás enamorado?
 
 
 OTÓN.
-Sí, seńor.
+Sí, señor.
 
 
 REY.
-         żEs de Lisarda?
+         ¿Es de Lisarda?
 
 
 OTÓN.
@@ -7553,11 +7543,11 @@ por no hallar otro sagrado.
 2000
 
 REY.
-żQue a Lisarda quieres bien?
+¿Que a Lisarda quieres bien?
 
 
 OTÓN.
-żParécete gran milagro,
+¿Parécete gran milagro,
 
 
 
@@ -7592,19 +7582,17 @@ el villano en su rincón,
 pues no ve al Rey el villano.
 2010
 
-
+ 
 
 Fin del acto segundo.
 
 
-
-                                Acto tercero
-
+Acto tercero
 
 
-               Salen FILETO, BRUNO y SALVANO, con unas varas.
+Salen FILETO, BRUNO y SALVANO, con unas varas.
 FILETO.
-Hogańo hay linda bellota.
+Hogaño hay linda bellota.
 
 BRUNO.
 Lindos puercos ha de haber.
@@ -7617,7 +7605,7 @@ parece que os alborota.
 
 FILETO.
 A lo menos, la aceituna
-                                                                        2015
+2015
 
 que habemos de varear,
 
@@ -7632,7 +7620,7 @@ Comenzad a sacudir;
 
 
 que a fe que tenéis que hacer.
-                                                                        2020
+2020
 FILETO.
 Llegue quien ha de coger.
 
@@ -7646,20 +7634,20 @@ Por el repecho del prado
 nuesama y sus primas vienen.
 
 BRUNO.
-ˇVerá el reliente que tienen!
-                                                                        2025
+¡Verá el reliente que tienen!
+2025
 FILETO.
-żCantan?
+¿Cantan?
 
 SALVANO.
-                 Sí.
+                 Sí.
 
 BRUNO.
-                        ˇLindo cuidado!
+                        ¡Lindo cuidado!
 
-      Los músicos de villanos, COSTANZA y BELISA y LISARDA, con varas.
+Los músicos de villanos, COSTANZA y BELISA y LISARDA, con varas.
 MÚSICOS.
-ˇAy, fortuna,
+¡Ay, fortuna,
 
 
 cógeme esta aceituna!
@@ -7669,7 +7657,7 @@ Aceituna lisonjera,
 
 
 verde y tierna por defuera,
-                                                                        2030
+2030
 
 y por de dentro madera,
 
@@ -7677,14 +7665,14 @@ y por de dentro madera,
 fuente dura e importuna.
 
 
-ˇAy, fortuna,
+¡Ay, fortuna,
 
 
 cógeme esta aceituna!
 
 
 Fuera en madurar tan larga
-                                                                        2035
+2035
 
 que sin aderezo amarga;
 
@@ -7695,26 +7683,26 @@ y aunque se coja una carga,
 se ha de comer sola una.
 
 
-ˇAy, fortuna,
+¡Ay, fortuna,
 
 
 cógeme esta aceituna!
-                                                                        2040
+2040
 FILETO.
-żEs para hoy el venir?
+¿Es para hoy el venir?
 
 SALVANO.
-ˇQué bien se hará el varear
+¡Qué bien se hará el varear
 
 
 con cantar y con bailar!
 
 LISARDA.
-Comencemos a reńir,
+Comencemos a reñir,
 
 
-ˇpor vida de los lechones!
-                                                                        2045
+¡por vida de los lechones!
+2045
 SALVANO.
 Más nos valiera callar.
 
@@ -7729,7 +7717,7 @@ Mi instrumento traigo aquí,
 
 
 y a todas ayudaré.
-                                                                        2050
+2050
 LISARDA.
 También yo de burla hablé.
 
@@ -7744,7 +7732,7 @@ por un rato entre sus hojas,
 
 
 y templemos las congojas
-                                                                        2055
+2055
 
 de algún disgusto importunas;
 
@@ -7755,11 +7743,11 @@ BELISA.
 Bien dice, pues nadie aguarda.
 
 COSTANZA.
-żDe qué estás triste, Lisarda?
+¿De qué estás triste, Lisarda?
 
 LISARDA.
 No veo y quisiera ver.
-                                                                        2060
+2060
 COSTANZA.
 Ya te entiendo; pero advierte
 
@@ -7774,7 +7762,7 @@ Antes el mal se divierte.
 
 
 Vaya, Tirso, una canción,
-                                                                        2065
+2065
 
 y bailaremos las tres.
 
@@ -7789,7 +7777,7 @@ Deja las avellanicas, moro,
 
 
 que yo me las varearé;
-                                                                        2070
+2070
 
 tres y cuatro en un pimpollo,
 
@@ -7804,7 +7792,7 @@ que yo me las varearé.
 
 
 Allí estaba una cristiana,
-                                                                        2075
+2075
 
 que yo me las varearé.
 
@@ -7819,7 +7807,7 @@ El moro llegó a ayudarla,
 
 
 que yo me las varearé.
-                                                                        2080
+2080
 
 Y respondióla enojada,
 
@@ -7834,7 +7822,7 @@ que yo me las varearé.
 
 
 Tres y cuatro en un pimpollo,
-                                                                        2085
+2085
 
 que yo me las varearé.
 
@@ -7849,7 +7837,7 @@ Que las ramas eran de oro,
 
 
 que yo me las varearé.
-                                                                        2090
+2090
 
 De plata tenía el tronco,
 
@@ -7864,7 +7852,7 @@ que yo me las varearé.
 
 
 Eran de rubíes rojos,
-                                                                        2095
+2095
 
 que yo me las varearé.
 
@@ -7879,7 +7867,7 @@ Quisiera gozarle solo
 
 
 que yo me las varearé.
-                                                                        2100
+2100
 
 Mas díjole con enojo,
 
@@ -7894,12 +7882,12 @@ que yo me las varearé.
 
 
 Tres y cuatro en un pimpollo,
-                                                                        2105
+2105
 
 que yo me las varearé.
 
 SALVANO.
-                Quedo; que he visto venir
+                Quedo; que he visto venir
 
 
 por en somo de la cuesta
@@ -7909,7 +7897,7 @@ gente, a lo de Corte apuesta.
 
 FILETO.
 Bien os podéis encubrir;
-                                                                        2110
+2110
 
 que a la fe que es gente honrada.
 
@@ -7922,14 +7910,14 @@ que yo me muero de gozo.
 
 Y tengo el alma turbada.
 
-                       Pónganse los rebozos las tres.
+Pónganse los rebozos las tres.
 BRUNO.
 Haya un poquito de grita.
-                                                                        2115
+2115
 SALVANO.
 Vaya en la Corte se llama.
 
-                             Salen OTÓN y MARÍN.
+Salen OTÓN y MARÍN.
 MARÍN.
 Aquí hay villanas de fama.
 
@@ -7940,8 +7928,8 @@ Alguna, Marín, me quita
 el alma y la libertad.
 
 BRUNO.
-żAdónde van los jodíos?
-                                                                        2120
+¿Adónde van los jodíos?
+2120
 MARÍN.
 A buscaros, deudos míos,
 
@@ -7956,7 +7944,7 @@ te alcance la maldición
 
 
 de Gorrón y Sobirón
-                                                                        2125
+2125
 
 con agujas y alfileres.
 
@@ -7967,11 +7955,11 @@ Dente de palos a ti,
 y otros tantos a tu mozo.
 
 OTÓN.
-ˇAh reina, la del rebozo!
+¡Ah reina, la del rebozo!
 
 LISARDA.
-ˇOh qué linda! ˇReina a mí!
-                                                                        2130
+¡Oh qué linda! ¡Reina a mí!
+2130
 BRUNO.
 Mala Pascua te dé Dios,
 
@@ -7986,37 +7974,37 @@ y tengas catarro y tos;
 
 
 dolor de muelas te dé
-                                                                        2135
+2135
 
 que no te deje dormir.
 
 OTÓN.
-żCómo queréis encubrir
+¿Cómo queréis encubrir
 
 
 sol que por cristal se ve?
 
 LISARDA.
-Id, seńor, vuestro camino,
+Id, señor, vuestro camino,
 
 
 y dejadnos varear.
-                                                                        2140
+2140
 OTÓN.
-Pues yo, żno os sabré ayudar?
+Pues yo, ¿no os sabré ayudar?
 
 LISARDA.
-żAyudar? ˇQué desatino!
+¿Ayudar? ¡Qué desatino!
 
 
 Tenéis muy blandas las manos.
 
 OTÓN.
-żHabéislas tocado vos?
+¿Habéislas tocado vos?
 
 SALVANO.
 Que vos venga, plegue a Dios,
-                                                                        2145
+2145
 
 muermo, adivas y tolanos;
 
@@ -8031,22 +8019,22 @@ y vais a cenar con Judas
 
 
 por saeculorum amen.
-                                                                        2150
+2150
 MARÍN.
-żQuiere una palabra oír?
+¿Quiere una palabra oír?
 
 BELISA.
-Pues żél a mí? ˇMajadero!
+Pues ¿él a mí? ¡Majadero!
 
 MARÍN.
-żNo soy yo de carne y cuero?
+¿No soy yo de carne y cuero?
 
 BELISA.
 De cuero puede decir.
 
 COSTANZA.
-ˇOy, Lisarda! ˇFeliciano!
-                                                                        2155
+¡Oy, Lisarda! ¡Feliciano!
+2155
 LISARDA.
 Mi padre viene con él.
 
@@ -8054,38 +8042,38 @@ COSTANZA.
 Yo me voy.
 
 LISARDA.
-                     żQué temes dél?
+                     ¿Qué temes dél?
 
 COSTANZA.
 Es muy celoso tu hermano.
 
-               Vase COSTANZA. Salen FELICIANO y JUAN LABRADOR.
+Vase COSTANZA. Salen FELICIANO y JUAN LABRADOR.
 FELICIANO.
 Un hombre está con nuestra gente.
 
 JUAN.
-                                                       Y hombre
+                                                       Y hombre
 
 
 de no poco valor en la presencia.
-                                                                        2160
+2160
 LISARDA.
 Por ti pregunta aqueste gentilhombre.
 
 JUAN.
-żMandáis alguna cosa en que os sirvamos?
+¿Mandáis alguna cosa en que os sirvamos?
 
 OTÓN.
-Seńor Juan Labrador, vos sois persona
+Señor Juan Labrador, vos sois persona
 
 
 que merecéis del Rey aquesta carta,
 
 
 y que os la tenga el mariscal de Francia.
-                                                                        2165
+2165
 JUAN.
-ˇEl Rey a mí! Los pies, seńor, os beso,
+¡El Rey a mí! Los pies, señor, os beso,
 
 
 y a vos las manos, y ojalá las mías
@@ -8098,12 +8086,12 @@ A presumir mis padres que algún día
 
 
 a su hijo su Rey le escribiría,
-                                                                        2170
+2170
 
 para tomarla en estas rudas manos
 
 
-me enseńaran a guantes cortesanos.
+me enseñaran a guantes cortesanos.
 
 
 Póngala en mi cabeza. Tú que tienes
@@ -8115,46 +8103,43 @@ FELICIANO.
 La carta dice así...
 
 BELISA.
-                                żQué será aquesto?
-                                                                        2175
+                                ¿Qué será aquesto?
+2175
 FILETO.
-żSi quiere algún lechón?
+¿Si quiere algún lechón?
 
 SALVANO.
-                                       żNo eres más cesto?
+                                       ¿No eres más cesto?
 
 FELICIANO.
-(Lee la carta). «El Alcaide de París me ha dicho que cenando con vos una
-noche le dijistes que me prestaríades, si tuviese necesidad, cien mil
-escudos; yo la tengo, pariente: hacedme servicio que el mariscal los
-traiga. Dios os guarde».
+(Lee la carta). «El Alcaide de París me ha dicho que cenando con vos una noche le dijistes que me prestaríades, si tuviese necesidad, cien mil escudos; yo la tengo, pariente: hacedme servicio que el mariscal los traiga. Dios os guarde».
 
 BRUNO.
-żPariente dice el Rey?
+¿Pariente dice el Rey?
 
 FELICIANO.
-                                    żDe qué se espantas?
+                                    ¿De qué se espantas?
 
 
-Quien pide siempre engańa con lisonjas.
+Quien pide siempre engaña con lisonjas.
 
 JUAN.
 Lo que dije esa noche cumplirélo
 
 
 y que la hacienda cumpliré y los hijos.
-                                                                        2180
+2180
 
 Venid por el dinero.
 
 OTÓN.
-                                  Estad seguro
+                                  Estad seguro
 
 
 que no lo perderéis.
 
 JUAN.
-                                 Yo no procuro
+                                 Yo no procuro
 
 
 mayor satisfación que su servicio,
@@ -8166,13 +8151,13 @@ FILETO.
 Con ellos voy.
 
 LISARDA.
-                        Y yo también, Belisa.
-                                                                        2185
+                        Y yo también, Belisa.
+2185
 BELISA.
 El ánimo del viejo me ha espantado.
 
 SALVANO.
-żQué os parece de aquello que ha pasado?
+¿Qué os parece de aquello que ha pasado?
 
 FILETO.
 Que el villano que se hace caballero
@@ -8180,10 +8165,10 @@ Que el villano que se hace caballero
 
 merece que le quiten su dinero.
 
-                       Vanse y salen el REY y FINARDO.
+Vanse y salen el REY y FINARDO.
 REY.
 Yo quise ser el tercero
-                                                                        2190
+2190
 
 de los amores de Otón;
 
@@ -8198,7 +8183,7 @@ Mas te juro que en mi vida
 
 
 pensé turbarme, de ver
-                                                                        2195
+2195
 
 cosa que pudiese ser
 
@@ -8215,8 +8200,8 @@ de las cortinas y dijo:
 «Deténte», Otón.
 
 FINARDO.
-                            Es prolijo
-                                                                        2200
+                            Es prolijo
+2200
 
 discurso a mí me contó,
 
@@ -8227,11 +8212,11 @@ con que vino a merecer
 la discreta labradora,
 
 
-que quiere engańar agora
+que quiere engañar agora
 
 
 a título de mujer.
-                                                                        2205
+2205
 REY.
 No hará; que es el mariscal
 
@@ -8245,8 +8230,8 @@ y el labrador tan honrado
 que en nada le es desigual.
 
 FINARDO.
-Mucho, seńor, he sabido
-                                                                        2210
+Mucho, señor, he sabido
+2210
 
 de las costumbres de Otón;
 
@@ -8261,7 +8246,7 @@ de lo que a Juan Labrador
 
 
 se le siguiere de agravio.
-                                                                        2215
+2215
 
 Mas yo sé que Otón es sabio,
 
@@ -8275,11 +8260,11 @@ No hay cosa más inconstante
 que el hombre.
 
 REY.
-                          Dices verdad,
+                          Dices verdad,
 
 
 porque en esa variedad
-                                                                        2220
+2220
 
 a ninguno es semejante.
 
@@ -8294,7 +8279,7 @@ ver tan diferente al hombre,
 
 
 y era con mucha razón.
-                                                                        2225
+2225
 
 Decía que en su fiereza
 
@@ -8309,7 +8294,7 @@ una igual naturaleza.
 
 
 Todos los leones son
-                                                                        2230
+2230
 
 fuertes, y todos medrosos
 
@@ -8324,12 +8309,12 @@ todas las águilas tienen
 
 
 una magnanimidad,
-                                                                        2235
+2235
 
 todos los perros lealtad,
 
 
-siempre con su dueńo vienen.
+siempre con su dueño vienen.
 
 
 Todas las palomas son
@@ -8339,7 +8324,7 @@ mansas, los lobos voraces;
 
 
 pero en los hombres, capaces
-                                                                        2240
+2240
 
 de la divina razón,
 
@@ -8354,7 +8339,7 @@ uno limpio, otro grosero,
 
 
 uno falso y otro fuerte,
-                                                                        2245
+2245
 
 uno altivo, otro sujeto,
 
@@ -8369,12 +8354,12 @@ uno necio, otro discreto,
 
 
 uno en extremo leal,
-                                                                        2250
+2250
 
 y otro en extremo traidor,
 
 
-uno compuesto y seńor,
+uno compuesto y señor,
 
 
 y otro libre y desigual.
@@ -8384,7 +8369,7 @@ Otón mire bien por sí,
 
 
 cumpliendo su obligación;
-                                                                        2255
+2255
 
 que me quejaré de Otón.
 
@@ -8398,8 +8383,8 @@ aborrecer al villano
 y hablar de su pertinacia;
 
 
-żpor dónde vino a tu gracia?
-                                                                        2260
+¿por dónde vino a tu gracia?
+2260
 REY.
 Porque toqué con la mano
 
@@ -8414,7 +8399,7 @@ que ya por él y por mí
 
 
 pudiera decir mejor
-                                                                        2265
+2265
 
 lo que de Alejandro Griego
 
@@ -8429,7 +8414,7 @@ casa estrecha, sol por fuego,
 
 
 dijo que holgara de ser
-                                                                        2270
+2270
 
 Diógenes, si no fuera
 
@@ -8444,26 +8429,26 @@ y con ocasión mayor,
 
 
 porque, a no ser Rey de Francia,
-                                                                        2275
+2275
 
 tuviera por más ganancia
 
 
 que fuera Juan Labrador.
 
-                                 Sale OTÓN.
+Sale OTÓN.
 OTÓN.
-Ya, gran seńor, en Miraflor he dado
+Ya, gran señor, en Miraflor he dado
 
 
 la carta al labrador.
 
 REY.
-                                żQué ha respondido?
+                                ¿Qué ha respondido?
 
 OTÓN.
 Que te dijo verdad aquel Alcaide
-                                                                        2280
+2280
 
 de París (yo no sé qué Alcade sea),
 
@@ -8474,14 +8459,14 @@ y que allí queda a tu servicio todo,
 hasta sus mismos hijos.
 
 REY.
-                                      żDio el dinero?
+                                      ¿Dio el dinero?
 
 OTÓN.
 En famosas coronas de oro puro;
 
 
 y, sin este dinero, te presenta
-                                                                        2285
+2285
 
 doce acémilas tales, que te juro
 
@@ -8495,10 +8480,10 @@ Diome aparte un cordero que te diese,
 vivo y con un cuchillo a la garganta,
 
 
-y trújele, seńor, por darte gusto.
-                                                                        2290
+y trújele, señor, por darte gusto.
+2290
 REY.
-ˇCordero vivo con cuchillo atado!
+¡Cordero vivo con cuchillo atado!
 
 OTÓN.
 Desta manera el corderillo viene.
@@ -8513,29 +8498,29 @@ Mas mira, Otón, que quiero que al instante
 le lleves esta carta al mismo.
 
 OTÓN.
-                                              żAgora?
-                                                                        2295
+                                              ¿Agora?
+2295
 REY.
 Agora pues.
 
 OTÓN.
-                     żEscrita la tenías?
+                     ¿Escrita la tenías?
 
 REY.
 Pues te la doy, bien ves que escrita estaba.
 
 OTÓN.
-żImporta diligencia?
+¿Importa diligencia?
 
 REY.
-                                 Importa mucho,
+                                 Importa mucho,
 
 
 y yo sé, Otón, que con tu gusto vuelves.
 
 OTÓN.
-Yo con gusto, seńor, que voy con gusto,
-                                                                        2300
+Yo con gusto, señor, que voy con gusto,
+2300
 
 porque tenerle de servirte gusto.
 
@@ -8546,15 +8531,15 @@ Camina, y mira cómo vas y vienes;
 que aunque llevas placer, peligro tienes.
 
 OTÓN.
-żPeligro yo, seńor?
+¿Peligro yo, señor?
 
 REY.
-                                Búrlome agora.
+                                Búrlome agora.
 
 OTÓN.
 (Celos son de mi hermosa labradora).
-                                                                        2305
-                                    Vase.
+2305
+Vase.
 REY.
 La vida humana, Sócrates decía,
 
@@ -8569,7 +8554,7 @@ que turbio y momentáneo discurría.
 
 
 Y que la vida del que en paz vivía
-                                                                        2310
+2310
 
 era como una fuente sosegada,
 
@@ -8580,11 +8565,11 @@ que, sonora, apacible y adornada
 de varias flores, sin cesar corría.
 
 
-ˇOh vida de los hombres diferentes,
+¡Oh vida de los hombres diferentes,
 
 
 cuya felicidad estima el bueno,
-                                                                        2315
+2315
 
 cuando la libertad del alma siente!
 
@@ -8592,15 +8577,15 @@ cuando la libertad del alma siente!
 Negocios a la vista son veneno.
 
 
-ˇDichoso aquel que vive como fuente,
+¡Dichoso aquel que vive como fuente,
 
 
 manso, tranquilo, y de turbarse ajeno!
 
-                   Vase y sale JUAN LABRADOR y FELICIANO.
+Vase y sale JUAN LABRADOR y FELICIANO.
 JUAN.
 Hijo, en haberte casado
-                                                                        2320
+2320
 
 con mi Costanza, aunque hermosa,
 
@@ -8615,7 +8600,7 @@ Las fiestas hice a tus bodas,
 
 
 que algún príncipe envidió,
-                                                                        2325
+2325
 
 porque para serlo yo,
 
@@ -8630,12 +8615,12 @@ que ésta, ansí tenga salud,
 
 
 que la he puesto en la virtud
-                                                                        2330
+2330
 
 harto más que en la riqueza.
 
 
-ˇGracias al cielo por todo!
+¡Gracias al cielo por todo!
 
 
 Yo quisiera descansar,
@@ -8645,22 +8630,22 @@ si verdad te digo, y dar
 
 
 a mis cuidados un modo;
-                                                                        2335
+2335
 
 de los cuales la mitad
 
 
-es ver sin dueńo a tu hermana,
+es ver sin dueño a tu hermana,
 
 
-y pasando la mańana
+y pasando la mañana
 
 
 de su más florida edad.
 
 
 Y piensa, así Dios te guarde,
-                                                                        2340
+2340
 
 un marido, si tú quieres:
 
@@ -8675,7 +8660,7 @@ Antiguamente, me acuerdo,
 
 
 cuando mi abuelo vivía,
-                                                                        2345
+2345
 
 que el tiempo que allí corría
 
@@ -8689,8 +8674,8 @@ Casábase en nuestra aldea
 un hombre de treinta y siete
 
 
-ańos, edad que promete
-                                                                        2350
+años, edad que promete
+2350
 
 que sabio y prudente sea;
 
@@ -8705,7 +8690,7 @@ de veinte el hombre lo está,
 
 
 y de doce la mujer.
-                                                                        2355
+2355
 
 Y está muy en la razón;
 
@@ -8720,7 +8705,7 @@ FELICIANO.
 
 
 Luego nos dan con su edad:
-                                                                        2360
+2360
 
 Cuanto ha pasado es mejor).
 
@@ -8735,7 +8720,7 @@ y casemos a Lisarda;
 
 
 que siempre mal ha sufrido
-                                                                        2365
+2365
 
 de sus padres el el olvido
 
@@ -8743,14 +8728,14 @@ de sus padres el el olvido
 mujer hermosa y gallarda.
 
 FELICIANO.
-Yo, seńor, tan altos veo
+Yo, señor, tan altos veo
 
 
 sus pensamientos y galas,
 
 
 que no me atrevo a sus alas
-                                                                        2370
+2370
 
 de su atrevido deseo.
 
@@ -8765,7 +8750,7 @@ marido desta mujer,
 
 
 ni aun cuanto la sierra abarca.
-                                                                        2375
+2375
 
 Uno está haciendo carbón,
 
@@ -8780,7 +8765,7 @@ rompe al barbecho el terrón.
 
 
 Aquél es rudo y grosero,
-                                                                        2380
+2380
 
 el otro rústico y vil.
 
@@ -8797,8 +8782,8 @@ Hacienda tienes, repara
 en que Lisarda...
 
 JUAN.
-                            Detente;
-                                                                        2385
+                            Detente;
+2385
 
 si no quieres que me cuente
 
@@ -8806,17 +8791,17 @@ si no quieres que me cuente
 por muerto, la lengua para.
 
 
-żYo seńor? żYo caballero?
+¿Yo señor? ¿Yo caballero?
 
 
-żYo ilustre yerno?
+¿Yo ilustre yerno?
 
 FELICIANO.
-                              żPues no?
+                              ¿Pues no?
 
 
-żPara qué el cielo te dio
-                                                                        2390
+¿Para qué el cielo te dio
+2390
 
 tal cantidad de dineros?
 
@@ -8831,14 +8816,14 @@ quien en algo no mejora
 
 
 su primero nacimiento.
-                                                                        2395
+2395
 
-Mas vesla, seńor, ahí;
+Mas vesla, señor, ahí;
 
 
 ella te dirá su gusto.
 
-                      Sale LISARDA con BRUNO y FILETO.
+Sale LISARDA con BRUNO y FILETO.
 JUAN.
 Mejor dirás mi disgusto,
 
@@ -8847,7 +8832,7 @@ si tiene el que miro en ti.
 
 LISARDA.
 Digo que le pidiré
-                                                                        2400
+2400
 
 que os honre en esto a los dos.
 
@@ -8858,17 +8843,17 @@ Pidiéndolo tú, por Dios
 que no lo niegue.
 
 LISARDA.
-                            No sé.
+                            No sé.
 
 JUAN.
 Lisarda...
 
 LISARDA.
-                 Padre y seńor,
+                 Padre y señor,
 
 
 basta, que aquestos pastores
-                                                                        2405
+2405
 
 quieren las fiestas mayores
 
@@ -8876,35 +8861,35 @@ quieren las fiestas mayores
 cuanto es la ocasión mayor.
 
 JUAN.
-żCómo ansí?
+¿Cómo ansí?
 
 LISARDA.
-                       Porque han sabido
+                       Porque han sabido
 
 
 que tienes un nieto ya.
 
 JUAN.
-żBúrlaste?
+¿Búrlaste?
 
 LISARDA.
-                   Cierto será,
-                                                                        2410
+                   Cierto será,
+2410
 
 si Costanza no ha mentido.
 
 JUAN.
-żQué es lo que dice Costanza?
+¿Qué es lo que dice Costanza?
 
 LISARDA.
-Que está preńada, a la fe.
+Que está preñada, a la fe.
 
 JUAN.
 Si fuere cierto, daré
 
 
 albricias de la esperanza;
-                                                                        2415
+2415
 
 mas para fiestas bien pueden
 
@@ -8919,11 +8904,11 @@ si los tuyos me conceden
 
 
 que pueda yo disponer
-                                                                        2420
+2420
 
 de tu esquiva condición.
 
-                                 Sale MARÍN.
+Sale MARÍN.
 
 MARÍN.
 De parte del Rey, Otón
@@ -8932,36 +8917,36 @@ De parte del Rey, Otón
 te vuelve otra vez a ver.
 
 JUAN.
-żOtón otra vez?
+¿Otón otra vez?
 
 FELICIANO.
-                          żQué quiere
+                          ¿Qué quiere
 
 
 otra vez el Rey de ti?
-                                                                        2425
+2425
 LISARDA.
 Confusa estoy.
 
 JUAN.
-                         Yo sin mí;
+                         Yo sin mí;
 
 
 mas venga lo que viniere.
 
-                                 Sale OTÓN.
+Sale OTÓN.
 OTÓN.
-żQuién duda que espante mi venida
+¿Quién duda que espante mi venida
 
 
 y otra carta del Rey?
 
 JUAN.
-                                   Tantos favores
+                                   Tantos favores
 
 
 no me pueden dejar de dar espanto.
-                                                                        2430
+2430
 
 Léela, Feliciano, por tu vida.
 
@@ -8969,20 +8954,20 @@ OTÓN.
 Seáis, Lisarda, bien hallada.
 
 LISARDA.
-                                             El cielo
+                                             El cielo
 
 
-traiga con bien a vuestra seńoría.
+traiga con bien a vuestra señoría.
 
 BRUNO.
-ˇHola, Fileto! El Rey se ha regostado
+¡Hola, Fileto! El Rey se ha regostado
 
 
 a los escudos de nuestro amo.
 
 FELICIANO.
-                                                Pienso
-                                                                        2435
+                                                Pienso
+2435
 
 que quiere empobrecerle de malicia.
 
@@ -8990,29 +8975,26 @@ FELICIANO.
 La carta dice ansí...
 
 BRUNO.
-                                 Y eso żes justicia?
+                                 Y eso ¿es justicia?
 
 FELICIANO.
-«Hoy me he acordado que el Alcaide de París me dijo que, si fuese
-necesario, me serviríades con vuestros hijos; ahora son a mi servicio y
-gusto: ansí os mando que luego al punto me los enviéis con Otón. Dios os
-guarde, pariente. Yo el Rey».
+«Hoy me he acordado que el Alcaide de París me dijo que, si fuese necesario, me serviríades con vuestros hijos; ahora son a mi servicio y gusto: ansí os mando que luego al punto me los enviéis con Otón. Dios os guarde, pariente. Yo el Rey».
 
 JUAN.
-żMis hijos pide?
+¿Mis hijos pide?
 
 OTÓN.
-                            Vuestros hijos pide.
+                            Vuestros hijos pide.
 
 JUAN.
-żPara la Corte?
+¿Para la Corte?
 
 OTÓN.
-                           Sí, para la Corte.
+                           Sí, para la Corte.
 
 JUAN.
-żQuién es aqueste Alcaide que a mi casa
-                                                                        2440
+¿Quién es aqueste Alcaide que a mi casa
+2440
 
 vino por mi desdicha aquella noche,
 
@@ -9023,19 +9005,19 @@ FELICIANO.
 Padre, no os aflijáis.
 
 JUAN.
-                                 Lo que es dinero
+                                 Lo que es dinero
 
 
-no pudiera afligirme; mas żlos hijos?
+no pudiera afligirme; mas ¿los hijos?
 
 LISARDA.
 El Rey tiene este gusto, el valor tuyo
-                                                                        2445
+2445
 
 no es bien que pierda aquí de lo que vale.
 
 JUAN.
-ˇEso sí! Yo aseguro que vosotros
+¡Eso sí! Yo aseguro que vosotros
 
 
 no tengáis tal placer ni mejor día.
@@ -9045,7 +9027,7 @@ Cumplido se han aquí vuestros deseos.
 
 
 Sólo un Rey me pudiera mandar esto,
-                                                                        2450
+2450
 
 y sola mi desdicha darle causa.
 
@@ -9060,7 +9042,7 @@ hasta que muere bienaventurado.
 
 
 Al Rey obedezcamos; que por dicha
-                                                                        2455
+2455
 
 esta mi condición me pone miedo,
 
@@ -9075,42 +9057,42 @@ Esta seguro, Juan, que por bien suyo
 
 
 y en agradecimiento del dinero,
-                                                                        2460
+2460
 
 los envíe a llamar.
 
 JUAN.
-                              Pensarlo quiero.
+                              Pensarlo quiero.
 
 
-Partid, seńor, con ellos en buen hora;
+Partid, señor, con ellos en buen hora;
 
 
 que a la iglesia me voy.
 
 OTÓN.
-                                     ˇQué sentimiento!
+                                     ¡Qué sentimiento!
 
 FELICIANO.
 No os admiréis; que es padre.
 
 LISARDA.
-                                                Más le tiene
+                                                Más le tiene
 
 
 por vernos en la Corte, que por miedo.
-                                                                        2465
+2465
 OTÓN.
 No nos vamos sin verle.
 
 FELICIANO.
-                                       Por la iglesia,
+                                       Por la iglesia,
 
 
 si os parece, pasemos.
 
 LISARDA.
-                                     Y es muy justo;
+                                     Y es muy justo;
 
 
 que viéndonos tendrá menos disgusto.
@@ -9120,12 +9102,12 @@ Vamos luego; que también yo quiero
 
 
 ir a ser cortesano con Lisarda.
-                                                                        2470
+2470
 BRUNO.
-Yo quiero acompańarle.
+Yo quiero acompañarle.
 
 FILETO.
-                                        Por lo menos,
+                                        Por lo menos,
 
 
 no estaremos a ver al viejo padre
@@ -9134,19 +9116,19 @@ no estaremos a ver al viejo padre
 llorando la desdicha que imaginas.
 
 BRUNO.
-Mas dime: żsabrás tú ser cortesano?
+Mas dime: ¿sabrás tú ser cortesano?
 
 FILETO.
-Pues żhay cosa más fácil?
+Pues ¿hay cosa más fácil?
 
 BRUNO.
-                                          żDe qué suerte?
-                                                                        2475
+                                          ¿De qué suerte?
+2475
 FILETO.
 No sé si acierto, lo que pienso advierte:
 
 
-cumplimientos extrańos, ceremonias,
+cumplimientos extraños, ceremonias,
 
 
 reverencias, los cuerpos espetados,
@@ -9156,7 +9138,7 @@ mucha parola, murmurar, donaires,
 
 
 risa falsa, no hacer por nadie nada,
-                                                                        2480
+2480
 
 notable prometer, verdad ninguna,
 
@@ -9171,8 +9153,8 @@ que te diré después por el camino.
 
 BRUNO.
 Notable cortesano te imagino.
-                                                                        2485
-                     Vanse; salen el REY y el ALMIRANTE.
+2485
+Vanse; salen el REY y el ALMIRANTE.
 REY.
 Desta manera, sospecho
 
@@ -9180,31 +9162,31 @@ Desta manera, sospecho
 que irá mi hermana mejor.
 
 ALMIRANTE.
-Beso tus manos, seńor,
+Beso tus manos, señor,
 
 
 por la merced que me has hecho.
 
 REY.
 Ya que me determino
-                                                                        2490
+2490
 
 a casarla, no podía
 
 
-darla mejor compańía.
+darla mejor compañía.
 
 ALMIRANTE.
-Yo, seńor, la llevaré
+Yo, señor, la llevaré
 
 
 con mis parientes y amigos,
 
 
 y con todo mi cuidado.
-                                                                        2495
+2495
 REY.
-No quise que mi cuńado,
+No quise que mi cuñado,
 
 
 con guerras, con enemigos,
@@ -9217,7 +9199,7 @@ Ha sido justo decreto
 
 
 de un príncipe tan perfeto.
-                                                                        2500
+2500
 REY.
 Por esto, y por excusar
 
@@ -9232,34 +9214,34 @@ Que llegue hasta el mar también
 
 
 gente de su guarda escribo,
-                                                                        2505
+2505
 
 porque más seguros vais.
 
 ALMIRANTE.
-Ya la Infanta, mi seńora,
+Ya la Infanta, mi señora,
 
 
 viene a verte.
 
 REY.
-                       Y viene ahora
+                       Y viene ahora
 
 
 a saber que la lleváis.
 
-                              Sale la INFANTA.
+Sale la INFANTA.
 INFANTA.
-żEn qué entiende vuestra alteza?
-                                                                        2510
+¿En qué entiende vuestra alteza?
+2510
 REY.
 Hermana, en vuestra jornada.
 
 INFANTA.
-żAcércase?
+¿Acércase?
 
 REY.
-                     Ya es llegada.
+                     Ya es llegada.
 
 
 Pero no tengáis tristeza,
@@ -9269,9 +9251,9 @@ pues va mi primo con vos;
 
 
 y yo, cuando pueda, iré.
-                                                                        2515
+2515
 INFANTA.
-żNo queréis que triste esté?
+¿No queréis que triste esté?
 
 REY.
 Imagino que los dos
@@ -9284,7 +9266,7 @@ Luego que salga de aquí,
 
 
 os olvidaréis de mí.
-                                                                        2520
+2520
 REY.
 Hago a los cielos jueces,
 
@@ -9292,14 +9274,14 @@ Hago a los cielos jueces,
 y al amor que me debéis,
 
 
-que no es posible, seńora,
+que no es posible, señora,
 
 
 que faltéis del alma un hora
 
 
 donde tal lugar tenéis.
-                                                                        2525
+2525
 
 Mirad que aunque soy hermano,
 
@@ -9312,10 +9294,10 @@ No puedo responder bien,
 
 si no es besándoos la mano.
 
-      Salen FINARDO, OTÓN y FELICIANO, LISARDA, BELISA, BRUNO y FILETO.
+Salen FINARDO, OTÓN y FELICIANO, LISARDA, BELISA, BRUNO y FILETO.
 FINARDO.
-Otón, seńor, ha llegado.
-                                                                        2530
+Otón, señor, ha llegado.
+2530
 REY.
 Venga norabuena Otón.
 
@@ -9329,8 +9311,8 @@ REY.
 Ellos sean bien venidos.
 
 FILETO.
-Los pies, seńor, te besamos,
-                                                                        2535
+Los pies, señor, te besamos,
+2535
 
 y a tu grandeza llegamos
 
@@ -9345,12 +9327,12 @@ puesto que indigna, los pies.
 
 INFANTA.
 Dios os guarde. Hermosa es.
-                                                                        2540
+2540
 
 Ya me acuerdo que la vi
 
 
-una mańana en su aldea.
+una mañana en su aldea.
 
 REY.
 Hermana, hacedme placer
@@ -9359,11 +9341,11 @@ Hermana, hacedme placer
 de honrarla.
 
 INFANTA.
-                    żQué puedo hacer
+                    ¿Qué puedo hacer
 
 
 que vuestro servicio sea?
-                                                                        2545
+2545
 REY.
 Dalde muy cerca de vos
 
@@ -9378,7 +9360,7 @@ en buena sangre, por Dios.
 
 OTÓN.
 (No en balde el Rey ha trazado
-                                                                        2550
+2550
 
 que venga Lisarda aquí.
 
@@ -9389,11 +9371,11 @@ Siempre sus celos temí,
 mis favores le han picado.
 
 
-ˇAh, cielo, cuán mejor fuera
+¡Ah, cielo, cuán mejor fuera
 
 
 que en el camino a su hermano
-                                                                        2555
+2555
 
 me declarara, y la mano
 
@@ -9407,8 +9389,8 @@ Pero también era error
 sin la licencia del Rey.
 
 
-Mas żcuándo amor tuvo ley?
-                                                                        2560
+Mas ¿cuándo amor tuvo ley?
+2560
 
 Porque con ley no es amor).
 
@@ -9419,14 +9401,14 @@ Hago Alcaide de París
 a Feliciano.
 
 FELICIANO.
-                    No sé
+                    No sé
 
 
-cómo, seńor, llegaré
+cómo, señor, llegaré
 
 
 adonde vos me subís;
-                                                                        2565
+2565
 
 que las plumas de mis alas
 
@@ -9440,8 +9422,8 @@ Con la humildad de tu celo
 al mayor mérito igualas.
 
 OTÓN.
-(ˇCómo se le echa de ver
-                                                                        2570
+(¡Cómo se le echa de ver
+2570
 
 al Rey el fin de su intento!
 
@@ -9458,11 +9440,11 @@ REY.
 Finardo...
 
 FINARDO.
-                  Seńor...
+                  Señor...
 
 REY.
-                                  Advierte.
-                                                                        2575
+                                  Advierte.
+2575
 OTÓN.
 (El traerla fue mi muerte.
 
@@ -9477,7 +9459,7 @@ y con toda diligencia
 
 
 haz que venga a mi presencia
-                                                                        2580
+2580
 
 su padre, Juan Labrador;
 
@@ -9488,18 +9470,18 @@ y no te vengas sin él,
 aunque le fuerces.
 
 FINARDO.
-                              Yo voy.
+                              Yo voy.
 
 REY.
 Mira que aguardando estoy,
 
 
 porque he de tratar con él
-                                                                        2585
+2585
 
 ciertas cosas de importancia.
 
-                                    Vase.
+Vase.
 OTÓN.
 (El Rey ha hablado en secreto
 
@@ -9511,9 +9493,9 @@ de los gobiernos de Francia.
 
 
 Él es ido y con gran prisa:
-                                                                        2590
+2590
 
-żquién duda que a prevenir
+¿quién duda que a prevenir
 
 
 mi desdicha, que a salir
@@ -9526,8 +9508,8 @@ Vamos, hermana, y haremos
 
 
 que muden traje los dos.
-                                                                        2595
-                                Vanse todos.
+2595
+Vanse todos.
 OTÓN.
 (Un ciego verá, por Dios,
 
@@ -9535,19 +9517,19 @@ OTÓN.
 del Rey los locos extremos.
 
 
-ˇOh, traidor, oh falso amigo!
+¡Oh, traidor, oh falso amigo!
 
 
-ˇOh Finardo, que me debes,
+¡Oh Finardo, que me debes,
 
 
 pues cuando mi mal entiendes
-                                                                        2600
+2600
 
 eres fingido conmigo!)
 
 
-Buenos hombres, żsois los dos
+Buenos hombres, ¿sois los dos
 
 
 criados de Feliciano?
@@ -9556,13 +9538,13 @@ BRUNO.
 Háblale tú cortesano.
 
 FILETO.
-żDiréle merced o vos?
-                                                                        2605
+¿Diréle merced o vos?
+2605
 BRUNO.
-Seńoría, mentecato.
+Señoría, mentecato.
 
 FILETO.
-Seńor, de la aldea venimos
+Señor, de la aldea venimos
 
 
 donde a su padre servimos,
@@ -9572,12 +9554,12 @@ ya en su casa, ya en el hato.
 
 
 Bruno se llama este mozo,
-                                                                        2610
+2610
 
 y yo Fileto me llamo.
 
 OTÓN.
-Mucho por el dueńo os amo,
+Mucho por el dueño os amo,
 
 
 mucho de veros me gozo.
@@ -9587,7 +9569,7 @@ Pienso que podréis hablar
 
 
 con libertad a Lisarda;
-                                                                        2615
+2615
 
 que ni criado ni guarda
 
@@ -9602,7 +9584,7 @@ de decirle cómo Otón
 
 
 le mata la sinrazón
-                                                                        2620
+2620
 
 que el Rey le pretende hacer;
 
@@ -9617,25 +9599,25 @@ por dudoso galán Rey,
 
 
 dejar seguro marido.
-                                                                        2625
+2625
 BRUNO.
-żQué te parece?
+¿Qué te parece?
 
 FILETO.
-                            ˇMal ańo
+                            ¡Mal año
 
 
 para quien quedase acá!
 
 BRUNO.
-ˇPardiez, que Lisarda está
+¡Pardiez, que Lisarda está
 
 
-metida en famoso engańo!
+metida en famoso engaño!
 
 FILETO.
 Luego que vine a este mundo
-                                                                        2630
+2630
 
 de la Corte, eché de ver,
 
@@ -9646,12 +9628,12 @@ Bruno, que había de ser
 alcahuete o vagamundo.
 
 
-żHas visto lo que este necio
+¿Has visto lo que este necio
 
 
 manda decir a Lisarda?
-                                                                        2635
-                         Sale FELICIANO, muy galán.
+2635
+Sale FELICIANO, muy galán.
 FELICIANO.
 No medra quien se acobarda,
 
@@ -9659,22 +9641,22 @@ No medra quien se acobarda,
 ni tiene el ánimo precio.
 
 
-ˇDichoso el que alcanza a ver
+¡Dichoso el que alcanza a ver
 
 
 del sol del Rey sólo un rayo!
 
 BRUNO.
 Cata muesamo hecho un mayo.
-                                                                        2640
+2640
 FILETO.
-Luego żes él?
+Luego ¿es él?
 
 BRUNO.
-                        żQuién puede ser?
+                        ¿Quién puede ser?
 
 FILETO.
-ˇEsto tan presto se medra!
+¡Esto tan presto se medra!
 
 
 A fe que estás gentil hombre.
@@ -9684,14 +9666,14 @@ Como sin el sol el hombre
 
 
 no es hombre, es estatua, es piedra,
-                                                                        2645
+2645
 
 así aquel que nunca vio
 
 
 la cara al Rey. Tomad esto.
 
-                                Dales dinero.
+Dales dinero.
 
 Y los dos os vestid presto
 
@@ -9700,7 +9682,7 @@ ansí a la traza que yo,
 
 
 aunque no tan ricamente,
-                                                                        2650
+2650
 
 para que aquí me sirváis;
 
@@ -9711,11 +9693,11 @@ porque en aqueste que andáis,
 no es hábito conveniente.
 
 BRUNO.
-Pues żde qué te serviremos?
+Pues ¿de qué te serviremos?
 
 FELICIANO.
 De lacayos, que tenéis
-                                                                        2655
+2655
 
 buenos cuerpos, y otros seis
 
@@ -9729,8 +9711,8 @@ que pajes he de tener
 para Alcaide de París.
 
 
-Ea: żcómo no partís?
-                                                                        2660
+Ea: ¿cómo no partís?
+2660
 FILETO.
 Con temor de no saber
 
@@ -9738,7 +9720,7 @@ Con temor de no saber
 si sabremos el oficio.
 
 FELICIANO.
-Pues żtiene dificultad
+Pues ¿tiene dificultad
 
 
 ir delante, en la ciudad,
@@ -9747,29 +9729,29 @@ ir delante, en la ciudad,
 del caballo?
 
 BRUNO.
-                     ˇHermoso vicio!
-                                                                        2665
+                     ¡Hermoso vicio!
+2665
 FELICIANO.
 Pasad delante de mí.
 
 FILETO.
-żLos dos? Pues ponte detrás.
+¿Los dos? Pues ponte detrás.
 
 FELICIANO.
 Id caminando.
 
 BRUNO.
-                        żNo es más?
+                        ¿No es más?
 
 FELICIANO.
 No es más.
 
 BRUNO.
-                    Pues ya lo aprendí.
+                    Pues ya lo aprendí.
 
 FILETO.
 Agora acabo de ver
-                                                                        2670
+2670
 
 que hay acá más de un oficio,
 
@@ -9780,11 +9762,11 @@ que es vicioso su ejercicio,
 y viste y come a placer.
 
 
-Si no hobieran los seńores,
+Si no hobieran los señores,
 
 
 los clérigos y soldados
-                                                                        2675
+2675
 
 menester tantos criados,
 
@@ -9798,12 +9780,12 @@ Vase un cochero sentado
 que todo lo goza y ve:
 
 
-ˇmal ańo, si fuera a pie
-                                                                        2680
+¡mal año, si fuera a pie
+2680
 
 con la reja de un arado!
 
-                    Sale LISARDA, de dama, muy gallarda.
+Sale LISARDA, de dama, muy gallarda.
 LISARDA.
 A tomar tu parecer
 
@@ -9815,7 +9797,7 @@ Nunca mejor le has tenido,
 
 
 porque tienes nuevo ser.
-                                                                        2685
+2685
 
 Dame esos brazos, Lisarda,
 
@@ -9829,8 +9811,8 @@ con verte en el justo honor
 de tu condición gallarda.
 
 LISARDA.
-Mas żsi mi padre me viera?
-                                                                        2690
+Mas ¿si mi padre me viera?
+2690
 FELICIANO.
 Pienso que perdiera el seso.
 
@@ -9838,16 +9820,16 @@ FILETO.
 Parabién del buen suceso,
 
 
-ama y seńora, te diera,
+ama y señora, te diera,
 
 
 a saber la cortesía
 
 
 con que te habemos de hablar.
-                                                                        2695
+2695
 LISARDA.
-Éstos, żhan de ir al lugar?
+Éstos, ¿han de ir al lugar?
 
 FELICIANO.
 No tan presto, hermana mía,
@@ -9860,7 +9842,7 @@ Y queda adiós; porque voy
 
 
 a vestirlos, porque hoy
-                                                                        2700
+2700
 
 por París honrarme puedan.
 
@@ -9868,7 +9850,7 @@ LISARDA.
 Dios te guarde.
 
 BRUNO.
-                          Oficio honrado,
+                          Oficio honrado,
 
 
 pardiez, hemos de tener.
@@ -9878,8 +9860,8 @@ Que ya no queremos ver
 
 
 el azadón ni el arado.
-                                                                        2705
-                                   Vanse.
+2705
+Vanse.
 LISARDA.
 De grado en grado el amor me va subiendo,
 
@@ -9894,7 +9876,7 @@ cuya grandeza conquistar pretendo.
 
 
 Fortuna, a tus debates me encomiendo.
-                                                                        2710
+2710
 
 Ya llevo en la derecha mano el ala
 
@@ -9909,7 +9891,7 @@ no me permitas humillar al suelo;
 
 
 si a tu cielo tu mano me llevare,
-                                                                        2715
+2715
 
 hazme cristal al sol, no débil hielo.
 
@@ -9922,15 +9904,15 @@ que no es dicha volar hasta tu cielo,
 
 sin clavo firme que tu rueda pare.
 
-                                Sale el REY.
+Sale el REY.
 REY.
 Hermosa, Lisarda, estás
-                                                                        2720
+2720
 
 con ese nuevo vestido.
 
 LISARDA.
-Seńor, como nube he sido
+Señor, como nube he sido
 
 
 donde con tus rayos das;
@@ -9940,7 +9922,7 @@ que como el sol las colora,
 
 
 cuando alguna se avecina,
-                                                                        2725
+2725
 
 ansí con tu luz divina
 
@@ -9955,23 +9937,23 @@ desde una noche que os vi.
 
 LISARDA.
 Aunque en disfraz, conocí
-                                                                        2730
+2730
 
 vuestro supremo valor.
 
-                                 Sale OTÓN.
+Sale OTÓN.
 REY.
 Quiero a vuestro padre mucho.
 
 OTÓN.
-(Ya żqué me queda por ver?)
+(Ya ¿qué me queda por ver?)
 
 REY.
 Y a vos os pienso querer.
 
 OTÓN.
-(ˇCon qué sufrimiento escucho!
-                                                                        2735
+(¡Con qué sufrimiento escucho!
+2735
 
 Pero la desigualdad
 
@@ -9985,8 +9967,8 @@ y sólo Lisarda injuria
 la fe de mi voluntad;
 
 
-que el Rey żpor qué obligación
-                                                                        2740
+que el Rey ¿por qué obligación
+2740
 
 no ha de procurar su gusto?)
 
@@ -10001,27 +9983,27 @@ como por el valor grande
 
 
 que en tu pecho he conocido.
-                                                                        2745
+2745
 LISARDA.
 Pues sus hijos le ha ofrecido,
 
 
-żqué puede haber que le mande
+¿qué puede haber que le mande
 
 
 vuestra alteza que no haga?
 
 OTÓN.
-(żQué invención podré fingir
+(¿Qué invención podré fingir
 
 
 con que les pueda impedir,
-                                                                        2750
+2750
 
 y que al Rey le satisfaga?)
 
 
-Seńor, mire vuestra alteza
+Señor, mire vuestra alteza
 
 
 que es hora ya de comer.
@@ -10031,12 +10013,12 @@ Sí, Otón, sí debe de ser.
 
 
 Pero juega de otra pieza,
-                                                                        2755
+2755
 
 que con ésa perderás.
 
 OTÓN.
-żNo es ya que comas razón?
+¿No es ya que comas razón?
 
 REY.
 Estáte quedito, Otón;
@@ -10045,10 +10027,10 @@ Estáte quedito, Otón;
 ten paciencia, y ganarás.
 
 OTÓN.
-żDe qué la debo tener?
-                                                                        2760
+¿De qué la debo tener?
+2760
 
-żNo te sirvo en lo que puedo?
+¿No te sirvo en lo que puedo?
 
 REY.
 Nunca al poder tengas miedo,
@@ -10057,16 +10039,16 @@ Nunca al poder tengas miedo,
 cuando es discreto el poder.
 
 OTÓN.
-Come, seńor, por tu vida.
+Come, señor, por tu vida.
 
 REY.
 Aguardo un huésped, Otón.
-                                                                        2765
+2765
 OTÓN.
-żTú, huésped?
+¿Tú, huésped?
 
 REY.
-                        Y de un rincón;
+                        Y de un rincón;
 
 
 que éste nunca se me olvida.
@@ -10079,25 +10061,25 @@ no fías lo que solías.
 
 REY.
 Menos tú de mí confías,
-                                                                        2770
+2770
 
 pues que te guardas ansí.
 
 OTÓN.
-Seńor, no entiendo el estilo
+Señor, no entiendo el estilo
 
 
 con que hoy me tratas.
 
 REY.
-                                      No importa.
+                                      No importa.
 
 
 Mucho amor, con celos, corta:
 
 
 embótale un poco el filo.
-                                                                        2775
+2775
 FINARDO.
 Ya está Juan Labrador en tu palacio.
 
@@ -10112,12 +10094,12 @@ invicto Rey, la priesa que he traído.
 
 REY.
 Mucho de tus intentos me desgracio,
-                                                                        2780
+2780
 
 aunque estoy a tu estilo agradecido.
 
 
-żPor qué no quieres verme? żSoy yo fiera?
+¿Por qué no quieres verme? ¿Soy yo fiera?
 
 JUAN.
 Porque morir en mi rincón quisiera.
@@ -10126,10 +10108,10 @@ REY.
 Tú no sabes lo que eres en tu patria.
 
 
-żPor qué secreta estrella me aborreces?
-                                                                        2785
+¿Por qué secreta estrella me aborreces?
+2785
 JUAN.
-żAborrecerte yo? żCómo podría,
+¿Aborrecerte yo? ¿Cómo podría,
 
 
 que ser amado, príncipe, mereces?
@@ -10142,12 +10124,12 @@ de sus bienes mi casa tantas veces,
 
 
 me pareció que solamente el verte
-                                                                        2790
+2790
 
 pudiera ser la causa de mi muerte.
 
 
-No me engańé, pues en tu rostro veo
+No me engañé, pues en tu rostro veo
 
 
 que eres tú aquél que ya cenó conmigo,
@@ -10157,7 +10139,7 @@ y desde entonces tanto mal poseo,
 
 
 que parece del cielo este castigo.
-                                                                        2795
+2795
 
 Por sólo verte (lo que apenas creo),
 
@@ -10172,7 +10154,7 @@ y de la multitud de tus criados.
 
 
 Acá tengo mis hijos, que no siento
-                                                                        2800
+2800
 
 tanto como en hallarme yo en persona
 
@@ -10180,19 +10162,19 @@ tanto como en hallarme yo en persona
 en medio de tan áspero tormento;
 
 
-y si te enojo, gran seńor, perdona.
+y si te enojo, gran señor, perdona.
 
 REY.
-ˇHola! Dad a mi huésped un asiento,
+¡Hola! Dad a mi huésped un asiento,
 
 
 que haber nacido rústico le abona.
-                                                                        2805
+2805
 
 Juan, asentaos.
 
 JUAN.
-                          Seńor, żque yo me asiente?
+                          Señor, ¿que yo me asiente?
 
 REY.
 Sentaos, pues quiero yo; sentaos, pariente.
@@ -10201,43 +10183,43 @@ JUAN.
 Siéntese vuestra alteza.
 
 REY.
-                                      Sois un necio;
+                                      Sois un necio;
 
 
-żno veis que me mandáis vos en mi casa?
+¿no veis que me mandáis vos en mi casa?
 
 JUAN.
 Si en la mía yo os hice ese desprecio,
-                                                                        2810
+2810
 
 no os conocí.
 
 LISARDA.
-                       (żQué es esto que aquí pasa?)
+                       (¿Qué es esto que aquí pasa?)
 
 REY.
 Mucho de que a mi lado estéis me precio.
 
 JUAN.
-A mí, seńor, con su calor me abrasa
+A mí, señor, con su calor me abrasa
 
 
 el rostro la vergüenza.
 
 REY.
-                                     Mucho os quiero.
+                                     Mucho os quiero.
 
 
-De hoy más habéis de ser mi compańero.
-                                                                        2815
+De hoy más habéis de ser mi compañero.
+2815
 JUAN.
-Seńor, si allá os hubiera conocido,
+Señor, si allá os hubiera conocido,
 
 
 cenárades mejor.
 
 REY.
-                             Yo me fui a veros,
+                             Yo me fui a veros,
 
 
 pues nunca a verme vos habéis venido.
@@ -10247,9 +10229,9 @@ Fui villano en rincón, no en ofenderos.
 
 REY.
 Del empréstito estoy agradecido.
-                                                                        2820
+2820
 JUAN.
-Seńor, yo no he emprestado esos dineros;
+Señor, yo no he emprestado esos dineros;
 
 
 lo que era vuestro dije que os volvía,
@@ -10261,8 +10243,8 @@ porque de vos prestado lo tenía,
 y ansí réditos fueron el presente.
 
 REY.
-żQué cordero fue aquél y qué cuchillo?
-                                                                        2825
+¿Qué cordero fue aquél y qué cuchillo?
+2825
 JUAN.
 Deciros que a su rey está obediente
 
@@ -10273,35 +10255,35 @@ de aquella suerte el labrador sencillo.
 Cortar podéis cuando queráis.
 
 REY.
-                                                 Pariente,
+                                                 Pariente,
 
 
 muy filósofos sois.
 
 JUAN.
-                               No sé decillo;
+                               No sé decillo;
 
 
 pero sentirlo sé.
 
 REY.
-                           Vos me pintastes
-                                                                        2830
+                           Vos me pintastes
+2830
 
-de lo que sois seńor, y me admirastes;
+de lo que sois señor, y me admirastes;
 
 
 oíd lo que soy yo. Y soy agora
 
 
-desde Arlés a Calés seńor de Francia,
+desde Arlés a Calés señor de Francia,
 
 
 y desde la Rochela hasta la Tona:
 
 
-la Bretańa, Gascuńa y Normandía,
-                                                                        2835
+la Bretaña, Gascuña y Normandía,
+2835
 
 Lenguadoc, la Provenza, el Dalfinado,
 
@@ -10312,11 +10294,11 @@ hasta que toca en la Saboya el Ródano,
 está debajo de mi justo imperio;
 
 
-entre la Sona y Marne, la Borgońa,
+entre la Sona y Marne, la Borgoña,
 
 
 y a la parte de Flandes, Picardía.
-                                                                        2840
+2840
 
 Tengo muy ricos príncipes vasallos,
 
@@ -10331,7 +10313,7 @@ Tengo castillos, naves, oro, plata,
 
 
 diamantes, perlas, recreaciones, cazas,
-                                                                        2845
+2845
 
 jardines y otras cosas que se extienden
 
@@ -10346,7 +10328,7 @@ tienen más gente que tenéis pastores,
 
 
 y más vasallos en el burgo solo
-                                                                        2850
+2850
 
 que vos tenéis cabezas de ganados,
 
@@ -10357,11 +10339,11 @@ no tuve condición esquiva en veros,
 y a visitaros fui y a conoceros.
 
 JUAN.
-Seńor, mi yerro conozco, digno he sido
+Señor, mi yerro conozco, digno he sido
 
 
 de la muerte; quitad aquel cordero
-                                                                        2855
+2855
 
 el cuchillo del cuello, al mío os pido
 
@@ -10375,15 +10357,15 @@ No soy Diomedes: yo nunca convido
 para matar; que regalaros quiero.
 
 
-ˇHola! Venga la mesa.
+¡Hola! Venga la mesa.
 
 JUAN.
-                                    (El fin sospecho
-                                                                        2860
+                                    (El fin sospecho
+2860
 
 que ha de venir a ser pasarme el pecho).
 
-                       Metan la mesa con todo recado.
+Metan la mesa con todo recado.
 REY.
 A mi hermana llamad, música venga;
 
@@ -10395,7 +10377,7 @@ un rey en su rincón es huésped, tenga
 
 
 este lugar, la cabecera tome.
-                                                                        2865
+2865
 JUAN.
 No es justo que ese puesto me convenga;
 
@@ -10408,50 +10390,50 @@ La cabecera es justo que posea,
 
 Juan Labrador, por ruin que el huésped sea.
 
-       Salen BRUNO y FILETO, de lacayos graciosos, y FELICIANO detrás.
+Salen BRUNO y FILETO, de lacayos graciosos, y FELICIANO detrás.
 FELICIANO.
-ˇMi padre con el Rey está comiendo!
-                                                                        2870
+¡Mi padre con el Rey está comiendo!
+2870
 BRUNO.
 Así lo dicen.
 
 FELICIANO.
-                      żNo le ves sentado?
+                      ¿No le ves sentado?
 
 FELICIANO.
-Lisarda, żqué es aquesto?
+Lisarda, ¿qué es aquesto?
 
 LISARDA.
-                                           Estoy temiendo
+                                           Estoy temiendo
 
 
 que el fin de nuestras vidas sea llegado.
 
-                       Sale la INFANTA y el ALMIRANTE.
+Sale la INFANTA y el ALMIRANTE.
 INFANTA.
 Si tal huésped estáis favoreciendo,
 
 
-żpor qué primero no me habéis llamado?
-                                                                        2875
+¿por qué primero no me habéis llamado?
+2875
 REY.
 Vednos, Ana, comer, por vida mía.
 
 JUAN.
-Beber, seńor, si vos mandáis, querría.
+Beber, señor, si vos mandáis, querría.
 
 REY.
 Bebed si gana tenéis, cual dijistes.
 
 
-ˇCantad!
+¡Cantad!
 
 JUAN.
-                Honra notable me hacéis siempre.
+                Honra notable me hacéis siempre.
 
 MÚSICOS.
 Cuán bienaventurado
-                                                                        2880
+2880
 
 un hombre puede ser entre la gente,
 
@@ -10466,11 +10448,10 @@ que hasta la noche oscura
 
 
 es día, y vida hasta la muerte dura.
-                                                                        2885
- Salgan tres con sus máscaras y sayos y pongan en la mesa platos; y uno con
-            un cetro y otro con una espada y otro con un espejo.
+2885
+Salgan tres con sus máscaras y sayos y pongan en la mesa platos; y uno con un cetro y otro con una espada y otro con un espejo.
 JUAN.
-żQué es esto, invicto seńor?
+¿Qué es esto, invicto señor?
 
 REY.
 Son tres platos que me han puesto,
@@ -10483,7 +10464,7 @@ Antes ya comer no puedo.
 
 REY.
 No temas, Juan Labrador;
-                                                                        2890
+2890
 
 que nunca temen los buenos.
 
@@ -10498,7 +10479,7 @@ tiene el cetro de mi reino;
 
 
 al Rey, para que a su imperio
-                                                                        2895
+2895
 
 esté sujeto el vasallo.
 
@@ -10513,7 +10494,7 @@ porque es el Rey el espejo
 
 
 en que el reino se compone
-                                                                        2900
+2900
 
 para salir bien compuesto.
 
@@ -10528,12 +10509,12 @@ que sin concierto ha vivido,
 
 
 y que vive descompuesto.
-                                                                        2905
+2905
 
 Mira el Rey, Juan Labrador;
 
 
-que no hay rincón tan pequeńo
+que no hay rincón tan pequeño
 
 
 adonde no alcance el sol.
@@ -10542,11 +10523,11 @@ adonde no alcance el sol.
 Rey es el sol.
 
 JUAN.
-                        Al sol tiemblo.
+                        Al sol tiemblo.
 
 REY.
 No temas; que este convite
-                                                                        2910
+2910
 
 no ha de colgar del cabello,
 
@@ -10561,14 +10542,14 @@ que esta espada viene aquí
 
 
 por la justicia que puedo
-                                                                        2915
+2915
 
 ejecutar en los malos,
 
 
 pero no para tu cuello.
 
-                              Tornen a cantar.
+Tornen a cantar.
 MÚSICOS.
 Como se alegra el suelo
 
@@ -10577,7 +10558,7 @@ cuando sale de rayos matizado
 
 
 el sol en rojo velo,
-                                                                        2920
+2920
 
 así, viendo a su Rey, está obligado
 
@@ -10588,11 +10569,11 @@ el vasallo obediente,
 adorando los rayos de su frente.
 
 FILETO.
-Tamańito, Bruno, estoy.
+Tamañito, Bruno, estoy.
 
 BRUNO.
 Yo pienso que ya no tengo
-                                                                        2925
+2925
 
 tripas, que se me han bajado
 
@@ -10606,15 +10587,15 @@ El diablo nos trujo acá.
 Las máscaras vuelven.
 
 BRUNO.
-                                     Creo
+                                     Creo
 
 
 que nos han de abrir a azotes.
-                                                                        2930
+2930
 FILETO.
 Más temo, Bruno, el pescuezo.
 
-                         Traigan otros tres platos.
+Traigan otros tres platos.
 REY.
 Mira esos platos que traen.
 
@@ -10625,11 +10606,11 @@ A descubrir no me atrevo
 mi muerte.
 
 REY.
-                  Pues oye, Juan.
+                  Pues oye, Juan.
 
 
 Este papel del primero
-                                                                        2935
+2935
 
 es un título que doy,
 
@@ -10644,7 +10625,7 @@ goce deste privilegio.
 
 
 El segundo es para el dote
-                                                                        2940
+2940
 
 de tu hija, en que te vuelvo
 
@@ -10658,8 +10639,8 @@ en diez villas otros ciento.
 Y porque ver no has querido
 
 
-en sesenta ańos de tiempo
-                                                                        2945
+en sesenta años de tiempo
+2945
 
 a tu Rey, para ti trae
 
@@ -10674,7 +10655,7 @@ que me has de ver, por lo menos,
 
 
 lo que tuvieres de vida.
-                                                                        2950
+2950
 JUAN.
 Los pies y manos te beso.
 
@@ -10688,8 +10669,8 @@ diga a cuál vasallo nuestro
 le quiere dar a Lisarda.
 
 INFANTA.
-Eso, seńor, digan ellos,
-                                                                        2955
+Eso, señor, digan ellos,
+2955
 
 pues el dote y la hermosura
 
@@ -10704,7 +10685,7 @@ a ser su esposo me ofrezco.
 
 REY.
 Otón, juráralo yo,
-                                                                        2960
+2960
 
 desde los pasados celos.
 
@@ -10719,18 +10700,18 @@ seremos los dos padrinos.
 
 INFANTA.
 Lo que a mí me toca aceto.
-                                                                        2965
+2965
 
 Daos las manos.
 
 REY.
-                            Feliciano,
+                            Feliciano,
 
 
-żno está casado?
+¿no está casado?
 
 INFANTA.
-                             Yo quiero
+                             Yo quiero
 
 
 honrar mucho a su mujer.
@@ -10740,7 +10721,7 @@ Aquí, Senado discreto,
 
 
 El villano en su rincón
-                                                                        2970
+2970
 
 acaba por gusto vuestro,
 
@@ -10750,7 +10731,6 @@ besándoos los pies Belardo,
 
 por la merced del silencio.
 
-
-                Fin de la Comedia de El villano en su rincón.
-
+ 
+Fin de la Comedia de El villano en su rincón.
 

@@ -1,24 +1,19 @@
-
-
 Todo es dar en una cosa
-
 Tirso de Molina
-
 
 Acto primero
 
-
-Hablan en �l las personas siguientes
+Hablan en él las personas siguientes
 
 GONZALO PIZARRO
 
-DON �LVARO DUR�N
+DON ÁLVARO DURÁN
 
-DO�A MARGARITA
+DOÑA MARGARITA
 
-DO�A BEATRIZ
+DOÑA BEATRIZ
 
-DON FRANCISCO
+DON FRANCISCO
 
 DON RODRIGO, viejo
 
@@ -30,17 +25,17 @@ BERTOL, pastor
 
 PULIDA, pastora
 
-MEN GARC�A, viejo
+MEN GARCÍA, viejo
 
 CRIADO
 
 CEREZO
 
 
-Sale do�a MARGARITA leyendo un papel
+Sale doña MARGARITA leyendo un papel
 
 MARGARITA
-(Papel) �Dos int�rpretes, se�ora,
+(Papel) «Dos intérpretes, señora,
 
 
 
@@ -80,7 +75,7 @@ los otros con dulce enigma.
 10
 
 
-H�llome favorecido
+Hállome favorecido
 
 
 
@@ -100,19 +95,19 @@ pero aunque en ese sentido
 15
 
 
-amor su esfera eligi�
+amor su esfera eligió
 
 
 
-pues por los ojos entr�,
+pues por los ojos entró,
 
 
 
-siempre en ellos advert�
+siempre en ellos advertí
 
 
 
-puertas que le admitan, s�,
+puertas que le admitan, sí,
 
 
 
@@ -124,11 +119,11 @@ No usurpen ajeno oficio,
 
 
 
-que se quejar� la lengua
+que se quejará la lengua
 
 
 
-de que sufr�is que en su mengua
+de que sufráis que en su mengua
 
 
 
@@ -136,7 +131,7 @@ tiranicen su ejercicio.
 
 
 
-Mirad que en mi perj�icio
+Mirad que en mi perjüicio
 25
 
 
@@ -167,7 +162,7 @@ el alma de un bien querer,
 
 
 
-que querr� la lengua ver
+que querrá la lengua ver
 
 
 
@@ -179,7 +174,7 @@ Esta noche den lugar
 35
 
 
-a estilos m�s verdaderos;
+a estilos más verdaderos;
 
 
 
@@ -187,7 +182,7 @@ merezca yo, si no veros,
 
 
 
-o�ros y ahorrar de enojos,
+oíros y ahorrar de enojos,
 
 
 
@@ -195,11 +190,11 @@ porque andar descifrando ojos
 
 
 
-es hablar entre estranjeros�. (Ha le�do)
+es hablar entre estranjeros». (Ha leído)
 40
 
 
-Dice don �lvaro bien,
+Dice don Álvaro bien,
 
 
 
@@ -211,7 +206,7 @@ habla, mas es por mayor:
 
 
 
-con gusto los m�os le ven,
+con gusto los míos le ven,
 
 
 
@@ -231,7 +226,7 @@ el lenguaje es permitido,
 
 
 
-aunque dif�cil y oculto,
+aunque difícil y oculto,
 
 
 
@@ -246,10 +241,10 @@ por la lengua a lo vulgar,
 mas por la vista a lo culto.
 
 
-Sale do�a BEATRIZ leyendo este papel
+Sale doña BEATRIZ leyendo este papel
 
 BEATRIZ
-(Lee) �Si en ausencia padecemos,
+(Lee) «Si en ausencia padecemos,
 
 
 
@@ -261,15 +256,15 @@ que el tiempo que malogramos
 55
 
 
-har� el tiempo que lloremos�.
+hará el tiempo que lloremos».
 
 
 MARGARITA
-(Aparte) �Qu� es esto? �Hasta en el leer
+(Aparte) ¿Qué es esto? ¿Hasta en el leer
 
 
 
-papeles do�a Beatriz
+papeles doña Beatriz
 
 
 
@@ -279,11 +274,11 @@ quiere imitarme?
 Guarda MARGARITA su papel en la manga
 
 BEATRIZ
-(Aparte)        �Feliz
+(Aparte)        ¡Feliz
 
 
 
-ingenio! �Qu� encarecer
+ingenio! ¡Qué encarecer
 60
 
 
@@ -291,7 +286,7 @@ tan sazonado y discreto!
 
 
 
-No s� apartar de los ojos
+No sé apartar de los ojos
 
 
 
@@ -307,10 +302,10 @@ aunque sentido, templado.
 65
 
 MARGARITA
-�Hermana?
+¿Hermana?
 
 BEATRIZ
-          �Mi Margarita?
+          ¿Mi Margarita?
 
 
 MARGARITA
@@ -322,7 +317,7 @@ con versos no es de cuidado.
 
 
 
-�C�yos son los que encareces
+¿Cúyos son los que encareces
 
 
 
@@ -338,7 +333,7 @@ enfermas y convaleces
 
 
 
-brevemente. No es cr�el
+brevemente. No es crüel
 
 
 
@@ -346,7 +341,7 @@ mal que tan presto se pasa
 
 
 
-ni har� mucha costa en casa
+ni hará mucha costa en casa
 75
 
 
@@ -354,7 +349,7 @@ su cura siendo un papel.
 
 
 BEATRIZ
-�Es eso re�irme?
+¿Es eso reñirme?
 
 
 MARGARITA
@@ -366,7 +361,7 @@ prevenir riesgos.
 
 
 BEATRIZ
-              �De qu�?
+              ¿De qué?
 
 
 MARGARITA
@@ -390,11 +385,11 @@ porque a pesar de canceles,
 
 
 
-�por d�nde un papel no cabe?
+¿por dónde un papel no cabe?
 
 
 
-Y m�s versificador,
+Y más versificador,
 85
 
 
@@ -402,7 +397,7 @@ que es dos veces sospechoso.
 
 
 BEATRIZ
-Y en ti t�tulo forzoso
+Y en ti título forzoso
 
 
 
@@ -410,7 +405,7 @@ jugar de hermana mayor.
 
 
 
-No perder�s tu derecho
+No perderás tu derecho
 
 
 
@@ -418,7 +413,7 @@ por un reino.
 
 
 MARGARITA
-            Est� sin madre
+            Está sin madre
 90
 
 
@@ -426,11 +421,11 @@ esta casa y nuestro padre
 
 
 
-de m� confianza ha hecho.
+de mí confianza ha hecho.
 
 
 
-Llover� sobre m� el da�o
+Lloverá sobre mí el daño
 
 
 
@@ -442,11 +437,11 @@ tu edad.
 
 
 BEATRIZ
-        S�, que eres muy vieja;
+        Sí, que eres muy vieja;
 90
 
 
-a�n no me llevas un a�o.
+aún no me llevas un año.
 
 
 
@@ -454,15 +449,15 @@ Olvida temas prolijas,
 
 
 
-as� Dios te guarde, o di
+así Dios te guarde, o di
 
 
 
-que ensayar quieres en m�
+que ensayar quieres en mí
 
 
 
-c�mo has de criar tus hijas
+cómo has de criar tus hijas
 100
 
 
@@ -470,18 +465,18 @@ cuando, casada, las tengas.
 
 
 
-Estos versos que le�a
+Estos versos que leía
 
 
 
-no los hizo a instancia m�a
+no los hizo a instancia mía
 
 
 
 (por maliciosa que vengas)
 
 
-su autor, ni a contemplaci�n
+su autor, ni a contemplación
 105
 
 
@@ -489,11 +484,11 @@ de cosa que le desvele
 
 
 
-en m�. Muchas veces suele,
+en mí. Muchas veces suele,
 
 
 
-ya el ocio, ya la ocasi�n,
+ya el ocio, ya la ocasión,
 
 
 
@@ -501,7 +496,7 @@ reparar en lo primero
 
 
 
-que encuentra. No s� qu� alhaja
+que encuentra. No sé qué alhaja
 110
 
 
@@ -517,11 +512,11 @@ papel, por tal desechado,
 
 
 
-hall� donde envueltas vi
+hallé donde envueltas vi
 
 
 
-de seda verde y turqu�
+de seda verde y turquí
 115
 
 
@@ -529,7 +524,7 @@ tres madejas.
 
 
 MARGARITA
-            En lo ajado
+            En lo ajado
 
 
 
@@ -537,7 +532,7 @@ se echa de ver lo que dices
 
 
 
-y m�s en lo que encareces
+y más en lo que encareces
 
 
 
@@ -553,43 +548,43 @@ muestran que deben de ser
 
 
 
-de la seda que envolv�as
+de la seda que envolvías
 
 
 
-cuando sin verme dec�as
+cuando sin verme decías
 
 
 
-suspensa: ��Qu� encarecer
+suspensa: «¡Qué encarecer
 
 
 
-tan sazonado y discreto!�.
+tan sazonado y discreto!».
 125
 
 BEATRIZ
-�Pues de eso tu desvar�o
+¿Pues de eso tu desvarío
 
 
 
-podr� colegir que es m�o?
+podrá colegir que es mío?
 
 
 
-�O es justo que por respeto
+¿O es justo que por respeto
 
 
 
-de que para m� no viene
+de que para mí no viene
 
 
 
-no alabe yo la saz�n
+no alabe yo la sazón
 130
 
 
-de su estilo y discreci�n?
+de su estilo y discreción?
 
 
 
@@ -601,15 +596,15 @@ la envidia loca.
 
 
 MARGARITA
-             S� har�.
+             Sí hará.
 
 
 
-�No s� apartar de los ojos
+«No sé apartar de los ojos
 
 
 
-sus letras, tiernos enojos�.
+sus letras, tiernos enojos».
 135
 
 
@@ -621,11 +616,11 @@ si intentas satisfacerme,
 
 
 
-con dej�rmele leer
+con dejármele leer
 
 
 
-podr� en sus cl�usulas ver
+podré en sus cláusulas ver
 
 
 
@@ -637,21 +632,21 @@ No viniendo para ti,
 
 
 
-�qu� te importa?
+¿qué te importa?
 
 
 BEATRIZ
-               El estimarme
+               El estimarme
 
 
 
-t� en poco. Quiero vengarme
+tú en poco. Quiero vengarme
 
 
 
-de tus malicias ans�.
+de tus malicias ansí.
 
-Quiere rasgarle y c�gesele MARGARITA
+Quiere rasgarle y cógesele MARGARITA
 
 MARGARITA
 Eso no; no has de rasgarle
@@ -662,21 +657,21 @@ antes que yo llegue a verle.
 
 
 BEATRIZ
-Perder� por no perderle...
+Perderé por no perderle...
 
 
 MARGARITA
-�Qu�? Si vuelves a cobrarle...
+¿Qué? Si vuelves a cobrarle...
 
 
 
-�Suelta, necia!
+¡Suelta, necia!
 
 
-M�tesele MARGARITA en la manga
+Métesele MARGARITA en la manga
 
 BEATRIZ
-             No porf�es
+             No porfíes
 
 
 
@@ -688,15 +683,15 @@ que aunque en el alma le escondas
 
 
 
-te le he de sacar. �Te r�es?
+te le he de sacar. ¿Te ríes?
 
 
 MARGARITA
-�Pues qu� he de hacer? �Enojarme?
+¿Pues qué he de hacer? ¿Enojarme?
 
 
 
-Tengo yo m�s sufrimiento.
+Tengo yo más sufrimiento.
 
 
 BEATRIZ
@@ -704,42 +699,41 @@ Yo no, con tu atrevimiento.
 
 
 
-�Luego hab�as de dejarme
+¿Luego habías de dejarme
 
 
 
-sin �l y llev�rtele?
+sin él y llevártele?
 
 
 
-�Qu� donoso frenes�!
+¡Qué donoso frenesí!
 
 
 MARGARITA
 Tenme respeto.
 
 
-Tira BEATRIZ del lenzuelo que cuelga de la manga de MARGARITA y  c�esele  el
-papel que MARGARITA ven�a leyendo y c�gele BEATRIZ
+Tira BEATRIZ del lenzuelo que cuelga de la manga de MARGARITA y cáesele el papel que MARGARITA venía leyendo y cógele BEATRIZ
 
 BEATRIZ
-              �Yo a ti?
+              ¿Yo a ti?
 
 
 
-S� cuerda y te le tendr�.
+Sé cuerda y te le tendré.
 160
 
 
-Cay�se y cobr�le.
+Cayóse y cobréle.
 
 
 MARGARITA
-               �Ay cielo,
+               ¡Ay cielo,
 
 
 
-que es el m�o! Hermana, mira
+que es el mío! Hermana, mira
 
 
 
@@ -747,18 +741,18 @@ que ese que llevas...
 
 
 BEATRIZ
-                 Me admira
+                 Me admira
 
 
 que le deba yo a un lenzuelo
 
 
 
-lo que t� tiranizabas.
+lo que tú tiranizabas.
 165
 
 MARGARITA
-Oye, r�mpele primero
+Oye, rómpele primero
 
 
 
@@ -770,11 +764,11 @@ BEATRIZ
 
 
 MARGARITA
-�Pues antes no le rasgabas?
+¿Pues antes no le rasgabas?
 
 
 BEATRIZ
-�V�lgame Dios! �Qu� te importa,
+¡Válgame Dios! ¿Qué te importa,
 
 
 
@@ -782,7 +776,7 @@ Margarita, este papel
 170
 
 
-que tal inquietud por �l
+que tal inquietud por él
 
 
 
@@ -794,15 +788,15 @@ la sospecha que te incita,
 
 
 
-que el due�o que le escribi�
+que el dueño que le escribió
 
 
 
-jam�s de ti se acord�.
+jamás de ti se acordó.
 175
 
 MARGARITA
-�No, Beatriz?
+¿No, Beatriz?
 
 
 BEATRIZ
@@ -810,10 +804,10 @@ BEATRIZ
 
 
 MARGARITA
-�Ay qu� enga�ada que est�s!
+¡Ay qué engañada que estás!
 
 BEATRIZ
-�Luego de m� tienes celos?
+¿Luego de mí tienes celos?
 
 
 MARGARITA
@@ -821,37 +815,37 @@ No son esos mis desvelos.
 
 
 BEATRIZ
-�Pues?
+¿Pues?
 
 
 MARGARITA
-  �brele y lo ver�s.
+  Ábrele y lo verás.
 180
 
-Lee para s� BEATRIZ
+Lee para sí BEATRIZ
 
 BEATRIZ
-�Ay!, no es m�o este papel.
+¡Ay!, no es mío este papel.
 
 
 MARGARITA
-�Ves si se acord� su autor
+¿Ves si se acordó su autor
 
 
 
-de m�?
+de mí?
 
 
 BEATRIZ
-     �Bueno es tu rigor!
+     ¡Bueno es tu rigor!
 
 
 
-Respetar�te por �l.
+Respetaréte por él.
 
 
 
-Repreh�ndeme como sueles,
+Reprehéndeme como sueles,
 185
 
 
@@ -867,7 +861,7 @@ abre puertas con papeles.
 
 
 
-Hip�crita de a dos haces:
+Hipócrita de a dos haces:
 
 
 
@@ -891,7 +885,7 @@ que has perdido...
 
 
 BEATRIZ
-                �Est� sin madre
+                «Está sin madre
 
 
 
@@ -899,27 +893,27 @@ esta casa y nuestro padre
 195
 
 
-de m� confianza ha hecho�.
+de mí confianza ha hecho».
 
 
 
-�Bien lo que tiene en ti sabe!
+¡Bien lo que tiene en ti sabe!
 
 
 MARGARITA
-�Cu�ndo t� as� hablarme sueles?
+¿Cuándo tú así hablarme sueles?
 
 
 BEATRIZ
-�Porque a pesar de canceles,
+«Porque a pesar de canceles,
 
 
 
-�por d�nde un papel no cabe?�.
+¿por dónde un papel no cabe?».
 200
 
 
-�Y qu� cierto! Ya lo ves,
+¡Y qué cierto! Ya lo ves,
 
 
 
@@ -927,15 +921,15 @@ probaste lo que has propuesto.
 
 
 MARGARITA
-�Est�s loca?
+¿Estás loca?
 
 
 BEATRIZ
-           �No, que es esto
+           «No, que es esto
 
 
 
-prevenir da�os�.
+prevenir daños».
 
 
 MARGARITA
@@ -959,7 +953,7 @@ seguimos; pendencias dejo,
 
 
 
-ac�bense en amistad,
+acábense en amistad,
 
 
 
@@ -967,7 +961,7 @@ que si amor es nuestro dios
 210
 
 
-no es bien ri�amos las dos
+no es bien riñamos las dos
 
 
 
@@ -975,14 +969,14 @@ siendo de una facultad.
 
 
 BEATRIZ
-�Qu� dello ha si t� quisieras
+¡Qué dello ha si tú quisieras
 
 
 
 que esto estuviera ya en paz!
 
 MARGARITA
-No te juzgu� tan capaz
+No te juzgué tan capaz
 
 215
 
@@ -999,7 +993,7 @@ prendas que el amor le da,
 
 
 
-el grado merecer�
+el grado merecerá
 
 
 
@@ -1011,11 +1005,11 @@ Tu tercera quiero ser
 
 
 
-si t� admites serlo m�a.
+si tú admites serlo mía.
 
 
 BEATRIZ
-Decirte de no quer�a,
+Decirte de no quería,
 
 
 
@@ -1027,11 +1021,11 @@ Comunicarte deseo
 225
 
 
-secretos que ya te f�o.
+secretos que ya te fío.
 
 
 
-Repasa ese papel m�o
+Repasa ese papel mío
 
 
 
@@ -1039,7 +1033,7 @@ mientras que yo el tuyo leo.
 
 
 
-Contar�monos despu�s
+Contarémonos después
 
 
 
@@ -1047,7 +1041,7 @@ las dos nuestras aventuras.
 230
 
 MARGARITA
-Ans� estar�n m�s seguras.
+Ansí estarán más seguras.
 
 
 
@@ -1058,18 +1052,18 @@ BEATRIZ
             Vaya, pues.
 
 
-Lee BEATRIZ para s� el un papel y MARGARITA en voz alta el otro
+Lee BEATRIZ para sí el un papel y MARGARITA en voz alta el otro
 
 MARGARITA
-(Papel) �Vulgar experiencia alcanza
+(Papel) «Vulgar experiencia alcanza
 
 
 
-quien tiene por opini�n
+quien tiene por opinión
 
 
 
-que es muerte la posesi�n
+que es muerte la posesión
 235
 
 
@@ -1085,7 +1079,7 @@ tengo por falido empleo,
 
 
 
-cuando en posesi�n me veo
+cuando en posesión me veo
 
 
 
@@ -1113,11 +1107,11 @@ no ve que lo que goza hoy
 245
 
 
-lo ha de apetecer ma�ana.
+lo ha de apetecer mañana.
 
 
 
-Pose� la soberana
+Poseí la soberana
 
 
 
@@ -1133,7 +1127,7 @@ y porque amor, siendo dios,
 250
 
 
-no tiene l�mite en vos,
+no tiene límite en vos,
 
 
 
@@ -1141,15 +1135,15 @@ sino asomos de infinito.
 
 
 
-Siendo esto ans�, el dilatar
+Siendo esto ansí, el dilatar
 
 
 
-ser�, Beatriz, padecer.
+será, Beatriz, padecer.
 
 
 
-Vu�lvaos mi fe a poseer
+Vuélvaos mi fe a poseer
 255
 
 
@@ -1161,7 +1155,7 @@ Ventura, tiempo y lugar
 
 
 
-donde vos sab�is tenemos.
+donde vos sabéis tenemos.
 
 
 
@@ -1177,17 +1171,17 @@ que el tiempo que malogramos
 
 
 
-har� el tiempo que lloremos�.
+hará el tiempo que lloremos».
 
 
 Acaban de leer una y otra
 
 
-�Posesi�n, Beatriz! �Qu� es esto?
+¡Posesión, Beatriz! ¿Qué es esto?
 
 
 BEATRIZ
-Ll�manse conformidades
+Llámanse conformidades
 
 
 
@@ -1199,11 +1193,11 @@ de gustos y voluntades
 
 
 
-posesi�n, por el derecho
+posesión, por el derecho
 
 
 
-que tiene el gal�n o dama
+que tiene el galán o dama
 
 
 
@@ -1211,7 +1205,7 @@ en la voluntad que ama.
 
 
 MARGARITA
-No, hermana. �Ay cielo! �Qu� has hecho?
+No, hermana. ¡Ay cielo! ¿Qué has hecho?
 270
 
 BEATRIZ
@@ -1223,7 +1217,7 @@ del alma, que el cuerpo no.
 
 
 MARGARITA
-Quien tiempo y lugar hall�
+Quien tiempo y lugar halló
 
 
 
@@ -1231,7 +1225,7 @@ para tales evidencias
 
 
 
-mal se vendr� a contentar
+mal se vendrá a contentar
 275
 
 
@@ -1239,7 +1233,7 @@ con el alma al encenderse,
 
 
 
-que �sta para poseerse
+que ésta para poseerse
 
 
 
@@ -1251,15 +1245,15 @@ que no le ocupa, Beatriz,
 
 
 
-el esp�ritu.
+el espíritu.
 
 
 BEATRIZ
-         �A�n porf�as?
+         ¿Aún porfías?
 280
 
 
-Yo no s� filosof�as,
+Yo no sé filosofías,
 
 
 
@@ -1267,15 +1261,15 @@ esto es verdad.
 
 
 MARGARITA
-             M�s feliz
+             Más feliz
 
 
 
-es tu amante que fue el m�o,
+es tu amante que fue el mío,
 
 
 
-que �l en mis ojos ver pudo
+que él en mis ojos ver pudo
 
 
 
@@ -1283,7 +1277,7 @@ mi amor solo, honesto y mudo,
 285
 
 
-y a�n dellos no le conf�o.
+y aún dellos no le confío.
 
 
 
@@ -1293,11 +1287,11 @@ Plegue a Dios...
 Sale un criado
 
 CRIADO
-              Mi se�or llama.
+              Mi señor llama.
 
 
 BEATRIZ
-�A qui�n?
+¿A quién?
 
 
 CRIADO
@@ -1309,7 +1303,7 @@ Desear es tener sed;
 
 
 
-dir�te despu�s qui�n me ama
+diréte después quién me ama
 290
 
 
@@ -1320,19 +1314,19 @@ y honestamente desea
 lazos de un amor constante,
 
 
-y t� me dir�s tu amante.
+y tú me dirás tu amante.
 
 
 MARGARITA
-�Quiera el cielo que no sea
+¡Quiera el cielo que no sea
 
 
 
-perdici�n de nuestra casa!
+perdición de nuestra casa!
 295
 
 BEATRIZ
-Anda, incr�dula, que amor,
+Anda, incrédula, que amor,
 
 
 
@@ -1352,7 +1346,7 @@ de solos mis ojos yo
 300
 
 
-cuando mi hermana logr�
+cuando mi hermana logró
 
 
 
@@ -1360,7 +1354,7 @@ palabras y coyunturas.
 
 
 
-�V�lgame Dios!, �qui�n ser�
+¡Válgame Dios!, ¿quién será
 
 
 
@@ -1368,11 +1362,11 @@ este amante poseedor,
 
 
 
-o qui�n terciando en su amor
+o quién terciando en su amor
 305
 
 
-a la ocasi�n se la da
+a la ocasión se la da
 
 
 
@@ -1380,11 +1374,11 @@ para que se vean los dos?
 
 
 
-Mas, �qu� pregunto si s�
+Mas, ¿qué pregunto si sé
 
 
 
-que amor esp�ritu fue
+que amor espíritu fue
 
 
 
@@ -1400,11 +1394,11 @@ y introduce sus enojos,
 
 
 
-entr�ndose por los ojos,
+entrándose por los ojos,
 
 
 
-mejor podr� entrarse en casa?
+mejor podrá entrarse en casa?
 
 
 
@@ -1412,26 +1406,25 @@ Basta, que es ya poseer
 315
 
 
-en Beatriz lo que hasta aqu�
+en Beatriz lo que hasta aquí
 
 
 
-fue s�lo mirar en m�.
+fue sólo mirar en mí.
 
 
 
 Quiero volverle a leer.
 
 
-Sale don �LVARO y ll�gase sin ser visto por las espaldas de  MARGARITA,  que
-est� leyendo el papel
+Sale don ÁLVARO y llégase sin ser visto por las espaldas de MARGARITA, que está leyendo el papel
 
-�LVARO
-Leyendo est� mi papel;
-
+ÁLVARO
+Leyendo está mi papel;
 
 
-ver�, pues no me ha sentido,
+
+veré, pues no me ha sentido,
 320
 
 
@@ -1439,29 +1432,29 @@ si le alaba.
 
 
 MARGARITA
-          �Qu� entendido!
+          ¡Qué entendido!
 
 
 
-Mil sales vienen en �l.
+Mil sales vienen en él.
 
 
-Todo esto aparte cada uno. L�ele para s� don �LVARO detr�s de MARGARITA
+Todo esto aparte cada uno. Léele para sí don ÁLVARO detrás de MARGARITA
 
-�LVARO
-�Ay, cielos!, letra es ajena.
-
-
-
-Sospechas, �a los umbrales
+ÁLVARO
+¡Ay, cielos!, letra es ajena.
 
 
 
-sal�s? �Papel con mil sales
+Sospechas, ¿a los umbrales
+
+
+
+salís? ¿Papel con mil sales
 325
 
 
-y no m�o?
+y no mío?
 
 
 MARGARITA
@@ -1469,15 +1462,15 @@ MARGARITA
 
 
 
-esto de la posesi�n.
+esto de la posesión.
 
 
-�LVARO
-Mis desdichas en �l leo
+ÁLVARO
+Mis desdichas en él leo
 
 
 
-y entre desenga�os veo
+y entre desengaños veo
 
 
 
@@ -1485,7 +1478,7 @@ lo que las mujeres son.
 330
 
 
-Que la posesi�n la da
+Que la posesión la da
 
 
 
@@ -1493,46 +1486,46 @@ pena dice mi homicida,
 
 
 
-luego ya est� pose�da,
+luego ya está poseída,
 
 
 
-luego aborreci�me ya.
+luego aborrecióme ya.
 
 
 
-�Qu� dudo si por escrito
+¿Qué dudo si por escrito
 335
 
 
-lo ve mi pasi�n tirana?
+lo ve mi pasión tirana?
 
 
 MARGARITA
-(Leyendo) �Pose� la soberana
+(Leyendo) «Poseí la soberana
 
 
 
-belleza que solicito�.
+belleza que solicito».
 
 
-�LVARO
-(Leyendo) �Ventura, tiempo y lugar
+ÁLVARO
+(Leyendo) «Ventura, tiempo y lugar
 
 
 
-donde vos sab�is tenemos�.
+donde vos sabéis tenemos».
 340
 
 MARGARITA
-Honra in�til, ya podremos
+Honra inútil, ya podremos
 
 
 
-vuestra p�rdida llorar.
+vuestra pérdida llorar.
 
 
-�LVARO
+ÁLVARO
 (Aparte) Tarde el Santelmo ha llegado
 
 
@@ -1545,7 +1538,7 @@ No tienen merecimiento
 345
 
 
-las l�grimas en pecado.
+las lágrimas en pecado.
 
 
 
@@ -1557,7 +1550,7 @@ con imprudencia las vierte,
 
 
 
-porque despu�s de la muerte
+porque después de la muerte
 
 
 
@@ -1580,14 +1573,14 @@ de quien me ofende sentido,
 retirarme quiero.
 
 
-�ntrase y queda escondido y sale do�a BEATRIZ
+Éntrase y queda escondido y sale doña BEATRIZ
 
 BEATRIZ
-               Hermana,
+               Hermana,
 
 
 
-Gonzalo Pizarro est�
+Gonzalo Pizarro está
 355
 
 
@@ -1599,11 +1592,11 @@ verle (pero interesada
 
 
 
-eres no poco, s� har�)
+eres no poco, sí hará)
 
 
 
-ven, porque en �l consideres
+ven, porque en él consideres
 
 
 
@@ -1619,11 +1612,11 @@ el Paris de las mujeres.
 
 
 MARGARITA
-�V�lgame Dios! No te cabe
+¡Válgame Dios! No te cabe
 
 
 
-en la boca. �Qu� intereso,
+en la boca. ¿Qué intereso,
 
 
 
@@ -1639,11 +1632,11 @@ BEATRIZ
 
 
 
-No te pesa que hable en �l,
+No te pesa que hable en él,
 
 
 
-que ya yo vi, ans� te goces,
+que ya yo vi, ansí te goces,
 
 
 
@@ -1651,22 +1644,22 @@ que le alabas y conoces.
 
 
 MARGARITA
-�Yo?
+¿Yo?
 
 BEATRIZ
-       D�galo este papel.
+       Dígalo este papel.
 370
 
 MARGARITA
-�Pues es suyo?
+¿Pues es suyo?
 
 
 BEATRIZ
-              Acaba ya.
+              Acaba ya.
 
 
 
-�Fingimientos t� conmigo?
+¿Fingimientos tú conmigo?
 
 
 
@@ -1674,7 +1667,7 @@ Si tienes ese testigo
 
 
 
-donde eslabonando est�
+donde eslabonando está
 
 
 
@@ -1682,27 +1675,27 @@ finezas que alegre leas,
 375
 
 
-�por qu� fingida me enga�as,
+¿por qué fingida me engañas,
 
 
 
-ni por qu� su nombre estra�as
+ni por qué su nombre estrañas
 
 
 
-cuando en �l te saboreas?
+cuando en él te saboreas?
 
 
 MARGARITA
-�Yo en �l?
+¿Yo en él?
 
 
 BEATRIZ
-          En su estilo tierno.
+          En su estilo tierno.
 
 
 
-�Qu� bueno anda nuestro honor!
+¡Qué bueno anda nuestro honor!
 380
 
 
@@ -1710,12 +1703,12 @@ Conforme le muestra amor,
 
 
 
-ya le sue�a padre yerno. (Vanse)
+ya le sueña padre yerno. (Vanse)
 
 
-Sale don �LVARO
+Sale don ÁLVARO
 
-�LVARO
+ÁLVARO
 Fenecieron ya sospechas
 
 
@@ -1740,7 +1733,7 @@ ojos donde se asomaron
 
 
 
-lisonjas que me enga�aron
+lisonjas que me engañaron
 
 
 
@@ -1748,7 +1741,7 @@ porque amor mal se acredita
 390
 
 
-en sus ni�as, que livianas,
+en sus niñas, que livianas,
 
 
 
@@ -1768,19 +1761,19 @@ Gonzalo Pizarro es yerno
 395
 
 
-de casa; as� le llam�
+de casa; así le llamó
 
 
 
-do�a Beatriz. Posey�
+doña Beatriz. Poseyó
 
 
 
-gal�n entendido y tierno;
+galán entendido y tierno;
 
 
 
-fue estudiante, gradu�se
+fue estudiante, graduóse
 
 
 
@@ -1792,7 +1785,7 @@ ya es soldado, y al respeto
 
 
 
-de Marte Venus rindi�se.
+de Marte Venus rindióse.
 
 
 
@@ -1800,11 +1793,11 @@ Su industria y mi negligencia
 
 
 
-le amparan la posesi�n
+le amparan la posesión
 
 
 
-cuando s�lo tengo acci�n
+cuando sólo tengo acción
 405
 
 
@@ -1812,7 +1805,7 @@ en los ojos. Competencia
 
 
 
-contra quien en ella est�
+contra quien en ella está
 
 
 
@@ -1823,15 +1816,15 @@ no me promete sosiego,
 pero, en fin, amor es ciego
 
 
-y a ciegas sentenciar�.
+y a ciegas sentenciará.
 410
 
 
-�Vive Dios que he de vengarme
+¡Vive Dios que he de vengarme
 
 
 
-en �l de quien me agravi�!
+en él de quien me agravió!
 
 
 
@@ -1847,7 +1840,7 @@ Si es valiente mis desvelos
 415
 
 
-desmentir�n su partido,
+desmentirán su partido,
 
 
 
@@ -1855,17 +1848,17 @@ que nunca sale vencido
 
 
 
-amor que ri�e con celos. (Vase)
+amor que riñe con celos. (Vase)
 
 
-Salen don FRANCISCO Cabezas, viejo, y don GONZALO, a lo soldado, muy gal�n
+Salen don FRANCISCO Cabezas, viejo, y don GONZALO, a lo soldado, muy galán
 
 FRANCISCO
 En fin, Gonzalo, malograstes cursos
 
 
 
-que en Salamanca os promet�an el grado
+que en Salamanca os prometían el grado
 420
 
 
@@ -1881,7 +1874,7 @@ uno en papel, el otro en el sombrero.
 
 
 
-No me llam� mi estrella a ser letrado.
+No me llamó mi estrella a ser letrado.
 
 
 
@@ -1893,7 +1886,7 @@ y si con una pluma afrenta y mata,
 
 
 
-�cu�nto es mejor fi�rsela al sombrero?
+¿cuánto es mejor fiársela al sombrero?
 
 
 
@@ -1905,7 +1898,7 @@ de los libros que estudia, las que afila
 
 
 
-Toledo, siempre a las haza�as grata,
+Toledo, siempre a las hazañas grata,
 430
 
 
@@ -1925,7 +1918,7 @@ Ocasionaron las oposiciones
 
 
 
-de dos c�tedras vacas, competencias,
+de dos cátedras vacas, competencias,
 435
 
 
@@ -1957,11 +1950,11 @@ dando la muerte a tres nos asegura.
 
 
 
-Muri� entre estos un c�lebre estudiante,
+Murió entre estos un célebre estudiante,
 
 
 
-hijo del secretario que m�s priva
+hijo del secretario que más priva
 
 
 
@@ -1981,7 +1974,7 @@ a un juez pesquisidor, un peste viva.
 
 
 
-�ste a fuego y a sangre, a saco mete
+Éste a fuego y a sangre, a saco mete
 
 
 
@@ -1989,10 +1982,10 @@ culpados y inocentes, porque, avaro,
 450
 
 
-ten�a la ocasi�n de oro del copete.
+tenía la ocasión de oro del copete.
 
 
-No valieron con �l ruegos, no amparo:
+No valieron con él ruegos, no amparo:
 
 
 
@@ -2012,15 +2005,15 @@ muchos, y yo con ellos, al sagrado
 
 
 
-que hall� la juventud en la milicia.
+que halló la juventud en la milicia.
 
 
 
-Hall�me en rebeld�a condenado
+Halléme en rebeldía condenado
 
 
 
-a cortar la cabeza, mas, �qu� importa
+a cortar la cabeza, mas, ¿qué importa
 
 
 
@@ -2032,7 +2025,7 @@ En fin, mientras cabezas el juez corta,
 
 
 
-los h�bitos repudio, galas visto
+los hábitos repudio, galas visto
 
 
 
@@ -2040,7 +2033,7 @@ y el parche sigo que al valor exhorta.
 
 
 
-Llego a Valladolid y en �l me alisto
+Llego a Valladolid y en él me alisto
 
 
 
@@ -2052,7 +2045,7 @@ de su silla a rebeldes es malquisto.
 
 
 
-En �vila se hab�a coronado
+En Ávila se había coronado
 
 
 
@@ -2060,11 +2053,11 @@ el infante su hermano, simple mozo,
 
 
 
-instando sola la raz�n de estado.
+instando sola la razón de estado.
 
 
 
-La ambici�n y inter�s, mortal destrozo
+La ambición y interés, mortal destrozo
 470
 
 
@@ -2072,7 +2065,7 @@ del gobierno y la paz, se disfrazaban
 
 
 
-en traje de lealtad, �civil rebozo!
+en traje de lealtad, ¡civil rebozo!
 
 
 
@@ -2080,7 +2073,7 @@ Dejo en silencio los que conspiraban
 
 
 
-contra su rey y lo que pas� en esto,
+contra su rey y lo que pasó en esto,
 
 
 
@@ -2088,11 +2081,11 @@ que los nobles no injurian sino alaban.
 475
 
 
-Leal segu� el partido m�s honesto
+Leal seguí el partido más honesto
 
 
 
-a imitaci�n de los Mendozas todos
+a imitación de los Mendozas todos
 
 
 
@@ -2124,7 +2117,7 @@ que a la lealtad la vida no dedique;
 
 
 
-los �lvarez famosos de Toledo,
+los Álvarez famosos de Toledo,
 485
 
 
@@ -2136,11 +2129,11 @@ la batalla vencieron junto a Olmedo.
 
 
 
-Hall�me en ella honr�ndome se�ales
+Halléme en ella honrándome señales
 
 
 
-de alf�rez que adquir�, si no haza�oso,
+de alférez que adquirí, si no hazañoso,
 
 
 
@@ -2148,7 +2141,7 @@ afortunado siempre en riesgos tales.
 490
 
 
-Muri� el intruso rey de un presuroso
+Murió el intruso rey de un presuroso
 
 
 
@@ -2156,11 +2149,11 @@ accidente mortal, Alfonso digo,
 
 
 
-enga�ado mancebo, no ambicioso.
+engañado mancebo, no ambicioso.
 
 
 
-Sus c�mplices temieron el castigo
+Sus cómplices temieron el castigo
 
 
 y con Enrique, en fin, reconciliados,
@@ -2175,7 +2168,7 @@ Volvieron a triunfar siglos dorados,
 
 
 
-colg� arneses la paz y en pretensiones
+colgó arneses la paz y en pretensiones
 
 
 
@@ -2183,31 +2176,31 @@ libraron sus servicios los soldados.
 
 
 
-Yo, se�or don Francisco, que en liciones
+Yo, señor don Francisco, que en liciones
 500
 
 
-seis a�os y uno y medio en la campa�a,
+seis años y uno y medio en la campaña,
 
 
 
-ya segu� las escuelas, ya pendones,
+ya seguí las escuelas, ya pendones,
 
 
 
-mientras respira sosegando Espa�a,
+mientras respira sosegando España,
 
 
 
-vuelvo a Trujillo, noble patria m�a,
+vuelvo a Trujillo, noble patria mía,
 
 
 
-por ver si la amistad el ocio enga�a.
+por ver si la amistad el ocio engaña.
 505
 
 
-Pareci�me que en ella no cumpl�a
+Parecióme que en ella no cumplía
 
 
 
@@ -2215,7 +2208,7 @@ con lo que os debo no viniendo a veros,
 
 
 
-si bien tardanzas disculpar podr�a
+si bien tardanzas disculpar podría
 
 
 
@@ -2223,11 +2216,11 @@ con estorbos precisos.
 
 
 FRANCISCO
-                    Reprehenderos
+                    Reprehenderos
 
 
 
-debiera con raz�n pues ha ya un a�o
+debiera con razón pues ha ya un año
 510
 
 
@@ -2235,27 +2228,27 @@ que esta ciudad, dichosa en poseeros,
 
 
 
-otra vez os goz�. �Conmigo estra�o?
+otra vez os gozó. ¿Conmigo estraño?
 
 
 
-Mas, �cu�ndo no cansaron las vejeces
+Mas, ¿cuándo no cansaron las vejeces
 
 
 
-la verde juventud, hermoso enga�o?
+la verde juventud, hermoso engaño?
 
 
 
-Vedme, se�or Gonzalo, muchas veces
+Vedme, señor Gonzalo, muchas veces
 515
 
 
-y acordaos m�s de m� si sois servido,
+y acordaos más de mí si sois servido,
 
 
 
-que a�n tengo vivas yo vuestras ni�eces.
+que aún tengo vivas yo vuestras niñeces.
 
 
 
@@ -2267,7 +2260,7 @@ es de padre, esto es cierto.
 
 
 GONZALO
-                        El cielo os guarde,
+                        El cielo os guarde,
 
 
 
@@ -2275,7 +2268,7 @@ que yo lo estoy de lo que os he debido
 520
 
 
-y har� destos empe�os fiel alarde
+y haré destos empeños fiel alarde
 
 
 
@@ -2287,7 +2280,7 @@ Dadme licencia.
 
 
 FRANCISCO
-              Ya parece tarde,
+              Ya parece tarde,
 
 
 
@@ -2307,7 +2300,7 @@ FRANCISCO
 525
 
 
-�hola!
+¡hola!
 
 
 GONZALO
@@ -2315,15 +2308,15 @@ GONZALO
 
 
 FRANCISCO
-                        �Ni un criado?
+                        ¿Ni un criado?
 
 
 GONZALO
-No hay que hablar. Vuestras manos, se�or, beso.
+No hay que hablar. Vuestras manos, señor, beso.
 
 
 FRANCISCO
-H�gaos, Gonzalo, Dios un gran soldado. (Vase)
+Hágaos, Gonzalo, Dios un gran soldado. (Vase)
 
 
 GONZALO
@@ -2331,7 +2324,7 @@ A mi Beatriz vi al entrar
 
 
 
-y suspendi�me de suerte
+y suspendióme de suerte
 530
 
 
@@ -2358,18 +2351,18 @@ pero amor no hace delito,
 que a hacerle no fuera dios.
 
 
-Sale don �LVARO, rebozado
+Sale don ÁLVARO, rebozado
 
 
 En la mitad de la calle
 
 
 
-parece que un hombre est�
+parece que un hombre está
 
 
 
-embozado. �Qu� querr�
+embozado. ¿Qué querrá
 
 
 
@@ -2377,21 +2370,21 @@ a tal hora y en tal talle?
 540
 
 
-�Ah, caballero! �Podremos
+¡Ah, caballero! ¿Podremos
 
 
 
 pasar?
 
 
-�LVARO
-      �Podr�is por aqu�!
+ÁLVARO
+      ¡Podréis por aquí!
 
 
 La espada desnuda al pecho
 
 GONZALO
-Jam�s sin causa re��.
+Jamás sin causa reñí.
 
 
 
@@ -2399,23 +2392,23 @@ Templaos y no alborotemos
 
 
 
-vecinos. �Sab�is qui�n soy?
+vecinos. ¿Sabéis quién soy?
 545
 
-�LVARO
-S� que fuistes licenciado
+ÁLVARO
+Sé que fuistes licenciado
 
 
 
-y en licencioso hab�is dado,
+y en licencioso habéis dado,
 
 
 
-despu�s que informado estoy
+después que informado estoy
 
 
 
-que os atrev�is al respeto
+que os atrevéis al respeto
 
 
 
@@ -2423,11 +2416,11 @@ del que gobierna esta casa.
 550
 
 
-S� el incendio que la abrasa
+Sé el incendio que la abrasa
 
 
 
-por vos y s� que, indiscreto,
+por vos y sé que, indiscreto,
 
 
 
@@ -2447,19 +2440,19 @@ sois de antiguas pretensiones
 
 
 
-con m�s derecho adquiridas
+con más derecho adquiridas
 
 
 
-y m�s cordura calladas,
+y más cordura calladas,
 
 
 
-de quien am�is estimadas
+de quien amáis estimadas
 
 
 
-y hasta aqu� correspondidas;
+y hasta aquí correspondidas;
 560
 
 
@@ -2467,11 +2460,11 @@ puesto que, como estudiante,
 
 
 
-de enga�os os ampar�is
+de engaños os amparéis
 
 
 
-y mentiras blason�is
+y mentiras blasonéis
 
 
 
@@ -2483,11 +2476,11 @@ Porque el papel que escribistes
 565
 
 
-y su due�o me entreg�
+y su dueño me entregó
 
 
 
-quejosa de vos, s� yo
+quejosa de vos, sé yo
 
 
 
@@ -2495,27 +2488,27 @@ que es falso y que le fingistes
 
 
 
-para dar celos con �l
+para dar celos con él
 
 
 
-a hermosuras que enga��is.
+a hermosuras que engañáis.
 570
 
 
-Si con la espada firm�is
+Si con la espada firmáis
 
 
 
-lo que minti� el tal papel
+lo que mintió el tal papel
 
 
 
-y re��s, ocasionado
+y reñís, ocasionado
 
 
 
-ya lo est�is. Satisfaceos
+ya lo estáis. Satisfaceos
 
 
 
@@ -2523,7 +2516,7 @@ con obras, no con deseos.
 575
 
 GONZALO
-Relaci�n falsa os ha dado
+Relación falsa os ha dado
 
 
 
@@ -2531,7 +2524,7 @@ la que mi papel os dio
 
 
 
-y en quien deb�is de tener,
+y en quien debéis de tener,
 
 
 
@@ -2539,15 +2532,15 @@ si os llega a satisfacer,
 
 
 
-m�s jurisdici�n que yo.
+más jurisdición que yo.
 580
 
 
-La antig�edad os concedo
+La antigüedad os concedo
 
 
 
-que aleg�is en su servicio,
+que alegáis en su servicio,
 
 
 
@@ -2555,11 +2548,11 @@ porque yo soy tan novicio
 
 
 
-en su pretensi�n que puedo
+en su pretensión que puedo
 
 
 
-afirmaros que no ha un a�o
+afirmaros que no ha un año
 585
 
 
@@ -2567,11 +2560,11 @@ afirmaros que no ha un a�o
 
 
 
-cre�la, que amor es loco
+creíla, que amor es loco
 
 
 
-y la mujer nuestro enga�o.
+y la mujer nuestro engaño.
 
 
 
@@ -2579,15 +2572,15 @@ Si ella mi papel desmiente
 
 
 
-y a vos cr�dulo os hall�
+y a vos crédulo os halló
 590
 
 
-�qu� perder� en eso yo?
+¿qué perderé en eso yo?
 
 
 
-S�lo hay un inconveniente
+Sólo hay un inconveniente
 
 
 
@@ -2611,7 +2604,7 @@ lo que la fama atropella;
 
 
 
-y si fue f�cil conmigo,
+y si fue fácil conmigo,
 
 
 
@@ -2631,19 +2624,19 @@ puesto que mudable fue,
 
 
 
-ans� sepultar podr�
+ansí sepultar podré
 
 
 
-menoscabos de su honor. (Ri�en)
+menoscabos de su honor. (Riñen)
 
 
-�LVARO
-(Dentro) �Muerto soy! �Jes�s mil veces!
+ÁLVARO
+(Dentro) ¡Muerto soy! ¡Jesús mil veces!
 605
 
 GONZALO
-Ans�, mudable, sepulto
+Ansí, mudable, sepulto
 
 
 
@@ -2663,17 +2656,17 @@ olvidos de aborrecida,
 610
 
 
-desprecios de pose�da,
+desprecios de poseída,
 
 
 
-mas con cr�ditos de honrada. (Vase)
+mas con créditos de honrada. (Vase)
 
 
 Salen CARRIZO, CRESPO, BERTOL y PULIDA, pastores
 
 PULIDA
-�l ha de ser escrib�n
+Él ha de ser escribén
 
 
 
@@ -2681,11 +2674,11 @@ o sobre eso...
 
 
 CARRIZO
-            �Dalle, dalle!
+            ¡Dalle, dalle!
 
 
 
-Polida, vos llev�is talle
+Polida, vos lleváis talle
 615
 
 
@@ -2693,11 +2686,11 @@ de alguna tunda. No tien
 
 
 
-de ser, si macho par�s,
+de ser, si macho parís,
 
 
 
-escrib�n. Mira, Polida,
+escribén. Mira, Polida,
 
 
 
@@ -2705,15 +2698,15 @@ que el crergo tien buena vida.
 
 
 PULIDA
-�Por qu�?
+¿Por qué?
 
 
 CARRIZO
-          Porque est� en un tris
+          Porque está en un tris
 620
 
 
-de ser cura de Garc�as,
+de ser cura de Garcías,
 
 
 
@@ -2725,11 +2718,11 @@ PULIDA
 
 
 
-no lo ver�n vuesos d�as.
+no lo verán vuesos días.
 
 
 
-Escrib�n ser�, o sobre eso
+Escribén será, o sobre eso
 625
 
 
@@ -2737,7 +2730,7 @@ morena.
 
 
 CARRIZO
-        Mirad, Polida...
+        Mirad, Polida...
 
 
 PULIDA
@@ -2745,11 +2738,11 @@ O no parirlo en mi vida
 
 
 
-o escrib�n.
+o escribén.
 
 
 CARRIZO
-          Tened m�s seso
+          Tened más seso
 
 
 
@@ -2765,27 +2758,27 @@ El mochacho ha de ser cura.
 
 
 PULIDA
-Malos a�os para vos.
+Malos años para vos.
 
 
 
-El diabro me lleve, am�n,
+El diabro me lleve, amén,
 
 
 
-por m�s que deis en rehortir,
+por más que deis en rehortir,
 
 
 
-que hoga�o no he de parir
+que hogaño no he de parir
 635
 
 
-en no h�ndole escrib�n.
+en no héndole escribén.
 
 
 CARRIZO
-Mas que nunca lo par�is,
+Mas que nunca lo paráis,
 
 
 
@@ -2797,15 +2790,15 @@ que con una hisopadura
 
 
 
-coma y cena. No me hag�is...
+coma y cena. No me hagáis...
 640
 
 BERTOL
-�Sobre qu� est�is altercando?
+¿Sobre qué estáis altercando?
 
 
 
-�Sab�is vos lo que ella tien
+¿Sabéis vos lo que ella tien
 
 
 
@@ -2813,27 +2806,27 @@ en el vientre?
 
 
 PULIDA
-            A un escrib�n.
+            A un escribén.
 
 
 BERTOL
-�Pues de d� lo vais sacando?
+¿Pues de dó lo vais sacando?
 
 
 PULIDA
-�De d�? Si�ntole dar vueltas
+¿De dó? Siéntole dar vueltas
 645
 
 
-de d�a y noche.
+de día y noche.
 
 
 BERTOL
-             �Pues bien?
+             ¿Pues bien?
 
 
 PULIDA
-Luego ha de ser escrib�n
+Luego ha de ser escribén
 
 
 
@@ -2841,14 +2834,14 @@ quien mis tripas trae revueltas.
 
 
 
-Desque pre�ada me siento
+Desque preñada me siento
 
 
 se me antoja levantar
 650
 
 
-testimu�os y ara�ar
+testimuños y arañar
 
 
 
@@ -2872,7 +2865,7 @@ yo doy fe de que es verdad.
 
 
 
-Un proceso s� esconder
+Un proceso sé esconder
 
 
 
@@ -2884,7 +2877,7 @@ Si es tramposo antes del parto,
 
 
 
-�despu�s d�l qu� vendr� a ser?
+¿después dél qué vendrá a ser?
 660
 
 CARRIZO
@@ -2900,11 +2893,11 @@ que, en fin, ganan la comida
 
 
 
-lo m�s del tiempo cantando.
+lo más del tiempo cantando.
 
 
 
-Cat� que os dar� un pu�ete
+Catá que os daré un puñete
 665
 
 
@@ -2912,7 +2905,7 @@ que os haga...
 
 
 PULIDA
-            �Qu� me heis de her?
+            ¿Qué me heis de her?
 
 
 CARRIZO
@@ -2924,23 +2917,23 @@ cuando le encajo el bonete.
 
 
 PULIDA
-Pues no le parir� yo.
+Pues no le pariré yo.
 
 
 CRESPO
-�Hay ri�a m�s estremada?
+¿Hay riña más estremada?
 670
 
 BERTOL
-�Y si est�is de hija pre�ada?
+¿Y si estáis de hija preñada?
 
 
 CARRIZO
-�Malos a�os! Eso no.
+¡Malos años! Eso no.
 
 
 
-La primera condici�n
+La primera condición
 
 
 
@@ -2948,15 +2941,15 @@ con que mos casamos hue
 
 
 
-que cada que en cinta est�
+que cada que en cinta esté
 675
 
 
-ha de parirme un garz�n.
+ha de parirme un garzón.
 
 
 PULIDA
-Por eso no quedar�,
+Por eso no quedará,
 
 
 
@@ -2964,39 +2957,39 @@ que ayer el cura me dijo:
 
 
 
-��Ay, Polida, os bulle un hijo!�.
+«¡Ay, Polida, os bulle un hijo!».
 
 
 CARRIZO
-�V�islo? Pues cura ser�.
+¿Véislo? Pues cura será.
 680
 
 PULIDA
-Luego el escrib�n tambi�n
+Luego el escribén también
 
 
 
-con la mano me tent�
+con la mano me tentó
 
 
 
-y al punto el rapaz salt�,
+y al punto el rapaz saltó,
 
 
 
-luego ha de ser escrib�n.
+luego ha de ser escribén.
 
 
 CARRIZO
-No, en mis d�as.
+No, en mis días.
 
 
 PULIDA
-              S�, en los m�os.
+              Sí, en los míos.
 685
 
 CARRIZO
-�Dalle, tijeretas, dalle,
+¡Dalle, tijeretas, dalle,
 
 
 
@@ -3004,30 +2997,30 @@ Pulida!...
 
 
 PULIDA
-        �Carrizo!...
+        ¡Carrizo!...
 
 
 CARRIZO
-                   Talle
+                   Talle
 
 
 
-llev�is...
+lleváis...
 
 CRESPO
-        Dejad desvar�os.
+        Dejad desvaríos.
 
 
 
-�No es locura que ri��is
+¿No es locura que riñáis
 
 
 
-por lo que est� por nacer?
+por lo que está por nacer?
 690
 
 PULIDA
-Escrib�n tiene de ser
+Escribén tiene de ser
 
 
 
@@ -3043,15 +3036,15 @@ Teneos.
 
 
 CARRIZO
-      No puedo sofrillo.
+      No puedo sofrillo.
 
 
 PULIDA
-O escrib�n o malparillo.
+O escribén o malparillo.
 695
 
 CARRIZO
-Yo os sacar� la criatura
+Yo os sacaré la criatura
 
 
 
@@ -3059,19 +3052,19 @@ por el cogote.
 
 
 PULIDA
-            Lleg�.
+            Llegá.
 
 
 CARRIZO
-�Que llegue? Ver� si llego. (Dala)
+¿Que llegue? Verá si llego. (Dala)
 
 
 PULIDA
-�Ay del rey!
+¡Ay del rey!
 
 
 CARRIZO
-          �Mas que os despego
+          ¡Mas que os despego
 
 
 
@@ -3079,7 +3072,7 @@ la escribanura!
 
 
 CRESPO
-             �Arre all�!
+             ¡Arre allá!
 700
 
 
@@ -3091,23 +3084,23 @@ Crergo ha de ser; si sopiese...
 
 
 PULIDA
-Escrib�n aunque os repese.
+Escribén aunque os repese.
 
 
 CARRIZO
-Dej�dmela dar.
+Dejádmela dar.
 
 
 PULIDA
-               Por vida
+               Por vida
 
 
 
-de esto que ac� me rebulle,
+de esto que acá me rebulle,
 705
 
 
-si os lleg�is que he de sacaros
+si os llegáis que he de sacaros
 
 
 
@@ -3119,22 +3112,22 @@ la cara.
 
 
 CARRIZO
-       Aunque m�s barbulle
+       Aunque más barbulle
 
 
 el tema que loca os tien,
 
 
 
-he de salir con la m�a.
+he de salir con la mía.
 710
 
 PULIDA
-�Mas nonada!
+¡Mas nonada!
 
 
 BERTOL
-            La porf�a...
+            La porfía...
 
 
 CARRIZO
@@ -3142,13 +3135,13 @@ Crergo dije.
 
 
 PULIDA
-           Yo escrib�n.
+           Yo escribén.
 
 
 Sale CEREZO, pastor
 
 CEREZO
-�Qu� es esto, Carrizo? �Est�is
+¿Qué es esto, Carrizo? ¿Estáis
 
 
 
@@ -3160,7 +3153,7 @@ y ved que en casa tenemos
 715
 
 
-al amo viejo. �No vais
+al amo viejo. ¿No vais
 
 
 
@@ -3168,15 +3161,15 @@ a darle la bienvenida?
 
 
 CARRIZO
-�Qui�n?
+¿Quién?
 
 
 CEREZO
-        Don Francisco Cabezas,
+        Don Francisco Cabezas,
 
 
 
-y con �l las dos bellezas
+y con él las dos bellezas
 
 
 
@@ -3184,7 +3177,7 @@ en que remoza su vida.
 720
 
 
-Ape�ronse de un coche
+Apeáronse de un coche
 
 
 
@@ -3192,7 +3185,7 @@ en este instante los tres
 
 
 
-y hicieron sacar despu�s
+y hicieron sacar después
 
 
 
@@ -3204,11 +3197,11 @@ diz que hirieron en Trujillo
 725
 
 
-y casi a la muerte est�.
+y casi a la muerte está.
 
 
 CARRIZO
-�Pues a qu� le traen ac�?
+¿Pues a qué le traen acá?
 
 
 CEREZO
@@ -3219,7 +3212,7 @@ mas ellos, en fin, acaban
 
 
 
-de apearse y pregunt�
+de apearse y preguntó
 730
 
 
@@ -3227,11 +3220,11 @@ el viejo por vos.
 
 
 CARRIZO
-             Pues vo.
+             Pues vo.
 
 
 BERTOL
-�No pudieran, si pensaban
+¿No pudieran, si pensaban
 
 
 
@@ -3239,11 +3232,11 @@ trasnochar, darnos aviso,
 
 
 
-y tovieran qu� cenar?
+y tovieran qué cenar?
 
 
 CEREZO
-�En La Zarza han de faltar
+¿En La Zarza han de faltar
 735
 
 
@@ -3251,7 +3244,7 @@ conejos?
 
 
 BERTOL
-         Tan de improviso
+         Tan de improviso
 
 
 
@@ -3259,11 +3252,11 @@ y casi al amanecer,
 
 
 
-�qu� mucho que no los haya?
+¿qué mucho que no los haya?
 
 
 CARRIZO
-�Vo a verlos?
+¿Vo a verlos?
 
 
 PULIDA
@@ -3271,11 +3264,11 @@ PULIDA
 
 
 
-escrib�n tiene de ser.
+escribén tiene de ser.
 740
 
 CARRIZO
-�Oh, qu� pan como unas nueces
+¡Oh, qué pan como unas nueces
 
 
 
@@ -3283,7 +3276,7 @@ se os apareja!
 
 
 CRESPO
-            �Hay locura
+            ¿Hay locura
 
 
 
@@ -3291,29 +3284,29 @@ semejante?
 
 
 PULIDA
-          Escrib�n.
+          Escribén.
 
 
 CARRIZO
-                   Cura.
+                   Cura.
 
 
 PULIDA
-Escrib�n quinientas veces. (Vanse)
+Escribén quinientas veces. (Vanse)
 
 
-Salen don FRANCISCO y Men GARC�A
+Salen don FRANCISCO y Men GARCÍA
 
 FRANCISCO
-El cr�dito que de vos
+El crédito que de vos
 745
 
 
-tuve siempre, Men Garc�a,
+tuve siempre, Men García,
 
 
 
-fi�ndoos la hacienda m�a
+fiándoos la hacienda mía
 
 
 
@@ -3340,12 +3333,12 @@ consejos, y los procuro
 de vuestra larga experiencia.
 
 
-GARC�A
-Ya sab�is, se�or, de m�,
+GARCÍA
+Ya sabéis, señor, de mí,
 
 
 
-que en vuestra casa nac�
+que en vuestra casa nací
 755
 
 
@@ -3361,11 +3354,11 @@ con limpieza y con lealtad.
 
 
 FRANCISCO
-Saqu�os a esta soledad
+Saquéos a esta soledad
 
 
 
-de noche y reci�n venido
+de noche y recién venido
 760
 
 
@@ -3377,11 +3370,11 @@ pide todo este recato.
 
 
 
-Ya os consta a vos c�mo trato
+Ya os consta a vos cómo trato
 
 
 
-mi honor yo. Podr� advertiros
+mi honor yo. Podré advertiros
 
 
 que no guarda el avariento
@@ -3392,11 +3385,11 @@ tesoros de su ganancia,
 
 
 
-Mendo, con m�s vigilancia.
+Mendo, con más vigilancia.
 
 
-GARC�A
-S� el mucho recogimiento
+GARCÍA
+Sé el mucho recogimiento
 
 
 
@@ -3404,11 +3397,11 @@ de vuestra casa y que en ella
 
 
 
-de padre y madre serv�s,
+de padre y madre servís,
 770
 
 
-pues por los dos asist�s
+pues por los dos asistís
 
 
 
@@ -3428,19 +3421,19 @@ de Trujillo, pues seguras
 775
 
 
-a�n no se permiten ver
+aún no se permiten ver
 
 
 
-y est� en ella vinculada
+y está en ella vinculada
 
 
 
-la honestidad estreme�a.
+la honestidad estremeña.
 
 
 FRANCISCO
-�Ay, Mendo, que la despe�a
+¡Ay, Mendo, que la despeña
 
 
 
@@ -3452,11 +3445,11 @@ Escuchad una desgracia
 
 
 
-que si hasta aqu� no entendida,
+que si hasta aquí no entendida,
 
 
 
-en sabi�ndose ocasiona
+en sabiéndose ocasiona
 
 
 
@@ -3480,7 +3473,7 @@ resucitaba en las Indias,
 
 
 
-apenas mand� cerrar
+apenas mandé cerrar
 
 
 
@@ -3488,11 +3481,11 @@ las puertas (que una visita
 790
 
 
-les permiti� a tales horas
+les permitió a tales horas
 
 
 
-lo que les niego aun de d�a)
+lo que les niego aun de día)
 
 
 
@@ -3500,11 +3493,11 @@ cuando asentado a la mesa
 
 
 
-ligera cena admit�a
+ligera cena admitía
 
 
 
-por sucesor suyo al sue�o
+por sucesor suyo al sueño
 795
 
 
@@ -3512,7 +3505,7 @@ por sucesor suyo al sue�o
 
 
 
-pensi�n dormirse temprano,
+pensión dormirse temprano,
 
 
 
@@ -3540,7 +3533,7 @@ oigo espadas en la calle,
 
 
 
-mas fue tan breve la ri�a
+mas fue tan breve la riña
 
 
 
@@ -3567,19 +3560,19 @@ tropieza en su sangre misma
 810
 
 
-un hombre que a m� se abraza
+un hombre que a mí se abraza
 
 
 
-diciendo: ��Virgen divina!
+diciendo: «¡Virgen divina!
 
 
 
-�Confesi�n! �Jes�s mil veces!�,
+¡Confesión! ¡Jesús mil veces!»,
 
 
 
-y ba��ndome en su herida
+y bañándome en su herida
 
 
 
@@ -3587,7 +3580,7 @@ el ya estranjero licor
 815
 
 
-ca�mos los dos encima,
+caímos los dos encima,
 
 
 
@@ -3595,7 +3588,7 @@ el casi difunto joven
 
 
 
-y yo, en su sangre te�idas
+y yo, en su sangre teñidas
 
 
 
@@ -3603,7 +3596,7 @@ canas y ropa: la muerte
 
 
 
-pens� en m� copiar su cifra.
+pensó en mí copiar su cifra.
 820
 
 
@@ -3635,11 +3628,11 @@ hombres el cuerdo escarmiento:
 
 
 
-�qu� quer�is?, costumbre es m�a.
+¿qué queréis?, costumbre es mía.
 
 
 
-Como me vieron ba�ado
+Como me vieron bañado
 
 
 
@@ -3660,7 +3653,7 @@ me dudasen agresor,
 
 
 
-murmur�ndome homicida
+murmurándome homicida
 
 
 
@@ -3672,7 +3665,7 @@ de honor, ocios y malicias.
 
 
 
-Ataj� este inconveniente
+Atajé este inconveniente
 
 
 
@@ -3684,7 +3677,7 @@ el herido desmayado.
 
 
 
-Cerr� puertas y advert�las
+Cerré puertas y advertílas
 840
 
 
@@ -3692,15 +3685,15 @@ ser de otras venas la sangre
 
 
 
-que sin saz�n despedida
+que sin sazón despedida
 
 
 
-del due�o propio buscaba
+del dueño propio buscaba
 
 
 
-hospedaje en m�, mendiga.
+hospedaje en mí, mendiga.
 
 
 
@@ -3716,7 +3709,7 @@ al riesgo de su alboroto.
 
 
 
-Dom�sticas medicinas
+Domésticas medicinas
 
 
 
@@ -3741,11 +3734,11 @@ por una estocada encima
 
 
 
-tres dedos del coraz�n
+tres dedos del corazón
 
 
 
-si aceites, b�lsamo y hilas
+si aceites, bálsamo y hilas
 
 
 
@@ -3761,7 +3754,7 @@ Tomada, aunque mal, la sangre,
 
 
 
-puesto que no permit�a
+puesto que no permitía
 
 
 
@@ -3773,7 +3766,7 @@ que el pulso pidiese albricias,
 860
 
 
-entr�, aunque inquieta, en consejo
+entró, aunque inquieta, en consejo
 
 
 
@@ -3789,11 +3782,11 @@ y aquesta vez discursiva.
 
 
 
-Repar� en curiosidades
+Reparó en curiosidades
 865
 
 
-del herido, ya de d�a
+del herido, ya de día
 
 
 
@@ -3805,11 +3798,11 @@ ya nuestra calle, aunque habita
 
 
 
-en la ciudad. Bien sab�is
+en la ciudad. Bien sabéis
 
 
 
-que ans� por costumbre antigua
+que ansí por costumbre antigua
 870
 
 
@@ -3837,11 +3830,11 @@ contrata, vende y fabrica,
 
 
 
-daba a la murmuraci�n
+daba a la murmuración
 
 
 
-causa y a las celos�as
+causa y a las celosías
 
 
 
@@ -3853,11 +3846,11 @@ profanadas con su vista.
 880
 
 
-Manch� mis puertas su sangre
+Manchó mis puertas su sangre
 
 
 
-y tem� que pretend�a
+y temí que pretendía
 
 
 
@@ -3885,7 +3878,7 @@ porque la color perdida,
 
 
 
-l�grimas se desmandaban
+lágrimas se desmandaban
 
 
 
@@ -3897,7 +3890,7 @@ amantes en la sustancia;
 
 
 
-y aunque el temor reprim�a
+y aunque el temor reprimía
 
 
 
@@ -3908,7 +3901,7 @@ el silencio en la oficina
 
 
 
-del pecho, abort� el pesar
+del pecho, abortó el pesar
 895
 
 
@@ -3916,11 +3909,11 @@ por los ojos su noticia.
 
 
 
-Lloraba tambi�n su hermana,
+Lloraba también su hermana,
 
 
 
-pero las se�ales tibias
+pero las señales tibias
 
 
 
@@ -3928,7 +3921,7 @@ de su piedad inocente
 
 
 
-me mostraron cu�n distintas
+me mostraron cuán distintas
 900
 
 
@@ -3944,7 +3937,7 @@ que sostituyen palabras,
 
 
 
-l�grimas ponderativas.
+lágrimas ponderativas.
 
 
 
@@ -3960,7 +3953,7 @@ sin testigos la prudencia,
 
 
 
-que baje al zagu�n me avisa
+que baje al zaguán me avisa
 
 
 
@@ -3976,7 +3969,7 @@ mando tender una cama
 
 
 
-en �l que al enfermo sirva,
+en él que al enfermo sirva,
 
 
 
@@ -4012,7 +4005,7 @@ y dando al cochero prisa
 920
 
 
-(ya sab�is que vive enfrente)
+(ya sabéis que vive enfrente)
 
 
 
@@ -4032,7 +4025,7 @@ de lo que en el coche lleva,
 925
 
 
-cuatro horas antes del d�a,
+cuatro horas antes del día,
 
 
 
@@ -4040,7 +4033,7 @@ tres leguas que hay de distancia
 
 
 
-hasta aqu� corri�, que gu�an
+hasta aquí corrió, que guían
 
 
 
@@ -4052,7 +4045,7 @@ sospechas que martirizan.
 930
 
 
-Volvi� el herido en su acuerdo
+Volvió el herido en su acuerdo
 
 
 
@@ -4087,7 +4080,7 @@ Llegamos, Mendo, a La Zarza,
 
 
 
-donde aunque el enga�o finja
+donde aunque el engaño finja
 940
 
 
@@ -4095,23 +4088,23 @@ disimulos de mi ofensa,
 
 
 
-mientras su due�o peligra,
+mientras su dueño peligra,
 
 
 
-si muere, podr� el silencio
+si muere, podrá el silencio
 
 
 
-(haci�ndole compa��a
+(haciéndole compañía
 
 
 
-su c�mplice en mi deshonra)
+su cómplice en mi deshonra)
 945
 
 
-sepultar con �l malicias
+sepultar con él malicias
 
 
 
@@ -4123,7 +4116,7 @@ y si el cielo le da vida,
 
 
 
-despos�ndose los dos
+desposándose los dos
 
 
 
@@ -4143,7 +4136,7 @@ la falta que hace en su casa
 
 
 
-quien quiso ofender la m�a,
+quien quiso ofender la mía,
 
 
 
@@ -4151,11 +4144,11 @@ no siendo mortal el golpe,
 955
 
 
-t�lamo la cama misma
+tálamo la cama misma
 
 
 
-ser� o t�mulo si muere,
+será o túmulo si muere,
 
 
 
@@ -4183,7 +4176,7 @@ Trujillo que en mi vejez
 
 
 
-se eclips� la sangre limpia,
+se eclipsó la sangre limpia,
 
 
 
@@ -4191,7 +4184,7 @@ siempre en los Cabezas noble,
 965
 
 
-pero jam�s ofendida.
+pero jamás ofendida.
 
 
 
@@ -4199,7 +4192,7 @@ Prevenid mientras dispongo
 
 
 
-bodas o obsequias, Garc�a,
+bodas o obsequias, García,
 
 
 
@@ -4210,12 +4203,12 @@ caballos que a Portugal
 deslumbren los que nos sigan.
 970
 
-GARC�A
-Yo, se�or, no consejero,
+GARCÍA
+Yo, señor, no consejero,
 
 
 
-s� obediente; como en dichas,
+sí obediente; como en dichas,
 
 
 
@@ -4223,7 +4216,7 @@ en desgracias vuestra sombra
 
 
 
-no osar� que os contradigan
+no osaré que os contradigan
 
 
 
@@ -4235,26 +4228,26 @@ Cuerdas canas autorizan
 
 
 
-vuestros a�os y experiencias;
+vuestros años y experiencias;
 
 
 
-s�rvaos yo y ellas elijan,
+sírvaos yo y ellas elijan,
 
 
 
-que aunque no me hay�is fiado
+que aunque no me hayáis fiado
 
 
 el nombre del que os obliga
 980
 
 
-a tanta resoluci�n,
+a tanta resolución,
 
 
 
-quiz� porque no lastiman
+quizá porque no lastiman
 
 
 
@@ -4262,7 +4255,7 @@ de los que no se conocen
 
 
 
-desgracias, por cuenta m�a
+desgracias, por cuenta mía
 
 
 
@@ -4282,17 +4275,17 @@ No, Mendo, aguardad que os diga
 
 
 
-qui�n es el que...
+quién es el que...
 
 
-Sale do�a BEATRIZ cubierta con manto y chap�n bajo
+Sale doña BEATRIZ cubierta con manto y chapín bajo
 
 BEATRIZ
-               Si en los nobles
+               Si en los nobles
 
 
 
-vincul� la cortes�a
+vinculó la cortesía
 990
 
 
@@ -4308,11 +4301,11 @@ que sirviendo a las hermosas
 
 
 
-honr�is a las afligidas,
+honréis a las afligidas,
 
 
 
-o�d aparte. (Ap�rtase con �l) Yo soy
+oíd aparte. (Apártase con él) Yo soy
 995
 
 
@@ -4324,7 +4317,7 @@ y huyendo riesgos mortales
 
 
 
-m�s destos montes se f�a
+más destos montes se fía
 
 
 
@@ -4352,7 +4345,7 @@ a advertiros que me obligan
 
 
 
-enga�os de un hombre aleve
+engaños de un hombre aleve
 1005
 
 
@@ -4372,41 +4365,41 @@ al cielo, a vuestro valor,
 
 
 
-al secreto y la osad�a...
+al secreto y la osadía...
 1010
 
-Esp�ntase de conocer a su padre y t�pase m�s la cara
+Espántase de conocer a su padre y tápase más la cara
 
 
-�Jes�s mil veces!
+¡Jesús mil veces!
 
 
 FRANCISCO
-              �Qu� es esto?
+              ¿Qué es esto?
 
 
 
-Sosegad, se�ora m�a.
+Sosegad, señora mía.
 
 
 
-�Qu� sent�s? �Qu� os da congoja?
+¿Qué sentís? ¿Qué os da congoja?
 
 
 BEATRIZ
-Peligros que m�s me animan
+Peligros que más me animan
 
 
 
-cuanto m�s cerca estoy dellos.
+cuanto más cerca estoy dellos.
 1015
 
 FRANCISCO
-Tambi�n lo est� aqu� una quinta
+También lo está aquí una quinta
 
 
 
-donde podr�is...
+donde podréis...
 
 
 BEATRIZ
@@ -4422,7 +4415,7 @@ de vos y mi afrenta temo.
 
 
 FRANCISCO
-�Pues en qu� mand�is que os sirva?
+¿Pues en qué mandáis que os sirva?
 1020
 
 BEATRIZ
@@ -4434,7 +4427,7 @@ mientras que no se os permita,
 
 
 
-de lo que aqu� sospech�is
+de lo que aquí sospechéis
 
 
 
@@ -4442,7 +4435,7 @@ a ninguno deis noticia.
 
 
 
-En que no sig�is mis pasos
+En que no sigáis mis pasos
 1025
 
 
@@ -4462,7 +4455,7 @@ que margenan ese arroyo
 
 
 
-busqu�is en la m�s antigua
+busquéis en la más antigua
 1030
 
 
@@ -4470,7 +4463,7 @@ la concavidad que el tiempo
 
 
 
-labr� para su r�ina,
+labró para su rüina,
 
 
 
@@ -4486,7 +4479,7 @@ al sol que le va al alcance,
 1035
 
 
-se os ofrecer� a la vista
+se os ofrecerá a la vista
 
 
 
@@ -4506,7 +4499,7 @@ tan costoso a mis desdichas
 1040
 
 
-que temo por �l perderme.
+que temo por él perderme.
 
 
 
@@ -4522,15 +4515,15 @@ que a quien os le deposita
 
 
 
-se le volver�is despu�s,
+se le volveréis después,
 1045
 
 
-si d�ndoos las se�as mismas
+si dándoos las señas mismas
 
 
 
-que en �l hallar�is agora
+que en él hallaréis agora
 
 
 
@@ -4550,19 +4543,19 @@ y el ausentarme forzoso.
 
 
 
-Adi�s, que el tardar peligra. (Vase)
+Adiós, que el tardar peligra. (Vase)
 
 
 FRANCISCO
-�Hay suceso semejante?
+¿Hay suceso semejante?
 
 
-GARC�A
-Se�or, �qu� es esto?
+GARCÍA
+Señor, ¿qué es esto?
 
 
 FRANCISCO
-                   Garc�a,
+                   García,
 
 
 
@@ -4574,7 +4567,7 @@ que ignorancias precipitan.
 
 
 
-No puedo deciros m�s.
+No puedo deciros más.
 
 
 
@@ -4582,17 +4575,17 @@ Di palabra, he de cumplirla;
 
 
 
-esperadme aqu� que presto
+esperadme aquí que presto
 
 
-sabr�is cosas peregrinas. (Vase)
+sabréis cosas peregrinas. (Vase)
 1060
 
 
 Sale CARRIZO, CRESPO, y BERTOL
 
 CARRIZO
-Sac�mos la empujadura
+Sacómos la empujadura
 
 
 
@@ -4600,11 +4593,11 @@ de pendencias.
 
 
 CRESPO
-             �Qu� pari�?
+             ¿Qué parió?
 
 
 CARRIZO
-No s� c�mo lo llam�
+No sé cómo lo llamó
 
 
 
@@ -4612,11 +4605,11 @@ la comadre. En fin, ni cura
 
 
 
-ni escrib�n ser� la cr�a.
+ni escribén será la cría.
 1065
 
 BERTOL
-�Pues qu� ha de venir a ser?
+¿Pues qué ha de venir a ser?
 
 
 CARRIZO
@@ -4624,15 +4617,15 @@ No siendo hombre ni mujer,
 
 
 
-Bertol, ces� la porf�a.
+Bertol, cesó la porfía.
 
 
 
-Ya no habr� sobre qu� arguya.
+Ya no habrá sobre qué arguya.
 
 
 CRESPO
-�Pues es animal?
+¿Pues es animal?
 
 
 CARRIZO
@@ -4640,11 +4633,11 @@ CARRIZO
 1070
 
 CRESPO
-�Qu� diablos pari�?
+¿Qué diablos parió?
 
 
 BERTOL
-                  �Est�s loco?
+                  ¿Estás loco?
 
 
 CARRIZO
@@ -4653,7 +4646,7 @@ No salga ella con la suya
 
 
 
-y reviente. Un buruj�n
+y reviente. Un burujón
 
 
 
@@ -4670,19 +4663,19 @@ de Beatriz.
 
 
 CRESPO
-          Callad, simpl�n,
+          Callad, simplón,
 
 
 
-bolamatriz debi� ser.
+bolamatriz debió ser.
 
 
 
-Milagro ser� si escapa.
+Milagro será si escapa.
 
 
 CARRIZO
-Mu�rese un reye y un papa,
+Muérese un reye y un papa,
 
 
 
@@ -4697,8 +4690,8 @@ cuando se muera Polida,
 paciencia y capuz.
 
 
-GARC�A
-                �Qu� es eso,
+GARCÍA
+                ¿Qué es eso,
 
 
 
@@ -4706,31 +4699,31 @@ Carrizo?
 
 
 CARRIZO
-        �Oh, se�or! Le beso
+        ¡Oh, señor! Le beso
 
 
 
-las manos. Est� parida
+las manos. Está parida
 
 
 
-nuesa compa�era y dudo
+nuesa compañera y dudo
 1085
 
 
-que seg�n a verla llego
+que según a verla llego
 
 
 
 tome las de Villadiego.
 
 
-GARC�A
-�No os pesar� de ser viudo?
+GARCÍA
+¿No os pesará de ser viudo?
 
 
 CARRIZO
-Ni tampoco al ganap�n
+Ni tampoco al ganapán
 
 
 
@@ -4738,7 +4731,7 @@ que del tercio se descarga.
 1090
 
 
-Comi�ndose mucho embarga,
+Comiéndose mucho embarga,
 
 
 
@@ -4746,15 +4739,15 @@ con darnos la vida, el pan;
 
 
 
-pues, �qu� har� tanta mujer
+pues, ¿qué hará tanta mujer
 
 
 
-por ma�ana, tarde y d�a?
+por mañana, tarde y día?
 
 
 CRESPO
-�D�nde, se�or Men Garc�a,
+¿Dónde, señor Men García,
 1095
 
 
@@ -4765,7 +4758,7 @@ podremos al amo ver,
 que diz que ha poco que vino?
 
 
-GARC�A
+GARCÍA
 Debe, como ha trasnochado,
 
 
@@ -4774,7 +4767,7 @@ reposar.
 
 
 BERTOL
-        Ser� pesado
+        Será pesado
 
 
 
@@ -4785,10 +4778,10 @@ por ser viejo, aunque el camino
 es corto.
 
 
-Sale don FRANCISCO y ap�rtase con Men GARC�A
+Sale don FRANCISCO y apártase con Men GARCÍA
 
 FRANCISCO
-         Mendo, esta noche
+         Mendo, esta noche
 
 
 
@@ -4816,7 +4809,7 @@ parece que intentan ambos
 
 
 
-sus horas quitarle al sue�o.
+sus horas quitarle al sueño.
 
 
 
@@ -4824,7 +4817,7 @@ Aquella mujer que vistes
 
 
 
-entre crep�sculos negros
+entre crepúsculos negros
 1110
 
 
@@ -4840,7 +4833,7 @@ desvelar conocimientos
 
 
 
-porque, �quien dudara serlo
+porque, ¿quien dudara serlo
 
 
 
@@ -4852,11 +4845,11 @@ pide socorro al secreto?),
 
 
 
-me cont� peligros suyos
+me contó peligros suyos
 
 
 
-que entre pre�ados misterios
+que entre preñados misterios
 
 
 
@@ -4864,7 +4857,7 @@ pararon en que guardase
 
 
 
-a su opini�n el respeto
+a su opinión el respeto
 1120
 
 
@@ -4872,7 +4865,7 @@ y el hurto que en una encina
 
 
 
-c�mplice a sus desaciertos
+cómplice a sus desaciertos
 
 
 
@@ -4880,19 +4873,19 @@ hallase, depositando
 
 
 
-en m� su estima y silencio.
+en mí su estima y silencio.
 
 
 
-Admit�lo cortesano,
+Admitílo cortesano,
 1125
 
 
-y ausent�ndose con esto
+y ausentándose con esto
 
 
 
-sin consentir compa��a,
+sin consentir compañía,
 
 
 
@@ -4900,7 +4893,7 @@ promesas puse en efeto.
 
 
 
-Registr� troncos vecinos
+Registré troncos vecinos
 
 
 
@@ -4908,11 +4901,11 @@ de ese arroyo casi seco
 1130
 
 
-y hall�le, escuchad milagros,
+y halléle, escuchad milagros,
 
 
 
-cuna de un ni�o risue�o
+cuna de un niño risueño
 
 
 
@@ -4924,23 +4917,23 @@ una cabra daba el pecho.
 
 
 
-Asombr�me su piedad
+Asombróme su piedad
 1135
 
 
-tray�ndome el alma ejemplos
+trayéndome el alma ejemplos
 
 
 
-de Sem�ramis, de Abides,
+de Semíramis, de Abides,
 
 
 
-de Ciro, R�mulo y Remo;
+de Ciro, Rómulo y Remo;
 
 
 
-y pronosticando en �l
+y pronosticando en él
 
 
 
@@ -4952,21 +4945,21 @@ compasivo le di abrazos,
 
 
 
-cari�oso le di besos.
+cariñoso le di besos.
 
 
 
-Aqu� le traigo, Garc�a,
+Aquí le traigo, García,
 
 
-Descubre un ni�o reci�n nacido
+Descubre un niño recién nacido
 
 
 casi olvidado, os prometo,
 
 
 
-de agravios que tem� propios,
+de agravios que temí propios,
 1145
 
 
@@ -4974,7 +4967,7 @@ y agora socorro ajenos.
 
 
 
-Quiz� porque ordena Dios,
+Quizá porque ordena Dios,
 
 
 
@@ -4990,23 +4983,23 @@ temple el rigor sus aceros.
 1150
 
 
-Mirad qu� hermoso postumo
+Mirad qué hermoso postumo
 
 
 
-de un tronco est�ril y viejo,
+de un tronco estéril y viejo,
 
 
 
-y advertid que le amo m�s
+y advertid que le amo más
 
 
 
 que si le feriara nieto.
 
 
-GARC�A
-�V�lgame Dios! �Qu� de cosas
+GARCÍA
+¡Válgame Dios! ¡Qué de cosas
 1155
 
 
@@ -5022,7 +5015,7 @@ niegan la fe a sus sucesos!
 
 
 
-El inocente es un �ngel,
+El inocente es un ángel,
 
 
 
@@ -5034,7 +5027,7 @@ En sus faciones firmaron
 
 
 
-que eran ilustres sus due�os.
+que eran ilustres sus dueños.
 
 
 
@@ -5042,7 +5035,7 @@ Dichosos con vos han sido
 
 
 
-y m�s en que nos d� el cielo
+y más en que nos dé el cielo
 
 
 
@@ -5050,14 +5043,14 @@ ama, que es vuestra criada
 1165
 
 
-reci�n parida en el pueblo.
+recién parida en el pueblo.
 
 
 FRANCISCO
-�Qui�n es?, que lo estimo en mucho.
+¿Quién es?, que lo estimo en mucho.
 
 
-GARC�A
+GARCÍA
 Pulida, la del rentero
 
 
@@ -5066,11 +5059,11 @@ de vuestra heredad.
 
 
 FRANCISCO
-                  �Carrizo!
+                  ¡Carrizo!
 
 
 CARRIZO
-�Qu� manda?, que como vemos
+¿Qué manda?, que como vemos
 1170
 
 
@@ -5086,18 +5079,18 @@ mos turba el llegar a darle
 
 
 
-los pr�cemes que debemos.
+los prácemes que debemos.
 
 
 
-Su merc� sea bienvenido.
+Su mercé sea bienvenido.
 1175
 
 FRANCISCO
 Carrizo, feriaros quiero
 
 
-un tesoro que es mi hallazgo. (Dale el ni�o)
+un tesoro que es mi hallazgo. (Dale el niño)
 
 
 
@@ -5105,7 +5098,7 @@ Esta joya os encomiendo
 
 
 
-que la traiga en nombre m�o
+que la traiga en nombre mío
 
 
 
@@ -5117,7 +5110,7 @@ por ser de coral y plata.
 
 
 CARRIZO
-Si hue su merc� el platero,
+Si hue su mercé el platero,
 
 
 
@@ -5125,7 +5118,7 @@ lindamente labra brincos.
 
 
 
-Debi� el molde de ser nuevo,
+Debió el molde de ser nuevo,
 
 
 
@@ -5141,7 +5134,7 @@ Polida, que no lo ha sido
 
 
 
-en el parto, arroj� al suelo
+en el parto, arrojó al suelo
 
 
 
@@ -5153,15 +5146,15 @@ y llora su mal empleo,
 1190
 
 
-mas �ste la alegrar�.
+mas éste la alegrará.
 
 
 FRANCISCO
-Vamos pues, pero, �qu� es esto?
+Vamos pues, pero, ¿qué es esto?
 
 
 
-Se�or don Rodrigo, �vos
+Señor don Rodrigo, ¿vos
 
 
 
@@ -5171,7 +5164,7 @@ en La Zarza?
 Sale don RODRIGO, viejo
 
 RODRIGO
-             Y con recelos
+             Y con recelos
 
 
 
@@ -5179,7 +5172,7 @@ de que vuestros disimulos,
 1195
 
 
-se�or don Francisco, han hecho,
+señor don Francisco, han hecho,
 
 
 
@@ -5191,7 +5184,7 @@ tragedia mi fin postrero.
 
 
 
-A don �lvaro Dur�n,
+A don Álvaro Durán,
 
 
 
@@ -5211,7 +5204,7 @@ Quien curioso vio desdichas,
 
 
 
-disimul�ndolas cuerdo
+disimulándolas cuerdo
 
 
 
@@ -5231,7 +5224,7 @@ y como os conozco temo
 
 
 
-que libr�is en la venganza
+que libráis en la venganza
 
 
 
@@ -5243,7 +5236,7 @@ Verdad es que ha sido amante
 
 
 
-don �lvaro (pero honesto)
+don Álvaro (pero honesto)
 
 
 
@@ -5251,7 +5244,7 @@ de vuestra hija mayor
 
 
 
-y que inst�ndome los ruegos
+y que instándome los ruegos
 
 
 
@@ -5259,11 +5252,11 @@ que oficioso me intimaba,
 1215
 
 
-ma�ana ten�a propuesto
+mañana tenía propuesto
 
 
 
-de ped�rosla y trocar
+de pedírosla y trocar
 
 
 amistad en parentesco.
@@ -5286,7 +5279,7 @@ ponderarlas sus afectos,
 
 
 
-juzg�is, su sangre vertida,
+juzgáis, su sangre vertida,
 
 
 
@@ -5294,23 +5287,23 @@ manchas hoy del honor vuestro
 
 
 
-y le tra�is por sacarlas
+y le traéis por sacarlas
 1225
 
 
-donde el jab�n es de acero,
+donde el jabón es de acero,
 
 
 
-sosegaos, que si est� vivo
+sosegaos, que si está vivo
 
 
 
-(�oh, perm�tanlo los cielos!)
+(¡oh, permítanlo los cielos!)
 
 
 
-yo quedar� consolado
+yo quedaré consolado
 
 
 
@@ -5322,7 +5315,7 @@ Don Rodrigo, adivinastes.
 
 
 
-La opini�n (que como espejo,
+La opinión (que como espejo,
 
 
 
@@ -5334,7 +5327,7 @@ le quiebra o turba el aliento)
 
 
 
-satisfaci�n me ped�a;
+satisfación me pedía;
 1235
 
 
@@ -5342,15 +5335,15 @@ mas con tan sabio remedio
 
 
 
-ella cobrar� su lustre
+ella cobrará su lustre
 
 
 
-y yo vivir� contento;
+y yo viviré contento;
 
 
 
-tambi�n lo est� vuestro hijo.
+también lo está vuestro hijo.
 
 
 Salen MARGARITA y BEATRIZ
@@ -5360,11 +5353,11 @@ Beatriz, hele satisfecho
 1240
 
 
-de modo que ya est� sano,
+de modo que ya está sano,
 
 
 
-que su mal m�s fue de celos
+que su mal más fue de celos
 
 
 
@@ -5372,7 +5365,7 @@ que de la inclemente herida.
 
 
 BEATRIZ
-Se�or, a pedirte vengo
+Señor, a pedirte vengo
 
 
 
@@ -5384,19 +5377,19 @@ que alientan a nuestro enfermo.
 
 
 MARGARITA
-�l insta en que a verle vayas.
+Él insta en que a verle vayas.
 
 
 FRANCISCO
-M�s instar�n los deseos
+Más instarán los deseos
 
 
 
-que en vos, hija, culp� anoche
+que en vos, hija, culpé anoche
 
 
 
-y ya m�s piadoso apruebo.
+y ya más piadoso apruebo.
 1250
 
 
@@ -5404,15 +5397,15 @@ Beatriz, vuestra hermana tiene
 
 
 
-a mi satisfaci�n due�o.
+a mi satisfación dueño.
 
 
 
-No hab�is vos de estar ociosa;
+No habéis vos de estar ociosa;
 
 
 
-fiaros este �ngel quiero, (T�male ella)
+fiaros este ángel quiero, (Tómale ella)
 
 
 
@@ -5424,19 +5417,19 @@ como a madre os le encomiendo.
 
 
 CARRIZO
-�Madre y virgen en Castilla?
+¿Madre y virgen en Castilla?
 
 
 BEATRIZ
-�Qu� hermoso es!
+¡Qué hermoso es!
 
 
 FRANCISCO
-                Como mi efeto.
+                Como mi efeto.
 
 
 BEATRIZ
-No ser� el primer milagro,
+No será el primer milagro,
 
 
 
@@ -5460,7 +5453,7 @@ Pide espacio ese suceso.
 
 
 
-Su nutriz ser� Pulida
+Su nutriz será Pulida
 1265
 
 
@@ -5472,19 +5465,19 @@ BEATRIZ
 
 
 
-�Ay hermana de mis ojos!
+¡Ay hermana de mis ojos!
 
 
 
-(A ella aparte) Este ni�o...
+(A ella aparte) Este niño...
 
 
 MARGARITA
-                       S�.
+                       Sí.
 
 
 BEATRIZ
-                          �Dir�lo?
+                          ¿Dirélo?
 
 
 MARGARITA
@@ -5492,11 +5485,11 @@ Acaba ya.
 
 
 BEATRIZ
-         Es fruto m�o.
+         Es fruto mío.
 
 
 MARGARITA
-�Est�s loca?
+¿Estás loca?
 
 
 BEATRIZ
@@ -5504,19 +5497,19 @@ BEATRIZ
 1270
 
 MARGARITA
-�C�mo o cu�ndo?
+¿Cómo o cuándo?
 
 
 BEATRIZ
-                No ha dos horas.
+                No ha dos horas.
 
 
 MARGARITA
-�D�nde?
+¿Dónde?
 
 
 BEATRIZ
-         En el campo.
+         En el campo.
 
 
 MARGARITA
@@ -5528,7 +5521,7 @@ que me burlas.
 
 
 BEATRIZ
-             Posesiones
+             Posesiones
 
 
 
@@ -5540,28 +5533,26 @@ ya son verdades con alma.
 1275
 
 CARRIZO
-�Aj�, ni�o; aj�, cordero!
-
+¡Ajó, niño; ajó, cordero!
 Acto segundo
 
-
-Hablan en �l las personas siguientes
+Hablan en él las personas siguientes
 
 DON FRANCISCO CABEZAS
 
-DO�A BEATRIZ
+DOÑA BEATRIZ
 
-DON MART�N
+DON MARTÍN
 
-DO�A MARGARITA
+DOÑA MARGARITA
 
-HERNANDO CORT�S
+HERNANDO CORTÉS
 
 UN MAESTRO
 
 UN PAJE
 
-DON �LVARO DUR�N
+DON ÁLVARO DURÁN
 
 GONZALO PIZARRO
 
@@ -5576,9 +5567,9 @@ CREPO, pastor
 BERTOL, pastor
 
 
-Salen do�a BEATRIZ, do�a MARGARITA, don MART�N, don �LVARO y don FRANCISCO
+Salen doña BEATRIZ, doña MARGARITA, don MARTÍN, don ÁLVARO y don FRANCISCO
 
-MART�N
+MARTÍN
 La fe de aquel amante
 
 
@@ -5591,15 +5582,15 @@ Beatriz, que se promete
 
 
 
-esperar tras siete a�os otros siete
+esperar tras siete años otros siete
 1280
 
 
-que al fin de tanto d�a
+que al fin de tanto día
 
 
 
-mejoren en Raquel burlas de L�a,
+mejoren en Raquel burlas de Lía,
 
 
 
@@ -5607,7 +5598,7 @@ mi dicha reconoce
 
 
 
-pues si catorce no, pretend� doce
+pues si catorce no, pretendí doce
 
 
 
@@ -5627,11 +5618,11 @@ al hebreo amador, pues su trabajo
 
 
 
-mejor� de partido,
+mejoró de partido,
 
 
 
-que �l, en fin, esper� correspondido.
+que él, en fin, esperó correspondido.
 1290
 
 
@@ -5643,7 +5634,7 @@ leyendo ingratitudes mi firmeza
 
 
 
-tej�a entre esperanzas
+tejía entre esperanzas
 
 
 
@@ -5659,11 +5650,11 @@ que medra al paso que es dificultoso.
 
 
 FRANCISCO
-Don Mart�n, ya sois due�o
+Don Martín, ya sois dueño
 
 
 
-de vuestra pretensi�n. Tiempo es peque�o
+de vuestra pretensión. Tiempo es pequeño
 
 
 
@@ -5691,7 +5682,7 @@ no como el loco almendro en la hermosura
 
 
 
-de su ambici�n tirana,
+de su ambición tirana,
 1305
 
 
@@ -5699,15 +5690,15 @@ que madrugando necio apenas grana.
 
 
 
-Ya vos sois hijo m�o,
+Ya vos sois hijo mío,
 
 
 
-de don �lvaro primo, en quien conf�o
+de don Álvaro primo, en quien confío
 
 
 
-sucesi�n venturosa,
+sucesión venturosa,
 
 
 
@@ -5719,10 +5710,10 @@ que propague infinita
 
 
 
-sucesi�n en Beatriz y Margarita.
+sucesión en Beatriz y Margarita.
 
 
-�LVARO
+ÁLVARO
 Mi primo y yo mostramos
 
 
@@ -5746,7 +5737,7 @@ enlazados los dos con la belleza
 
 
 
-que en posesi�n tenemos.
+que en posesión tenemos.
 
 
 
@@ -5758,19 +5749,19 @@ con que a trocar venimos
 
 
 
-en v�nculo de hermanos el de primos.
+en vínculo de hermanos el de primos.
 
 
 FRANCISCO
-Don Mart�n, �cu�ndo trata
+Don Martín, ¿cuándo trata
 
 
 
-ausentarse de aqu�?
+ausentarse de aquí?
 
 
-MART�N
-                  Mi amor dilata
+MARTÍN
+                  Mi amor dilata
 
 
 
@@ -5786,7 +5777,7 @@ de mi Beatriz parece
 
 
 
-que en habl�ndola en esto se entristece,
+que en hablándola en esto se entristece,
 
 
 
@@ -5798,7 +5789,7 @@ y ausente de tal padre no me espanto.
 1330
 
 
-Ella el t�rmino elija
+Ella el término elija
 
 
 
@@ -5806,7 +5797,7 @@ cuando fuere su gusto.
 
 
 FRANCISCO
-                    Ya est�is, hija,
+                    Ya estáis, hija,
 
 
 
@@ -5822,7 +5813,7 @@ El natural derecho
 1335
 
 
-que hasta aqu� tuve en vos, puesto que estrecho,
+que hasta aquí tuve en vos, puesto que estrecho,
 
 
 
@@ -5834,7 +5825,7 @@ Amor (que es rey y es dios) en vuestro esposo.
 
 
 
-Ya est�is emancipada
+Ya estáis emancipada
 
 
 
@@ -5842,11 +5833,11 @@ de padres y de deudos, y obligada
 1340
 
 
-s�lo a los lazos justos
+sólo a los lazos justos
 
 
 
-de un t�lamo rec�proco en dos gustos.
+de un tálamo recíproco en dos gustos.
 
 
 
@@ -5854,7 +5845,7 @@ El vuestro ya no es vuestro;
 
 
 
-rendilde al due�o, mi Beatriz, que os muestro,
+rendilde al dueño, mi Beatriz, que os muestro,
 
 
 
@@ -5866,11 +5857,11 @@ no entibie llamas suyas vuestro llanto.
 
 
 BEATRIZ
-(Llora ella) Conozco, se�or m�o,
+(Llora ella) Conozco, señor mío,
 
 
 
-dichas que medro, y aunque m�s porf�o
+dichas que medro, y aunque más porfío
 
 
 
@@ -5898,7 +5889,7 @@ la causa que ocasiona el desatino
 
 
 
-de esas l�grimas leves.
+de esas lágrimas leves.
 1355
 
 
@@ -5910,7 +5901,7 @@ que no por ausentarte
 
 
 
-de tu hermana y de m� pueden ser parte
+de tu hermana y de mí pueden ser parte
 
 
 a tan rebeldes quejas.
@@ -5929,7 +5920,7 @@ el nombre en ti de madre ha granjeado
 
 
 
-y t� con �l contenta
+y tú con él contenta
 
 
 
@@ -5941,7 +5932,7 @@ ni cuando le parieras
 1365
 
 
-amor al que le tienes a�adieras.
+amor al que le tienes añadieras.
 
 
 
@@ -5949,11 +5940,11 @@ No me espanto yo desto,
 
 
 
-que el rapaz tiene hechizos y hab�as puesto
+que el rapaz tiene hechizos y habías puesto
 
 
 
-en �l todo tu gusto,
+en él todo tu gusto,
 
 
 
@@ -5961,11 +5952,11 @@ mas ya pasa tu llanto de lo justo.
 1370
 
 
-En doce a�os no ha sido
+En doce años no ha sido
 
 
 
-posible que c�yo es se haya sabido.
+posible que cúyo es se haya sabido.
 
 
 
@@ -5981,19 +5972,19 @@ su poca edad, sospecho
 1375
 
 
-que debi� de morirse, pues no ha hecho
+que debió de morirse, pues no ha hecho
 
 
 
-por �l las diligencias
+por él las diligencias
 
 
 
-que ofreci� al ausentarse. �A qu� inclemencias
+que ofreció al ausentarse. ¿A qué inclemencias
 
 
 
-no est�n las hermosuras
+no están las hermosuras
 
 
 
@@ -6021,7 +6012,7 @@ a mi cuenta y olvida
 1385
 
 
-adoptiva afici�n, pues reducida
+adoptiva afición, pues reducida
 
 
 
@@ -6029,11 +6020,11 @@ al que obediencia debes
 
 
 
-no ser� bien que en la memoria lleves
+no será bien que en la memoria lleves
 
 
 
-ocupaci�n que incierta
+ocupación que incierta
 
 
 
@@ -6041,7 +6032,7 @@ de servirle y amarle te divierta,
 1390
 
 
-y disp�n tu partida
+y dispón tu partida
 
 
 
@@ -6049,7 +6040,7 @@ que ha de ser luego.
 
 
 MARGARITA
-                  Toda despedida
+                  Toda despedida
 
 
 
@@ -6068,7 +6059,7 @@ lo que se deja siente,
 que es padre, hermana y patria juntamente.
 
 
-MART�N
+MARTÍN
 Ea, mi bien, yo espero
 
 
@@ -6077,7 +6068,7 @@ serviros tan amante que primero
 
 
 
-que entr�is en nuestra casa
+que entréis en nuestra casa
 
 
 
@@ -6085,14 +6076,14 @@ que entr�is en nuestra casa
 1400
 
 
-hall�is en m� cifrado
+halléis en mí cifrado
 
 
 
-el bien que aqu� llor�is por malogrado.
+el bien que aquí lloráis por malogrado.
 
 
-�LVARO
+ÁLVARO
 Vamos y prevendremos
 
 
@@ -6105,15 +6096,15 @@ MARGARITA
 
 
 
-si hasta aqu� ocasionaban
+si hasta aquí ocasionaban
 1405
 
 
-l�grimas que remedios esperaban,
+lágrimas que remedios esperaban,
 
 
 
-ya de hoy m�s ser�n necios.
+ya de hoy más serán necios.
 
 
 
@@ -6121,7 +6112,7 @@ Castiga con olvidos menosprecios
 
 
 
-y estima el que est� oculto
+y estima el que esté oculto
 
 
 
@@ -6133,15 +6124,15 @@ que Francisquito queda
 
 
 
-a mi cargo y en m� tu amor hereda,
+a mi cargo y en mí tu amor hereda,
 
 
 
-porque desde este d�a
+porque desde este día
 
 
 
-si pierde madre, quedo madre y t�a. (Vase)
+si pierde madre, quedo madre y tía. (Vase)
 
 
 BEATRIZ
@@ -6157,7 +6148,7 @@ cuando las desdichas lloran
 
 
 
-l�grimas que esperan risa,
+lágrimas que esperan risa,
 
 
 
@@ -6169,7 +6160,7 @@ que es su cura irremediable,
 1420
 
 
-�qu� pretende el miserable
+¿qué pretende el miserable
 
 
 
@@ -6177,7 +6168,7 @@ que llorando desespera?
 
 
 
-M�s valiera
+Más valiera
 
 
 
@@ -6189,15 +6180,15 @@ morirse, pues malogradas
 1425
 
 
-l�grimas desesperadas
+lágrimas desesperadas
 
 
 
-s�lo las llora el infierno.
+sólo las llora el infierno.
 
 
 
-Doce a�os llor� de olvidos
+Doce años lloré de olvidos
 
 
 
@@ -6205,7 +6196,7 @@ a eternizarse bastantes.
 
 
 
-�Quien vio en mudanzas amantes
+¿Quien vio en mudanzas amantes
 1430
 
 
@@ -6213,7 +6204,7 @@ tanto asistir de sentidos?
 
 
 
-�Ay don Gonzalo! Falidos
+¡Ay don Gonzalo! Falidos
 
 
 
@@ -6221,11 +6212,11 @@ los hombres quedan por ti.
 
 
 
-Pen�lope ausente fui;
+Penélope ausente fui;
 
 
 
-si t� a Ulises imitaras
+si tú a Ulises imitaras
 1435
 
 
@@ -6233,7 +6224,7 @@ ya tornaras,
 
 
 
-mas, �ya para qu�? Detente,
+mas, ¿ya para qué? Detente,
 
 
 
@@ -6245,16 +6236,16 @@ lo que antes fuera remedio
 
 
 
-de hoy m�s ser� inconveniente.
+de hoy más será inconveniente.
 1440
 
 Sale don GONZALO, de camino
 
 GONZALO
-Celos, mi Beatriz (no m�a,
+Celos, mi Beatriz (no mía,
 
 
-ajena s�), celos fueron
+ajena sí), celos fueron
 
 
 
@@ -6262,7 +6253,7 @@ los que de ti me ausentaron.
 
 
 
-Celoso amor desvar�a;
+Celoso amor desvaría;
 
 
 
@@ -6270,7 +6261,7 @@ mentiras los persuadieron,
 1445
 
 
-pesares los enga�aron.
+pesares los engañaron.
 
 
 
@@ -6286,7 +6277,7 @@ pues ambos, desvanecidos,
 
 
 
-dan cr�dito a sus antojos
+dan crédito a sus antojos
 1450
 
 
@@ -6294,15 +6285,15 @@ amor viviendo a los ojos
 
 
 
-y celos en los o�dos.
+y celos en los oídos.
 
 
 
-Mientras mi amor no te v�a
+Mientras mi amor no te vía
 
 
 
-oyeron de tu desd�n
+oyeron de tu desdén
 
 
 
@@ -6310,7 +6301,7 @@ agravios en apariencia;
 1455
 
 
-dif�cil me persuad�a
+difícil me persuadía
 
 
 
@@ -6318,7 +6309,7 @@ pero los celos, mi bien,
 
 
 
-�cu�ndo hicieron buena ausencia?
+¿cuándo hicieron buena ausencia?
 
 
 
@@ -6342,23 +6333,23 @@ Verdugos fueron papeles,
 
 
 
-muri� en ellos mi esperanza.
+murió en ellos mi esperanza.
 
 
 
-Don �lvaro me enga��
+Don Álvaro me engañó
 1465
 
 
-enga��ndose a s� mismo,
+engañándose a sí mismo,
 
 
 
-propia pasi�n de los celos.
+propia pasión de los celos.
 
 
 
-Her�le porque me hiri�
+Heríle porque me hirió
 
 
 
@@ -6386,7 +6377,7 @@ celos que amor desatina,
 
 
 
-ponzo�osa anacardina
+ponzoñosa anacardina
 1475
 
 
@@ -6418,14 +6409,14 @@ como su reino soldado.
 
 
 
-Supe que se hab�a casado
+Supe que se había casado
 
 
 
 con tu hermana
 
 
-don �lvaro y que fue vana
+don Álvaro y que fue vana
 1485
 
 
@@ -6433,11 +6424,11 @@ su sospecha y mi temor.
 
 
 
-Cr�el con los cuatro amor
+Crüel con los cuatro amor
 
 
 
-y nuestra ocasi�n liviana.
+y nuestra ocasión liviana.
 
 
 
@@ -6445,23 +6436,23 @@ Quise remediar ausencias
 
 
 
-que en doce a�os sepultadas
+que en doce años sepultadas
 1490
 
 
-muertas en ti malici�.
+muertas en ti malicié.
 
 
 
-Part� culpando impaciencias;
+Partí culpando impaciencias;
 
 
 
-vol�, no corr�, jornadas;
+volé, no corrí, jornadas;
 
 
 
-pero, �qu� importa si hall�
+pero, ¿qué importa si hallé
 
 
 
@@ -6477,23 +6468,23 @@ mi agravio en mayor exceso,
 
 
 
-desperdicios de doce a�os,
+desperdicios de doce años,
 
 
 
-mortales mis desenga�os,
+mortales mis desengaños,
 
 
 
-t� casada y yo sin seso?
+tú casada y yo sin seso?
 1500
 
 BEATRIZ
-A doce a�os de delito
+A doce años de delito
 
 
 
-no s� yo que sea bastante
+no sé yo que sea bastante
 
 
 
@@ -6536,11 +6527,10 @@ tanto que aun no me han quedado
 palabras que responderos.
 
 
-Qui�rese do�a BEATRIZ ir y sale PIZARRO (que le har� una  mujer),  muchacho,
-ni en traje total de noble ni de villano
+Quiérese doña BEATRIZ ir y sale PIZARRO (que le hará una mujer), muchacho, ni en traje total de noble ni de villano
 
 PIZARRO
-En fin, madre, �se nos va
+En fin, madre, ¿se nos va
 
 
 
@@ -6548,11 +6538,11 @@ y no me lleva consigo?
 
 
 BEATRIZ
-No ser� el primer castigo
+No será el primer castigo
 1515
 
 
-que sin culpa sentir�
+que sin culpa sentirá
 
 
 
@@ -6560,15 +6550,15 @@ quien cual hijo os ha criado.
 
 
 
-Darle esas quejas pod�is
+Darle esas quejas podéis
 
 
 
-al que presente ten�is,
+al que presente tenéis,
 
 
 
-que �l, Francisco, ha ocasionado
+que él, Francisco, ha ocasionado
 1520
 
 
@@ -6592,11 +6582,11 @@ Conocelde, que os importa
 1525
 
 
-m�s de lo que vos pens�is,
+más de lo que vos pensáis,
 
 
 
-que d�l, Francisco, hered�is
+que dél, Francisco, heredáis
 
 
 
@@ -6608,35 +6598,35 @@ que aunque de poco provecho
 
 
 
-no hallar�is, c�useos espanto,
+no hallaréis, cáuseos espanto,
 1530
 
 
-hombre a quien le deb�is tanto
+hombre a quien le debáis tanto
 
 
 
-ni que m�s da�o os haya hecho. (Vase)
+ni que más daño os haya hecho. (Vase)
 
 
 PIZARRO
-(Aparte) �Hombre a quien yo tanto deba
+(Aparte) ¡Hombre a quien yo tanto deba
 
 
 
-y que me haya hecho m�s da�o!
+y que me haya hecho más daño!
 
 
 
-�A m�, en qu�? �Misterio estra�o!
+¿A mí, en qué? ¡Misterio estraño!
 1535
 
 
-�V�lgame Dios, cosa nueva!
+¡Válgame Dios, cosa nueva!
 
 
 
-(A �l) Hidalgo a quien nunca vi,
+(A él) Hidalgo a quien nunca vi,
 
 
 
@@ -6648,11 +6638,11 @@ que os veo a que bien os quiera
 
 
 
-me oblig�is, �ten�is de m�
+me obligáis, ¿tenéis de mí
 1540
 
 
-noticia alguna? �Sabr�is
+noticia alguna? ¿Sabréis
 
 
 
@@ -6668,7 +6658,7 @@ dicen que os debo, y ya veis
 
 
 
-cu�n mal conformarse pueden
+cuán mal conformarse pueden
 1545
 
 
@@ -6676,11 +6666,11 @@ deudas de ofensas y amor.
 
 
 
-Quisi�raos yo mi acreedor
+Quisiéraos yo mi acreedor
 
 
 
-y aunque los a�os me veden
+y aunque los años me veden
 
 
 
@@ -6688,11 +6678,11 @@ que de vos me satisfaga,
 
 
 
-yo s� de mi poca edad
+yo sé de mi poca edad
 1550
 
 
-que empe�os de voluntad,
+que empeños de voluntad,
 
 
 
@@ -6708,7 +6698,7 @@ Porque a fe de hombre de bien
 
 
 
-que os quiero bien, y tambi�n
+que os quiero bien, y también
 1555
 
 
@@ -6720,7 +6710,7 @@ que en esta parte me obligue.
 
 
 
-Pero ya hab�is escuchado
+Pero ya habéis escuchado
 
 
 
@@ -6728,15 +6718,15 @@ que estoy por vos agraviado,
 
 
 
-de donde tambi�n se sigue
+de donde también se sigue
 1560
 
 
-que os pida satisfaci�n
+que os pida satisfación
 
 
 
-si bien ignoro de qu�.
+si bien ignoro de qué.
 
 
 
@@ -6744,7 +6734,7 @@ Fidedigno el fiscal fue
 
 
 
-que os puso la acusaci�n.
+que os puso la acusación.
 
 
 
@@ -6760,7 +6750,7 @@ hombre a quien yo deba tanto
 
 
 
-ni que m�s mal me haya hecho,
+ni que más mal me haya hecho,
 
 
 en lo primero me fundo
@@ -6771,7 +6761,7 @@ cual vuestro deudor pagar,
 1570
 
 
-mas tambi�n he de intentar
+mas también he de intentar
 
 
 
@@ -6811,15 +6801,15 @@ mal por el mal que me hicistes.
 1580
 
 GONZALO
-Por cierto, ni�o discreto,
+Por cierto, niño discreto,
 
 
 
-que en vuestra proposici�n
+que en vuestra proposición
 
 
 
-vos igual�is la raz�n
+vos igualáis la razón
 
 
 
@@ -6831,7 +6821,7 @@ a fe de hidalgo, si bien
 1585
 
 
-no s� la causa hasta agora
+no sé la causa hasta agora
 
 
 
@@ -6839,7 +6829,7 @@ que tiene mi acusadora
 
 
 
-para que con su desd�n
+para que con su desdén
 
 
 
@@ -6851,7 +6841,7 @@ que estoy por el bien que dice
 1590
 
 
-que me deb�is y yo os hice
+que me debéis y yo os hice
 
 
 
@@ -6867,7 +6857,7 @@ que me imputa contra vos.
 
 
 
-Averig�emos los dos
+Averigüemos los dos
 1595
 
 
@@ -6879,7 +6869,7 @@ por conjeturas. Decid,
 
 
 
-�es acaso madre vuestra
+¿es acaso madre vuestra
 
 
 
@@ -6897,15 +6887,15 @@ de madre, pero advertid...
 Sale un PAJE
 
 PAJE
-Francisco, se�or os llama,
+Francisco, señor os llama,
 
 
 
-que os quiere ver dar lici�n.
+que os quiere ver dar lición.
 
 
 PIZARRO
-De m�s importancia son
+De más importancia son
 
 
 
@@ -6921,22 +6911,22 @@ Dile que no me has hallado.
 
 
 PAJE
-Est� con vos enojado.
+Está con vos enojado.
 
 
 PIZARRO
-�De qu�?
+¿De qué?
 
 
 PAJE
          De las libertades
 
 
-que us�is con vuestro maestro,
+que usáis con vuestro maestro,
 
 
 
-y sabe que est�is aqu�.
+y sabe que estáis aquí.
 1610
 
 
@@ -6944,7 +6934,7 @@ Mirad que sale. (Vase el paje)
 
 
 PIZARRO
-Si en m�
+Si en mí
 
 
 
@@ -6960,7 +6950,7 @@ caballero, dad lugar
 
 
 
-a que volvi�ndoos a hablar
+a que volviéndoos a hablar
 1615
 
 
@@ -6968,15 +6958,15 @@ cumpla hoy yo con mi obediencia.
 
 
 
-D�bole yo a mi se�or
+Débole yo a mi señor
 
 
 
-m�s que podr� exageraros.
+más que podré exageraros.
 
 
 
-Presto acudir� a buscaros,
+Presto acudiré a buscaros,
 
 
 
@@ -6984,11 +6974,11 @@ hacedme tanto favor
 1620
 
 
-que me esper�is en la plaza.
+que me esperéis en la plaza.
 
 
 
-�Promet�ismelo?
+¿Prometéismelo?
 
 
 GONZALO
@@ -7012,7 +7002,7 @@ Dadme esa mano.
 
 
 GONZALO
-(D�sela)         En su palma
+(Dásela)         En su palma
 
 
 
@@ -7028,7 +7018,7 @@ PIZARRO
 
 
 
-la que saber dese�is
+la que saber deseáis
 
 
 
@@ -7036,27 +7026,27 @@ si como madre me exhorta:
 1630
 
 
-�Conocelde, que os importa
+«Conocelde, que os importa
 
 
 
-m�s de lo que vos pens�is�.
+más de lo que vos pensáis».
 
 
 GONZALO
-�Ay cielos! �Y es vuestra madre?
+¡Ay cielos! ¿Y es vuestra madre?
 
 
 PIZARRO
-No y s�.
+No y sí.
 
 
 GONZALO
-         Por el no perd�
+         Por el no perdí
 
 
 
-un hijo que por el s�
+un hijo que por el sí
 1635
 
 
@@ -7064,11 +7054,11 @@ me llamaba vuestro padre.
 
 
 PIZARRO
-�Qu� dec�s?
+¿Qué decís?
 
 
 GONZALO
-            Lo que deseaba,
+            Lo que deseaba,
 
 
 
@@ -7076,7 +7066,7 @@ aunque sospecho, por Dios,
 
 
 
-que tengo m�s parte en vos
+que tengo más parte en vos
 
 
 
@@ -7084,17 +7074,17 @@ de lo que yo imaginaba. (Vase)
 1640
 
 PIZARRO
-�M�s parte en m�? Confusiones,
+¿Más parte en mí? Confusiones,
 
 
 
-�qu� es esto que intent�is hoy?
+¿qué es esto que intentáis hoy?
 
 
 Sale don FRANCISCO
 
 FRANCISCO
-�Francisquito?
+¿Francisquito?
 
 
 PIZARRO
@@ -7105,15 +7095,15 @@ de un mar de contradiciones.
 
 
 FRANCISCO
-�No respondes?
+¿No respondes?
 
 
 PIZARRO
-               �Oh, se�or!,
+               ¡Oh, señor!,
 1645
 
 
-s� respondo. No advert�
+sí respondo. No advertí
 
 
 
@@ -7121,7 +7111,7 @@ que me hablabas.
 
 
 FRANCISCO
-                �C�mo ans�?
+                ¿Cómo ansí?
 
 
 PIZARRO
@@ -7129,7 +7119,7 @@ Echo menos el amor
 
 
 
-de quien presente ten�a
+de quien presente tenía
 
 
 
@@ -7137,11 +7127,11 @@ por madre y ya se me va.
 1650
 
 FRANCISCO
-�Pues yo no me quedo ac�?
+¿Pues yo no me quedo acá?
 
 
 PIZARRO
-Y en ti la esperanza m�a,
+Y en ti la esperanza mía,
 
 
 
@@ -7169,7 +7159,7 @@ suplir en algo su falta,
 
 
 
-�no sentir� el que le falta
+¿no sentirá el que le falta
 
 
 
@@ -7189,7 +7179,7 @@ corta las ramas al vicio
 
 
 
-para que el �rbol d� fruto.
+para que el árbol dé fruto.
 
 
 
@@ -7205,11 +7195,11 @@ sin ellas el natural
 
 
 
-conocer� que heredaste,
+conoceré que heredaste,
 
 
 
-porque si hasta aqu� ni�eces
+porque si hasta aquí niñeces
 
 
 
@@ -7221,7 +7211,7 @@ ya, Francisco, esas pasaron.
 
 
 
-Doce a�os tienes: pues creces
+Doce años tienes: pues creces
 
 
 
@@ -7237,7 +7227,7 @@ Tu habilidad es tu herencia,
 1675
 
 
-no tienes m�s posesiones.
+no tienes más posesiones.
 
 
 
@@ -7253,7 +7243,7 @@ que indignarme solicitan.
 
 
 
-Celebr�las hasta aqu�
+Celebrélas hasta aquí
 1680
 
 
@@ -7261,7 +7251,7 @@ por donaires de rapaz
 
 
 
-pag�ndoles en palabras.
+pagándoles en palabras.
 
 
 
@@ -7272,7 +7262,7 @@ Sus hijos les descalabras,
 con ninguno tienes paz.
 
 
-Dos a�os ha que te ense�a
+Dos años ha que te enseña
 1685
 
 
@@ -7284,11 +7274,11 @@ a leer y en ti ha labrado
 
 
 
-lo que el viento en una pe�a.
+lo que el viento en una peña.
 
 
 
-A�n no sabes deletrear;
+Aún no sabes deletrear;
 
 
 
@@ -7308,7 +7298,7 @@ castigos y reprehensiones
 
 
 
-es por dem�s. Si pretende
+es por demás. Si pretende
 
 
 
@@ -7320,7 +7310,7 @@ Beatriz. Sus intercesiones
 
 
 
-ech�dote han a perder.
+echádote han a perder.
 
 
 
@@ -7328,11 +7318,11 @@ Conoces lo que te adora,
 
 
 
-amp�raste della y llora.
+ampáraste della y llora.
 
 
 
-Con esto, �qu� hemos de hacer?
+Con esto, ¿qué hemos de hacer?
 1700
 
 
@@ -7340,11 +7330,11 @@ Ella se ausenta, en efeto;
 
 
 
-doce a�os tienes, de hoy m�s
+doce años tienes, de hoy más
 
 
 
-libro nuevo o perder�s
+libro nuevo o perderás
 
 
 
@@ -7356,23 +7346,23 @@ La edad que te disculpaba
 1705
 
 
-ya pas�.
+ya pasó.
 
 
 PIZARRO
-(Aparte)  �V�lgame Dios!
+(Aparte)  ¡Válgame Dios!
 
 
 
-��Que tengo m�s parte en vos
+«¿Que tengo más parte en vos
 
 
 
-de lo que yo imaginaba?�.
+de lo que yo imaginaba?».
 
 
 
-�Si fuese mi padre este hombre?
+¿Si fuese mi padre este hombre?
 
 
 FRANCISCO
@@ -7404,11 +7394,11 @@ sino al tronco de una encina.
 
 
 
-All� te hall� en conclusi�n
+Allí te hallé en conclusión
 
 
 
-y all� te puedes volver.
+y allí te puedes volver.
 
 
 Sale un MAESTRO
@@ -7418,7 +7408,7 @@ Francisco, desde antiyer
 
 
 
-no hay hacerte dar lici�n.
+no hay hacerte dar lición.
 1720
 
 
@@ -7430,23 +7420,23 @@ que luzga lo que te muestro. (Trae una cartilla)
 
 
 FRANCISCO
-Tiene raz�n el maestro;
+Tiene razón el maestro;
 
 
 
-afr�ntete esa cartilla
+afréntete esa cartilla
 
 
 
-que en dos a�os no has pasado.
+que en dos años no has pasado.
 1725
 
 
-Llega y da lici�n, acaba.
+Llega y da lición, acaba.
 
 
 
-(Al maestro) Ya quien por �l os rogaba
+(Al maestro) Ya quien por él os rogaba
 
 
 
@@ -7454,7 +7444,7 @@ se ausenta; tened cuidado
 
 
 
-desde hoy con �l, ense�alde
+desde hoy con él, enseñalde
 
 
 
@@ -7462,11 +7452,11 @@ con el rigor que requiere,
 1730
 
 
-y el d�a que no supiere
+y el día que no supiere
 
 
 
-bien la lici�n azotalde. (Vase)
+bien la lición azotalde. (Vase)
 
 
 MAESTRO
@@ -7478,7 +7468,7 @@ Yo tengo un poco que hacer.
 
 
 
-H�game tanto placer
+Hágame tanto placer
 1735
 
 
@@ -7486,15 +7476,15 @@ que se quede esto por hoy
 
 
 
-pues no hay mucho hasta ma�ana.
+pues no hay mucho hasta mañana.
 
 
 MAESTRO
-�Qu� modo de hablar es ese?
+¿Qué modo de hablar es ese?
 
 
 
-Dar�is lici�n, aunque os pese.
+Daréis lición, aunque os pese.
 
 
 
@@ -7506,11 +7496,11 @@ PIZARRO
 1740
 
 
-V�yase con Dios, maeso.
+Váyase con Dios, maeso.
 
 
 MAESTRO
-En azot�ndoos s� har�.
+En azotándoos sí haré.
 
 
 
@@ -7519,7 +7509,7 @@ Daos prisa.
 
 
 PIZARRO
-           �Azotes o qu�?
+           ¿Azotes o qué?
 
 
 
@@ -7527,7 +7517,7 @@ Soy ya grande para eso.
 
 
 MAESTRO
-�Pues por qu� no ser�is grande
+¿Pues por qué no seréis grande
 1745
 
 
@@ -7535,15 +7525,15 @@ para afrentaros de ver
 
 
 
-que no aprend�is a leer?
+que no aprendéis a leer?
 
 
 PIZARRO
-�Qu� donosa afrenta! �Ande!
+¡Qué donosa afrenta! ¡Ande!
 
 
 
-�No habr� habido muchos nobles
+¿No habrá habido muchos nobles
 
 
 
@@ -7555,7 +7545,7 @@ sepan vencer y lucir?
 
 
 MAESTRO
-S�, entre encinas o entre robles.
+Sí, entre encinas o entre robles.
 
 
 PIZARRO
@@ -7575,19 +7565,19 @@ no de sangre generosa
 
 
 
-pero de villana s�,
+pero de villana sí,
 
 
 
-y aun de tan poca opini�n...
+y aun de tan poca opinión...
 
 
 MAESTRO
-Dejaos deso y dad lici�n.
+Dejaos deso y dad lición.
 
 
 PIZARRO
-Y si lo dice por m�
+Y si lo dice por mí
 1760
 
 
@@ -7611,7 +7601,7 @@ Yo soy tan...
 
 
 PIZARRO
-             �Desto se siente?
+             ¿Desto se siente?
 1765
 
 MAESTRO
@@ -7619,15 +7609,15 @@ Honrado...
 
 
 PIZARRO
-           �V�lgame Dios!
+           ¡Válgame Dios!
 
 
 
-Sosi�guese.
+Sosiéguese.
 
 
 MAESTRO
-           Como vos,
+           Como vos,
 
 
 
@@ -7635,7 +7625,7 @@ que, en fin, sois un bastar...
 
 
 PIZARRO
-                      �Miente!,
+                      ¡Miente!,
 
 
 
@@ -7649,7 +7639,7 @@ tome y sea bien criado.
 Saca la daga y dale
 
 MAESTRO
-�Muerto estoy!
+¡Muerto estoy!
 
 
 PIZARRO
@@ -7657,17 +7647,17 @@ Y yo vengado. (Vase)
 
 
 MAESTRO
-�Ay cielos!
+¡Ay cielos!
 
 
-Sale don FRANCISCO, y do�a BEATRIZ
+Sale don FRANCISCO, y doña BEATRIZ
 
 FRANCISCO
-          �Qu� es esto?
+          ¿Qué es esto?
 
 
 MAESTRO
-                       Dio
+                       Dio
 
 
 
@@ -7683,11 +7673,11 @@ como sobras y deshechos
 1775
 
 
-del ser que en �l despreciaron;
+del ser que en él despreciaron;
 
 
 
-de cu�n necio determina
+de cuán necio determina
 
 
 
@@ -7703,19 +7693,19 @@ quiere labrar en la encina.
 1780
 
 
-Hiri�me tras no querer,
+Hirióme tras no querer,
 
 
 
-como suele, dar lici�n.
+como suele, dar lición.
 
 
 FRANCISCO
-(A BEATRIZ) Las alas de tu afici�n
+(A BEATRIZ) Las alas de tu afición
 
 
 
-por fuerza hab�an de tener,
+por fuerza habían de tener,
 
 
 
@@ -7723,7 +7713,7 @@ Beatriz, tan torpe suceso.
 1785
 
 
-�Vive Dios que he de matarle
+¡Vive Dios que he de matarle
 
 
 
@@ -7731,7 +7721,7 @@ a azotes! Id a buscarle.
 
 
 BEATRIZ
-�Se�or!...
+¡Señor!...
 
 
 FRANCISCO
@@ -7743,7 +7733,7 @@ con otros como lo ha sido
 
 
 
-disculp�rale la edad,
+disculpárale la edad,
 1790
 
 
@@ -7751,7 +7741,7 @@ mas tanta temeridad
 
 
 
-(�que a su maestro haya herido?)
+(¿que a su maestro haya herido?)
 
 
 
@@ -7767,40 +7757,40 @@ Oye, espera.
 
 
 FRANCISCO
-            Esto es criar
+            Esto es criar
 1795
 
 
 hijos ajenos en casa. (Vanse los dos)
 
 
-Sale don MART�N
+Sale don MARTÍN
 
 BEATRIZ
-�Ay prenda del alma m�a!
+¡Ay prenda del alma mía!
 
 
-Ya pronostico tu da�o.
-
-
-
-Mi padre airado... �Es estra�o
+Ya pronostico tu daño.
 
 
 
-tantos males en un d�a!
+Mi padre airado... ¡Es estraño
+
+
+
+tantos males en un día!
 1800
 
 
-Don Mart�n, templad enojos
+Don Martín, templad enojos
 
 
 
-si verme viva quer�is.
+si verme viva queréis.
 
 
 
-A mi padre conoc�is,
+A mi padre conocéis,
 
 
 
@@ -7820,27 +7810,27 @@ Mirad que a Francisco quiero
 
 
 
-m�s que a m� y que ser� en vano
+más que a mí y que será en vano
 
 
 
-vivir sin �l.
+vivir sin él.
 
 
-MART�N
+MARTÍN
           Yo sin vos,
 
 
 
-imposible. Voy tras �l. (Vase)
+imposible. Voy tras él. (Vase)
 1810
 
 BEATRIZ
-�Qu� es esto, estrella cr�el?
+¿Qué es esto, estrella crüel?
 
 
 
-�P�rdidas de dos en dos?
+¿Pérdidas de dos en dos?
 
 
 
@@ -7848,33 +7838,33 @@ Por mejor la muerte elijo;
 
 
 
-o ejecutalda hoy en m�
+o ejecutalda hoy en mí
 
 
 
-o ya que al padre perd�
+o ya que al padre perdí
 1815
 
 
-no pierda tambi�n al hijo. (Vase)
+no pierda también al hijo. (Vase)
 
 
-Salen HERNANDO Cort�s, MANCEBO, y don GONZALO
+Salen HERNANDO Cortés, MANCEBO, y don GONZALO
 
 GONZALO
-�Hernando Cort�s? �Sobrino?
+¿Hernando Cortés? ¿Sobrino?
 
 
 
-�Vos en La Zarza? �A qu� fin?
+¿Vos en La Zarza? ¿A qué fin?
 
 
 
-Juzg�baos yo en Medell�n.
+Juzgábaos yo en Medellín.
 
 
 HERNANDO
-Tras s� me lleva el camino
+Tras sí me lleva el camino
 1820
 
 
@@ -7888,18 +7878,18 @@ hacen a la maravilla
 
 
 
-de Guadalupe, y en �l
+de Guadalupe, y en él
 
 
 busco galas cortesanas.
 1825
 
 GONZALO
-Siempre vos os inclin�is
+Siempre vos os inclináis
 
 
 
-a cosas grandes. �Dej�is
+a cosas grandes. ¿Dejáis
 
 
 
@@ -7907,19 +7897,19 @@ buenos vuestros padres?
 
 
 HERNANDO
-                      Canas
+                      Canas
 
 
 
-y a�os son enfermedades.
+y años son enfermedades.
 
 
 
-Mi padre, Mart�n Cort�s,
+Mi padre, Martín Cortés,
 1830
 
 
-anda achacoso despu�s
+anda achacoso después
 
 
 
@@ -7927,7 +7917,7 @@ de sesenta navidades.
 
 
 GONZALO
-�Tiene Do�a Catalina
+¿Tiene Doña Catalina
 
 
 
@@ -7947,7 +7937,7 @@ con que a imitaros me inclina.
 
 
 GONZALO
-Ya est�is grande.
+Ya estáis grande.
 
 
 FERNANDO
@@ -7955,19 +7945,19 @@ FERNANDO
 
 
 
-de que, est�ndolo, no haya hecho
+de que, estándolo, no haya hecho
 
 
 
-cosa hasta aqu� de provecho.
+cosa hasta aquí de provecho.
 
 
 GONZALO
-Sois estreme�o animoso,
+Sois estremeño animoso,
 1840
 
 
-hered�is de vuestra tierra
+heredáis de vuestra tierra
 
 
 y sangre el noble verdor
@@ -7977,17 +7967,17 @@ que enciende, vuestro valor.
 
 
 
-Pron�sticos hay de guerra
+Pronósticos hay de guerra
 
 
 con Portugal; brevemente
 1845
 
 
-se os cumplir� ese deseo.
+se os cumplirá ese deseo.
 
 HERNANDO
-Esa ocasi�n, seg�n creo,
+Esa ocasión, según creo,
 
 
 trae los reyes con su gente
@@ -7997,14 +7987,14 @@ trae los reyes con su gente
 a presidiar sus fronteras,
 
 
-porque Alfonso portugu�s
+porque Alfonso portugués
 1850
 
 
-pide a Castilla despu�s
+pide a Castilla después
 
 
-que, fund�ndose en quimeras,
+que, fundándose en quimeras,
 
 
 
@@ -8012,14 +8002,14 @@ del cuarto Enrique se casa
 
 
 
-con do�a Juana su hija.
+con doña Juana su hija.
 
 GONZALO
 Ese nombre la prohija
 1855
 
 
-quien por la opini�n no pasa
+quien por la opinión no pasa
 
 
 
@@ -8038,7 +8028,7 @@ la llaman la Beltraneja.
 1860
 
 HERNANDO
-No s� en eso lo que os diga;
+No sé en eso lo que os diga;
 
 
 
@@ -8050,7 +8040,7 @@ a mis reyes.
 
 
 GONZALO
-           En efeto,
+           En efeto,
 
 
 
@@ -8068,17 +8058,17 @@ otra herencia.
 
 
 HERNANDO
-             Ya que os vemos
+             Ya que os vemos
 
 
 
-aqu�, se�or don Gonzalo,
+aquí, señor don Gonzalo,
 
 
-digo en Espa�a, despu�s
+digo en España, después
 
 
-que en N�poles hab�is dado
+que en Nápoles habéis dado
 1870
 
 
@@ -8086,17 +8076,17 @@ muestras de tan gran soldado
 
 
 
-desbaratando al franc�s
+desbaratando al francés
 
 
-�qu� hac�is en pueblo tan corto?
+¿qué hacéis en pueblo tan corto?
 
 
 GONZALO
-Experimentar enga�os
+Experimentar engaños
 
 
-de amor despu�s de doce a�os
+de amor después de doce años
 1875
 
 
@@ -8108,27 +8098,27 @@ que me causa una hermosura
 
 
 
-de quien me juzgaba due�o.
+de quien me juzgaba dueño.
 
 
 HERNANDO
-�Hermosura en tan peque�o
+¿Hermosura en tan pequeño
 
 
 
-lugar y no est� segura?
+lugar y no está segura?
 1880
 
 
-Si es noble, �qui�n puede aqu�
+Si es noble, ¿quién puede aquí
 
 
 
-usurp�rosla?
+usurpárosla?
 
 
 GONZALO
-            Mudanzas
+            Mudanzas
 
 
 
@@ -8150,10 +8140,10 @@ que me importa el sosegar
 mil sospechas. Dad lugar
 
 
-a que averig�e un secreto
+a que averigüe un secreto
 
 
-y volv�monos a ver.
+y volvámonos a ver.
 
 
 
@@ -8176,27 +8166,27 @@ pues tanto os desasosiega.
 
 
 
-Si quer�is que os acompa�e...
+Si queréis que os acompañe...
 
 GONZALO
-Cuando dudas desenga�e
+Cuando dudas desengañe
 1895
 
 
-os dir� hasta d�nde llega
+os diré hasta dónde llega
 
 
 el rigor que me amenaza,
 
 
-pero convi�neme ahora
+pero conviéneme ahora
 
 
 ir solo. Dentro de una hora
 
 
 
-podr�is buscarme en la plaza
+podréis buscarme en la plaza
 1900
 
 
@@ -8204,24 +8194,24 @@ y haremos nuestro camino.
 
 
 HERNANDO
-Ser� apacible con vos;
+Será apacible con vos;
 
 
-yo os buscar� luego.
+yo os buscaré luego.
 
 
 GONZALO
-                  Adi�s. (Vase don GONZALO)
+                  Adiós. (Vase don GONZALO)
 
 
 HERNANDO
-�Qu� poco al amor me inclino!
+¡Qué poco al amor me inclino!
 
 
 Salen CARRIZO y PULIDA
 
 CARRIZO
-S�, escondelde, que es la pieza
+Sí, escondelde, que es la pieza
 1905
 
 
@@ -8229,15 +8219,15 @@ digna de guardar.
 
 
 PULIDA
-               �Pues no?
+               ¿Pues no?
 
 
 CARRIZO
-El diabro ac� mos le ech�.
+El diabro acá mos le echó.
 
 
 
-Ver� qu� temprano empieza.
+Verá qué temprano empieza.
 
 
 PULIDA
@@ -8251,10 +8241,10 @@ viene, cuando grande, a ser
 hombre de pro y de valer.
 
 CARRIZO
-�Descalabrar su maeso?
+¿Descalabrar su maeso?
 
 
-Par diez, que no hiciera m�s
+Par diez, que no hiciera más
 
 
 
@@ -8262,38 +8252,38 @@ Roberto el Diabro. Crialde,
 
 
 
-mor�os por �l, regalalde.
+moríos por él, regalalde.
 1915
 
 PULIDA
-Carrizo, pesado est�s.
+Carrizo, pesado estás.
 
 
-�Si ell otro agravio le hac�a
+¿Si ell otro agravio le hacía
 
 
 
-y le llam� desechado?
+y le llamó desechado?
 
 CARRIZO
-�Vos, en fin, no le heis criado?
+¿Vos, en fin, no le heis criado?
 
 
 
-Cual ell ama, tal la cr�a.
+Cual ell ama, tal la cría.
 1920
 
 
 Pues yo os juro si le coge
 
 
-el viejo que tras �l anda
+el viejo que tras él anda
 
 
 que ha de llevar una tanda
 
 
-cual digan due�as.
+cual digan dueñas.
 
 
 PULIDA
@@ -8301,7 +8291,7 @@ PULIDA
 
 
 
-o no, yo le tengo ac�
+o no, yo le tengo acá
 1925
 
 
@@ -8312,30 +8302,30 @@ no le he de dar.
 
 
 CARRIZO
-             �De codicia
+             ¡De codicia
 
 
 
-es el ni�o!
+es el niño!
 
 
 PULIDA
-          S� ser�.
+          Sí será.
 
 
 CARRIZO
-Par Dios, que no tien m�s miedo
+Par Dios, que no tien más miedo
 
 
 
-que Gaiferos a Sans�n.
+que Gaiferos a Sansón.
 1930
 
 PULIDA
-Es de bravo coraz�n.
+Es de bravo corazón.
 
 CARRIZO
-Pues decir que se est� quedo.
+Pues decir que se está quedo.
 
 
 
@@ -8350,13 +8340,13 @@ cuando la bola agarrando
 1935
 
 
-todos nueve los birl�.
+todos nueve los birló.
 
 PULIDA
 Sabe mucho y es pracer
 
 
-ver que de doce a�os solos
+ver que de doce años solos
 
 
 
@@ -8364,15 +8354,14 @@ venza a todos.
 
 
 CARRIZO
-              S�, a los bolos,
+              Sí, a los bolos,
 
 
 
 es verdad, mas no a leer.
 1940
 
-Salen CRESPO, BERTOL y otros pastores contra PIZARRO, y �l con una  bola  de
-bolos tras
+Salen CRESPO, BERTOL y otros pastores contra PIZARRO, y él con una bola de bolos tras
 ellos
 
 PIZARRO
@@ -8386,14 +8375,14 @@ de vivir.
 
 
 CRESPO
-        �Descalabrar
+        ¿Descalabrar
 
 
 a su maeso?
 
 
 PIZARRO
-           �Por vida
+           ¡Por vida
 
 
 
@@ -8401,11 +8390,11 @@ de don Francisco Cabezas,
 1945
 
 
-mi se�or!...
+mi señor!...
 
 
 HERNANDO
-           Tened, �qu� es esto?
+           Tened, ¿qué es esto?
 
 
 PIZARRO
@@ -8413,17 +8402,17 @@ Que al que llegue descompuesto...
 
 
 HERNANDO
-Jam�s consent� bajezas.
+Jamás consentí bajezas.
 
 
-�Apartaos all�, villanos!
+¡Apartaos allá, villanos!
 
 
-�Contra uno tantos?
+¿Contra uno tantos?
 
 
 PIZARRO
-                  Ya digo
+                  Ya digo
 1950
 
 
@@ -8434,44 +8423,44 @@ o se guarden de mis manos.
 
 
 CARRIZO
-�Tomaos con el rapacito!
+¡Tomaos con el rapacito!
 
 
 Polida, ved el zagal
 
 
 
-que cri�is.
+que criáis.
 
 
 PULIDA
-          No le hagan mal
+          No le hagan mal
 1955
 
 
-y �l no le har�. Francisquito,
+y él no le hará. Francisquito,
 
 
 
-�buena Pascua te d� Dios!,
+¡buena Pascua te dé Dios!,
 
 
 
 al que te la hiciere dale.
 
 BERTOL
-�A fe que si el viejo sale!...
+¡A fe que si el viejo sale!...
 
 
 PIZARRO
-�A fe si os lleg�is los dos!...
+¡A fe si os llegáis los dos!...
 1960
 
 HERNANDO
-B�rbaros, �quitaos all�!
+Bárbaros, ¡quitaos allá!
 
 
-�C�mo no ten�is empacho
+¿Cómo no tenéis empacho
 
 
 
@@ -8483,11 +8472,11 @@ tantos juntos?
 
 
 CRESPO
-             Porque est�
+             Porque está
 
 
 
-endimu�ado.
+endimuñado.
 
 BERTOL
             Hijo, en fin,
@@ -8498,21 +8487,21 @@ de una encina.
 
 
 PIZARRO
-             Madre es m�a,
+             Madre es mía,
 
 
 
-mas no hay encina jud�a
+mas no hay encina judía
 
 
-como quiz� alg�n ruin
+como quizá algún ruin
 
 
 de los presentes.
 
 
 CRESPO
-               �Por vos
+               ¿Por vos
 
 
 
@@ -8520,7 +8509,7 @@ lo dijo, Carrizo?
 
 
 CARRIZO
-               �Apelo!
+               ¡Apelo!
 1970
 
 PIZARRO
@@ -8534,10 +8523,10 @@ Una encina debo a Dios
 por amparo que de cuna
 
 
-me sirvi�. Si infame fuera
+me sirvió. Si infame fuera
 
 
-quien me pari�, no sintiera
+quien me parió, no sintiera
 1975
 
 
@@ -8547,32 +8536,32 @@ desgracias de la fortuna
 ni al desierto me arrojara,
 
 
-luego noble debi� ser.
+luego noble debió ser.
 
 
-Quien no tiene qu� perder
+Quien no tiene qué perder
 
 
-poco en haza�as repara.
+poco en hazañas repara.
 1980
 
 
-�Qu� me persegu�s, villanos?
+¿Qué me perseguís, villanos?
 
 
 
-�R�mulo y Remo no fueron
+¿Rómulo y Remo no fueron
 
 
 
-reyes? �Principio no dieron
+reyes? ¿Principio no dieron
 
 
 
-a los C�sares romanos?
+a los Césares romanos?
 
 
-�Qu� importa que los deseche
+¿Qué importa que los deseche
 1985
 
 
@@ -8586,7 +8575,7 @@ si contra ella compasiva
 una loba les dio leche?
 
 
-�Vive Dios!, que el que otra vez
+¡Vive Dios!, que el que otra vez
 
 
 
@@ -8600,7 +8589,7 @@ que le tengo de ahorrar
 de achaques de la vejez.
 
 HERNANDO
-�No sabremos lo que ha hecho
+¿No sabremos lo que ha hecho
 
 
 
@@ -8612,20 +8601,20 @@ CARRIZO
 
 
 
-esa hestoria; no habr� luenga
+esa hestoria; no habrá luenga
 1995
 
 
-que dej�ndoos satisfecho
+que dejándoos satisfecho
 
 
 os cuente sus travesuras.
 
 BERTOL
-Har� aqu�, si se le encaja,
+Hará aquí, si se le encaja,
 
 
-por qu�tame all� esa paja
+por quítame allá esa paja
 
 
 treinta descalabraduras.
@@ -8635,28 +8624,28 @@ treinta descalabraduras.
 No se puede averiguar
 
 
-todo este puebro con �l.
+todo este puebro con él.
 
 CARRIZO
-�Malos a�os! Es la piel
+¡Malos años! Es la piel
 
 
 del diabro.
 
 
 CRESPO
-           Qu�sole dar
+           Quísole dar
 
 
 
-lici�n agora el maeso
+lición agora el maeso
 2005
 
 
 y sobre dalla o no dalla
 
 
-le meti� por atajalla
+le metió por atajalla
 
 
 
@@ -8664,7 +8653,7 @@ todo un cochillo hasta el hueso.
 
 
 
-Huy� a casa de Polida,
+Huyó a casa de Polida,
 
 
 que es esta que le dio el pecho,
@@ -8684,7 +8673,7 @@ con mucha frema se puso
 a birlar bolos. Ell amo
 
 
-(ans� a un caballero llamo
+(ansí a un caballero llamo
 2015
 
 
@@ -8702,14 +8691,14 @@ mos ha enviado a buscarle
 porque quiere castigarle,
 
 
-mas �l, que no est� contento
+mas él, que no está contento
 2020
 
 
 con lo hecho, mos la jura.
 
 HERNANDO
-�Que a quien le ense�aba hiri�?
+¿Que a quien le enseñaba hirió?
 
 
 
@@ -8723,11 +8712,11 @@ Azotarle.
 
 
 BERTOL
-          Llegaos, �hola!
+          Llegaos, ¡hola!
 2025
 
 PIZARRO
-T�nganse, que estoy resuelto.
+Ténganse, que estoy resuelto.
 
 
 CRESPO
@@ -8735,13 +8724,13 @@ Llegad.
 
 
 PIZARRO
-�Mas que si la suelto
+¿Mas que si la suelto
 
 
 
 que me llevo tres de bola?
 
-Llega HERNANDO Cort�s a quitarle la bola y porf�an los dos con ella
+Llega HERNANDO Cortés a quitarle la bola y porfían los dos con ella
 
 HERNANDO
 Suelta, rapaz.
@@ -8752,7 +8741,7 @@ PIZARRO
 
 
 
-no os met�is, que no os conviene,
+no os metáis, que no os conviene,
 2030
 
 
@@ -8760,11 +8749,11 @@ en lo que no os va ni viene.
 
 
 HERNANDO
-�Acaba?
+¿Acaba?
 
 
 PIZARRO
-         �Apostemos algo
+         ¿Apostemos algo
 
 
 
@@ -8772,14 +8761,14 @@ que os he de birlar los cascos?
 
 
 HERNANDO
-�Hay atrevimiento igual?
+¿Hay atrevimiento igual?
 
 
-�Vive Dios!
+¡Vive Dios!
 
 
 PIZARRO
-           Soy natural
+           Soy natural
 2035
 
 
@@ -8787,14 +8776,14 @@ de encinas y de carrascos,
 
 
 
-peg�seme su dureza.
+pegóseme su dureza.
 
 
 
-Si por fuerza la quer�is
+Si por fuerza la queréis
 
 
-guardad que no la llev�is
+guardad que no la llevéis
 
 
 encajada en la cabeza.
@@ -8805,34 +8794,33 @@ No sufro locuras yo.
 
 
 PIZARRO
-�Oh!, pues yo soy muy sufrido.
+¡Oh!, pues yo soy muy sufrido.
 
 
 
-�Tomalda!
+¡Tomalda!
 
 
-Tiran de la bola cada uno para s� y qu�dase cada uno  con  la  mitad  de  la
-bola
+Tiran de la bola cada uno para sí y quédase cada uno con la mitad de la bola
 
 HERNANDO
-          �Suelta, atrevido!
+          ¡Suelta, atrevido!
 
 
 
-�Qu� es esto?
+¿Qué es esto?
 
 
 PIZARRO
-             En dos se parti�.
+             En dos se partió.
 
 
 CARRIZO
-�Hay cosa igual?
+¿Hay cosa igual?
 
 
 CRESPO
-               �Pues no estaba
+               ¡Pues no estaba
 2045
 
 
@@ -8840,19 +8828,19 @@ hendida y de encina se hizo!
 
 
 BERTOL
-�Qu� dec�s desto, Carrizo?
+¿Qué decís desto, Carrizo?
 
 
 CARRIZO
-�Brava cosa!
+¡Brava cosa!
 
 
 BERTOL
-            �Y c�mo brava!
+            ¡Y cómo brava!
 
 
 HERNANDO
-�Qui�n eres, rapaz valiente,
+¿Quién eres, rapaz valiente,
 
 
 
@@ -8860,7 +8848,7 @@ que tanta fuerza has tenido?
 2050
 
 PIZARRO
-Mas, �qui�n sois vos que hab�is sido
+Mas, ¿quién sois vos que habéis sido
 
 
 
@@ -8868,7 +8856,7 @@ para tanto?
 
 
 CARRIZO
-           �Hola! �Qu� gente
+           ¡Hola! ¿Qué gente
 
 
 
@@ -8880,11 +8868,11 @@ PAJE
 Los reyes en el lugar.
 
 
-Venid, ver�islos pasar.
+Venid, veréislos pasar.
 2055
 
 HERNANDO
-�Qui�n?
+¿Quién?
 
 
 PAJE
@@ -8912,18 +8900,18 @@ misterio debe esconder
 suceso tan raro y nuevo.
 
 
-�Quer�is, gallardo mancebo,
+¿Queréis, gallardo mancebo,
 
 
 
 que nos volvamos a ver?
 
 PIZARRO
-�Yo? �Por qu� no?
+¿Yo? ¿Por qué no?
 
 
-CORT�S
-                 Pues adi�s,
+CORTÉS
+                 Pues adiós,
 2065
 
 
@@ -8940,7 +8928,7 @@ grandes amigos los dos.
 Vanse todos si no es PIZARRO
 
 PIZARRO
-�V�lgame Dios! �Dar� fe
+¡Válgame Dios! ¿Daré fe
 
 
 a presagios contingentes?
@@ -8951,16 +8939,16 @@ No, que, en fin, son accidentes
 
 
 
-sin que causa se les d�.
+sin que causa se les dé.
 
 
-Pero tambi�n de otros s�
+Pero también de otros sé
 
 
-(si he de creer lo que o�)
+(si he de creer lo que oí)
 
 
-que sucedieron ans�
+que sucedieron ansí
 2075
 
 
@@ -8971,7 +8959,7 @@ Para Dios no hay contingencias
 
 
 
-mas para los hombres s�.
+mas para los hombres sí.
 
 
 Ninguno en el mundo ha habido
@@ -8982,7 +8970,7 @@ de principios prodigiosos
 2080
 
 
-que con hechos haza�osos
+que con hechos hazañosos
 
 
 
@@ -8990,10 +8978,10 @@ no se haya puesto al olvido.
 
 
 
-Contar de Abidis he o�do,
+Contar de Abidis he oído,
 
 
-rey de Espa�a celebrado,
+rey de España celebrado,
 
 
 que a las fieras arrojado
@@ -9004,7 +8992,7 @@ por su abuelo, al viento, al mar,
 
 
 
-despu�s viniendo a reinar
+después viniendo a reinar
 
 
 fue como dios adorado.
@@ -9013,11 +9001,11 @@ fue como dios adorado.
 Que criaron las palomas
 
 
-a Sem�ramis sabemos.
+a Semíramis sabemos.
 2090
 
 
-Muchos R�mulos y Remos
+Muchos Rómulos y Remos
 
 
 
@@ -9036,13 +9024,13 @@ La fortuna dio palabra
 2095
 
 
-de ayudar a la osad�a.
+de ayudar a la osadía.
 
 
-Si una loba reyes cr�a,
+Si una loba reyes cría,
 
 
-leche me dio a m� una cabra.
+leche me dio a mí una cabra.
 
 
 
@@ -9060,7 +9048,7 @@ en su mano la venera
 
 
 
-el C�sar. �Ser� quimera
+el César. ¿Será quimera
 
 
 el creer que la mitad
@@ -9071,10 +9059,10 @@ del mundo felicidad
 2105
 
 
-a mi esfuerzo prometi�?
+a mi esfuerzo prometió?
 
 
-Esta bola se parti�
+Esta bola se partió
 
 
 
@@ -9092,7 +9080,7 @@ la una parte y me ha dejado
 con la otra nuevo cuidado
 
 
-y en �l esperanza nueva.
+y en él esperanza nueva.
 
 
 Quien dificultades prueba
@@ -9106,21 +9094,21 @@ conquiste Alejandro y goce
 2115
 
 
-el mundo venciendo estra�os,
+el mundo venciendo estraños,
 
 
 
-que si empez� de doce a�os
+que si empezó de doce años
 
 
 
 yo le imito de otros doce.
 
 
-Ser� Alejandro segundo.
+Seré Alejandro segundo.
 
 
-�Fue m�s de un hombre? Hombre soy,
+¿Fue más de un hombre? Hombre soy,
 2120
 
 
@@ -9128,7 +9116,7 @@ con el medio mundo estoy,
 
 
 
-conquistar� un medio mundo.
+conquistaré un medio mundo.
 
 
 
@@ -9139,7 +9127,7 @@ Fortuna, en esto me fundo,
 vida espero prodigiosa,
 
 
-favor�ceme amorosa,
+favoréceme amorosa,
 2125
 
 
@@ -9152,7 +9140,7 @@ para acabar imposibles
 
 todo es dar en una cosa.
 
-Sale do�a BEATRIZ
+Sale doña BEATRIZ
 
 BEATRIZ
 Gracias a Dios que los reyes
@@ -9186,7 +9174,7 @@ mientras a verlos ha ido.
 Aquel hombre, si merece
 
 
-este t�tulo, Francisco,
+este título, Francisco,
 
 
 quien por no guardar palabras
@@ -9197,7 +9185,7 @@ perderme y perderte quiso,
 2140
 
 
-aquel con quien te dej�
+aquel con quien te dejé
 
 
 cuando mi pena te dijo
@@ -9206,10 +9194,10 @@ cuando mi pena te dijo
 que injurioso bienhechor
 
 
-junt� a agravios beneficios,
+juntó a agravios beneficios,
 
 
-es tu padre, y ojal�
+es tu padre, y ojalá
 2145
 
 
@@ -9228,7 +9216,7 @@ No fui digna deste nombre
 
 
 
-puesto que s� el ser principio
+puesto que sí el ser principio
 2150
 
 
@@ -9240,7 +9228,7 @@ de tu agravio y sus olvidos.
 
 
 
-Lograba yo verdes a�os
+Lograba yo verdes años
 
 
 que autorizaban floridos
@@ -9273,14 +9261,14 @@ por herencia bien nacidos,
 
 
 
-por ignorancia enga�ados,
+por ignorancia engañados,
 
 
 
 por confianzas perdidos,
 
 
-cuando, �ay rigurosos cielos!,
+cuando, ¡ay rigurosos cielos!,
 2165
 
 
@@ -9308,11 +9296,11 @@ dadivoso con los pobres,
 cortesano con los ricos.
 
 
-Visit�nos una vez,
+Visitónos una vez,
 
 
 
-dom�stico por vecino,
+doméstico por vecino,
 
 
 discreto por estudiante,
@@ -9326,22 +9314,22 @@ Y puesto que en Salamanca
 
 
 
-repudi� escuelas y libros
+repudió escuelas y libros
 
 
 por plumas y espadas nobles,
 
 
 
-enga�os trujo consigo
+engaños trujo consigo
 2180
 
 
-(profesi�n de sus escuelas)
+(profesión de sus escuelas)
 
 
 
-que sirvi�ndole de hechizos
+que sirviéndole de hechizos
 
 
 
@@ -9356,11 +9344,11 @@ Viole el alma por los ojos
 2185
 
 
-y �stos, como son ministros
+y éstos, como son ministros
 
 
 
-de amor, pint�ndole en ellos
+de amor, pintándole en ellos
 
 
 
@@ -9371,7 +9359,7 @@ que admitiendo los cohechos
 
 
 
-de su talle, �ay Dios, mi hechizo!,
+de su talle, ¡ay Dios, mi hechizo!,
 2190
 
 
@@ -9388,20 +9376,20 @@ correspondencias de signos,
 
 
 
-igualdad florida de a�os,
+igualdad florida de años,
 2195
 
 
-comunicaci�n de ni�os,
+comunicación de niños,
 
 
-junt�ndose la ocasi�n
+juntándose la ocasión
 
 
-y a�adi�ndose artificios,
+y añadiéndose artificios,
 
 
-�qu� murallas combatieran
+¿qué murallas combatieran
 
 
 
@@ -9409,17 +9397,17 @@ que les negasen portillos?
 2200
 
 
-Oblig�ronme asistencias,
+Obligáronme asistencias,
 
 
-enga��ronme suspiros,
+engañáronme suspiros,
 
 
-inclin�ronme papeles
+inclináronme papeles
 
 
 
-y dispusi�ronme olvidos
+y dispusiéronme olvidos
 
 
 de mi padre en darme estado,
@@ -9435,10 +9423,10 @@ la tardanza en el remedio
 de los descuidos castigo.
 
 
-Solicit� a do�a Juana
+Solicitó a doña Juana
 
 
-de A�asco, de quien es primo
+de Añasco, de quien es primo
 2210
 
 
@@ -9464,32 +9452,32 @@ gozase ratos festivos.
 
 
 
-Concedi�lo, fui a su casa
+Concediólo, fui a su casa
 
 
-y en ella escondi� al peligro
+y en ella escondió al peligro
 
 
 
 para asaltar inocencias
 
 
-el inter�s persuasivo.
+el interés persuasivo.
 2220
 
 
-Hall�me sola con �l
+Halléme sola con él
 
 
 
-resisti�ndose al principio
+resistiéndose al principio
 
 
 respetos de honor honestos,
 
 
 
-pero venci�ronse tibios
+pero venciéronse tibios
 
 
 a hechiceras diligencias
@@ -9506,10 +9494,10 @@ de honestar con yugo santo
 amorosos descaminos.
 
 
-Cre�le, que no debiera,
+Creíle, que no debiera,
 
 
-y rend� a este enga�o antiguo
+y rendí a este engaño antiguo
 2230
 
 
@@ -9517,15 +9505,15 @@ prendas que por confiables
 
 
 
-lloran despu�s desperdicios.
+lloran después desperdicios.
 
 
 
-Volv� al paso que injuriada
+Volví al paso que injuriada
 
 
 
-amante, y llev� conmigo
+amante, y llevé conmigo
 
 
 si no el arrepentimiento,
@@ -9543,14 +9531,14 @@ pues como el caballo griego
 admitieron riesgos vivos
 
 
-de mi vida mis entra�as
+de mi vida mis entrañas
 
 
 tiranizando su hospicio.
 2240
 
 
-Creci� el tumor con el tiempo
+Creció el tumor con el tiempo
 
 
 
@@ -9558,7 +9546,7 @@ y si bien el artificio
 
 
 
-pal�� publicidades,
+palïó publicidades,
 
 
 se acercara ejecutivo
@@ -9588,7 +9576,7 @@ rondaban intentos limpios
 2250
 
 
-de quien agora es su due�o
+de quien agora es su dueño
 
 
 
@@ -9596,7 +9584,7 @@ y entonces su amante digno
 
 
 
-de rec�procos cuidados,
+de recíprocos cuidados,
 
 
 tu padre, que con indicios
@@ -9606,20 +9594,20 @@ celosos (mas no con causa)
 2255
 
 
-dio cr�dito a desvar�os
+dio crédito a desvaríos
 
 
 y alentando desconciertos
 
 
-le imagin� amante m�o,
+le imaginó amante mío,
 
 
 equivocando papeles
 
 
 
-las desdichas con que lidi�
+las desdichas con que lidió
 2260
 
 
@@ -9629,20 +9617,20 @@ a mis puertas, en efeto,
 sosegados sus vecinos,
 
 
-a�adi� a palabras obras
+añadió a palabras obras
 
 
 que le dejaron herido,
 
 
-y achac�ndome mudanzas
+y achacándome mudanzas
 2265
 
 
-tom� de Italia el camino
+tomó de Italia el camino
 
 
-fiando haza�oso en Marte
+fiando hazañoso en Marte
 
 
 remedios contra Cupido.
@@ -9663,7 +9651,7 @@ si no el temor, los peligros,
 
 
 
-abri� las puertas y en ellas
+abrió las puertas y en ellas
 
 
 
@@ -9681,10 +9669,10 @@ La vejez, que toda es honra
 
 
 
-y �sta toda discursivos
+y ésta toda discursivos
 
 
-recelos, imagin�
+recelos, imaginó
 
 
 
@@ -9706,14 +9694,14 @@ amenaza precipicios.
 
 
 
-Mand� aderezar caballos
+Mandó aderezar caballos
 2285
 
 
-a un coche y dentro d�l hizo
+a un coche y dentro dél hizo
 
 
-que el casi cad�ver metan
+que el casi cadáver metan
 
 
 y antes que el sol diese aviso
@@ -9733,13 +9721,13 @@ a esta aldea nos traslada
 sacando yo por indicios
 
 
-del caso y su condici�n
+del caso y su condición
 
 
 que intentaba vengativo,
 
 
-por no o�r deshonras muertas,
+por no oír deshonras muertas,
 2295
 
 
@@ -9749,7 +9737,7 @@ sepultar temores vivos.
 Buscaba para este efeto
 
 
-c�mplice que siendo amigo
+cómplice que siendo amigo
 
 
 
@@ -9760,11 +9748,11 @@ y mientras que toda arbitrios
 2300
 
 
-discurr�a la venganza
+discurría la venganza
 
 
 
-el c�mo, cercado vino
+el cómo, cercado vino
 
 
 de riesgos y de dolores
@@ -9781,21 +9769,21 @@ amenazando castigos
 
 
 
-cunas que t�mulos fuesen
+cunas que túmulos fuesen
 
 
 mortal fin, vital principio.
 
 
-Cobr� la necesidad
+Cobró la necesidad
 
 
 
-esfuerzo, �qu� mal que dijo
+esfuerzo, ¡qué mal que dijo
 2310
 
 
-quien llam� al temor cobarde!:
+quien llamó al temor cobarde!:
 
 
 
@@ -9808,7 +9796,7 @@ Mi padre fuera de casa
 y yo en riesgo tan preciso
 
 
-sal� ahogando en el silencio
+salí ahogando en el silencio
 2315
 
 
@@ -9818,7 +9806,7 @@ mil pregoneros gemidos
 al desierto por la huerta.
 
 
-Abri�me el cielo un postigo;
+Abrióme el cielo un postigo;
 
 
 
@@ -9826,7 +9814,7 @@ la casa estaba en el campo
 
 
 
-como el sue�o en el dominio
+como el sueño en el dominio
 2320
 
 
@@ -9854,13 +9842,13 @@ de la fortuna y convino
 fiarte de sus mudanzas
 
 
-permiti�ndote a su arbitrio
+permitiéndote a su arbitrio
 
 
-por no f�arte a tu ag�elo,
+por no fïarte a tu agüelo,
 
 
-y envuelto entre los armi�os
+y envuelto entre los armiños
 2330
 
 
@@ -9868,26 +9856,26 @@ de un rebozo que la noche
 
 
 
-m�s que el discurso previno,
+más que el discurso previno,
 
 
 
-el c�ncavo y duro tronco
+el cóncavo y duro tronco
 
 
 de una encina fue, Francisco,
 
 
 
-sucesor de mis entra�as,
+sucesor de mis entrañas,
 2335
 
 
-puesto que �spero, benigno.
+puesto que áspero, benigno.
 
 
 
-Dej�te cr�el piadosa
+Dejéte crüel piadosa
 
 
 
@@ -9916,15 +9904,15 @@ cuando en mitad del camino
 
 
 
-dos hombres hallo. Fi�me
+dos hombres hallo. Fiéme
 2345
 
 
-en su piedad; �qu� prodigios
+en su piedad; ¿qué prodigios
 
 
 
-en tu estra�o nacimiento
+en tu estraño nacimiento
 
 
 no vencen los inauditos?
@@ -9934,7 +9922,7 @@ Con el socorro de un manto
 
 
 
-cubierta al m�s viejo pido
+cubierta al más viejo pido
 2350
 
 
@@ -9946,7 +9934,7 @@ verdades con dos sentidos.
 
 
 
-Prosigui�ndolas estaba
+Prosiguiéndolas estaba
 
 
 cuando, escucha otro peligro,
@@ -9961,7 +9949,7 @@ que es mi padre a quien las digo.
 
 
 
-Turb�me el riesgo impensado
+Turbóme el riesgo impensado
 
 
 
@@ -9975,7 +9963,7 @@ que yo agradezco y no admito.
 2360
 
 
-Rogu�le que me guardase
+Roguéle que me guardase
 
 
 el tesoro que escondido
@@ -9984,14 +9972,14 @@ el tesoro que escondido
 confiaba a su nobleza,
 
 
-dile las se�as del sitio
+dile las señas del sitio
 
 
-y ausent�ndome animosa
+y ausentándome animosa
 2365
 
 
-hall� en casa regocijos
+hallé en casa regocijos
 
 
 sucesores de mi llanto
@@ -10000,7 +9988,7 @@ sucesores de mi llanto
 que encubrieron mi retiro:
 
 
-a don �lvaro en su acuerdo,
+a don Álvaro en su acuerdo,
 
 
 
@@ -10011,7 +9999,7 @@ a su padre dando alivio
 con su vida a sus pesares
 
 
-y a tu ag�elo que, contigo
+y a tu agüelo que, contigo
 
 
 en los brazos admirado,
@@ -10034,20 +10022,20 @@ que sin riesgo de su fama
 eras su nieto y mi hijo.
 
 
-�Disposici�n de los cielos
+¡Disposición de los cielos
 
 
-que as� eslabona prodigios!
+que así eslabona prodigios!
 2380
 
 
-Afirm�nos que una cabra
+Afirmónos que una cabra
 
 
 te daba leche y previno
 
 
-pron�sticos tal milagro
+pronósticos tal milagro
 
 
 que en ti asombren este siglo.
@@ -10064,11 +10052,11 @@ lo que fuiste, pues me dijo
 que cual madre te criase;
 
 
-ya t� ves si lo he cumplido.
+ya tú ves si lo he cumplido.
 
 
 
-Doce a�os las esperanzas
+Doce años las esperanzas
 
 
 de tu desagradecido
@@ -10114,7 +10102,7 @@ por no ocasionar castigos.
 2400
 
 
-Cas�me y volvi� tu padre
+Caséme y volvió tu padre
 
 
 cuando te imposibilito
@@ -10124,14 +10112,14 @@ a legitimar tu fama:
 
 
 
-mira si con raz�n digo
+mira si con razón digo
 
 
 que a don Gonzalo le debes
 2405
 
 
-m�s que a otro hombre siendo su hijo,
+más que a otro hombre siendo su hijo,
 
 
 
@@ -10143,7 +10131,7 @@ pues, pudiendo, no ha querido
 
 
 
-darte el blas�n que te falta,
+darte el blasón que te falta,
 
 
 
@@ -10161,7 +10149,7 @@ si en tanto amor cabe olvido.
 Padre tienes generoso,
 
 
-tu ag�elo por mal sufrido
+tu agüelo por mal sufrido
 
 
 y travieso te aborrece,
@@ -10171,7 +10159,7 @@ y travieso te aborrece,
 acostumbrado a peligros
 
 
-est�s, no sabr�s temerlos.
+estás, no sabrás temerlos.
 
 
 De portentosos principios
@@ -10180,7 +10168,7 @@ De portentosos principios
 naciste, sigue su estrella
 
 
-y si los consejos m�os
+y si los consejos míos
 2420
 
 
@@ -10191,14 +10179,14 @@ apruebas, pues que tu padre
 fue tan severo contigo,
 
 
-her�dale en las haza�as,
+herédale en las hazañas,
 
 
-ser�s hijo de ti mismo. (Vase)
+serás hijo de ti mismo. (Vase)
 
 
 PIZARRO
-Madre, yo lo cumplir�
+Madre, yo lo cumpliré
 2425
 
 
@@ -10231,7 +10219,7 @@ yo, que del ser que me han dado
 
 
 
-los empe�os desobligo,
+los empeños desobligo,
 
 
 pues avariento mi padre
@@ -10260,20 +10248,20 @@ En mis obras legitimo
 el nuevo ser que restauro,
 
 
-las haza�as a que aspiro.
+las hazañas a que aspiro.
 
 
-Deudor de m� mismo soy,
+Deudor de mí mismo soy,
 
 
-hijo ser� de m� mismo.
+hijo seré de mí mismo.
 
 
-Yo malograr� mis a�os
+Yo malograré mis años
 2445
 
 
-(�viven los cielos propicios!)
+(¡viven los cielos propicios!)
 
 
 
@@ -10285,25 +10273,25 @@ medio mundo no conquisto.
 
 
 
-No tendr� nombre hasta entonces,
+No tendré nombre hasta entonces,
 
 
 
-no sabr�n de qu� principios
+no sabrán de qué principios
 2450
 
 
-procedo, no temer�
+procedo, no temeré
 
 
 
-ej�rcitos de enemigos,
+ejércitos de enemigos,
 
 
 montes de dificultades,
 
 
-naufragios jam�s cre�dos,
+naufragios jamás creídos,
 
 
 desiertos nunca pisados,
@@ -10317,10 +10305,10 @@ arduos hasta el cielo riscos.
 La media esfera que gozo
 
 
-es medio mundo: ans� explico
+es medio mundo: ansí explico
 
 
-el pron�stico que en ella
+el pronóstico que en ella
 
 
 todo un orbe ha dividido.
@@ -10341,15 +10329,13 @@ donde hay valor no hay peligros. (Vase)
 
 
 
-
 Acto tercero
 
-
-Hablan en �l las personas siguientes
+Hablan en él las personas siguientes
 
 UN PAGADOR
 
-UN CAPIT�N
+UN CAPITÁN
 
 ROBLEDO, soldado
 
@@ -10359,7 +10345,7 @@ CARRIZO, pastor
 
 TRES PASTORES
 
-QUIR�S, soldado
+QUIRÓS, soldado
 
 DOS SOLDADOS
 
@@ -10369,25 +10355,25 @@ GONZALO PIZARRO
 
 ISABEL, reina
 
-HERNANDO CORT�S
+HERNANDO CORTÉS
 
 
-Salen un PAGADOR y un CAPIT�N
+Salen un PAGADOR y un CAPITÁN
 
 PAGADOR
-�Plegue al cielo que estas paces
+¡Plegue al cielo que estas paces
 2465
 
 
 sean sin fin!
 
 
-CAPIT�N
-           �Para qu�?
+CAPITÁN
+           ¿Para qué?
 
 
 
-Nunca cosas dese�
+Nunca cosas deseé
 
 
 
@@ -10395,7 +10381,7 @@ de nuestra vida incapaces.
 
 
 
-D�les Dios paz a las monjas,
+Déles Dios paz a las monjas,
 
 
 
@@ -10424,10 +10410,10 @@ tras una guerra otra guerra.
 
 
 
-�Tenemos otro caudal?
+¿Tenemos otro caudal?
 
 
-�Bien comeremos por vos,
+¡Bien comeremos por vos,
 
 
 pagador, si os oye Dios!
@@ -10437,19 +10423,19 @@ Son Castilla y Portugal
 2480
 
 
-en la nobleza y haza�as,
+en la nobleza y hazañas,
 
 
 puesto que competidoras
 
 
-y de sus armas se�oras,
+y de sus armas señoras,
 
 
-honra de las dos Espa�as.
+honra de las dos Españas.
 
 
-Mientras ellas entre s�
+Mientras ellas entre sí
 2485
 
 
@@ -10459,7 +10445,7 @@ se destruyen, triunfa y crece
 el moro y se ensoberbece
 
 
-vi�ndonos andar ans�.
+viéndonos andar ansí.
 
 
 Quitemos a esta Granada
@@ -10469,7 +10455,7 @@ la corona que Ismael
 2490
 
 
-la puso; do�a Isabel
+la puso; doña Isabel
 
 
 
@@ -10490,32 +10476,32 @@ viviendo en paz los cristianos,
 
 
 
-que es afrenta que un rinc�n
+que es afrenta que un rincón
 
 
 
-que s�lo al alarbe queda
+que sólo al alarbe queda
 
 
-en tantos a�os no pueda
+en tantos años no pueda
 
 
-limpiarle nuestra naci�n.
+limpiarle nuestra nación.
 2500
 
 
 Barramos esta basura
 
 
-que por setecientos a�os
+que por setecientos años
 
 
-a costa de tantos da�os
+a costa de tantos daños
 
 
 y tantos peligros dura.
 
-CAPIT�N
+CAPITÁN
 Escobas tienen de fuego
 2505
 
@@ -10523,7 +10509,7 @@ Escobas tienen de fuego
 nuestra Isabel y Fernando
 
 
-que ya el moro est� temblando,
+que ya el moro está temblando,
 
 
 
@@ -10533,33 +10519,33 @@ y a ver en su vega llego
 malograrles su cosecha.
 
 PAGADOR
-Escoba es la Inquisici�n
+Escoba es la Inquisición
 2510
 
 
-destos reyes fundaci�n
+destos reyes fundación
 
 
 que, llamas toda, aprovecha
 
 
 
-tanto contra la ciza�a
+tanto contra la cizaña
 
 
 
-que sembr� la pravedad
+que sembró la pravedad
 
 
 blasfema.
 
 
-CAPIT�N
-          Con la Hermandad
+CAPITÁN
+          Con la Hermandad
 2515
 
 
-y Inquisici�n vive Espa�a,
+y Inquisición vive España,
 
 
 pero mientras que Fernando
@@ -10572,7 +10558,7 @@ tala al morisco su vega
 y el tiempo dichoso llega
 
 
-que est� el bautismo esperando
+que está el bautismo esperando
 2520
 
 
@@ -10590,7 +10576,7 @@ que la eclipsan nuestras luces,
 
 
 
-decidme, pues lo sab�is,
+decidme, pues lo sabéis,
 2525
 
 
@@ -10604,7 +10590,7 @@ Para nosotros baratos
 si sus condiciones veis.
 
 
-Despu�s que aquel gran Gir�n,
+Después que aquel gran Girón,
 
 
 
@@ -10612,13 +10598,13 @@ maestre de Santiago,
 2530
 
 
-venci� la del Albufera
+venció la del Albufera
 
 
 contra portugueses tantos
 
 
-y las quiebras restaur�,
+y las quiebras restauró,
 
 
 celebradas por milagro,
@@ -10632,13 +10618,13 @@ por romper los castellanos,
 
 
 
-la infanta do�a Beatriz
+la infanta doña Beatriz
 
 
-(que viva nest�reos a�os
+(que viva nestóreos años
 
 
-y es t�a de nuestra reina,
+y es tía de nuestra reina,
 
 
 duquesa del noble estado
@@ -10653,7 +10639,7 @@ suegra de don Juan el Sabio,
 
 
 
-pr�ncipe de Portugal
+príncipe de Portugal
 
 
 
@@ -10664,10 +10650,10 @@ deseosa de que vuelva
 2545
 
 
-a Espa�a el siglo dorado
+a España el siglo dorado
 
 
-que Marte convirti� en hierro
+que Marte convirtió en hierro
 
 
 
@@ -10678,7 +10664,7 @@ las puertas abriendo a Jano,
 para atajar competencias
 
 
-tom� prudente la mano
+tomó prudente la mano
 2550
 
 
@@ -10693,18 +10679,18 @@ y convidando a los nuestros
 
 
 
-el Cat�lico Fernando
+el Católico Fernando
 
 
 
-que del solio aragon�s
+que del solio aragonés
 2555
 
 
 iba, a pesar del navarro,
 
 
-a tomar la posesi�n
+a tomar la posesión
 
 
 
@@ -10716,18 +10702,18 @@ asombro de la milicia
 
 
 
-que dio laurel a sus a�os
+que dio laurel a sus años
 2560
 
 
 (el segundo rey don Juan
 
 
-de Arag�n digo), el cuidado
+de Aragón digo), el cuidado
 
 
 
-destas paces remiti�
+destas paces remitió
 
 
 
@@ -10748,7 +10734,7 @@ como dan luz a los buenos
 ciegan y abrasan los malos.
 
 
-Concert�ronse, pues, vistas
+Concertáronse, pues, vistas
 
 
 
@@ -10756,7 +10742,7 @@ sobre la puente de Tajo
 2570
 
 
-en Alc�ntara, que es linde
+en Alcántara, que es linde
 
 
 de los dos reinos contrarios,
@@ -10773,7 +10759,7 @@ presente, que es el de mil
 2575
 
 
-cuatrocientos y ochenta a�os,
+cuatrocientos y ochenta años,
 
 
 
@@ -10818,7 +10804,7 @@ por ningunos los derechos.
 Iten, que ofrezca la mano
 
 
-do�a Juana, la pretensa
+doña Juana, la pretensa
 
 
 princesa, la que llamaron
@@ -10839,7 +10825,7 @@ heredera) confidentes,
 al nieto del rey, llamado
 
 
-Alfonso como el ag�elo,
+Alfonso como el agüelo,
 2595
 
 
@@ -10850,7 +10836,7 @@ hijo de don Juan, quedando
 de Portugal sucesores
 
 
-despu�s que falten entrambos.
+después que falten entrambos.
 
 
 
@@ -10861,10 +10847,10 @@ pasar por estos contratos
 2600
 
 
-el ni�o infante despu�s
+el niño infante después
 
 
-que llegue a perfetos a�os,
+que llegue a perfetos años,
 
 
 
@@ -10872,11 +10858,11 @@ la portuguesa corona
 
 
 
-d� luego cien mil cruzados
+dé luego cien mil cruzados
 
 
 
-a do�a Juana, la cual
+a doña Juana, la cual
 2605
 
 
@@ -10887,7 +10873,7 @@ pueda, si gusta entre tanto,
 en un monasterio ilustre
 
 
-dar al mundo desenga�os,
+dar al mundo desengaños,
 
 
 envidia a sus enemigos
@@ -10952,16 +10938,16 @@ en poder de la duquesa
 2625
 
 
-de Viseo, por un a�o,
+de Viseo, por un año,
 
 
 en el castillo de Mora
 
 
-el ni�o Alfonso, al regalo
+el niño Alfonso, al regalo
 
 
-fi�ndole de su t�a,
+fiándole de su tía,
 
 
 
@@ -10984,7 +10970,7 @@ de nuestra reina, con tanto
 
 
 
-que el portugu�s deje libres
+que el portugués deje libres
 2635
 
 
@@ -11035,7 +11021,7 @@ Ya a sus reyes reducida
 la condesa, aquel gallardo
 
 
-esp�ritu belicoso
+espíritu belicoso
 
 
 
@@ -11043,14 +11029,14 @@ digno de inmortales lauros
 2650
 
 
-de do�a Beatriz Pacheco,
+de doña Beatriz Pacheco,
 
 
-que en Medell�n sus vasallos
+que en Medellín sus vasallos
 
 
 
-por Sem�ramis pretenden
+por Semíramis pretenden
 
 
 dedicarla simulacros,
@@ -11067,7 +11053,7 @@ besa pies y la honran brazos,
 y el clavero, don Alonso,
 
 
-de Alc�ntara, ya del bando
+de Alcántara, ya del bando
 
 
 
@@ -11078,13 +11064,13 @@ muestra que si fue Alejandro
 2660
 
 
-en haza�as, ya es Monroy
+en hazañas, ya es Monroy
 
 
-blas�n generoso y claro.
+blasón generoso y claro.
 
 
-Ya el gran marqu�s de Villena
+Ya el gran marqués de Villena
 
 
 
@@ -11133,7 +11119,7 @@ trueque Granada los granos
 
 
 
-en diamantes por rub�es
+en diamantes por rubíes
 
 
 que Isabel goce y Fernando.
@@ -11146,7 +11132,7 @@ Ya puede vuestra venganza
 
 
 
-gozar, se�or pagador,
+gozar, señor pagador,
 2680
 
 
@@ -11156,7 +11142,7 @@ si es el vengarse valor,
 esta noche su venganza.
 
 
-El capit�n don Gonzalo
+El capitán don Gonzalo
 
 
 Pizarro asiste en Trujillo,
@@ -11172,13 +11158,13 @@ las armas son su regalo;
 mas como este reino goza
 
 
-de paz, amor m�s humano
+de paz, amor más humano
 
 
-quiere que le d� la mano
+quiere que le dé la mano
 
 
-do�a Beatriz de Mendoza,
+doña Beatriz de Mendoza,
 2690
 
 
@@ -11203,7 +11189,7 @@ En fin, se casa con ella
 y esta noche son las bodas.
 
 
-J�ntanse las damas todas
+Júntanse las damas todas
 
 
 trujillanas y es tan bella
@@ -11212,7 +11198,7 @@ trujillanas y es tan bella
 la novia que se recrea
 
 
-amor de verse espa�ol,
+amor de verse español,
 2700
 
 
@@ -11227,7 +11213,7 @@ parece a su lado fea.
 Descuidado de enemigos
 
 
-y todo festivo est�.
+y todo festivo está.
 
 
 
@@ -11246,7 +11232,7 @@ y vengad a vuestro hermano.
 
 
 PAGADOR
-Antes que la d� la mano
+Antes que la dé la mano
 
 
 contra mi sangre agresora
@@ -11257,43 +11243,43 @@ se la he de colgar al cuello.
 
 
 
-En esta ocasi�n mostrad,
+En esta ocasión mostrad,
 
 
-capit�n, vuestra amistad,
+capitán, vuestra amistad,
 
 
 que el fugitivo cabello
 
 
-nos ofrece la ocasi�n
+nos ofrece la ocasión
 2715
 
 
-quince a�os ha deseada
+quince años ha deseada
 
 
 y sola esta noche hallada.
 
 
-En Salamanca, en raz�n
+En Salamanca, en razón
 
 
-de una c�tedra que hab�a
+de una cátedra que había
 
 
-llevado un deudo, sali�
+llevado un deudo, salió
 2720
 
 
-con otros y me mat�
+con otros y me mató
 
 
 
-un hermano que ten�a,
+un hermano que tenía,
 
 
-el m�s lucido letrado
+el más lucido letrado
 
 
 
@@ -11312,14 +11298,14 @@ quiso verme en tanto estremo
 
 
 
-que despachando contra �l
+que despachando contra él
 
 
 
-un juez severo y cr�el,
+un juez severo y crüel,
 
 
-dio los c�mplices al remo.
+dio los cómplices al remo.
 2730
 
 
@@ -11329,7 +11315,7 @@ Pero huyendo el agresor
 por escusar la justicia
 
 
-se vali� de la milicia
+se valió de la milicia
 
 
 
@@ -11350,20 +11336,20 @@ premios que otros han tenido
 
 
 
-con menos m�ritos que �l,
+con menos méritos que él,
 
 
-porque como suced�
+porque como sucedí
 2740
 
 
-en el favor que adquir�
+en el favor que adquirí
 
 
 con Fernando y Isabel,
 
 
-persigui�ndole hasta agora
+persiguiéndole hasta agora
 
 
 
@@ -11374,25 +11360,25 @@ si bien no pude estorbar
 2745
 
 
-que cuando venci� en Zamora
+que cuando venció en Zamora
 
 
 
-nuestro campo al portugu�s,
+nuestro campo al portugués,
 
 
 
-sus haza�as no alcanzasen
+sus hazañas no alcanzasen
 
 
-que capit�n te nombrasen
+que capitán te nombrasen
 
 
-los reyes y que despu�s
+los reyes y que después
 2750
 
 
-trocase la compa��a
+trocase la compañía
 
 
 
@@ -11404,10 +11390,10 @@ Vence la envidia a las armas;
 
 
 
-creci� en su valor la m�a.
+creció en su valor la mía.
 
 
-Diversas veces cohech�
+Diversas veces coheché
 2755
 
 
@@ -11417,14 +11403,14 @@ soldados que le matasen,
 delitos que le imputasen,
 
 
-y con el rey procur�
+y con el rey procuré
 
 
 
 desacreditar su fama,
 
 
-mas sac�le vencedor
+mas sacóle vencedor
 2760
 
 
@@ -11435,7 +11421,7 @@ que en las tinieblas la llama
 
 
 
-luce m�s y los enga�os
+luce más y los engaños
 
 
 si aprietan no prevalecen.
@@ -11445,24 +11431,24 @@ Beber su sangre apetecen
 2765
 
 
-mis agravios ya ha quince a�os;
+mis agravios ya ha quince años;
 
 
 
 si esta vez no lo consiguen
 
 
-morir�n desesperados.
+morirán desesperados.
 
-CAPIT�N
+CAPITÁN
 Aconsejar agraviados
 
 
-que m�s sus pasiones siguen
+que más sus pasiones siguen
 2770
 
 
-que la raz�n, es gastar
+que la razón, es gastar
 
 
 persuasiones sin provecho.
@@ -11472,14 +11458,14 @@ persuasiones sin provecho.
 De mi amistad satisfecho
 
 
-pod�is, pagador, estar,
+podéis, pagador, estar,
 
 
-pues la guerra conclu�da
+pues la guerra concluïda
 2775
 
 
-y fi�ndoos el caudal
+y fiándoos el caudal
 
 
 
@@ -11500,23 +11486,23 @@ PAGADOR
 Conformemos voluntades
 
 
-si Alejandro quer�is verme.
+si Alejandro queréis verme.
 
 
-Vengadme vos y ser�is
+Vengadme vos y seréis
 
 
-due�o de cuanto poseo.
+dueño de cuanto poseo.
 
 
-Segura la ocasi�n veo;
+Segura la ocasión veo;
 
 
-si ejecutarla quer�is
+si ejecutarla queréis
 2785
 
 
-dos leguas dista de aqu�
+dos leguas dista de aquí
 
 
 Trujillo y el sol se ausenta.
@@ -11526,7 +11512,7 @@ Trujillo y el sol se ausenta.
 Mi enemigo, solo, intenta
 
 
-(descuid�ndose de m�)
+(descuidándose de mí)
 2790
 
 
@@ -11541,17 +11527,17 @@ porque su esperanza seque
 
 
 
-el p�same de dos balas.
+el pésame de dos balas.
 
 
-Sabremos cu�l es la casa
+Sabremos cuál es la casa
 2795
 
 
 donde se ha de desposar.
 
 
-Enviar�mosle a llamar
+Enviarémosle a llamar
 
 
 y entre la gente que pasa
@@ -11560,20 +11546,20 @@ y entre la gente que pasa
 a tener parte en la fiesta
 
 
-encubri�ndonos mejor
+encubriéndonos mejor
 2800
 
 
 sin saberse el agresor
 
 
-podr�n llorarla funesta.
+podrán llorarla funesta.
 
 
-�Qu� dec�s?
+¿Qué decís?
 
 
-CAPIT�N
+CAPITÁN
            Que hay paces, digo,
 
 
@@ -11589,14 +11575,14 @@ Que vuestro gusto se haga
 porque vuestra mesa sigo.
 
 
-Trazad y pondr� en efeto
+Trazad y pondré en efeto
 
 
 cualquiera orden que me deis.
 
 
 PAGADOR
-Como a mi hermano vengu�is
+Como a mi hermano venguéis
 
 
 
@@ -11606,7 +11592,7 @@ mil escudos os prometo. (Vanse)
 Salen PULIDA y CARRIZO
 
 CARRIZO
-Ya por hoy no ir� al molino.
+Ya por hoy no iré al molino.
 
 
 PULIDA
@@ -11635,10 +11621,10 @@ Por bien se lleva esta gente,
 Polida, que no por mal.
 
 
-Un d�a es y este se pasa
+Un día es y este se pasa
 
 
-como quiera. �Ten�is olla?
+como quiera. ¿Tenéis olla?
 2820
 
 PULIDA
@@ -11648,7 +11634,7 @@ De macho con su cebolla;
 tocino y pan hay en casa,
 
 
-mas, �vino y las gollor�as
+mas, ¿vino y las gollorías
 
 
 que piden?
@@ -11663,11 +11649,11 @@ mos obrigan.
 
 
 PULIDA
-            Son cr�eles,
+            Son crüeles,
 2825
 
 
-y m�s los de aquestos d�as,
+y más los de aquestos días,
 
 
 
@@ -11682,7 +11668,7 @@ con Portugal.
 
 
 CARRIZO
-             Despedido
+             Despedido
 
 
 
@@ -11700,18 +11686,18 @@ recebilde con amor,
 que por mal es lo peor.
 
 PULIDA
-Mientras aqu� no estoviere
+Mientras aquí no estoviere
 
 
 
-don �lvaro, que a Trujillo
+don Álvaro, que a Trujillo
 2835
 
 
 a unas bodas se hue ayer,
 
 
-ans� lo habremos de her,
+ansí lo habremos de her,
 
 
 que si no, pan y cochillo,
@@ -11724,7 +11710,7 @@ les diera.
 
 
 CARRIZO
-         Llev�se ya
+         Llevóse ya
 2840
 
 
@@ -11732,7 +11718,7 @@ Dios al viejo.
 
 
 PULIDA
-            A estar ac�,
+            A estar acá,
 
 
 
@@ -11743,11 +11729,11 @@ destos lobos que el pellejo
 
 
 
-mos quitan. �Malditas piezas!
+mos quitan. ¡Malditas piezas!
 
 
 CARRIZO
-S�, don Francisco Cabezas
+Sí, don Francisco Cabezas
 2845
 
 
@@ -11755,26 +11741,26 @@ hue bravo hombre.
 
 
 PULIDA
-                 �Lindo viejo!
+                 ¡Lindo viejo!
 
 
 CARRIZO
-Mas don �lvaro Dur�n
+Mas don Álvaro Durán
 
 
 no le va, aunque mozo, en zaga.
 
 
 PULIDA
-Carrizo, no s� qu� me haga.
+Carrizo, no sé qué me haga.
 
 
 
-Habrar quiero al capit�n
+Habrar quiero al capitán
 2850
 
 
-y doler�se de m�
+y doleráse de mí
 
 
 
@@ -11782,14 +11768,14 @@ quizaves.
 
 
 CARRIZO
-          �Bonicos son!
+          ¡Bonicos son!
 
 
 
-Daldos a la maldici�n,
+Daldos a la maldición,
 
 
-que en vi�ndoos, Polida, ans�
+que en viéndoos, Polida, ansí
 
 
 
@@ -11801,26 +11787,26 @@ temo...
 
 
 PULIDA
-        �Qu� tem�is?
+        ¿Qué teméis?
 
 
 CARRIZO
-                    �Par Dios!,
+                    ¡Par Dios!,
 
 
 
-que vais una y volv�is dos.
+que vais una y volváis dos.
 
 
 Yo os digo la verdad pura:
 
 
 
-dad al hu�sped buen despacho,
+dad al huésped buen despacho,
 
 
 
-que m�s vale, si se atreve,
+que más vale, si se atreve,
 2860
 
 
@@ -11854,7 +11840,7 @@ por ocho o por doce reales
 deste trabajo saldremos.
 
 PULIDA
-Carrizo, �y d� los tenemos?
+Carrizo, ¿y dó los tenemos?
 
 
 CARRIZO
@@ -11869,14 +11855,14 @@ que hay soldado, si le cuadra
 la posada que le dan,
 
 
-que convida al capit�n
+que convida al capitán
 
 
-y con �l toda una escuadra;
+y con él toda una escuadra;
 
 
 
-y por heros m�s merced,
+y por heros más merced,
 2875
 
 
@@ -11919,20 +11905,20 @@ que le he de dar pan de palo
 
 y a beber agua del pozo.
 
-Sale QUIR�S, muy roto, con frascos y cuerda en la cinta
+Sale QUIRÓS, muy roto, con frascos y cuerda en la cinta
 
-QUIR�S
+QUIRÓS
 Me racomando, patrona.
 
 PULIDA
-No entiendo lat�n, soldado.
+No entiendo latín, soldado.
 
 
-QUIR�S
+QUIRÓS
 Esta boleta me han dado
 
 
-para aqu�.
+para aquí.
 
 
 PULIDA
@@ -11943,8 +11929,8 @@ PULIDA
 cuidaremos.
 
 
-QUIR�S
-           �Qu� hay de cena?
+QUIRÓS
+           ¿Qué hay de cena?
 
 
 PULIDA
@@ -11954,8 +11940,8 @@ Tocino, macho y cecina
 tien la olla.
 
 
-QUIR�S
-          �No hay gallina?
+QUIRÓS
+          ¿No hay gallina?
 
 
 PULIDA
@@ -11966,7 +11952,7 @@ Para soldados no es buena,
 que engendra sangre cobarde.
 2895
 
-QUIR�S
+QUIRÓS
 Aves come el que es guerrero
 
 
@@ -11974,7 +11960,7 @@ Aves come el que es guerrero
 y las plumas del sombrero
 
 
-har�n de mi esfuerzo alarde.
+harán de mi esfuerzo alarde.
 
 
 
@@ -11982,41 +11968,41 @@ Yo de noche no como olla,
 
 
 
-que el soldado no es ga��n.
+que el soldado no es gañán.
 2900
 
 
-�Hay pollas?
+¿Hay pollas?
 
 
 PULIDA
-            No faltar�n.
+            No faltarán.
 
 
-QUIR�S
+QUIRÓS
 Jugaremos a la polla.
 
 
 
-�Qu� principio y postre espero?
+¿Qué principio y postre espero?
 
 
 PULIDA
-Principios, se�or soldado,
+Principios, señor soldado,
 
 
-son ac� el primer bocado.
+son acá el primer bocado.
 2905
 
-QUIR�S
-�Y los postres?
+QUIRÓS
+¿Y los postres?
 
 
 PULIDA
               El postrero.
 
 
-QUIR�S
+QUIRÓS
 Pues yo empiezo en ensalada
 
 
@@ -12031,40 +12017,40 @@ De encina mos traen algunas,
 que es comida regalada.
 2910
 
-QUIR�S
-�Pesar de quien la pari�!
+QUIRÓS
+¡Pesar de quien la parió!
 
 
-�Bellotas ha de comer
+¿Bellotas ha de comer
 
 
 un soldado?
 
 
 PULIDA
-           �Pues qu� ha de her?
+           ¿Pues qué ha de her?
 
 
-QUIR�S
-�Soy hijo pr�digo yo?
+QUIRÓS
+¿Soy hijo pródigo yo?
 
 PULIDA
-Par�celo en los retazos.
+Parécelo en los retazos.
 2915
 
-QUIR�S
+QUIRÓS
 Poquito a poco, monsiura.
 
 
 
-�Y qu� cama habr�?
+¿Y qué cama habrá?
 
 
 PULIDA
                   Algo dura.
 
 
-QUIR�S
+QUIRÓS
 Pues yo vengo hecho pedazos.
 
 
@@ -12072,43 +12058,43 @@ PULIDA
 Ya lo veo. Hay cabezales
 
 
-en somo de aquel esca�o.
+en somo de aquel escaño.
 2920
 
-QUIR�S
-�Sin s�banas?
+QUIRÓS
+¿Sin sábanas?
 
 
 PULIDA
-             Hacen da�o.
+             Hacen daño.
 
 
-QUIR�S
-�Y qu� mantas?
-
-
-PULIDA
-               Dos costales.
-
-
-QUIR�S
-�Cuerpo de Cristo con ella!
+QUIRÓS
+¿Y qué mantas?
 
 
 PULIDA
-Quien da lo que tien, �qu� debe?
+               Dos costales.
 
 
-QUIR�S
-�Y aqu� qu� vino se bebe?
+QUIRÓS
+¡Cuerpo de Cristo con ella!
+
+
+PULIDA
+Quien da lo que tien, ¿qué debe?
+
+
+QUIRÓS
+¿Y aquí qué vino se bebe?
 2925
 
 PULIDA
 Del pozo.
 
 
-QUIR�S
-          B�balo ella
+QUIRÓS
+          Bébalo ella
 
 
 
@@ -12125,40 +12111,40 @@ PULIDA
 Borrachas cuidaba yo.
 2930
 
-QUIR�S
+QUIRÓS
 Y tras ellas su gigote...
 
 PULIDA
-�Mi giqu�? �Qu� es, si lo sabe?
+¿Mi giqué? ¿Qué es, si lo sabe?
 
 
-QUIR�S
+QUIRÓS
 De ternera, si no es de ave.
 
 
 PULIDA
-�Gigorro?
+¿Gigorro?
 
 
-QUIR�S
+QUIRÓS
           O pastel en bote.
 
 
 PULIDA
-Ni yo girrote s� her
+Ni yo girrote sé her
 2935
 
 
 ni pastel he visto en bota.
 
-QUIR�S
+QUIRÓS
 De lo caro una candiota.
 
 PULIDA
 Candil hay que empieza a arder.
 
 
-QUIR�S
+QUIRÓS
 Y levantada la mesa,
 
 
@@ -12167,13 +12153,13 @@ en cama mullida y blanda,
 2940
 
 
-colcha y s�banas de holanda.
+colcha y sábanas de holanda.
 
 
 PULIDA
-Ya tomar� estopa gruesa.
+Ya tomará estopa gruesa.
 
-QUIR�S
+QUIRÓS
 Y por si me hiciere mal
 
 
@@ -12187,18 +12173,18 @@ ha de traerme las piernas.
 PULIDA
 Si las deja en el corral.
 
-QUIR�S
-Podr� ser que as� me obligue
+QUIRÓS
+Podrá ser que así me obligue
 
 
 
 a que soplando el candil
 
 
-la d� mi cuerpo gentil
+la dé mi cuerpo gentil
 
 
-con lo dem�s que se sigue.
+con lo demás que se sigue.
 2950
 
 PULIDA
@@ -12218,10 +12204,10 @@ antes que salte las bardas
 2955
 
 
-(que no est�n bajas a fe)
+(que no están bajas a fe)
 
 
-porque duerma le traer�
+porque duerma le traeré
 
 
 las piernas con unas cardas;
@@ -12231,7 +12217,7 @@ las piernas con unas cardas;
 y si en su tema prosigue
 
 
-le medir�me dos trancas
+le mediréme dos trancas
 2960
 
 
@@ -12239,18 +12225,18 @@ desde el cogote a las ancas
 
 
 
-con lo dem�s que se sigue.
+con lo demás que se sigue.
 
 
-QUIR�S
+QUIRÓS
 Pues yo la voto...
 
 
 PULIDA
-                No bote.
+                No bote.
 
 
-QUIR�S
+QUIRÓS
 A Cristo que ha de llevar
 
 
@@ -12258,7 +12244,7 @@ esta noche que rascar
 2965
 
 
-la p�para a puro azote.
+la pápara a puro azote.
 
 
 Ponga las manos en cruz.
@@ -12266,42 +12252,42 @@ Ponga las manos en cruz.
 Quiere atarla con la cuerda
 
 PULIDA
-�Para?
+¿Para?
 
 
-QUIR�S
-        Cruce los dos brazos;
+QUIRÓS
+        Cruce los dos brazos;
 
 
 
-sabr� qu� son latigazos
+sabrá qué son latigazos
 
 
 de una mecha de arcabuz.
 2970
 
 PULIDA
-�Aqu� de Dios y del reye!
+¡Aquí de Dios y del reye!
 
 
-�No hay josticia?
+¿No hay josticia?
 
 
-QUIR�S
-(Dala una coz)    Menos voces.
+QUIRÓS
+(Dala una coz)    Menos voces.
 
 
 PULIDA
-�Despinfarrado! �De coces
+¡Despinfarrado! ¿De coces
 
 
 
-vos a m�? �No hay Dios? �No hay leye?
+vos a mí? ¿No hay Dios? ¿No hay leye?
 
 
 Salen dos SOLDADOS y CARRIZO
 
-SOLDADO 1�
+SOLDADO 1º
 O rescatar la posada
 2975
 
@@ -12309,14 +12295,14 @@ O rescatar la posada
 con cien reales o pasar
 
 
-cruj�a, y sin replicar.
+crujía, y sin replicar.
 
 
 CARRIZO
-�Con cien reales? �Mas nonada!
+¿Con cien reales? ¡Mas nonada!
 
 
-SOLDADO 2�
+SOLDADO 2º
 Cabales.
 
 
@@ -12329,49 +12315,49 @@ Diez les iba yo juntando.
 2980
 
 PULIDA
-�Ay, Carrizo! Aqu� andan dando.
+¡Ay, Carrizo! Aquí andan dando.
 
 
-SOLDADO 1�
-Ea, pon�dmele en cueros;
+SOLDADO 1º
+Ea, ponédmele en cueros;
 
 
-ver�is la tunda que lleva.
+veréis la tunda que lleva.
 
-QUIR�S
-Desn�dese ella tambi�n.
+QUIRÓS
+Desnúdese ella también.
 
 CARRIZO
-�Ambos desnudos? �No ven
+¿Ambos desnudos? ¿No ven
 2985
 
 
-que ya pas� Ad�n y Esgueva?
+que ya pasó Adán y Esgueva?
 
 
-Sale PIZARRO muy gal�n, con mucha pluma y un venablo
+Sale PIZARRO muy galán, con mucha pluma y un venablo
 
 PIZARRO
-�Qu� es esto?
+¿Qué es esto?
 
 
 PULIDA
-              �Ay, Francisco m�o!
+              ¡Ay, Francisco mío!
 
 
 
-�T� en La Zarza y yo en trabajos?
+¿Tú en La Zarza y yo en trabajos?
 
 
 
 Este muladar de andrajos
 
 
-con mujeres tiene br�o,
+con mujeres tiene brío,
 2990
 
 
-que a nacerme aqu� unas pocas
+que a nacerme aquí unas pocas
 
 
 
@@ -12382,7 +12368,7 @@ CARRIZO
 Francisco, doleos de nos.
 
 PIZARRO
-�Soldados contra unas tocas
+¿Soldados contra unas tocas
 
 
 
@@ -12390,7 +12376,7 @@ en vez de darlas socorro?
 2995
 
 
-�Y hombres os os�is llamar?
+¿Y hombres os osáis llamar?
 
 
 CARRIZO
@@ -12405,22 +12391,22 @@ Quitaos las torpes espadas.
 
 
 
-�Quit�oslas o vive Dios!
+¡Quitáoslas o vive Dios!
 3000
 
-SOLDADO 1�
-Se�or alf�rez, los dos
+SOLDADO 1º
+Señor alférez, los dos
 
 
 somos...
 
 
 PIZARRO
-         �Qu� dos o qu� nadas?
+         ¿Qué dos o qué nadas?
 
 
 
-�Acabemos, desce�ildas
+¡Acabemos, desceñildas
 
 
 y en su lugar os poned
@@ -12429,7 +12415,7 @@ y en su lugar os poned
 dos ruecas!
 
 
-SOLDADO 2�
+SOLDADO 2º
            Vuesa merced
 3005
 
@@ -12442,29 +12428,29 @@ PIZARRO
 
 
 
-la vejaci�n en que est�n
+la vejación en que están
 
 
 corridas a vuestros lados;
 
 
-p�caros sois, no soldados.
+pícaros sois, no soldados.
 
 
-Bien los campos labrar�n
+Bien los campos labrarán
 3010
 
 
-los m�seros labradores
+los míseros labradores
 
 
-si las manos les ten�is
+si las manos les tenéis
 
 
-atadas. �Pretender�is
+atadas. ¿Pretenderéis
 
 
-por esta haza�a favores
+por esta hazaña favores
 
 
 en el consejo de guerra?
@@ -12474,55 +12460,55 @@ en el consejo de guerra?
 Presentad esos cordeles
 
 
-cuando alegu�is por papeles
+cuando aleguéis por papeles
 
 
 
 que defendistes la tierra.
 
 
-�Ad�nde est� el capit�n?
+¿Adónde está el capitán?
 
-QUIR�S
+QUIRÓS
 A Trujillo fue esta tarde.
 3020
 
 PIZARRO
-Quit� la espada, cobarde,
+Quitá la espada, cobarde,
 
 
 que pues sus veces me dan
 
 
 
-y soy su alf�rez, agora
+y soy su alférez, agora
 
 
-sabr� si conforme a ley...
+sabré si conforme a ley...
 
-SOLDADO 1�
+SOLDADO 1º
 Mire...
 
 
 PIZARRO
-       �Por vida del rey
+       ¡Por vida del rey
 3025
 
 
-y la reina mi se�ora,
+y la reina mi señora,
 
 
 
 infames, que la bandera
 
 
-me fi�, si no os quit�is
+me fió, si no os quitáis
 
 
-las espadas que afrent�is
+las espadas que afrentáis
 
 
-(mejor una ca�a fuera)
+(mejor una caña fuera)
 3030
 
 
@@ -12530,14 +12516,14 @@ que os cosa con el venablo!
 
 
 CARRIZO
-Polida, �qu� dec�s desto?
+Polida, ¿qué decís desto?
 
 PULIDA
 Cual merecen los ha puesto.
 
 
 CARRIZO
-Es un dimu�o.
+Es un dimuño.
 
 
 PULIDA
@@ -12550,7 +12536,7 @@ Llamadme a los labradores.
 
 Va CARRIZO
 
-SOLDADO 2�
+SOLDADO 2º
 Vuesa merced considere
 
 
@@ -12564,7 +12550,7 @@ con desprecios y rigores
 poner su enojo en efeto,
 
 
-aunque nuestro alf�rez sea,
+aunque nuestro alférez sea,
 3040
 
 
@@ -12579,7 +12565,7 @@ que pide el cargo...
 
 
 PIZARRO
-                 �Cobarde!
+                 ¡Cobarde!
 
 
 
@@ -12587,7 +12573,7 @@ Mi bandera y preeminencia
 
 
 
-no la adquir� por herencia,
+no la adquirí por herencia,
 3045
 
 
@@ -12598,7 +12584,7 @@ del valor que al noble anima,
 
 
 
-sino el esp�ritu honrado
+sino el espíritu honrado
 
 
 que en el alma vinculado
@@ -12608,7 +12594,7 @@ los peligros desestima.
 3050
 
 
-Que a ser ans�, aunque parezca
+Que a ser ansí, aunque parezca
 
 
 
@@ -12621,7 +12607,7 @@ barbas os sobran a vos
 para una guarda tudesca.
 
 
-La reina nuestra se�ora
+La reina nuestra señora
 3055
 
 
@@ -12635,7 +12621,7 @@ siendo ella misma testigo
 en el cerco de Zamora;
 
 
-que mi capit�n rendido
+que mi capitán rendido
 
 
 y perdida su bandera,
@@ -12655,41 +12641,41 @@ No con mujeres cual vos,
 pues fiado en la fortuna
 
 
-volv�, si perdimos una,
+volví, si perdimos una,
 3065
 
 
 a su presencia con dos.
 
 
-Alf�rez entonces me hizo
+Alférez entonces me hizo
 
 
-sin suplic�rselo yo.
+sin suplicárselo yo.
 
 
 
 La bandera que me dio
 
 
-de trece a�os la autorizo,
+de trece años la autorizo,
 3070
 
 
-y porque sep�is si en m�
+y porque sepáis si en mí
 
 
 las barbas son menosprecio,
 
 
 
-agora ver�is cuan necio
+agora veréis cuan necio
 
 
-fuistes en hablarme ans�.
+fuistes en hablarme ansí.
 
 
-Desce��os esa espada
+Desceñíos esa espada
 3075
 
 
@@ -12703,12 +12689,12 @@ y fruta de un alcornoque
 os haga mal sazonada.
 
 
-�Presto!
+¡Presto!
 
 
-Qu�tanselas
+Quítanselas
 
-SOLDADO 1�
+SOLDADO 1º
          Por mi superior
 
 
@@ -12717,61 +12703,61 @@ os obedezco.
 
 
 PIZARRO
-             �Qu� aguardan
+             ¿Qué aguardan
 3080
 
 
 los dos?
 
 
-SOLDADO 2�
+SOLDADO 2º
          Ya vamos.
 
 
 PIZARRO
-                    Ya tardan.
+                    Ya tardan.
 
 
 
-�Hola, Carrizo!
+¡Hola, Carrizo!
 
 
 Salen CARRIZO y otros
 
 CARRIZO
-               Se�or,
+               Señor,
 
 
 
-aqu� todo el puebro est�.
+aquí todo el puebro está.
 
 PIZARRO
-�ste con vuestra mujer
+Éste con vuestra mujer
 
 
 valiente, en vuestro poder
 3085
 
 
-para ejemplo quedar�
+para ejemplo quedará
 
 
-de infame, con condici�n
+de infame, con condición
 
 
-que est� en la plaza colgado
+que esté en la plaza colgado
 
 
 
-hasta ma�ana.
+hasta mañana.
 
 
-QUIR�S
-              �Yo ahorcado?
+QUIRÓS
+              ¿Yo ahorcado?
 
 
 PIZARRO
-No, que os tengo compasi�n.
+No, que os tengo compasión.
 3090
 
 
@@ -12783,14 +12769,14 @@ mas sin que os quiten la vida.
 
 
 
-Con una rueca ce�ida
+Con una rueca ceñida
 
 
-regocijar�is la gente.
+regocijaréis la gente.
 
 
 CARRIZO
-�Y estotros dos?
+¿Y estotros dos?
 
 
 PIZARRO
@@ -12798,14 +12784,14 @@ PIZARRO
 3095
 
 
-D�les cada labrador
+Déles cada labrador
 
 
 catorce azotes.
 
 
-SOLDADO 1�
-              Se�or,
+SOLDADO 1º
+              Señor,
 
 
 
@@ -12813,11 +12799,11 @@ mira que somos...
 
 
 PIZARRO
-                �Llevaldos!
+                ¡Llevaldos!
 
 
-SOLDADO 2�
-No faltar� quien d� cuenta
+SOLDADO 2º
+No faltará quien dé cuenta
 
 
 
@@ -12825,14 +12811,14 @@ a los reyes deste agravio.
 3100
 
 PIZARRO
-Ella es santa y �l es sabio.
+Ella es santa y él es sabio.
 
 
-Yo les dir� vuestra afrenta;
+Yo les diré vuestra afrenta;
 
 
 
-podr� ser que se mitigue.
+podrá ser que se mitigue.
 
 PULIDA
 Venga a la praza el modorro
@@ -12843,11 +12829,11 @@ porque le demos gigorro
 3105
 
 
-con lo dem�s que se sigue.
+con lo demás que se sigue.
 
 
 CRESPO
-�Burlaos con el Francisquillo!
+¡Burlaos con el Francisquillo!
 
 
 CARRIZO
@@ -12866,18 +12852,18 @@ Soldado, esas piernas bellas
 
 
 
-despu�s que colgado est�,
+después que colgado esté,
 
 
 
-�oye?, no se las traer�,
+¿oye?, no se las traeré,
 
 
-pero tirar�le dellas.
+pero tiraréle dellas.
 
 
-SOLDADO 1�
-�Que a esto un rapaz nos obligue!
+SOLDADO 1º
+¡Que a esto un rapaz nos obligue!
 3115
 
 PULIDA
@@ -12888,10 +12874,10 @@ Y a esotros dos marquesotes
 a cada catorce azotes
 
 
-con lo dem�s que se sigue. (Vanse)
+con lo demás que se sigue. (Vanse)
 
 
-Sale el PAGADOR, el CAPIT�N con un arcabuz, y ROBLEDO
+Sale el PAGADOR, el CAPITÁN con un arcabuz, y ROBLEDO
 
 PAGADOR
 Mejor lo habemos trazado
@@ -12901,7 +12887,7 @@ Mejor lo habemos trazado
 desta suerte.
 
 
-CAPIT�N
+CAPITÁN
             En la ciudad
 3120
 
@@ -12923,17 +12909,17 @@ posible no conocernos.
 3125
 
 
-Aguard�ndole aqu� fuera
+Aguardándole aquí fuera
 
 
-si �l viene, antes de ofendernos
+si él viene, antes de ofendernos
 
 
 
 la justicia, cuando muera,
 
 
-es f�cil el retirarnos
+es fácil el retirarnos
 
 
 
@@ -12945,24 +12931,24 @@ de su muerte.
 
 
 PAGADOR
-             Por vengarnos
+             Por vengarnos
 
 
 
-menospreciar� el favor
+menospreciaré el favor
 
 
 de los reyes.
 
 
-CAPIT�N
-            Ocultarnos
+CAPITÁN
+            Ocultarnos
 
 
 con las tinieblas podemos
 
 
-despu�s que muerte le demos
+después que muerte le demos
 3135
 
 
@@ -12974,28 +12960,28 @@ Cumpla yo con mi venganza
 
 
 
-que despu�s nos libraremos.
+que después nos libraremos.
 
 
 
-En fin, �dijo que saldr�a
+En fin, ¿dijo que saldría
 
 
 a este sitio?
 
 
 ROBLEDO
-            Prometi�lo,
+            Prometiólo,
 3140
 
 
-y con mucha cortes�a,
+y con mucha cortesía,
 
 
 puesto que no estaba solo
 
 
-y que entonces le asist�a
+y que entonces le asistía
 
 
 de Trujillo la nobleza;
@@ -13005,7 +12991,7 @@ por asegurarlos dijo:
 3145
 
 
-�Tr�tame con aspereza
+«Trátame con aspereza
 
 
 esta dama y es prolijo
@@ -13026,17 +13012,17 @@ de cosas que la han de dar
 
 
 
-a do�a Beatriz pesar.
+a doña Beatriz pesar.
 
 
-Pero, pues env�a a llamarme,
+Pero, pues envía a llamarme,
 
 
 
-d�gala, hidalgo, que luego
+dígala, hidalgo, que luego
 
 
-voy al sitio se�alado,
+voy al sitio señalado,
 3155
 
 
@@ -13047,49 +13033,49 @@ que le apreste mientras llego
 y tome por el cuidado
 
 
-esta sortija�.
+esta sortija».
 
 
 PAGADOR
-            �Sosiego
+            ¡Sosiego
 
 
 
 notable!
 
 
-CAPIT�N
-         �No se turb�?
+CAPITÁN
+         ¿No se turbó?
 
 
 ROBLEDO
-�Turbar? Antes se ri�
+¿Turbar? Antes se rió
 3160
 
 
-mientras el papel le�a.
+mientras el papel leía.
 
 PAGADOR
-M�s de su esfuerzo se f�a
+Más de su esfuerzo se fía
 
 
 que de mi venganza yo.
 
 
-Pero cumpla �l su promesa,
+Pero cumpla él su promesa,
 
 
 
-ver� presto el desenga�o.
+verá presto el desengaño.
 3165
 
 Sale don GONZALO como de noche
 
 GONZALO
-A alg�n celoso le pesa
+A algún celoso le pesa
 
 
-de mis bodas y en su da�o
+de mis bodas y en su daño
 
 
 
@@ -13100,67 +13086,67 @@ quiere turbarme esta empresa.
 Sin firma vino el papel
 
 
-como yo sin compa��a;
+como yo sin compañía;
 3170
 
 
-amor celoso es cr�el.
+amor celoso es crüel.
 
 Sale PIZARRO de camino
 
 PIZARRO
-Tarde, diligencia m�a,
+Tarde, diligencia mía,
 
 
-ven�s. Honra, no sois fiel
+venís. Honra, no sois fiel
 
 
-si os perd�is por perezosa
+si os perdéis por perezosa
 
 
 y mi padre se desposa
 3175
 
 
-sin imped�rselo yo.
+sin impedírselo yo.
 
 
-CAPIT�N
-Este es, �tirar�le?
+CAPITÁN
+Este es, ¿tiraréle?
 
 
 PAGADOR
-                No,
+                No,
 
 
 
-tened, que en acci�n dudosa
+tened, que en acción dudosa
 
 
 
-me pesar� que matemos
+me pesará que matemos
 
 
 otro en vez del que buscamos,
 3180
 
 
-pues si esta ocasi�n perdemos
+pues si esta ocasión perdemos
 
 
 
 sin esperanza quedamos
 
 
-de que despu�s nos venguemos.
+de que después nos venguemos.
 
 
 
-Sepamos qui�n es primero.
+Sepamos quién es primero.
 
 
-CAPIT�N
-Llegad, que yo aguardo aqu�.
+CAPITÁN
+Llegad, que yo aguardo aquí.
 3185
 
 PAGADOR
@@ -13172,14 +13158,14 @@ saber.
 
 
 GONZALO
-       Pronunciar o�
+       Pronunciar oí
 
 
 mi nombre; acercarme quiero.
 
 
 PIZARRO
-(Aparte) �Don Gonzalo? Ans� se llama
+(Aparte) ¿Don Gonzalo? Ansí se llama
 
 
 
@@ -13194,22 +13180,22 @@ le intenta ofender yo vengo
 
 
 
-a acreditar m�s su fama.
+a acreditar más su fama.
 
 
 [(Alto)] Mi nombre es Gonzalo.
 
 
 GONZALO
-                           �C�mo?
+                           ¿Cómo?
 
 
 PAGADOR
-�Gonzalo Pizarro?
+¿Gonzalo Pizarro?
 
 
 PIZARRO
-                 �Pues?
+                 ¿Pues?
 3195
 
 
@@ -13220,7 +13206,7 @@ cobardes.
 
 
 PAGADOR
-(Al capit�n) Amigo, �l es;
+(Al capitán) Amigo, él es;
 
 
 
@@ -13228,15 +13214,15 @@ vengue mi agravio tu plomo:
 
 
 
-�disp�rale!
+¡dispárale!
 
 
-CAPIT�N
-           No dio fuego.
+CAPITÁN
+           No dio fuego.
 
 
 GONZALO
-�Oh villanos!, la traici�n
+¡Oh villanos!, la traición
 3200
 
 
@@ -13244,25 +13230,25 @@ que en vosotros a ver llego
 
 
 
-con noble satisfaci�n
+con noble satisfación
 
 
 
-dar� a mi enojo sosiego.
+dará a mi enojo sosiego.
 
 
 Yo soy Gonzalo Pizarro.
 
 
-�A ellos, joven gallardo!
+¡A ellos, joven gallardo!
 3205
 
 PAGADOR
-(Ri�en) Tres somos, mueran los dos.
+(Riñen) Tres somos, mueran los dos.
 
 
 PIZARRO
-�Ojal� os hiciera Dios
+¡Ojalá os hiciera Dios
 
 
 tres mil!
@@ -13279,22 +13265,22 @@ y ellos os libren de mal. (Huye)
 3210
 
 GONZALO
-�Contra uno y sal�s tres?
+¿Contra uno y salís tres?
 
 PAGADOR
 Al pagador general
 
 
 
-mat�is. Sosegaos.
+matáis. Sosegaos.
 
 
 GONZALO
-                Despu�s,
+                Después,
 
 
 
-que agora es raz�n si has sido
+que agora es razón si has sido
 
 
 
@@ -13306,11 +13292,11 @@ pagues que me han perseguido.
 
 
 PIZARRO
-Cuchilladas, no razones. (Huye el CAPIT�N)
+Cuchilladas, no razones. (Huye el CAPITÁN)
 
 
 
-�Cuerpo de Dios, ya he tendido
+¡Cuerpo de Dios, ya he tendido
 
 
 
@@ -13330,17 +13316,17 @@ A traidores, pagador,
 se paga desta manera.
 
 
-�Hu�s? No me maravillo.
+¿Huís? No me maravillo.
 
 PAGADOR
-�Muerto soy! �Favor al rey!
+¡Muerto soy! ¡Favor al rey!
 3225
 
 
 Alguaciles de Trujillo:
 
 
-�justicia! �No hay Dios? �No hay ley? (Huye)
+¡justicia! ¿No hay Dios? ¿No hay ley? (Huye)
 
 
 GONZALO
@@ -13348,7 +13334,7 @@ Hay valor, que es tu cuchillo.
 
 
 PIZARRO
-No los sig�is, caballero,
+No los sigáis, caballero,
 
 
 que tengo que hablar con vos.
@@ -13364,14 +13350,14 @@ confieso que os trujo Dios
 en mi socorro. No quiero
 
 
-m�s dicha ya que saber
+más dicha ya que saber
 
 
-qui�n sois y luego serviros.
+quién sois y luego serviros.
 3235
 
 PIZARRO
-Admiti�ralo a no ser
+Admitiéralo a no ser
 
 
 
@@ -13381,14 +13367,14 @@ ingrato vos a suspiros
 de alguna ilustre mujer
 
 
-que perdi� por olvidada
+que perdió por olvidada
 
 
-lo que os fi� por querida,
+lo que os fió por querida,
 3240
 
 
-y en m� dej� vinculada
+y en mí dejó vinculada
 
 
 la venganza de ofendida
@@ -13401,7 +13387,7 @@ No os entiendo.
 
 
 PIZARRO
-               Yo lo creo,
+               Yo lo creo,
 
 
 
@@ -13409,7 +13395,7 @@ que el no entender ya es en vos
 3245
 
 
-mal viejo, com�n empleo
+mal viejo, común empleo
 
 
 de quien sin mirar que hay Dios
@@ -13419,24 +13405,24 @@ de quien sin mirar que hay Dios
 se sujeta a su deseo.
 
 
-�Hab�is dado ya la mano
+¿Habéis dado ya la mano
 
 
-al nuevo due�o que am�is?,
+al nuevo dueño que amáis?,
 3250
 
 
-�o quer�is que llore en vano
+¿o queréis que llore en vano
 
 
 
-palabras que la empe��is
+palabras que la empeñáis
 
 
 en fe de un amor liviano?
 
 
-Ir�isos a Italia ya
+Iréisos a Italia ya
 
 
 
@@ -13444,14 +13430,14 @@ para que no legitime
 3255
 
 
-la sucesi�n que os dar�
+la sucesión que os dará
 
 
 y burlada se lastime
 
 
 
-pues por vos sin honra est�.
+pues por vos sin honra está.
 
 
 GONZALO
@@ -13463,32 +13449,32 @@ que enigmas multiplicando
 3260
 
 
-me injuri�is y dais favor,
+me injuriáis y dais favor,
 
 
-a un tiempo est�is engendrando
+a un tiempo estáis engendrando
 
 
 
 ira en mi pecho y amor.
 
 
-Si a darme ayuda ven�s,
+Si a darme ayuda venís,
 
 
-�por qu� agraviarme quer�is?
+¿por qué agraviarme queréis?
 3265
 
 
-�Con la noche os encubr�s?
+¿Con la noche os encubrís?
 
 
 
-�Injuriador socorr�is
+¿Injuriador socorréis
 
 
 
-y amigable persegu�s?
+y amigable perseguís?
 
 PIZARRO
 Porque a imitaros me atrevo,
@@ -13502,7 +13488,7 @@ enemigo bienhechor,
 ejecutando a quien debo
 
 
-el bien y el da�o mayor
+el bien y el daño mayor
 
 
 que tiene el mundo.
@@ -13513,38 +13499,38 @@ GONZALO
 
 
 
-seg�n el modo de hablar,
+según el modo de hablar,
 
 
 si no sois el que colijo
 3275
 
 
-sin seso deb�is de estar.
+sin seso debéis de estar.
 
 
-�Sois vos hijo?...
+¿Sois vos hijo?...
 
 
 PIZARRO
-                Yo soy hijo
+                Yo soy hijo
 
 
 
 sin padres de un encinar.
 
 GONZALO
-�Ay cielos! �Do�a Beatriz
+¡Ay cielos! ¿Doña Beatriz
 
 
 Cabezas es vuestra madre?
 3280
 
 PIZARRO
-Fu�ralo a ser tan feliz
+Fuéralo a ser tan feliz
 
 
-que a su t�lamo mi padre
+que a su tálamo mi padre
 
 
 sujetara la cerviz.
@@ -13558,7 +13544,7 @@ prendas por vos infelices,
 3285
 
 
-vi�ndoos, pues quedan burladas,
+viéndoos, pues quedan burladas,
 
 
 
@@ -13580,7 +13566,7 @@ de contento el alma.
 
 
 PIZARRO
-                  �Est�
+                  ¿Está
 
 
 
@@ -13595,29 +13581,29 @@ GONZALO
 
 
 
-que por due�o la admit�,
+que por dueño la admití,
 
 
-pues teni�ndole tu madre
+pues teniéndole tu madre
 3295
 
 
-ya su esperanza perd�.
+ya su esperanza perdí.
 
 PIZARRO
 Pues, padre, no sois mi padre;
 
 
 
-teneos all�.
+teneos allá.
 
 
 GONZALO
-           Vuelve en ti.
+           Vuelve en ti.
 
 
 PIZARRO
-Volvi�rades por m� vos
+Volviérades por mí vos
 
 
 cuando de una encina fruto,
@@ -13628,21 +13614,21 @@ ingrato a mi madre, a Dios,
 
 
 
-y aliment�ndome un bruto
+y alimentándome un bruto
 
 
-les debo m�s que a los dos.
+les debo más que a los dos.
 
 
 
-Volvi�rades por mi fama
+Volviérades por mi fama
 
 
-pues el m�s tosco pastor
+pues el más tosco pastor
 3305
 
 
-padre leg�timo llama
+padre legítimo llama
 
 
 
@@ -13653,10 +13639,10 @@ cuando me engendra me infama.
 
 
 
-Tendr�is hijos que posean
+Tendréis hijos que posean
 
 
-el t�tulo que no aguardo
+el título que no aguardo
 3310
 
 
@@ -13671,7 +13657,7 @@ cuando su hermano me vean.
 
 
 
-�Ah cielos, y qui�n pudiera
+¡Ah cielos, y quién pudiera
 
 
 
@@ -13690,14 +13676,14 @@ fin con mis desdichas diera!
 
 
 
-Junt� amor en un sujeto
+Juntó amor en un sujeto
 
 
 dos contrarios sin ser sabio.
 3320
 
 
-�Triste de m�!, que en efeto
+¡Triste de mí!, que en efeto
 
 
 
@@ -13709,31 +13695,31 @@ pierdo a mi padre el respeto.
 
 
 
-Estra�as contradiciones
+Estrañas contradiciones
 
 
-mezcl�ndose me persiguen;
+mezclándose me persiguen;
 3325
 
 
 posibles persecuciones.
 
 
-�Que a un mismo tiempo me obliguen
+¿Que a un mismo tiempo me obliguen
 
 
 
 agravios y obligaciones?
 
 
-�Vive Dios que no ha de verme
+¡Vive Dios que no ha de verme
 
 
-m�s la luz de aqueste mundo
+más la luz de aqueste mundo
 3330
 
 
-ni Espa�a en �l conocerme
+ni España en él conocerme
 
 
 
@@ -13753,7 +13739,7 @@ de otro orbe el descubrimiento,
 3335
 
 
-que en m� esperanza criando
+que en mí esperanza criando
 
 
 
@@ -13781,10 +13767,10 @@ que en ella mi honor manchado
 pueda mi esfuerzo lavar.
 
 
-Yo malograr� mis a�os
+Yo malograré mis años
 
 
-y huyendo vuestros enga�os
+y huyendo vuestros engaños
 3345
 
 
@@ -13795,27 +13781,27 @@ vencedor de un medio mundo
 (lince del polo segundo)
 
 
-pisar� climas estra�os.
+pisaré climas estraños.
 
 
 Yo, si llegare a tener
 
 
 
-hermanos, con m�s valor
+hermanos, con más valor
 3350
 
 
 que ellos he de pretender
 
 
-que me veneren se�or
+que me veneren señor
 
 
-lleg�ndome a obedecer.
+llegándome a obedecer.
 
 
-Suplir� la fortaleza
+Suplirá la fortaleza
 
 
 
@@ -13827,22 +13813,22 @@ y de vos desobligado
 
 
 
-ser�, por m� reengendrado,
+seré, por mí reengendrado,
 
 
 
-el f�nix de mi nobleza.
+el fénix de mi nobleza.
 
 
 
-Juzgar�isme, claro est�,
+Juzgaréisme, claro está,
 
 
 por loco, mas mi animosa
 3360
 
 
-inclinaci�n mostrar�
+inclinación mostrará
 
 
 
@@ -13854,7 +13840,7 @@ salgo con ella.
 
 
 UNO
-(De dentro)   Tendr�
+(De dentro)   Tendrá
 
 
 el castigo que merece
@@ -13864,7 +13850,7 @@ quien dio muerte al pagador.
 3365
 
 DOS
-Aqu� est�n los dos.
+Aquí están los dos.
 
 
 PIZARRO
@@ -13882,7 +13868,7 @@ prendernos.
 
 
 GONZALO
-            El retirarnos
+            El retirarnos
 
 
 juzgo agora por cordura.
@@ -13899,14 +13885,14 @@ no hay valiente sin locura,
 vileza es dejar cercarnos.
 
 
-�A ellos, cuerpo de Dios,
+¡A ellos, cuerpo de Dios,
 
 
 pues vamos juntos los dos!
 3375
 
 GONZALO
-�Oh hijo, C�sar segundo!
+¡Oh hijo, César segundo!
 
 PIZARRO
 Mientras no gano otro mundo
@@ -13916,29 +13902,28 @@ Mientras no gano otro mundo
 no os tengo por padre a vos. (Vanse)
 
 
-Suenan cajas; soldados, detr�s la reina do�a ISABEL; sale  tambi�n  HERNANDO
-Cort�s
+Suenan cajas; soldados, detrás la reina doña ISABEL; sale también HERNANDO Cortés
 
 REINA
-Vu�lvase a alistar la gente
+Vuélvase a alistar la gente
 
 
 que de la guerra pasada
 3380
 
 
-se despidi�. Esta Granada
+se despidió. Esta Granada
 
 
 nuestras armas acreciente.
 
 
 
-El rey mi se�or su empresa
+El rey mi señor su empresa
 
 
 
-pretende y sobre ella est�;
+pretende y sobre ella está;
 
 
 sirva esta Granada ya
@@ -13948,18 +13933,18 @@ sirva esta Granada ya
 para postres de mi mesa.
 
 
-Contra el hereje fund�
+Contra el hereje fundé
 
 
-la divina Inquisici�n,
-
-
-
-la Hermandad contra el ladr�n,
+la divina Inquisición,
 
 
 
-los jud�os desterr�.
+la Hermandad contra el ladrón,
+
+
+
+los judíos desterré.
 3390
 
 
@@ -13970,21 +13955,21 @@ y en tan sagrada conquista
 
 
 
-quien desterr� al talmudista
+quien desterró al talmudista
 
 
 
-destierre tambi�n al moro.
+destierre también al moro.
 
 
-La fe del bautismo d�
+La fe del bautismo dé
 3395
 
 
-a Espa�a su integridad;
+a España su integridad;
 
 
-fundar�la una ciudad
+fundaréla una ciudad
 
 
 
@@ -13995,11 +13980,11 @@ No quede en Estremadura
 
 
 
-quien no logre all� su fama;
+quien no logre allí su fama;
 3400
 
 
-gan� mi esposo al Alhama,
+ganó mi esposo al Alhama,
 
 
 
@@ -14020,7 +14005,7 @@ que de cruces coronada
 es timbre de mi corona.
 
 
-�Al arma, pues, estreme�os!
+¡Al arma, pues, estremeños!
 
 
 HERNANDO
@@ -14030,11 +14015,11 @@ Si tal valor nos anima,
 si a sus reyes dan estima
 
 
-virtudes de tales due�os,
+virtudes de tales dueños,
 3410
 
 
-�qu� mucho, vos su caudillo,
+¿qué mucho, vos su caudillo,
 
 
 
@@ -14042,26 +14027,26 @@ que muestre el valor que cobra?
 
 
 
-Anim�ndonos vos sobra
+Animándonos vos sobra
 
 
 para Granada Trujillo.
 
 
-Presto os llamar�n monarca
+Presto os llamarán monarca
 3415
 
 
-sus blasfemos ad�ares.
+sus blasfemos adüares.
 
-SOLDADO 1�
+SOLDADO 1º
 Alegres cuantos lugares
 
 
 abraza nuestra comarca,
 
 
-se�ora, con celo fiel
+señora, con celo fiel
 
 
 
@@ -14155,37 +14140,37 @@ Bendiga Dios su hermosura
 
 
 
-y d�me a besar las patas.
+y déme a besar las patas.
 
 REINA
-Se�is, serrana, bien venida
+Seáis, serrana, bien venida
 3445
 
 
-por lo pulido que habl�is.
+por lo pulido que habláis.
 
 PULIDA
-�Oh!, si el nombre me acert�is
+¡Oh!, si el nombre me acertáis
 
 
 
-ya sabr�is que so Polida.
+ya sabréis que so Polida.
 
 
-Esc�cheme su aspereza.
+Escúcheme su aspereza.
 
 CARRIZO
 Su alteza, necia, la di.
 3450
 
 PULIDA
-Su alteza necia, que aqu�,
+Su alteza necia, que aquí,
 
 
 digo en La Zarza...
 
 CARRIZO
-                 �Ya empieza!
+                 ¡Ya empieza!
 
 
 PULIDA
@@ -14193,34 +14178,34 @@ Vino... En lo que toca al vino
 
 
 
-que el soldado mos pidi�,
+que el soldado mos pidió,
 
 
-rape el diabro el que qued�;
+rape el diabro el que quedó;
 3455
 
 
 pero sobrando el tocino,
 
 
-�no bondaba?, d�galo ella.
+¿no bondaba?, dígalo ella.
 
 
 Salga esta vez todo al corro,
 
 
 
-y como pidi� gigorro,
+y como pidió gigorro,
 
 
-ans� yo huera doncella,
+ansí yo huera doncella,
 3460
 
 
 pasara, mas con marido,
 
 
-�no es pecado que pidiese
+¿no es pecado que pidiese
 
 
 
@@ -14230,22 +14215,22 @@ que las piernas le trojese?
 Aun si se le hubieran ido,
 
 
-vaya; mas, se�ora m�a,
+vaya; mas, señora mía,
 3465
 
 
-ans� mos alumbre Dios,
+ansí mos alumbre Dios,
 
 
 que una y otra, ambas a dos
 
 
 
-consigo se las tra�a.
+consigo se las traía.
 
 
 REINA
-Yo lo creo. �Hay tal simpleza?
+Yo lo creo. ¿Hay tal simpleza?
 
 
 PULIDA
@@ -14253,36 +14238,36 @@ Como no pude sufrillo...
 3470
 
 
-�Conoce ella a Francisquillo,
+¿Conoce ella a Francisquillo,
 
 
 
 aquel que hizo su torpeza
 
 
-alfiler ell otro d�a?
+alfiler ell otro día?
 
 
 
-Tama�o se ech� de ver
+Tamaño se echó de ver
 
 
-que alfiler hab�a de ser
+que alfiler había de ser
 3475
 
 
-porque tuvo alferec�a.
+porque tuvo alferecía.
 
 
-Daba en que me hab�a de atar
-
-
-
-las manos; y bien, �y qu� hizo?
+Daba en que me había de atar
 
 
 
-Ans�, tambi�n a Carrizo
+las manos; y bien, ¿y qué hizo?
+
+
+
+Ansí, también a Carrizo
 
 
 mandoren desatacar.
@@ -14293,11 +14278,11 @@ Pues Francisco en mi socorro
 
 
 
-los espetos les quit�,
+los espetos les quitó,
 
 
 
-por los sobacos colg�
+por los sobacos colgó
 
 
 en la praza al del gigorro,
@@ -14310,7 +14295,7 @@ y a los dos de los bigotes
 porque cenasen mijor
 
 
-mand� a cada labrador
+mandó a cada labrador
 
 
 pegarles catorce azotes.
@@ -14323,10 +14308,10 @@ y al colgado, aunque eran tiernas,
 3490
 
 
-h�ndole a traer las piernas
+héndole a traer las piernas
 
 
-le tir� de los zancajos.
+le tiré de los zancajos.
 
 
 Dicen ahora malas luengas
@@ -14340,7 +14325,7 @@ a acusar. La culpa tienen
 3495
 
 
-ellos, p�sense sus menguas
+ellos, pásense sus menguas
 
 
 
@@ -14355,7 +14340,7 @@ Pido costas y justicia
 
 
 
-con lo dem�s que se sigue.
+con lo demás que se sigue.
 3500
 
 REINA
@@ -14363,13 +14348,13 @@ Al que a vos mal os hiciere
 
 
 
-tendr� yo por enemigo.
+tendré yo por enemigo.
 
 
 Muy justo fue ese castigo.
 
 PULIDA
-S� se�ora, que no quiere
+Sí señora, que no quiere
 
 
 si quitarmos esta gente
@@ -14380,15 +14365,15 @@ los pellejos.
 
 
 REINA
-            Yo lo creo.
+            Yo lo creo.
 
 
 PULIDA
-�Mos perdona?
+¿Mos perdona?
 
 
 REINA
-               S�.
+               Sí.
 
 
 PULIDA
@@ -14399,11 +14384,11 @@ PULIDA
 por el servicio presente
 
 
-ella merc�.
+ella mercé.
 
 
 REINA
-           Gu�rdeos Dios.
+           Guárdeos Dios.
 
 
 
@@ -14411,7 +14396,7 @@ Gusto me ha dado infinito.
 3510
 
 PULIDA
-�Y perdona a Francisquito?
+¿Y perdona a Francisquito?
 
 
 REINA
@@ -14424,15 +14409,15 @@ Al pagador general,
 
 
 
-se�ora, han muerto a traici�n.
+señora, han muerto a traición.
 
 
 REINA
-�Qu� dec�s?
+¿Qué decís?
 
 
 ROBLEDO
-             Sin ocasi�n
+             Sin ocasión
 3515
 
 
@@ -14440,7 +14425,7 @@ a tanto delito igual,
 
 
 
-el capit�n don Gonzalo
+el capitán don Gonzalo
 
 
 Pizarro a matarle vino
@@ -14453,15 +14438,15 @@ desta ciudad.
 
 
 CARRIZO
-             �Malo!
+             ¡Malo!
 
 
 PULIDA
-                    �Malo!
+                    ¡Malo!
 3520
 
 REINA
-�Don Gonzalo? Dudo yo
+¿Don Gonzalo? Dudo yo
 
 
 que sin causa se atreviese
@@ -14471,21 +14456,21 @@ a cosa que desdijese
 
 
 
-de la sangre que hered�,
+de la sangre que heredó,
 
 
 que es tan fiel como animoso.
 3525
 
 ROBLEDO
-Los testigos lo dir�n.
+Los testigos lo dirán.
 
 
 
-Dio muerte a su capit�n
+Dio muerte a su capitán
 
 
-un alf�rez revoltoso
+un alférez revoltoso
 
 
 
@@ -14503,7 +14488,7 @@ ni aun tener barbas.
 
 
 REINA
-                  �Qui�n fue?
+                  ¿Quién fue?
 
 
 ROBLEDO
@@ -14511,10 +14496,10 @@ El que porque a un labrador
 
 
 
-cama y posada ped�a
+cama y posada pedía
 
 
-(que por suerte le cab�a)
+(que por suerte le cabía)
 3535
 
 
@@ -14525,14 +14510,14 @@ un soldado de valor,
 le hizo colgar en la plaza
 
 
-y a otros mand� azotar.
+y a otros mandó azotar.
 
 CARRIZO
-Qu�somos desatacar.
+Quísomos desatacar.
 
 
 
-Mire su merc� qu� traza
+Mire su mercé qué traza
 3540
 
 
@@ -14540,7 +14525,7 @@ de honrados.
 
 
 REINA
-             �Ten�islos presos?
+             ¿Tenéislos presos?
 
 
 ROBLEDO
@@ -14551,7 +14536,7 @@ a la justicia.
 
 
 REINA
-            Venido
+            Venido
 
 
 
@@ -14574,37 +14559,35 @@ Si los hizo mi favor,
 
 
 
-tambi�n sabr� deshacellos.
+también sabré deshacellos.
 
 
-Suenan cajas y sale PIZARRO con  una  bandera  al  hombro,  a  su  lado  don
-GONZALO. Tiende en llegando la bandera a los pies de la reina y  hincan  las
-rodillas
+Suenan cajas y sale PIZARRO con una bandera al hombro, a su lado don GONZALO. Tiende en llegando la bandera a los pies de la reina y hincan las rodillas
 
 PIZARRO
 Leal postro a vuestros pies
 
 
 
-esta bandera, se�ora,
+esta bandera, señora,
 3550
 
 
-con que me honr� vuestra alteza,
+con que me honró vuestra alteza,
 
 
 
 liberal con mi edad corta.
 
 
-Quince a�os son los que tengo,
+Quince años son los que tengo,
 
 
 
 pero testigo es Zamora
 
 
-de que muriendo mi alf�rez,
+de que muriendo mi alférez,
 3555
 
 
@@ -14612,14 +14595,14 @@ con una jineta sola,
 
 
 
-insignia de quien serv�,
+insignia de quien serví,
 
 
-entr� nuestra escuadra rota
+entré nuestra escuadra rota
 
 
 
-por el campo portugu�s
+por el campo portugués
 
 
 (que cantaba la vitoria)
@@ -14633,15 +14616,15 @@ volviendo con dos banderas
 sin que me sacasen gota
 
 
-de sangre, que �sta se guarda
+de sangre, que ésta se guarda
 
 
 
-para haza�as m�s heroicas.
+para hazañas más heroicas.
 
 
 
-Castigu� las demas�as
+Castigué las demasías
 3565
 
 
@@ -14656,7 +14639,7 @@ fugitivos en la guerra,
 son presa de sus escoltas.
 
 
-Ya os constar�n sus insultos
+Ya os constarán sus insultos
 
 
 
@@ -14664,7 +14647,7 @@ y si no esta labradora
 3570
 
 
-(pues aqu� la trujo el cielo)
+(pues aquí la trujo el cielo)
 
 
 
@@ -14672,14 +14655,14 @@ los diga, que en esta historia
 
 
 
-es la m�s interesada
+es la más interesada
 
 
 
 por simple, no mentirosa.
 
 
-Llegu� de noche a Trujillo
+Llegué de noche a Trujillo
 3575
 
 
@@ -14691,14 +14674,14 @@ a vuestra alteza y ya cerca
 
 
 
-salen dentre pe�as toscas
+salen dentre peñas toscas
 
 
 tres hombres a preguntarme
 
 
 
-(advi�rtase el sitio y hora)
+(adviértase el sitio y hora)
 3580
 
 
@@ -14723,28 +14706,28 @@ mando al amor que responda
 
 
 
-que s�, y apenas lo escuchan
+que sí, y apenas lo escuchan
 
 
 
 cuando con una pistola,
 
 
-c�mplice vil de su infamia,
+cómplice vil de su infamia,
 
 
 venganzas torpes provocan.
 3590
 
 
-No dio fuego el polvor�n
+No dio fuego el polvorín
 
 
 ni la sangre generosa
 
 
 
-de mi padre, que all� estaba,
+de mi padre, que allí estaba,
 
 
 
@@ -14770,7 +14753,7 @@ El pagador general
 
 
 
-es el uno, y vos, se�ora,
+es el uno, y vos, señora,
 3600
 
 
@@ -14781,26 +14764,26 @@ testigo de estratagemas
 y invenciones cavilosas
 
 
-con que persigui� a mi padre
+con que persiguió a mi padre
 
 
 
-impidi�ndole las glorias
+impidiéndole las glorias
 
 
-de tanta haza�a sin premio:
+de tanta hazaña sin premio:
 3605
 
 
-�la malicia qu� no estorba?
+¿la malicia qué no estorba?
 
 
 
-El otro es mi capit�n,
+El otro es mi capitán,
 
 
 
-que escribi� con tinta roja
+que escribió con tinta roja
 
 
 la sentencia de su muerte
@@ -14834,17 +14817,17 @@ sus plantas invictas ponga
 sobre estas cabezas fieles;
 
 
-premiar�las si las postra.
+premiarálas si las postra.
 
 REINA
-Tiene, alf�rez, la verdad
+Tiene, alférez, la verdad
 
 
 tanta fuerza, vencedora
 3620
 
 
-de ret�ricas mentiras
+de retóricas mentiras
 
 
 
@@ -14852,13 +14835,13 @@ con que invenciones adorna,
 
 
 
-que f�cil me persuad�s.
+que fácil me persuadís.
 
 
 Y por lo que se aficiona
 
 
-a vuestro valor el m�o,
+a vuestro valor el mío,
 3625
 
 
@@ -14876,45 +14859,45 @@ el rigor con que me informan
 que traviesos castigastes
 
 
-que su profesi�n desdoran.
+que su profesión desdoran.
 3630
 
 
 La muerte del pagador
 
 
-y el capit�n insta agora
+y el capitán insta agora
 
 
 por haber parte que pida
 
 
-informaci�n m�s copiosa.
+información más copiosa.
 
 
-Averig�e yo haber sido
+Averigüe yo haber sido
 3635
 
 
-como dec�s que, patrona
+como decís que, patrona
 
 
-vuestra, saldr�is capit�n
+vuestra, saldréis capitán
 
 
 (puesto que de edad tan poca)
 
 
 
-de la prisi�n que os se�alo
+de la prisión que os señalo
 
 
 
-a los dos. No os d� congoja,
+a los dos. No os dé congoja,
 3640
 
 
-que vuestras guardas ser�n
+que vuestras guardas serán
 
 
 
@@ -14922,20 +14905,20 @@ mis monteros de Espinosa.
 
 
 
-Ir�is sin armas con ellos
+Iréis sin armas con ellos
 
 
 y, cerca de mi persona,
 
 
-har�, guard�ndoos justicia,
+haré, guardándoos justicia,
 3645
 
 
-m�s alarde de piadosa.
+más alarde de piadosa.
 
 
-El rey mi se�or pretende,
+El rey mi señor pretende,
 
 
 eclipsando lunas moras,
@@ -14948,31 +14931,31 @@ que blasfemos arrincona.
 3650
 
 
-All� ver� de la suerte
+Allí veré de la suerte
 
 
 que sirviendo a mi corona
 
 
-pag�is cargos con que os premio
+pagáis cargos con que os premio
 
 
 
-y triunf�is de envidias locas.
+y triunfáis de envidias locas.
 
 
 GONZALO
-Viva m�s que tiene granos
+Viva más que tiene granos
 3655
 
 
-esa Granada, se�ora,
+esa Granada, señora,
 
 
-siglos tanta discreci�n.
+siglos tanta discreción.
 
 PIZARRO
-Sem�ramis espa�ola
+Semíramis española
 
 
 
@@ -14991,7 +14974,7 @@ y virtud la fama os nombra.
 
 
 
-Si otro orbe Col�n descubre,
+Si otro orbe Colón descubre,
 
 
 
@@ -15006,19 +14989,19 @@ os hago pleito homenaje
 de no volver a las costas
 
 
-de Espa�a mientras no os diere
+de España mientras no os diere
 
 
 
-m�s oro y plata, m�s joyas
+más oro y plata, más joyas
 
 
 
-que cuando due�o del mundo
+que cuando dueño del mundo
 
 
 
-triunf� de sus partes Roma.
+triunfó de sus partes Roma.
 3670
 
 
@@ -15029,7 +15012,7 @@ No menos que un orbe nuevo
 os ofrezco; prodigiosas
 
 
-haza�as me pronostico.
+hazañas me pronostico.
 
 
 Yo tuve su esfera o bola
@@ -15048,11 +15031,11 @@ adoptivo de una cabra,
 pupilo de una pastora,
 
 
-os he de dar m�s provincias
+os he de dar más provincias
 
 
 
-que villas goz�is agora,
+que villas gozáis agora,
 3680
 
 
@@ -15064,7 +15047,7 @@ oro que enriquezca a Europa.
 
 
 
-Cumplid, Hernando Cort�s,
+Cumplid, Hernando Cortés,
 
 
 
@@ -15072,7 +15055,7 @@ presagios con que os pregonan
 
 
 
-los cielos por igual m�o.
+los cielos por igual mío.
 3685
 
 
@@ -15096,7 +15079,7 @@ y de escucharlas se asombra,
 en la comedia segunda
 
 
-saldr� la verdad fiadora,
+saldrá la verdad fiadora,
 
 
 que donde hay valor y dicha
@@ -15104,6 +15087,5 @@ que donde hay valor y dicha
 
 
 todo es dar en una cosa.
-
 
 

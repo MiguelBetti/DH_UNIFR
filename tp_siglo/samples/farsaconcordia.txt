@@ -1,40 +1,15 @@
-
-
-                            FARSA DE LA CONCORDIA
-
- Farsa nuevamente compuesta por Hernán Lópes de/ Yanguas sobre la felice
-nueva de la concordia y paz y/ concierto de nuestro felicísimo Emperador/
-semper augusto y del/ cristianíssimo Rey de Francia.
-
-      Farsa llena de alegrías
-
-
- por la paz de nuestros días.
-                                                                     Yanguas
- Farsa nuevamente compuesta por Hernán López de Yanguas sobre la felice
-nueva de la concordia y paz y concierto de nuestro felicíssimo Emperador
-semper augusto y del cristianissímo Rey de Francia. En la cual de
-introduzen ocho personas: un Correo, el Tiempo, el Mundo, la Paz, la
-Justicia, la Guerra, Descanso y Plazer.
- Dirigida al ilustre y muy magnífico seńor el seńor don Francisco de la
-Cueva, mayorazgo y primogénito del ilustríssimo seńor el seńor don Beltrán
-de la Cueva, Duque de Alburquerque.
- Las personas entrarán de esta manera: el Correo, como correo, tańendo su
-corneta; el cual entra en tres partes de la obra, cada vez muy de prissa.
-El Tiempo y el Mundo, como viejos y en hábitos de pastores, salvo que el
-Tiempo llevará un instrumento para tańer, cual él quisiere. La Paz entrará
-muy bien ataviada, como gentil dama, y la Justicia también, salvo que la
-Paz llevará un ramo verde de oliva en la mano, o de laurel, y la Justicia
-una vara. La Guerra entrará en hábito de romera, con sus veneras y con su
-bordón en la mano. Descanso y Plazer entrarán como pastores mancebos, muy
-regozijados.
- El argumento y summa de esta obra no es más de dar descanso a los letores
-y auditores, diciendo el bien que de la paz al mundo viene y los dańos que
-de la guerra se siguen. Fue tomada la materia del psalmista, de unas
-palabras que dizen: justicia et pax osculate sunt; y de un verso de
-Virgilio que dize: jam redit et Virgo, redeunt Saturnia regna.
- Y porque todo vaya declarado, los nombres de las personas se entenderán
-por estas letras:
+FARSA DE LA CONCORDIA
+ Farsa nuevamente compuesta por Hernán Lópes de/ Yanguas sobre la felice nueva de la concordia y paz y/ concierto de nuestro felicísimo Emperador/ semper augusto y del/ cristianíssimo Rey de Francia. 
+ 
+ 	Farsa llena de alegrías
+	
+por la paz de nuestros días.	
+Yanguas 
+ Farsa nuevamente compuesta por Hernán López de Yanguas sobre la felice nueva de la concordia y paz y concierto de nuestro felicíssimo Emperador semper augusto y del cristianissímo Rey de Francia. En la cual de introduzen ocho personas: un Correo, el Tiempo, el Mundo, la Paz, la Justicia, la Guerra, Descanso y Plazer.
+ Dirigida al ilustre y muy magnífico señor el señor don Francisco de la Cueva, mayorazgo y primogénito del ilustríssimo señor el señor don Beltrán de la Cueva, Duque de Alburquerque.
+ Las personas entrarán de esta manera: el Correo, como correo, tañendo su corneta; el cual entra en tres partes de la obra, cada vez muy de prissa. El Tiempo y el Mundo, como viejos y en hábitos de pastores, salvo que el Tiempo llevará un instrumento para tañer, cual él quisiere. La Paz entrará muy bien ataviada, como gentil dama, y la Justicia también, salvo que la Paz llevará un ramo verde de oliva en la mano, o de laurel, y la Justicia una vara. La Guerra entrará en hábito de romera, con sus veneras y con su bordón en la mano. Descanso y Plazer entrarán como pastores mancebos, muy regozijados.
+ El argumento y summa de esta obra no es más de dar descanso a los letores y auditores, diciendo el bien que de la paz al mundo viene y los daños que de la guerra se siguen. Fue tomada la materia del psalmista, de unas palabras que dizen: justicia et pax osculate sunt; y de un verso de Virgilio que dize: jam redit et Virgo, redeunt Saturnia regna.
+ Y porque todo vaya declarado, los nombres de las personas se entenderán por estas letras:
 Por C., Correo,
 por T., Tiempo,
 por M., Mundo,
@@ -43,1418 +18,1333 @@ por J., Justicia,
 por G., romera, que es la Guerra,
 por D., Descanso,
 por Pl., Plazer.
- Va dividida en cinco actos, como en ella pareze. Entra cada copla en el
-pie quebrado.
-
-
-
-
-
-
-                                ACTO PRIMERO
-
- Interlocutores: Correo, Tiempo y Mundo
- T.   żQué bozina es la que siento?
-      żQuién la toca tan de prissa?
-      żSi tańen por dicha a missa
-      o si zurre cualque viento?
-      Yo no veo
-      por todo aqueste rodeo
-      ningún zagal que la tańa.
-      Juraré que viene a Espańa
-      por aquí cualque correo.
-      No me engańo.
-      Quiero dejar mi rebańo
-      y la capa, no me engorre.
-      Helo aquí, la posta corre,
-      gesto trae de buen picańo.
-      ˇAh, seńor!
- C.   No me embaraces, pastor,
-      sólo un punto, por tu vida.
- T.   żDe dónde es vuestra venida?
- C.   Donde está el Emperador.
- T.   Bien está,
-      pues żqué nuevas hay allá?
- C.   Hay peligro en descubrillas.
-      Mas llega, pastor, acá,
-      quiero a tu oreja decillas.
- T.   ˇValme Dios,
-      ya son conformes los dos!
- C.   Guárdame secreto agora
-      y queda, viejo, en buen hora.
- T.   En la misma vayáis vos.
-      Cielo y tierra,
-      pues hay paz sin haber guerra,
-      se muestren regozijados;
-      reverdezcan los collados
-      y los vales y la sierra.
-      Las montańas,
-      los bosques, breńas extrańas,
-      los solanos y sombríos,
-      fuentes, arroyos y ríos
-      sientan gozo en sus entrańas.
-      Los poblados
-      vivan de hoy más descansados;
-      vaya la guerra a los moros,
-      los cristianos corran toros
-      con que alivien sus cuidados.
-      Ya los muros
-      bien pueden estar seguros,
-      adarves y barbacanas,
-      y las vegas más tempranas
-      llevar los fructos maduros.
-      Los pastores
-      bien pueden por los alcores
-      repastar bien sus ganados;
-      no teman ya los soldados
-      que les roben los mejores.
-      Claro veo
-      que es cumplido mi desseo
-      y que es llegada sazón
-      de repicar la canción
-      de Gloria in excelsis Deo.
-      Por solaz,
-      yo me tornara rapaz,
-      bailando en esta ladera,
-      si hobiera quien respondiera
-      con el et in terra pax.
-      Digo yo
-      que desque Dios me crió,
-      que ha más de cinco millares,
-      no me vi tan sin pesares
-      como en el punto en que estó.
-      żQué haré?
-      żBailaré o no bailaré,
-      con que el plazer adelante?
-      Dóme a Dios, no sé si cante,
-      que ha mucho que no canté.
-      El cantar
-      mucho suele contentar,
-      si las vozes tienen tronco;
-      mas yo de alegre estoy ronco,
-      pero quiérolo probar.
-      ˇGuárdeos Dios!
-      Ya me ha tomado la tos,
-      nunca jamás se me quita,
-      yo debo tener pepita
-      y raspillas más de dos.
-      Alegría
-      no aprovecha; yo quería,
-      antes que de aquí passasse,
-      cantaros que Dios guardasse
-      tan chapada compańía.
-      Bailar quiero,
-      sí, juro a diez verdadero,
-      pues tengo ronca la voz,
-      y aun saltar de hoz y coz,
-      pues acude tal tempero.
-      Salamón
-      sé que dijo en un renglón
-      que había tiempo de cantar,
-      de sembrar y de plantar
-      y tiempo de otra sazón.
-      ˇA la gala!
-      Huélgome, si Dios me vala,
-      maguera que solo estoy.
-      Yo quiero reventar hoy
-      por tan hermosa zagala.
-      Ella, es ella
-      la paz, que nuestro bien sella,
-      la paz, que nuestro bien quiere,
-      la paz, que, donde estuviere,
-      nadie vive con querella.
-      ˇOh, gran bien,
-      mil gracias a Dios, amén!,
-      que después que Adán nació
-      nunca otra nueva se oyó
-      tal para Jerusalem.
-      Yo me espanto
-      cómo Dios ha obrado tanto,
-      aunque es razón que Dios obre,
-      siquiera porque se cobre
-      su sepulcro sacrosanto.
-      De plazer,
-      no me harto de tańer.
-      ˇOh, quién fuera agora Orfeo,
-      Amfión, Terpandio o Museo,
-      para me satisfacer!
-      żCuáles gentes,
-      si el hombre bien para mientes,
-      por mucho que adevinaran,
-      pensaran que se hermanaran
-      dos reyes tan excelentes?
- M.   De sobejo,
-      en sus maneras y rejo
-      al Tiempo veo en regozijo.
-      ˇGloria al Padre, gloria al Hijo,
-      loco se torna el buen viejo!
-      żDónde viene?
-      ˇGran plazer es el que tiene,
-      baila y canta todo junto!
-      Si no es él, yo no barrunto
-      quién es. Llegar me conviene.
-      ˇHao! żQuién eres
-      que muestras tantos plazeres
-      a solas por este ejido?
- T.   ˇCómo! żNo me has conocido?
- M.   No, si no me lo dijeres.
- T.   Yo te digo
-      que soy el Tiempo, tu amigo.
- M.   żCómo vienes tan ufano?
- T.   Yo lo diré, Mundo hermano,
-      que huelgo mucho contigo.
- M.   ˇOh, vejaz,
-      más verde vienes que agraz!
- T.   Sábete que ya retoço.
- M.   żA qué fin te tornas moço?
- T.   Porque hay en la tierra paz.
- M.   żEn la tierra?
- T.   Sí, que nunca verás guerra.
- M.   Declárame esso mejor.
- T.   Porque nuestro Emperador
-      contra turcos la destierra.
- M.   Dame cuenta.
- T.   Pardiós, punto no te mienta,
-      que el mentir corrompe el gusto.
-      Sabe que César augusto
-      se sale con cuanto tienta.
-      La Fortuna
-      siempre le es tan oportuna
-      que porque a César le sobre,
-      huelga de quedarse pobre
-      y, por le servir, ayuna.
- M.   De este crey
-      que dijo no sé en qué ley
-      aquel sabio más que humano
-      que tiene Dios en su mano
-      siempre el coraçón del Rey.
- T.   Dentro y fuera
-      quiere Dios que el buen rey quiera
-      aquello que más le aplaze,
-      lo cual nuestro César haze
-      sin errar de su carrera.
- M.   Con sus modos
-      temen ya los turcos todos
-      en todo el mundo su nombre.
- T.   No hay nación que no se assombre
-      con ver que excede a sus godos.
-      Ya tú, hermano,
-      sabrás cómo este verano,
-      fiesta de la Magdalena,
-      embarcó en hora buena
-      a ver el mundo italiano.
- M.   Bien lo sé,
-      y la flota con que fue
-      a recebir su corona,
-      porque dentro en Barcelona,
-      no lejos de él, me hallé.
- T.   Oye atento:
-      luego le vino tal viento,
-      que a las Italias passó
-      y luego desembarcó
-      en Génova muy contento.
-      Con mil fiestas,
-      con puentes en el mar puestas,
-      los genoveses salieron
-      y al gran César recibieron
-      con invenciones honestas.
-      Finalmente,
-      aunque otras cosas no cuente,
-      luego dieron obediencia
-      Génova, Pisa y Florencia
-      con otra italiana gente.
- M.   żPues Venecia...?
- T.   Venecia tanto se precia
-      porque está en agua assentada,
-      que se mostró rebotada.
- M.   No ha dejado de ser necia.
-      Aunque Marcos
-      tenga tesoros y barcos
-      y el León las uńas fieras,
-      a César y a sus banderas
-      fuera mejor poner arcos.
- T.   La jatancia
-      de peligro al Rey de Francia,
-      desque vio a César passado,
-      la flema se le ha bajado,
-      que en ella no vio ganancia.
-      Y los dos
-      halos conformado Dios
-      de tal arte con sus manos,
-      que entre tan grandes hermanos
-      nunca más se verá tos.
-      Porque es fama
-      que el Rey toma a su madama,
-      Reina de valor sin fin,
-      y casa con su dolfín
-      a la hija de esta dama.
- M.   Grandes bienes
-      nos vienen de los rehenes.
- T.   A mí pensallo me espanta.
-      También casan nuestra infanta
-      con el gran Duque de Urlienes.
-      Con lo cual
-      es hecha una trama tal,
-      que ya tiemblan los paganos
-      y los reinos de cristianos
-      han dado fin a su mal.
- M.   Si pidieras,
-      antes que me lo dijeras,
-      albricias, que era razón
-      yo te diera mi jubón,
-      el de mangas domingueras.
- T.   Ya ternemos
-      en todos nuestros extremos,
-      sin que nadie se destempre,
-      justicia y paz para siempre
-      y a Jano no le veremos.
- M.   Sus, andar.
-      Bien sé yo en que ha de parar
-      este mi gozo y plazer;
-      comiença, Tiempo, a tańer
-      que es razón ya de bailar.
- T.   ˇAlto, Mundo!
-      ˇOh, qué son tan perjocundo!
- M.   ˇSoncas, no puede mejor!
- T.   ˇFavorécete, pastor!
- M.   ˇViva César sin segundo!
- T.   Bien está
-      lo bailado, basta ya.
- M.   Como tú, Tiempo, quisieres.
- T.   Parece que oyo mujeres.
-      Callemos, llégate acá.
-
-
-                                ACTO SEGUNDO
-
- Interlocutores: Paz, Correo, Justicia
- P.   ˇVálame Nuestra Seńora!
-      żQué es esto? No lo adevino:
-      żquién passa por el camino
-      tańendo corneta agora?
-      Bien es ver
-      quién viene, para saber
-      si a dicha trae cualque nueva.
-      Mas, según la prisa lleva,
-      podrá ser no responder.
-      Gentil hombre,
-      perdonad, que no os sé el nombre.
- C.   Noble dama, żqué pedís?
- P.   Que me digáis dó venís:
-      mi pregunta no os asombre.
- C.   Dama, vengo
-      de Italia, camino luengo,
-      en postas, con prissa harta.
-      Perdonad que no me tengo
-      más de daros esta carta,
-      en la cual
-      veréis la firma imperial;
-      vuestro nombre, en sobre escrito.
-      Leedla poco a poquito,
-      y Dios os guarde de mal.
- P.   Entre mí
-      la quiero leer aquí.
-      ˇDios vaya siempre contigo!
-      César habla aquí comigo,
-      ˇen dichosa hora nací!
-      Grandes cosas
-      nunca vistas, milagrosas,
-      vienen en este papel.
-      Muchas gracias doy a aquel
-      que me quita las esposas.
-      Mi plazer
-      comience ya a florecer,
-      grane, grane, mi alegría,
-      ˇoh, bendito sea aquel día
-      que César pudo nacer!
-      ˇCuán bien fuera
-      que cien mil lenguas tuviera,
-      cada cual con su garganta,
-      con facundia tal y tanta
-      que a Marco Tulio excediera!
-      Mas la Fama,
-      que siempre lenguas derrama,
-      terná por bien de suplir
-      lo que yo no sé dezir
-      de tan bien hilada trama.
-      Ya mis males,
-      mis destierros desiguales,
-      del todo son fenescidos
-      y los brutos animales
-      no verán más mis gemidos.
-      Que en verdad,
-      desque faltó guaridad
-      para mí entre las más gentes,
-      entre las fieras serpientes,
-      vi mayor conformidad.
-      Los leones
-      de feroces coraçones
-      de sí no me desecharon
-      y los tigres se alegraron,
-      basiliscos y escorpiones.
-      Esto digo
-      porque me dieron abrigo
-      sierpes de diversos nombres,
-      y solos, solos los hombres
-      mostraban odio comigo.
-      Y la guerra
-      tinié tomada la tierra
-      con sus armas y trastrás,
-      pero yo pienso de hoy más
-      de tratalla como a perra.
-      Su gran fuego
-      al mundo traié tan ciego,
-      si César no socorriera,
-      que mi nombre se perdiera
-      y no hallara sosiego.
-      Pero agora
-      hállome tan gran seńora
-      con esta carta que trayo,
-      cuan seńor se halla el mayo
-      cuando al mundo pinta y dora.
-      Ya bien puedo
-      lançar de mí todo el miedo
-      con tan cierta relación,
-      pues me sacó de prisión
-      el gran César con su dedo.
-      Quién podría
-      explicar el alegría
-      con que yo torno a este mundo,
-      pues la guerra va al profundo
-      y la tierra y mar es mía.
-      Tanto bien
-      le dé Dios, amén, amén,
-      pues su mano tanto abarca,
-      que sea absoluto monarca
-      sin haber jamás desdén.
-      Si topasse
-      con quien mi bien relatasse,
-      mucho más descansaría.
-      Quiérome ir por esta vía,
-      si a dicha alguno encontrasse.
-      Gran codicia
-      tengo de ver a Justicia
-      que ha mucho que no la vi.
-      Parece que viene allí
-      o mi vista se desquicia.
-      żA dó va?
-      Yo pienso que viene acá,
-      ya del camino me apoco,
-      quiero descansar un poco;
-      si es ella, no tardará.
- J.   żQué es aquesto?
-      Algún gran milagro es esto.
-      żQué corneta es la que suena?
-      żSi es alguna nueva buena?
-      Quiero ver quién passa presto.
-      Por Dios, creo
-      que a mí viene este correo;
-      quiero salille al atajo.
- C.   Quitado me has de trabajo,
-      Justicia, pues que te veo.
- J.   żQué me dices?
- C.   Nuevas, nuevas muy felices,
-      que la paz es libertada
-      y la guerra es desterrada.
-      No preguntes más ni atizes.
- J.   Nuevas buenas
-      te dé Dios, de gloria llenas,
-      y te libre de malicia.
- C.   Dios quede con ti, Justicia.
- J.   Él te dé buenas estrenas.
-      La Paz veo,
-      ya se cumple mi desseo.
-      Quiero hablar desde agora.
-      Dios te salve, Paz, seńora,
-      por cuya vista rodeo.
- P.   ˇOh, bien vengas,
-      para que al mundo sostengas,
-      Justicia, acá con tu vara!
- J.   Huelgo, Paz, con ver tu cara
-      y oliva con faldas luengas.
- P.   żCómo estás?
- J.   En mi rostro lo verás,
-      alegre y más que contenta.
- P.   La margarita es inventa.
- J.   Esso por ti lo dirás.
-      Un correo
-      que llaman Espera in Deo
-      me dijo en pocas razones
-      que eras libre de prisiones.
- P.   Ya mi libertad posseo.
-      ˇSea loado
-      quien al mundo me ha tornado,
-      que ya me cubre tiricia,
-      y el que a ti, hermana Justicia,
-      la vara te ha confirmado!
- J.   Muy ufana
-      me hallo con tal hermana,
-      mas escucha un poco agora:
-      żQuién será aquella que llora
-      por aquella trasmontana?
- P.   Gran mal trae,
-      a cada passo se cae.
-      Trage muestra de romera.
- J.   Oyamos ora siquiera
-      qué dice o dó se retrae.
- R.   ˇOh cuidado
-      jamás visto ni pensado!
-      żDónde tan presto has venido?
-      żQué es esto? żPor dó he subido
-      en tan fragoso collado?
-      Todo es peńas,
-      jarales, montes y breńas,
-      żqué es de mis ciudades ricas?
-      ˇOh, benditas pajaricas,
-      que estáis por aquí extremeńas!
-      Escuchad,
-      siquiera por caridad,
-      mis congojas y querellas;
-      puesto que no os doláis de ellas
-      ni de mi gran soledad,
-      no os me vais.
-      Parece que revoláis,
-      no os espante mi presencia,
-      tened un poco paciencia,
-      después íos a do mandáis.
-      Escarmiente
-      quien presume de prudente;
-      nadie diga bien me estoy;
-      sepan, sepan todos hoy
-      que Fortuna a todos miente.
-      Cuán pujante
-      me he visto mil ańos ante,
-      Guerra, de todos temida.
-      Agora véome caída
-      y no veo quién me levante.
-      Ya del Cielo
-      no espero ningún consuelo,
-      que siempre fue mi enemigo;
-      la tierra está mal comigo,
-      el mar no me tiene duelo.
-      Rocas duras,
-      sierpes de estas espessuras,
-      condoleos ya de mi mal,
-      no haya bestia ni animal
-      que no sienta mis tristuras.
-      żQué harán
-      cuantos comían de mi pan,
-      que era gran parte de buenos?
-      Sin duda me echarán menos
-      y de hambre morirán.
-      Capitanes,
-      gentiles hombres, galanes,
-      con otros bisońos fieros,
-      andando yo en los oteros,
-      żquién suplirá sus afanes?
-      Otro mal
-      hay tras este desigual:
-      es que se verá muy tarde
-      quién es valiente o cobarde,
-      sin la guerra o su metal.
-      Cuando el Papa
-      se solía vestir mi capa,
-      el cual es vuelto en paloma,
-      algo mandaba yo en Roma,
-      vestida toda de chapa.
-      Si quería,
-      en dos credos revolvía
-      franceses con italianos,
-      alemanes, castellanos,
-      hasta turcos con Hungría.
-      Mas mi hado
-      de tal suerte se ha mudado
-      en casos rezios, atroces,
-      que temo morir a coces,
-      si la paz lo ha barruntado.
-      Por manera
-      que el mal que mi mal espera
-      en el presente comedio
-      no ha hallado otro remedio
-      sino tornarme romera.
- P.   Gran traidora,
-      ésta es la Guerra, que llora.
-      ˇCuál viene dissimulada!
- J.   Mi fe, no aprovecha nada,
-      quiérola prender agora.
- R.   ˇAy de mí,
-      desde el punto en que nací
-      nunca me vi tan desierta!
-      żQué haré? ˇDoyme por muerta,
-      la Justicia viene aquí!
-
-
-                                ACTO TERCERO
-
- Interlocutores: Justicia, Guerra, Paz, Tiempo, Mundo
- Entra Justicia.
- J.   No os escondáis, żqué parláis?
- R.   Seńora, no digo nada.
- J.   Sed presa de esta vegada.
- R.   żPor qué presa me lleváis?
- J.   Mi prisión
-      será por la Inquisición.
- R.   Yo no cometo heregías.
- J.   No curéis de essas porfías,
-      que no os prendo a sin razón,
-      embaidora.
- R.   No lo soy, por Dios, seńora,
-      ni en mi trage hay tal manera.
-      Soy una pobre romera
-      que por sus pecados llora.
- J.   Satanás
-      nunca jamás dańa más,
-      cuando huye de la cruz,
-      que cuando es ángel de luz
-      o en el hábito que vas.
- R.   Tus razones
-      sospechan de mí traiciones,
-      según por ellas me tratas.
-      Pues sabed que las beatas
-      ansí van las estaciones.
- J.   Vos sois tal,
-      que Alecto, furia infernal,
-      más en dańar no se esmera,
-      ni Tesífona y Megera
-      nunca atraman tanto mal.
-      Por bellaca
-      os quiero atar a un estaca.
- R.   żA mí, seńora? żPor qué?
- J.   Llegaos, que yo os lo diré.
- R.   No me apretéis, que estó flaca.
- J.   No penséis
-      que con esto pagaréis.
- R.   żDó están mis hijos y hermanos?
- J.   Dad acá essos pies y manos,
-      que después los llamaréis.
-      Si yo os ato
-      y de esta manera os trato,
-      vos lo tenéis merecido.
- R.   żQué males he cometido?
- J.   Yo os lo diré en poco rato:
-      ante mano
-      ofendéis al Soberano,
-      porque echáis su paz del mundo
-      y, con esto, lo segundo:
-      hacéis lo sacro profano.
-      He notado
-      que el que va mejor librado
-      de vuestra hueste o pendón
-      es el que es mayor ladrón
-      o más hombres ha matado.
-      Por tres blancas
-      hazes mil personas mancas;
-      otros hazes mil pedaços,
-      otros sin manos o braços,
-      otros cojos con sus trancas.
-      Vos quemáis
-      las miesses donde llegáis,
-      con un poder dissoluto,
-      y los árboles con fruto
-      por los troncos los cortáis.
-      Las doncellas
-      hazéis gran vileza en ellas,
-      no menos en las casadas,
-      żqué diré de las posadas,
-      cómo echáis el huésped de ellas?
-      Sus capones,
-      sus gallinas y ansarones,
-      sus mantecas y tocinos,
-      pan y vino y palominos,
-      todo lo gozan ladrones.
-      Los sudores
-      de los tristes labradores,
-      sus terneras, sus ganados,
-      todo lo dais a soldados,
-      y aun otras cosas mejores.
-      Sus oficios
-      dejan por andarse en vicios,
-      vos los volvéis haraganes,
-      vos sois madre de rufianes
-      y fuente de los bullicios.
- R.   Pues, seńora,
-      yo sé que soy pecadora,
-      mas algún bien me dio Dios.
- J.   Esse bien dezildo vos.
- R.   Pues dejadme un poco agora.
- J.   Que me plaze.
- R.   Lo que a mí más satisfaze
-      es, mientra digo y prosigo,
-      que os hayáis muy bien comigo,
-      que de miedo no me enlaze.
- J.   Sus, dezid.
- R.   żQuién conociera a David,
-      ni los fuertes filisteos,
-      ni los cinco Macabeos,
-      si jamás no hobiera lid?
-      Muchos son
-      que siguiendo mi pendón,
-      sus nombres esclarescieron,
-      de los cuales sé que fueron
-      Josué, Moisén y Sansón.
-      Los romanos,
-      arrimando a mí sus manos,
-      adelantaron su imperio:
-      Camilo, Graco y Tiberio
-      y Cipiones africanos,
-      un Marcelo,
-      Sulpicio, Bruto, Metelo,
-      Emilio, Curcio y Fabricio,
-      Horacio Cocle y Domicio,
-      con otros que no revelo.
-      Mi intención
-      no es hablar en Macedón,
-      ni en Césares ni Pompeos,
-      ni en Héctor ni en Tolomeos,
-      mas vengo a vuestra nación.
- J.   Dezid, pues.
- R.   żQuién esclareció a Cortés,
-      puesto cuasi en otro mundo?
-      Vos diréis lo que yo fundo,
-      que es a mi causa marqués.
-      żQuién no atina
-      que a mi causa aquel de Urbina
-      fue puesto en estimación,
-      y el de Leyva y de Alarcón,
-      hombres de memoria dina?
-      Otros callo,
-      por el tiempo en que me hallo,
-      dignos de eterna memoria,
-      que por no alargar la historia,
-      es muy mejor abreviallo.
-      Pues si doy
-      a vivos fama do estoy
-      y a muertos hago alabarlos,
-      żpor qué me destierra Carlos
-      a los garamantas hoy?
-      Si es su fin
-      cubrir las armas de orín,
-      que de no tratallas mana,
-      poco en esto César gana,
-      en romance ni en latín.
-      Pues la paz,
-      su fin es de dar solaz
-      y gastar la vida en fiestas:
-      no son condiciones éstas
-      que hazen gente sagaz.
-      Yo, a lo menos,
-      muchos ruines hago buenos
-      y tres mil bajos levanto.
-      Cuando la paz haga tanto,
-      quiebren mis tiros y truenos.
- J.   ˇOh, malvada!
-      żDe la paz, tan alabada,
-      de Dios por su misma boca,
-      osas hablar como loca?
-      ˇPerdida, más que treguada,
-      toma, toma,
-      no derrames más carcoma!
- R.   ˇAy, Justicia, que me has muerto!
- J.   żNo sabes cuán sin concierto
-      diste sacomano a Roma?
-      ˇMal miraste
-      los templos que despojaste!:
-      en sacrosantos lugares,
-      custodias, cruces y altares
-      y aun los cálices robaste.
-      ˇMal mirabas
-      las damas que deshonrabas!
-      Toda Roma dando gritos,
-      tú, cebada en tus delictos,
-      los sacros prestes jugabas.
-      ˇOh, maligna,
-      de toda piedad indigna,
-      puerta de todos los males,
-      yo haré que no te iguales
-      con la paz, santa y benigna!
-      Tú no sabes,
-      aunque tus cosas alabes,
-      quién es la paz y sus mańas,
-      sus condiciones y entrańas,
-      que las cantan ya las aves.
-      En el Cielo
-      no tienen mayor consuelo,
-      después de Dios, ni solaz,
-      que estar los santos en paz.
-      żQué harán, pues, los del suelo?
-      Porfiaría
-      que el reino infernal sería
-      perdido todo en tropel,
-      si entre los ministros de él
-      hobiesse guerra algún día.
-      Da muy tutos
-      la tierra todos sus frutos,
-      todos viven en convén,
-      el mar se navega bien,
-      no hay piratas dissolutos.
-      Mil plazeres
-      gozan hombres y mugeres,
-      las cosas sacras no cessan,
-      van seguros y atraviessan
-      a las ferias mercaderes.
-      Lo que ganan,
-      lo que sudan, lo que afanan,
-      gózanlo padres y hijos;
-      en las ventas y cortijos
-      sin recelo se rellanan.
-      El más alto
-      no recela sobresalto,
-      los bajos viven seguros,
-      los surcos tienen por muros,
-      especial si yo no falto.
-      De estos bienes,
-      ningunos, Guerra, tú tienes,
-      salvo dissipar ciudades
-      y tratar civilidades;
-      nunca la verdad mantienes.
-      Pues, maldita,
-      sin que más de ti repita,
-      gran merced hoy Dios te haze,
-      si lo bueno te desplaze,
-      con que la vida te quita.
- P.   ˇMuera, muera,
-      tan cautelosa romera!
- R.   ˇAy, seńora, que estó atada!
- P.   No se me da de esso nada,
-      dońa cevil hechizera.
- R.   ˇGran dolor!
-      żNo hay por aquí algún pastor
-      a quien moviessen mis vozes?
- T.   Anda allá, Mundo, que gozes,
-      vamos a dalle favor.
- M.   A mi ver,
-      la voz tiene de muger.
- R.   ˇAy, que me matan de veras!
- T.   żSi la comen bestias fieras?
- M.   Asmo que esso debe ser.
-
-
-                                 ACTO CUARTO
-
- Interlocutores: Tiempo, Mundo, Paz, Guerra, Justicia, Descanso, Plazer
- T.   Acá estáis ambas a dos,
-      nuestro mal se desperdicia.
- M.   żQuiénes son?
- T.   Paz y Justicia.
- M.   Gran consuelo para nos.
-      ˇOh, donzellas
-      honestas, santas y bellas,
-      estéis mucho de en buen hora!
- T.   żQuién es essa pecadora
-      que publica sus querellas?
- J.   Tiempo y Mundo,
-      vengáis en passo jocundo
-      por esta florida sierra.
-      Esta romera es la Guerra,
-      puerta del ciego profundo.
- M.   No me agrada.
-      żPor qué la tenéis atada?
- P.   Porque acabe sus engańos.
- M.   Juro a mí, que estotros ańos
-      que estaba más engallada.
- T.   ˇCuán humilde
-      se está, sin faltalle tilde!
-      Como raposa se inclina.
- M.   ˇAh, traidora me declina!
- J.   ˇDalde, dalde, sacudilde!
- P.   ˇDale, hermana!
- J.   ˇPlázeme de buena gana!
- P.   Tú, Mundo, en los pestorejos.
- R.   Éstos deben ser los viejos
-      que acusaron a Susana.
- M.   ˇCata, cata!
-      żAtada de pies y pata,
-      usáis de vuestra malicia?
- R.   Y aún diré mal de Justicia,
-      si de esta suerte me trata.
- J.   żCómo ansí?
-      żQué podéis decir de mí,
-      puesto que os deje parlar?
- R.   Pues dejadme resollar.
- J.   Soy contenta desde aquí.
- R.   Bien sabéis,
-      Justicia, no os enojéis,
-      que os hizo Dios de metal
-      que tornéis en bien el mal
-      y lo ajeno no toméis.
- J.   Bien lo sé.
- R.   Pues oíd lo que diré,
-      no me mostréis mala cara:
-      ˇcómo retorcéis la vara!
- J.   Vos mentís, nunca tal fue.
- R.   Yo lo pruebo,
-      si das licencia de nuevo.
- J.   Yo la doy, mira qué dizes.
- R.   Digo que un par de perdizes
-      la trastornan y aun un huevo.
-      Los capones,
-      las guallinas y ansarones
-      y también Garcisobaco,
-      como tiene el palo flaco,
-      hazenle hazer cedibones.
-      Los muy ricos,
-      aunque sean hombres inicos,
-      hazen de buen pleito malo
-      y no castiga esse palo
-      sino los más pobrecicos.
-      Los derechos
-      que llevas y los cohechos,
-      las mantequillas y truchas
-      y los dineros que ahuchas
-      no son públicos provechos.
-      El variarte
-      mil vezes a cada parte,
-      haziendo alegres y mustios,
-      con diez pares de Salustios
-      no probarás que es buena arte.
-      Puesta en trona
-      con auctoridad catona,
-      la cual a muchos ofusca,
-      pelas al que más te busca,
-      como prudente ladrona.
- J.   Algo de esso
-      yo, Guerra, te lo confiesso,
-      que acontece en mis ministros,
-      pero nunca en mis registros
-      se vio errado processo.
-      Mis jueces,
-      hombres son, pecan a vezes,
-      pero de mí tal no digas.
- R.   Pues żpor qué no los castigas
-      como a los pobres soezes?
- J.   Esso quede
-      para Quien todo lo puede
-      y lo alcança y sabe todo.
- P.   A ti porné yo del lodo,
-      que no habrá quien me lo viede.
- T.   Dime, Paz,
-      żquies que le pegue un palaz?
- P.   Passo, passo, no la mates,
-      mejor es que la desates.
- J.   No hablas como sagaz.
-      Si se suelta,
-      podrá ser que dé tal vuelta,
-      según sus artes y mańas,
-      que Italias, Francias y Espańas,
-      todo lo ponga en revuelta.
- R.   No hayáis miedo.
- T.   Pues juraldo y alçá el dedo.
- R.   Yo lo juro de lo hazer,
-      el dedo no puede ser
-      porque está atado y no puedo.
- J.   Alto, pues,
-      soltalde manos y pies.
- M.   Vete ya, que suelta estás.
- R.   Yo me voy a do jamás
-      os veré ni me verés.
- T.   De estas santas
-      y de sus mantos y mantas
-      y su bordón y veneras,
-      Dios me libre muy de veras.
- M.   Allá irá a los garamantas.
- R.   żPor dó iré,
-      triste de mí? żQué haré,
-      maltratada y abatida,
-      de todo el mundo expelida,
-      sin haber hecho porqué?
-      Tal me veo
-      que a mí misma me desseo.
-      żHay algún pastor aquí?
- Pl.  Descanso, żquién viene allí?
- R.   Yo, que mis males llanteo.
- D.   ˇHao! żQué has?
-      żDó vienes, a dónde vas?
- R.   Soy la sin ventura Guerra.
- Pl.  ˇCómo! żTe vas de la tierra?
- R.   No me dejan estar más.
- D.   żQuiénes son
-      los que te echan del mesón?
- R.   No por cierto mi malicia,
-      el Tiempo, Paz y Justicia,
-      y el Mundo, contra razón.
- Pl.  żDó los dejas?
-      Dínoslo, pues que te alejas.
- R.   Ahí quedan, en un pradal.
- D.   Plázenos de ver tu mal.
- R.   żA quién contaré mis quejas?
- Pl.  Espera, espera,
-      żcómo vas hecha romera?
- R.   Ha poco que estuve en Roma.
- D.   ˇOh, ladrona, toma, toma!
- Pl.  żHuís, dońa bordonera?
- D.   ˇGrida, grida,
-      ya la Guerra es despedida,
-      para nunca más volver!
-      ˇHuelga, Plazer, a plazer!
-      ˇGozemos de hoy más la vida,
-      que ha mil ańos
-      que pastores y rebańos
-      andamos cabezcaídos!
- Pl.  Ya son los tiempos venidos
-      que dan fin a nuestros dańos.
- D.   Hora, andemos,
-      quiçá la Paz toparemos
-      por estos verdes collados.
- T.   Dos zagales repicados
-      siento venir, escuchemos.
-
-
-                                 ACTO QUINTO
-
- Interlocutores: Descanso, Paz, Plazer, Justicia, Tiempo y Mundo
- J.   Dios os guarde, Dios os guarde,
-      todos cuatro os dé remanso.
- P.   Dios te dé salud, Descanso,
-      y a Plazer muy buena tarde.
- Pl.  ˇQuién pensara
-      jamás, Paz, de ver tu cara,
-      que a todos nos beneficia!
-      ˇQuién pensara, di, Justicia,
-      ver tan derecha tu vara!
- J.   De verdad,
-      obras de su Magestad
-      son éstas, después de Dios.
- P.   Mas, żquién os dijo a los dos
-      nuevas de esta libertad?
- D.   En las villas
-      hazían grandes maravillas
-      todos, por amor de ti.
-      Yo en Burgos lo trasoí,
-      yendo a vender mantequillas.
- P.   Esto, hermano,
-      haze el gran César romano,
-      muy más felice que Agusto,
-      que a su favor y a su gusto
-      todo le viene a la mano.
- D.   Ten por cierto
-      que en poblado ni en desierto
-      no quede palmo de tierra
-      que contigo y sin la guerra
-      no se dé a humo muerto.
- J.   Tus razones,
-      según, Descanso, dispones,
-      me dan de claro a entender
-      que en Espańa hemos de ver
-      gentes de todas naciones.
- Pl.  A manojos
-      pienso ver con sendos ojos
-      los arimaspos venir,
-      los cuales suelen reńir
-      con grifos y haber enojos.
- D.   Digo más:
-      que con tus ojos verás
-      los terribles antrofagos,
-      que acá nos hazen halagos,
-      vueltos los pies cara tras.
- Pl.  Más veremos:
-      andar por nuestros extremos
-      los que llaman ofigenes,
-      que, en tocando, dan mil bienes,
-      cuando ponçońa bebemos.
- D.   Muy continos
-      andarán los androginos,
-      sin vergüença y sin empacho;
-      cada cual es hembra o macho,
-      y van por ambos caminos.
- Pl.  Con sosiego
-      los hirpios veremos luego,
-      que entre los otros se extreman,
-      los cuales nunca se queman,
-      descalços por cima el fuego.
- D.   Verás ledos,
-      muy sosegados y quedos,
-      los milones cómo vienen,
-      los cuales verás que tienen
-      en cada pie ocho dedos.
- Pl.  Sin conquistas,
-      vernán los ginosofistas,
-      de los cuales te repito
-      que miran el sol de hito,
-      sin agravio de sus vistas.
- P.   Cosas pocas
-      se han visto de las que tocas.
- D.   Pues verás otros matizes:
-      los ciritas sin narizes,
-      los astonomos sin bocas.
- Pl.  En volandas,
-      vernán acá coromandas
-      gloria les será el destierro
-      y con sus dientes de perro
-      mascarán nuestras viandas.
- D.   Sin recelos
-      tú verás los monocelos,
-      que vienen a sendos pies,
-      y los sátiros después,
-      que vuelan sin tener vuelos.
- Pl.  Tus desseos
-      han de ver otros más feos
-      passearse por nuestras rúas,
-      caballeros los pigmeos
-      en cabrones contra grúas.
- J.   ˇOh, qué edad,
-      qué tiempo de caridad,
-      es llegado a nuestra Espańa!
- T.   Cada cual en su cabańa
-      terná gran seguridad.
- M.   Ya es tornada
-      otra vez la edad dorada,
-      Saturno ya resucita,
-      la plata y cobre se quita,
-      la de hierro es acabada.
- D.   Los pertrechos
-      daldos todos por deshechos,
-      los trabucos y lombardas,
-      y las picas y alabardas
-      y las casas y los techos.
- Pl.  Los zagales
-      ternán tales temporales,
-      que desnudos se andarán
-      y la tierra dará pan,
-      sin arar los andurriales.
- D.   Arboledas
-      habrá por todas veredas,
-      siempre estará el mundo ufano,
-      contino será verano,
-      nadie querrá las monedas.
- Pl.  La verdad,
-      la virtud, la castidad,
-      que andaban cuasi perdidas,
-      todas andarán floridas,
-      cobrada su auctoridad.
- D.   La lujuria,
-      la soberbia con la furia,
-      las cautelas y traiciones
-      y los saltos de ladrones
-      ya no nos harán injuria.
- Pl.  Nuestros hatos,
-      cabras, ovejas, chivatos
-      no habrán miedo a lobatones,
-      ni las vacas a leones,
-      ni los mures a los gatos.
- D.   Las espadas,
-      todas serán olvidadas,
-      carcomidas del orín;
-      todas las armas, en fin,
-      serán en hoces tornadas.
- Pl.  Provechosa
-      eres, Paz, a toda cosa.
- P.   Tú verás, andar, hermano,
-      con los pollos el milano,
-      con el gallo la raposa.
- D.   Y aun verán
-      tener paz el gavilán
-      con los tordos y pardales
-      y las águilas caudales
-      las perdizes amarán.
- Pl.  A manadas,
-      las liebres acobardadas
-      andarán entre los galgos;
-      todos seremos hidalgos,
-      las alcabalas dejadas.
- D.   Los venados
-      andarán muy hermanados
-      con los canes más ventores,
-      y las palomas y açores
-      conformes por los collados.
- Pl.  Y aun saldrán
-      las lechuzas donde están,
-      sin temor a mediodía,
-      y las garças tomarán
-      halcones en compańía.
- T.   Razón sobra,
-      pues la paz haze tal obra
-      que todos nos gasagemos.
- M.   Bien has dicho, ˇsus, bailemos,
-      que tal tiempo ya se cobra!
- T.   Hora, pues,
-      de cuatro bailemos los tres,
-      tú, Mundo, haznos el son.
- M.   Poneos todos en jubón
-      y sacudid bien los pies.
-      ˇSus, que tańo!
- D.   Pardiós, que es son de picańo.
- Pl.  Bailemos a la barrisca.
- T.   No nos tańas la morisca,
-      sino el villano de antańo.
- M.   Soy contento,
-      andad todos con buen tiento.
- T.   Apártate allá, rapaz.
-      ˇA la gala de la Paz,
-      que con su vista me aliento!
- Pl.  Ande más
-      y no mudes el compás,
-      que el son mismo da codicia.
-      ˇLa gala de la Justicia!
- M.   ˇBuena çapateta das!
-      Yo he gozado
-      de las vueltas que habéis dado,
-      táńeme tú, Tiempo, un poco
-      y verás como las floco.
-      Hazme un son muy repicado.
- T.   ˇAlto, Mundo!
- M.   Juro a mí que ya le tundo.
- D.   Dale a tu baile favor.
- M.   ˇViva nuestro Emperador,
-      pues que no tiene segundo!
- D.   ˇMás, más, más!
- T.   ˇCómo! żPor bailar estás?
- D.   Sí estoy, bien será que hipe:
-      ˇViva el Príncipe Filipe!
- Pl.  Juro al Mundo, bueno vas.
- M.   Paz, seńora,
-      bailad vos un poco agora
-      por libertad tan feliz.
- P.   ˇGuarde Dios la Emperatriz,
-      que a su César tanto adora!
- Pl.  Entre cien
-      ninguna baila tan bien.
- J.   Muy gentil gracia le da.
- T.   Salid vos, Justicia, acá.
- J.   Que me plaze sin desdén.
- D.   ˇQué plazer
-      es de vella revolver!
- M.   Juro a diez que a mí me espanta.
- J.   ˇViva mil ańos la Infanta,
-      con lo que está por nacer!
- T.   Bien está.
-      Muy noche se haze ya,
-      que hemos estado mil horas.
- Pl.  Pues digan estas seńoras
-      qué mandan y ansí será.
- P.   Que os vistáis
-      y con nosotras os vais,
-      pues que sois de nuestro bando.
- D.   Alto, pues. Vamos cantando.
- J.   Hágase como mandáis.
- P.   Pues, pastores,
-      dezid los dos los tenores;
-      las dos diremos el alto
-      otros dos contras mayores.
- M.   Alto, nadie quede falto.
-
-
- Villancico
-      De allá vienen bienes
-
-
-      do está nuestro bien.
-
-
-      En nuestros extremos,
-
-
-      tal César tenemos,
-
-
-      que por él veremos
-
-
- a Jerusalem.
-
-
- Él quita los clavos
-
-
- de nuestros rebańos;
-
-
- pues ˇviva los ańos
-
-
- de Matusalén!
-                                     Fin
-      Roguemos hoy día,
-
-
-      pues paz nos invía,
-
-
- que mucha alegría
-
-
- le dé Dios. Amén.
-                                                                    Yanguas.
- Dedicación de esta obra al ilustre y muy magnífico seńor el seńor don
-Francisco de la Cueva. En la cual dize el autor cuánto le debe por las
-mercedes que de él recibe.
-      Del pelicano se cuenta
-
-
-      ser un ave en los desiertos
-
-
-      que a sí misma se ensangrienta
-
-
-      por no ver sus hijos muertos.
-
-
-      Item por dalles cebico,
-
-
-      se pone en tan gran estrecho
-
-
-      que se saca con su pico
-
-
-      sangre viva de su pecho.
-
-
-      Y dado que aquesto haga
-
-
-      con tormentos tan esquivos,
-
-
-      al fin él mismo se paga
-
-
-      con tornar sus hijos vivos.
-
-
-      Mas si vos a vos quitáis
-
-
-      del pecho lo que coméis
-
-
-      y a vuestro Yanguas lo dais,
-
-
-      gran ventaja le hacéis.
-
-
-      El cisne siempre fue blanco,
-
-
-      no puede dejar de sello;
-
-
-      el gallo contino es franco,
-
-
-      nadie tiene duda de ello.
-
-
-      Pues assí se me figura
-
-
-      que es blanca vuestra nobleza;
-
-
-      y faltaros la franqueza
-
-
-      ya sería contra natura.
-
-
-      Suele el águila soltar
-
-
-      la presa cuando es pequeńa;
-
-
-      y también dar la cigüeńa
-
-
-      a los suyos ruin manjar.
-
-
-      Mas vos, ilustre seńor,
-
-
-      la presa mayor soltáis
-
-
- y el manjar que a vos quitáis
-
-
- es lo más dulce y mejor.
-
-
- El hidalgo gavilán,
-
-
- cuando prende al pajarico,
-
-
- a veces sufre el afán
-
-
- sin cebar en él su pico.
-
-
- Y por sus obras süaves,
-
-
- manda la ley y el derecho
-
-
- que franquee las otras aves
-
-
- y por él no paguen pecho.
-
-
- Son en vos estos esmaltes
-
-
- tan probados y tan ciertos,
-
-
- que a sacres y girifaltes
-
-
- les podéis franquear los puertos.
-
-
- Yo, un cernícalo de orçuelo,
-
-
- con ver cuál os hizo Dios,
-
-
- no he hallado otro consuelo
-
-
- para mi bien, sino a vos.
-
-
- Pluguiera Dios que yo fuera
-
-
- otro fénix en la vida,
-
-
- para que yo os la ofreciera
-
-
- y fuera bien ofrecida.
-
-
- Mas ofrezcoos, gran seńor,
-
-
- mi farsa, que tenga escudo,
-
-
- pues sois tal y tan deudo
-
-
- de aquel gran Emperador.
-
-
- Porque si se sella en ella
-
-
- vuestro nombre ilustre y claro,
-
-
- ella terná tal mamparo,
-
-
- que ninguno ose mordella.
-                                                                    Yanguas.
-
+ Va dividida en cinco actos, como en ella pareze. Entra cada copla en el pie quebrado.
+
+
+
+
+
+ACTO PRIMERO
+Interlocutores: Correo, Tiempo y Mundo
+T.	¿Qué bozina es la que siento?	
+	¿Quién la toca tan de prissa?	
+	¿Si tañen por dicha a missa	
+	o si zurre cualque viento?	
+	Yo no veo	
+	por todo aqueste rodeo	
+	ningún zagal que la taña.	
+	Juraré que viene a España	
+	por aquí cualque correo.	
+	No me engaño.	
+	Quiero dejar mi rebaño	
+	y la capa, no me engorre.	
+	Helo aquí, la posta corre,	
+	gesto trae de buen picaño.	
+	¡Ah, señor!	
+C.	No me embaraces, pastor,	
+	sólo un punto, por tu vida.	
+T.	¿De dónde es vuestra venida?	
+C.	Donde está el Emperador.	
+T.	Bien está,	
+	pues ¿qué nuevas hay allá?	
+C.	Hay peligro en descubrillas.	
+	Mas llega, pastor, acá,	
+	quiero a tu oreja decillas.	
+T.	¡Valme Dios,	
+	ya son conformes los dos!	
+C.	Guárdame secreto agora	
+	y queda, viejo, en buen hora.	
+T.	En la misma vayáis vos.	
+	Cielo y tierra,	
+	pues hay paz sin haber guerra,	
+	se muestren regozijados;	
+	reverdezcan los collados	
+	y los vales y la sierra.	
+	Las montañas,	
+	los bosques, breñas extrañas,	
+	los solanos y sombríos,	
+	fuentes, arroyos y ríos	
+	sientan gozo en sus entrañas.	
+	Los poblados	
+	vivan de hoy más descansados;	
+	vaya la guerra a los moros,	
+	los cristianos corran toros	
+	con que alivien sus cuidados.	
+	Ya los muros	
+	bien pueden estar seguros,	
+	adarves y barbacanas,	
+	y las vegas más tempranas	
+	llevar los fructos maduros.	
+	Los pastores	
+	bien pueden por los alcores	
+	repastar bien sus ganados;	
+	no teman ya los soldados	
+	que les roben los mejores.	
+	Claro veo	
+	que es cumplido mi desseo	
+	y que es llegada sazón	
+	de repicar la canción	
+	de Gloria in excelsis Deo.	
+	Por solaz,	
+	yo me tornara rapaz,	
+	bailando en esta ladera,	
+	si hobiera quien respondiera	
+	con el et in terra pax.	
+	Digo yo	
+	que desque Dios me crió,	
+	que ha más de cinco millares,	
+	no me vi tan sin pesares	
+	como en el punto en que estó.	
+	¿Qué haré?	
+	¿Bailaré o no bailaré,	
+	con que el plazer adelante?	
+	Dóme a Dios, no sé si cante,	
+	que ha mucho que no canté.	
+	El cantar	
+	mucho suele contentar,	
+	si las vozes tienen tronco;	
+	mas yo de alegre estoy ronco,	
+	pero quiérolo probar.	
+	¡Guárdeos Dios!	
+	Ya me ha tomado la tos,	
+	nunca jamás se me quita,	
+	yo debo tener pepita	
+	y raspillas más de dos.	
+	Alegría	
+	no aprovecha; yo quería,	
+	antes que de aquí passasse,	
+	cantaros que Dios guardasse	
+	tan chapada compañía.	
+	Bailar quiero,	
+	sí, juro a diez verdadero,	
+	pues tengo ronca la voz,	
+	y aun saltar de hoz y coz,	
+	pues acude tal tempero.	
+	Salamón	
+	sé que dijo en un renglón	
+	que había tiempo de cantar,	
+	de sembrar y de plantar	
+	y tiempo de otra sazón.	
+	¡A la gala!	
+	Huélgome, si Dios me vala,	
+	maguera que solo estoy.	
+	Yo quiero reventar hoy	
+	por tan hermosa zagala.	
+	Ella, es ella	
+	la paz, que nuestro bien sella,	
+	la paz, que nuestro bien quiere,	
+	la paz, que, donde estuviere,	
+	nadie vive con querella.	
+	¡Oh, gran bien,	
+	mil gracias a Dios, amén!,	
+	que después que Adán nació	
+	nunca otra nueva se oyó	
+	tal para Jerusalem.	
+	Yo me espanto	
+	cómo Dios ha obrado tanto,	
+	aunque es razón que Dios obre,	
+	siquiera porque se cobre	
+	su sepulcro sacrosanto.	
+	De plazer,	
+	no me harto de tañer.	
+	¡Oh, quién fuera agora Orfeo,	
+	Amfión, Terpandio o Museo,	
+	para me satisfacer!	
+	¿Cuáles gentes,	
+	si el hombre bien para mientes,	
+	por mucho que adevinaran,	
+	pensaran que se hermanaran	
+	dos reyes tan excelentes?	
+M.	De sobejo,	
+	en sus maneras y rejo	
+	al Tiempo veo en regozijo.	
+	¡Gloria al Padre, gloria al Hijo,	
+	loco se torna el buen viejo!	
+	¿Dónde viene?	
+	¡Gran plazer es el que tiene,	
+	baila y canta todo junto!	
+	Si no es él, yo no barrunto	
+	quién es. Llegar me conviene.	
+	¡Hao! ¿Quién eres	
+	que muestras tantos plazeres	
+	a solas por este ejido?	
+T.	¡Cómo! ¿No me has conocido?	
+M.	No, si no me lo dijeres.	
+T.	Yo te digo	
+	que soy el Tiempo, tu amigo.	
+M.	¿Cómo vienes tan ufano?	
+T.	Yo lo diré, Mundo hermano,	
+	que huelgo mucho contigo.	
+M.	¡Oh, vejaz,	
+	más verde vienes que agraz!	
+T.	Sábete que ya retoço.	
+M.	¿A qué fin te tornas moço?	
+T.	Porque hay en la tierra paz.	
+M.	¿En la tierra?	
+T.	Sí, que nunca verás guerra.	
+M.	Declárame esso mejor.	
+T.	Porque nuestro Emperador	
+	contra turcos la destierra.	
+M.	Dame cuenta.	
+T.	Pardiós, punto no te mienta,	
+	que el mentir corrompe el gusto.	
+	Sabe que César augusto	
+	se sale con cuanto tienta.	
+	La Fortuna	
+	siempre le es tan oportuna	
+	que porque a César le sobre,	
+	huelga de quedarse pobre	
+	y, por le servir, ayuna.	
+M.	De este crey	
+	que dijo no sé en qué ley	
+	aquel sabio más que humano	
+	que tiene Dios en su mano	
+	siempre el coraçón del Rey.	
+T.	Dentro y fuera	
+	quiere Dios que el buen rey quiera	
+	aquello que más le aplaze,	
+	lo cual nuestro César haze	
+	sin errar de su carrera.	
+M.	Con sus modos	
+	temen ya los turcos todos	
+	en todo el mundo su nombre.	
+T.	No hay nación que no se assombre	
+	con ver que excede a sus godos.	
+	Ya tú, hermano,	
+	sabrás cómo este verano,	
+	fiesta de la Magdalena,	
+	embarcó en hora buena	
+	a ver el mundo italiano.	
+M.	Bien lo sé,	
+	y la flota con que fue	
+	a recebir su corona,	
+	porque dentro en Barcelona,	
+	no lejos de él, me hallé.	
+T.	Oye atento:	
+	luego le vino tal viento,	
+	que a las Italias passó	
+	y luego desembarcó	
+	en Génova muy contento.	
+	Con mil fiestas,	
+	con puentes en el mar puestas,	
+	los genoveses salieron	
+	y al gran César recibieron	
+	con invenciones honestas.	
+	Finalmente,	
+	aunque otras cosas no cuente,	
+	luego dieron obediencia	
+	Génova, Pisa y Florencia	
+	con otra italiana gente.	
+M.	¿Pues Venecia...?	
+T.	Venecia tanto se precia	
+	porque está en agua assentada,	
+	que se mostró rebotada.	
+M.	No ha dejado de ser necia.	
+	Aunque Marcos	
+	tenga tesoros y barcos	
+	y el León las uñas fieras,	
+	a César y a sus banderas	
+	fuera mejor poner arcos.	
+T.	La jatancia	
+	de peligro al Rey de Francia,	
+	desque vio a César passado,	
+	la flema se le ha bajado,	
+	que en ella no vio ganancia.	
+	Y los dos	
+	halos conformado Dios	
+	de tal arte con sus manos,	
+	que entre tan grandes hermanos	
+	nunca más se verá tos.	
+	Porque es fama	
+	que el Rey toma a su madama,	
+	Reina de valor sin fin,	
+	y casa con su dolfín	
+	a la hija de esta dama.	
+M.	Grandes bienes	
+	nos vienen de los rehenes.	
+T.	A mí pensallo me espanta.	
+	También casan nuestra infanta	
+	con el gran Duque de Urlienes.	
+	Con lo cual	
+	es hecha una trama tal,	
+	que ya tiemblan los paganos	
+	y los reinos de cristianos	
+	han dado fin a su mal.	
+M.	Si pidieras,	
+	antes que me lo dijeras,	
+	albricias, que era razón	
+	yo te diera mi jubón,	
+	el de mangas domingueras.	
+T.	Ya ternemos	
+	en todos nuestros extremos,	
+	sin que nadie se destempre,	
+	justicia y paz para siempre	
+	y a Jano no le veremos.	
+M.	Sus, andar.	
+	Bien sé yo en que ha de parar	
+	este mi gozo y plazer;	
+	comiença, Tiempo, a tañer	
+	que es razón ya de bailar.	
+T.	¡Alto, Mundo!	
+	¡Oh, qué son tan perjocundo!	
+M.	¡Soncas, no puede mejor!	
+T.	¡Favorécete, pastor!	
+M.	¡Viva César sin segundo!	
+T.	Bien está	
+	lo bailado, basta ya.	
+M.	Como tú, Tiempo, quisieres.	
+T.	Parece que oyo mujeres.	
+	Callemos, llégate acá.	
+
+ACTO SEGUNDO
+Interlocutores: Paz, Correo, Justicia
+P.	¡Válame Nuestra Señora!	
+	¿Qué es esto? No lo adevino:	
+	¿quién passa por el camino	
+	tañendo corneta agora?	
+	Bien es ver	
+	quién viene, para saber	
+	si a dicha trae cualque nueva.	
+	Mas, según la prisa lleva,	
+	podrá ser no responder.	
+	Gentil hombre,	
+	perdonad, que no os sé el nombre.	
+C.	Noble dama, ¿qué pedís?	
+P.	Que me digáis dó venís:	
+	mi pregunta no os asombre.	
+C.	Dama, vengo	
+	de Italia, camino luengo,	
+	en postas, con prissa harta.	
+	Perdonad que no me tengo	
+	más de daros esta carta,	
+	en la cual	
+	veréis la firma imperial;	
+	vuestro nombre, en sobre escrito.	
+	Leedla poco a poquito,	
+	y Dios os guarde de mal.	
+P.	Entre mí	
+	la quiero leer aquí.	
+	¡Dios vaya siempre contigo!	
+	César habla aquí comigo,	
+	¡en dichosa hora nací!	
+	Grandes cosas	
+	nunca vistas, milagrosas,	
+	vienen en este papel.	
+	Muchas gracias doy a aquel	
+	que me quita las esposas.	
+	Mi plazer	
+	comience ya a florecer,	
+	grane, grane, mi alegría,	
+	¡oh, bendito sea aquel día	
+	que César pudo nacer!	
+	¡Cuán bien fuera	
+	que cien mil lenguas tuviera,	
+	cada cual con su garganta,	
+	con facundia tal y tanta	
+	que a Marco Tulio excediera!	
+	Mas la Fama,	
+	que siempre lenguas derrama,	
+	terná por bien de suplir	
+	lo que yo no sé dezir	
+	de tan bien hilada trama.	
+	Ya mis males,	
+	mis destierros desiguales,	
+	del todo son fenescidos	
+	y los brutos animales	
+	no verán más mis gemidos.	
+	Que en verdad,	
+	desque faltó guaridad	
+	para mí entre las más gentes,	
+	entre las fieras serpientes,	
+	vi mayor conformidad.	
+	Los leones	
+	de feroces coraçones	
+	de sí no me desecharon	
+	y los tigres se alegraron,	
+	basiliscos y escorpiones.	
+	Esto digo	
+	porque me dieron abrigo	
+	sierpes de diversos nombres,	
+	y solos, solos los hombres	
+	mostraban odio comigo.	
+	Y la guerra	
+	tinié tomada la tierra	
+	con sus armas y trastrás,	
+	pero yo pienso de hoy más	
+	de tratalla como a perra.	
+	Su gran fuego	
+	al mundo traié tan ciego,	
+	si César no socorriera,	
+	que mi nombre se perdiera	
+	y no hallara sosiego.	
+	Pero agora	
+	hállome tan gran señora	
+	con esta carta que trayo,	
+	cuan señor se halla el mayo	
+	cuando al mundo pinta y dora.	
+	Ya bien puedo	
+	lançar de mí todo el miedo	
+	con tan cierta relación,	
+	pues me sacó de prisión	
+	el gran César con su dedo.	
+	Quién podría	
+	explicar el alegría	
+	con que yo torno a este mundo,	
+	pues la guerra va al profundo	
+	y la tierra y mar es mía.	
+	Tanto bien	
+	le dé Dios, amén, amén,	
+	pues su mano tanto abarca,	
+	que sea absoluto monarca	
+	sin haber jamás desdén.	
+	Si topasse	
+	con quien mi bien relatasse,	
+	mucho más descansaría.	
+	Quiérome ir por esta vía,	
+	si a dicha alguno encontrasse.	
+	Gran codicia	
+	tengo de ver a Justicia	
+	que ha mucho que no la vi.	
+	Parece que viene allí	
+	o mi vista se desquicia.	
+	¿A dó va?	
+	Yo pienso que viene acá,	
+	ya del camino me apoco,	
+	quiero descansar un poco;	
+	si es ella, no tardará.	
+J.	¿Qué es aquesto?	
+	Algún gran milagro es esto.	
+	¿Qué corneta es la que suena?	
+	¿Si es alguna nueva buena?	
+	Quiero ver quién passa presto.	
+	Por Dios, creo	
+	que a mí viene este correo;	
+	quiero salille al atajo.	
+C.	Quitado me has de trabajo,	
+	Justicia, pues que te veo.	
+J.	¿Qué me dices?	
+C.	Nuevas, nuevas muy felices,	
+	que la paz es libertada	
+	y la guerra es desterrada.	
+	No preguntes más ni atizes.	
+J.	Nuevas buenas	
+	te dé Dios, de gloria llenas,	
+	y te libre de malicia.	
+C.	Dios quede con ti, Justicia.	
+J.	Él te dé buenas estrenas.	
+	La Paz veo,	
+	ya se cumple mi desseo.	
+	Quiero hablar desde agora.	
+	Dios te salve, Paz, señora,	
+	por cuya vista rodeo.	
+P.	¡Oh, bien vengas,	
+	para que al mundo sostengas,	
+	Justicia, acá con tu vara!	
+J.	Huelgo, Paz, con ver tu cara	
+	y oliva con faldas luengas.	
+P.	¿Cómo estás?	
+J.	En mi rostro lo verás,	
+	alegre y más que contenta.	
+P.	La margarita es inventa.	
+J.	Esso por ti lo dirás.	
+	Un correo	
+	que llaman Espera in Deo	
+	me dijo en pocas razones	
+	que eras libre de prisiones.	
+P.	Ya mi libertad posseo.	
+	¡Sea loado	
+	quien al mundo me ha tornado,	
+	que ya me cubre tiricia,	
+	y el que a ti, hermana Justicia,	
+	la vara te ha confirmado!	
+J.	Muy ufana	
+	me hallo con tal hermana,	
+	mas escucha un poco agora:	
+	¿Quién será aquella que llora	
+	por aquella trasmontana?	
+P.	Gran mal trae,	
+	a cada passo se cae.	
+	Trage muestra de romera.	
+J.	Oyamos ora siquiera	
+	qué dice o dó se retrae.	
+R.	¡Oh cuidado	
+	jamás visto ni pensado!	
+	¿Dónde tan presto has venido?	
+	¿Qué es esto? ¿Por dó he subido	
+	en tan fragoso collado?	
+	Todo es peñas,	
+	jarales, montes y breñas,	
+	¿qué es de mis ciudades ricas?	
+	¡Oh, benditas pajaricas,	
+	que estáis por aquí extremeñas!	
+	Escuchad,	
+	siquiera por caridad,	
+	mis congojas y querellas;	
+	puesto que no os doláis de ellas	
+	ni de mi gran soledad,	
+	no os me vais.	
+	Parece que revoláis,	
+	no os espante mi presencia,	
+	tened un poco paciencia,	
+	después íos a do mandáis.	
+	Escarmiente	
+	quien presume de prudente;	
+	nadie diga bien me estoy;	
+	sepan, sepan todos hoy	
+	que Fortuna a todos miente.	
+	Cuán pujante	
+	me he visto mil años ante,	
+	Guerra, de todos temida.	
+	Agora véome caída	
+	y no veo quién me levante.	
+	Ya del Cielo	
+	no espero ningún consuelo,	
+	que siempre fue mi enemigo;	
+	la tierra está mal comigo,	
+	el mar no me tiene duelo.	
+	Rocas duras,	
+	sierpes de estas espessuras,	
+	condoleos ya de mi mal,	
+	no haya bestia ni animal	
+	que no sienta mis tristuras.	
+	¿Qué harán	
+	cuantos comían de mi pan,	
+	que era gran parte de buenos?	
+	Sin duda me echarán menos	
+	y de hambre morirán.	
+	Capitanes,	
+	gentiles hombres, galanes,	
+	con otros bisoños fieros,	
+	andando yo en los oteros,	
+	¿quién suplirá sus afanes?	
+	Otro mal	
+	hay tras este desigual:	
+	es que se verá muy tarde	
+	quién es valiente o cobarde,	
+	sin la guerra o su metal.	
+	Cuando el Papa	
+	se solía vestir mi capa,	
+	el cual es vuelto en paloma,	
+	algo mandaba yo en Roma,	
+	vestida toda de chapa.	
+	Si quería,	
+	en dos credos revolvía	
+	franceses con italianos,	
+	alemanes, castellanos,	
+	hasta turcos con Hungría.	
+	Mas mi hado	
+	de tal suerte se ha mudado	
+	en casos rezios, atroces,	
+	que temo morir a coces,	
+	si la paz lo ha barruntado.	
+	Por manera	
+	que el mal que mi mal espera	
+	en el presente comedio	
+	no ha hallado otro remedio	
+	sino tornarme romera.	
+P.	Gran traidora,	
+	ésta es la Guerra, que llora.	
+	¡Cuál viene dissimulada!	
+J.	Mi fe, no aprovecha nada,	
+	quiérola prender agora.	
+R.	¡Ay de mí,	
+	desde el punto en que nací	
+	nunca me vi tan desierta!	
+	¿Qué haré? ¡Doyme por muerta,	
+	la Justicia viene aquí!	
+
+ACTO TERCERO
+Interlocutores: Justicia, Guerra, Paz, Tiempo, Mundo
+Entra Justicia.
+J.	No os escondáis, ¿qué parláis?	
+R.	Señora, no digo nada.	
+J.	Sed presa de esta vegada.	
+R.	¿Por qué presa me lleváis?	
+J.	Mi prisión	
+	será por la Inquisición.	
+R.	Yo no cometo heregías.	
+J.	No curéis de essas porfías,	
+	que no os prendo a sin razón,	
+	embaidora.	
+R.	No lo soy, por Dios, señora,	
+	ni en mi trage hay tal manera.	
+	Soy una pobre romera	
+	que por sus pecados llora.	
+J.	Satanás	
+	nunca jamás daña más,	
+	cuando huye de la cruz,	
+	que cuando es ángel de luz	
+	o en el hábito que vas.	
+R.	Tus razones	
+	sospechan de mí traiciones,	
+	según por ellas me tratas.	
+	Pues sabed que las beatas	
+	ansí van las estaciones.	
+J.	Vos sois tal,	
+	que Alecto, furia infernal,	
+	más en dañar no se esmera,	
+	ni Tesífona y Megera	
+	nunca atraman tanto mal.	
+	Por bellaca	
+	os quiero atar a un estaca.	
+R.	¿A mí, señora? ¿Por qué?	
+J.	Llegaos, que yo os lo diré.	
+R.	No me apretéis, que estó flaca.	
+J.	No penséis	
+	que con esto pagaréis.	
+R.	¿Dó están mis hijos y hermanos?	
+J.	Dad acá essos pies y manos,	
+	que después los llamaréis.	
+	Si yo os ato	
+	y de esta manera os trato,	
+	vos lo tenéis merecido.	
+R.	¿Qué males he cometido?	
+J.	Yo os lo diré en poco rato:	
+	ante mano	
+	ofendéis al Soberano,	
+	porque echáis su paz del mundo	
+	y, con esto, lo segundo:	
+	hacéis lo sacro profano.	
+	He notado	
+	que el que va mejor librado	
+	de vuestra hueste o pendón	
+	es el que es mayor ladrón	
+	o más hombres ha matado.	
+	Por tres blancas	
+	hazes mil personas mancas;	
+	otros hazes mil pedaços,	
+	otros sin manos o braços,	
+	otros cojos con sus trancas.	
+	Vos quemáis	
+	las miesses donde llegáis,	
+	con un poder dissoluto,	
+	y los árboles con fruto	
+	por los troncos los cortáis.	
+	Las doncellas	
+	hazéis gran vileza en ellas,	
+	no menos en las casadas,	
+	¿qué diré de las posadas,	
+	cómo echáis el huésped de ellas?	
+	Sus capones,	
+	sus gallinas y ansarones,	
+	sus mantecas y tocinos,	
+	pan y vino y palominos,	
+	todo lo gozan ladrones.	
+	Los sudores	
+	de los tristes labradores,	
+	sus terneras, sus ganados,	
+	todo lo dais a soldados,	
+	y aun otras cosas mejores.	
+	Sus oficios	
+	dejan por andarse en vicios,	
+	vos los volvéis haraganes,	
+	vos sois madre de rufianes	
+	y fuente de los bullicios.	
+R.	Pues, señora,	
+	yo sé que soy pecadora,	
+	mas algún bien me dio Dios.	
+J.	Esse bien dezildo vos.	
+R.	Pues dejadme un poco agora.	
+J.	Que me plaze.	
+R.	Lo que a mí más satisfaze	
+	es, mientra digo y prosigo,	
+	que os hayáis muy bien comigo,	
+	que de miedo no me enlaze.	
+J.	Sus, dezid.	
+R.	¿Quién conociera a David,	
+	ni los fuertes filisteos,	
+	ni los cinco Macabeos,	
+	si jamás no hobiera lid?	
+	Muchos son	
+	que siguiendo mi pendón,	
+	sus nombres esclarescieron,	
+	de los cuales sé que fueron	
+	Josué, Moisén y Sansón.	
+	Los romanos,	
+	arrimando a mí sus manos,	
+	adelantaron su imperio:	
+	Camilo, Graco y Tiberio	
+	y Cipiones africanos,	
+	un Marcelo,	
+	Sulpicio, Bruto, Metelo,	
+	Emilio, Curcio y Fabricio,	
+	Horacio Cocle y Domicio,	
+	con otros que no revelo.	
+	Mi intención	
+	no es hablar en Macedón,	
+	ni en Césares ni Pompeos,	
+	ni en Héctor ni en Tolomeos,	
+	mas vengo a vuestra nación.	
+J.	Dezid, pues.	
+R.	¿Quién esclareció a Cortés,	
+	puesto cuasi en otro mundo?	
+	Vos diréis lo que yo fundo,	
+	que es a mi causa marqués.	
+	¿Quién no atina	
+	que a mi causa aquel de Urbina	
+	fue puesto en estimación,	
+	y el de Leyva y de Alarcón,	
+	hombres de memoria dina?	
+	Otros callo,	
+	por el tiempo en que me hallo,	
+	dignos de eterna memoria,	
+	que por no alargar la historia,	
+	es muy mejor abreviallo.	
+	Pues si doy	
+	a vivos fama do estoy	
+	y a muertos hago alabarlos,	
+	¿por qué me destierra Carlos	
+	a los garamantas hoy?	
+	Si es su fin	
+	cubrir las armas de orín,	
+	que de no tratallas mana,	
+	poco en esto César gana,	
+	en romance ni en latín.	
+	Pues la paz,	
+	su fin es de dar solaz	
+	y gastar la vida en fiestas:	
+	no son condiciones éstas	
+	que hazen gente sagaz.	
+	Yo, a lo menos,	
+	muchos ruines hago buenos	
+	y tres mil bajos levanto.	
+	Cuando la paz haga tanto,	
+	quiebren mis tiros y truenos.	
+J.	¡Oh, malvada!	
+	¿De la paz, tan alabada,	
+	de Dios por su misma boca,	
+	osas hablar como loca?	
+	¡Perdida, más que treguada,	
+	toma, toma,	
+	no derrames más carcoma!	
+R.	¡Ay, Justicia, que me has muerto!	
+J.	¿No sabes cuán sin concierto	
+	diste sacomano a Roma?	
+	¡Mal miraste	
+	los templos que despojaste!:	
+	en sacrosantos lugares,	
+	custodias, cruces y altares	
+	y aun los cálices robaste.	
+	¡Mal mirabas	
+	las damas que deshonrabas!	
+	Toda Roma dando gritos,	
+	tú, cebada en tus delictos,	
+	los sacros prestes jugabas.	
+	¡Oh, maligna,	
+	de toda piedad indigna,	
+	puerta de todos los males,	
+	yo haré que no te iguales	
+	con la paz, santa y benigna!	
+	Tú no sabes,	
+	aunque tus cosas alabes,	
+	quién es la paz y sus mañas,	
+	sus condiciones y entrañas,	
+	que las cantan ya las aves.	
+	En el Cielo	
+	no tienen mayor consuelo,	
+	después de Dios, ni solaz,	
+	que estar los santos en paz.	
+	¿Qué harán, pues, los del suelo?	
+	Porfiaría	
+	que el reino infernal sería	
+	perdido todo en tropel,	
+	si entre los ministros de él	
+	hobiesse guerra algún día.	
+	Da muy tutos	
+	la tierra todos sus frutos,	
+	todos viven en convén,	
+	el mar se navega bien,	
+	no hay piratas dissolutos.	
+	Mil plazeres	
+	gozan hombres y mugeres,	
+	las cosas sacras no cessan,	
+	van seguros y atraviessan	
+	a las ferias mercaderes.	
+	Lo que ganan,	
+	lo que sudan, lo que afanan,	
+	gózanlo padres y hijos;	
+	en las ventas y cortijos	
+	sin recelo se rellanan.	
+	El más alto	
+	no recela sobresalto,	
+	los bajos viven seguros,	
+	los surcos tienen por muros,	
+	especial si yo no falto.	
+	De estos bienes,	
+	ningunos, Guerra, tú tienes,	
+	salvo dissipar ciudades	
+	y tratar civilidades;	
+	nunca la verdad mantienes.	
+	Pues, maldita,	
+	sin que más de ti repita,	
+	gran merced hoy Dios te haze,	
+	si lo bueno te desplaze,	
+	con que la vida te quita.	
+P.	¡Muera, muera,	
+	tan cautelosa romera!	
+R.	¡Ay, señora, que estó atada!	
+P.	No se me da de esso nada,	
+	doña cevil hechizera.	
+R.	¡Gran dolor!	
+	¿No hay por aquí algún pastor	
+	a quien moviessen mis vozes?	
+T.	Anda allá, Mundo, que gozes,	
+	vamos a dalle favor.	
+M.	A mi ver,	
+	la voz tiene de muger.	
+R.	¡Ay, que me matan de veras!	
+T.	¿Si la comen bestias fieras?	
+M.	Asmo que esso debe ser.	
+
+ACTO CUARTO
+Interlocutores: Tiempo, Mundo, Paz, Guerra, Justicia, Descanso, Plazer
+T.	Acá estáis ambas a dos,	
+	nuestro mal se desperdicia.	
+M.	¿Quiénes son?	
+T.	Paz y Justicia.	
+M.	Gran consuelo para nos.	
+	¡Oh, donzellas	
+	honestas, santas y bellas,	
+	estéis mucho de en buen hora!	
+T.	¿Quién es essa pecadora	
+	que publica sus querellas?	
+J.	Tiempo y Mundo,	
+	vengáis en passo jocundo	
+	por esta florida sierra.	
+	Esta romera es la Guerra,	
+	puerta del ciego profundo.	
+M.	No me agrada.	
+	¿Por qué la tenéis atada?	
+P.	Porque acabe sus engaños.	
+M.	Juro a mí, que estotros años	
+	que estaba más engallada.	
+T.	¡Cuán humilde	
+	se está, sin faltalle tilde!	
+	Como raposa se inclina.	
+M.	¡Ah, traidora me declina!	
+J.	¡Dalde, dalde, sacudilde!	
+P.	¡Dale, hermana!	
+J.	¡Plázeme de buena gana!	
+P.	Tú, Mundo, en los pestorejos.	
+R.	Éstos deben ser los viejos	
+	que acusaron a Susana.	
+M.	¡Cata, cata!	
+	¿Atada de pies y pata,	
+	usáis de vuestra malicia?	
+R.	Y aún diré mal de Justicia,	
+	si de esta suerte me trata.	
+J.	¿Cómo ansí?	
+	¿Qué podéis decir de mí,	
+	puesto que os deje parlar?	
+R.	Pues dejadme resollar.	
+J.	Soy contenta desde aquí.	
+R.	Bien sabéis,	
+	Justicia, no os enojéis,	
+	que os hizo Dios de metal	
+	que tornéis en bien el mal	
+	y lo ajeno no toméis.	
+J.	Bien lo sé.	
+R.	Pues oíd lo que diré,	
+	no me mostréis mala cara:	
+	¡cómo retorcéis la vara!	
+J.	Vos mentís, nunca tal fue.	
+R.	Yo lo pruebo,	
+	si das licencia de nuevo.	
+J.	Yo la doy, mira qué dizes.	
+R.	Digo que un par de perdizes	
+	la trastornan y aun un huevo.	
+	Los capones,	
+	las guallinas y ansarones	
+	y también Garcisobaco,	
+	como tiene el palo flaco,	
+	hazenle hazer cedibones.	
+	Los muy ricos,	
+	aunque sean hombres inicos,	
+	hazen de buen pleito malo	
+	y no castiga esse palo	
+	sino los más pobrecicos.	
+	Los derechos	
+	que llevas y los cohechos,	
+	las mantequillas y truchas	
+	y los dineros que ahuchas	
+	no son públicos provechos.	
+	El variarte	
+	mil vezes a cada parte,	
+	haziendo alegres y mustios,	
+	con diez pares de Salustios	
+	no probarás que es buena arte.	
+	Puesta en trona	
+	con auctoridad catona,	
+	la cual a muchos ofusca,	
+	pelas al que más te busca,	
+	como prudente ladrona.	
+J.	Algo de esso	
+	yo, Guerra, te lo confiesso,	
+	que acontece en mis ministros,	
+	pero nunca en mis registros	
+	se vio errado processo.	
+	Mis jueces,	
+	hombres son, pecan a vezes,	
+	pero de mí tal no digas.	
+R.	Pues ¿por qué no los castigas	
+	como a los pobres soezes?	
+J.	Esso quede	
+	para Quien todo lo puede	
+	y lo alcança y sabe todo.	
+P.	A ti porné yo del lodo,	
+	que no habrá quien me lo viede.	
+T.	Dime, Paz,	
+	¿quies que le pegue un palaz?	
+P.	Passo, passo, no la mates,	
+	mejor es que la desates.	
+J.	No hablas como sagaz.	
+	Si se suelta,	
+	podrá ser que dé tal vuelta,	
+	según sus artes y mañas,	
+	que Italias, Francias y Españas,	
+	todo lo ponga en revuelta.	
+R.	No hayáis miedo.	
+T.	Pues juraldo y alçá el dedo.	
+R.	Yo lo juro de lo hazer,	
+	el dedo no puede ser	
+	porque está atado y no puedo.	
+J.	Alto, pues,	
+	soltalde manos y pies.	
+M.	Vete ya, que suelta estás.	
+R.	Yo me voy a do jamás	
+	os veré ni me verés.	
+T.	De estas santas	
+	y de sus mantos y mantas	
+	y su bordón y veneras,	
+	Dios me libre muy de veras.	
+M.	Allá irá a los garamantas.	
+R.	¿Por dó iré,	
+	triste de mí? ¿Qué haré,	
+	maltratada y abatida,	
+	de todo el mundo expelida,	
+	sin haber hecho porqué?	
+	Tal me veo	
+	que a mí misma me desseo.	
+	¿Hay algún pastor aquí?	
+Pl.	Descanso, ¿quién viene allí?	
+R.	Yo, que mis males llanteo.	
+D.	¡Hao! ¿Qué has?	
+	¿Dó vienes, a dónde vas?	
+R.	Soy la sin ventura Guerra.	
+Pl.	¡Cómo! ¿Te vas de la tierra?	
+R.	No me dejan estar más.	
+D.	¿Quiénes son	
+	los que te echan del mesón?	
+R.	No por cierto mi malicia,	
+	el Tiempo, Paz y Justicia,	
+	y el Mundo, contra razón.	
+Pl.	¿Dó los dejas?	
+	Dínoslo, pues que te alejas.	
+R.	Ahí quedan, en un pradal.	
+D.	Plázenos de ver tu mal.	
+R.	¿A quién contaré mis quejas?	
+Pl.	Espera, espera,	
+	¿cómo vas hecha romera?	
+R.	Ha poco que estuve en Roma.	
+D.	¡Oh, ladrona, toma, toma!	
+Pl.	¿Huís, doña bordonera?	
+D.	¡Grida, grida,	
+	ya la Guerra es despedida,	
+	para nunca más volver!	
+	¡Huelga, Plazer, a plazer!	
+	¡Gozemos de hoy más la vida,	
+	que ha mil años	
+	que pastores y rebaños	
+	andamos cabezcaídos!	
+Pl.	Ya son los tiempos venidos	
+	que dan fin a nuestros daños.	
+D.	Hora, andemos,	
+	quiçá la Paz toparemos	
+	por estos verdes collados.	
+T.	Dos zagales repicados	
+	siento venir, escuchemos.	
+
+ACTO QUINTO
+Interlocutores: Descanso, Paz, Plazer, Justicia, Tiempo y Mundo
+J.	Dios os guarde, Dios os guarde,	
+	todos cuatro os dé remanso.	
+P.	Dios te dé salud, Descanso,	
+	y a Plazer muy buena tarde.	
+Pl.	¡Quién pensara	
+	jamás, Paz, de ver tu cara,	
+	que a todos nos beneficia!	
+	¡Quién pensara, di, Justicia,	
+	ver tan derecha tu vara!	
+J.	De verdad,	
+	obras de su Magestad	
+	son éstas, después de Dios.	
+P.	Mas, ¿quién os dijo a los dos	
+	nuevas de esta libertad?	
+D.	En las villas	
+	hazían grandes maravillas	
+	todos, por amor de ti.	
+	Yo en Burgos lo trasoí,	
+	yendo a vender mantequillas.	
+P.	Esto, hermano,	
+	haze el gran César romano,	
+	muy más felice que Agusto,	
+	que a su favor y a su gusto	
+	todo le viene a la mano.	
+D.	Ten por cierto	
+	que en poblado ni en desierto	
+	no quede palmo de tierra	
+	que contigo y sin la guerra	
+	no se dé a humo muerto.	
+J.	Tus razones,	
+	según, Descanso, dispones,	
+	me dan de claro a entender	
+	que en España hemos de ver	
+	gentes de todas naciones.	
+Pl.	A manojos	
+	pienso ver con sendos ojos	
+	los arimaspos venir,	
+	los cuales suelen reñir	
+	con grifos y haber enojos.	
+D.	Digo más:	
+	que con tus ojos verás	
+	los terribles antrofagos,	
+	que acá nos hazen halagos,	
+	vueltos los pies cara tras.	
+Pl.	Más veremos:	
+	andar por nuestros extremos	
+	los que llaman ofigenes,	
+	que, en tocando, dan mil bienes,	
+	cuando ponçoña bebemos.	
+D.	Muy continos	
+	andarán los androginos,	
+	sin vergüença y sin empacho;	
+	cada cual es hembra o macho,	
+	y van por ambos caminos.	
+Pl.	Con sosiego	
+	los hirpios veremos luego,	
+	que entre los otros se extreman,	
+	los cuales nunca se queman,	
+	descalços por cima el fuego.	
+D.	Verás ledos,	
+	muy sosegados y quedos,	
+	los milones cómo vienen,	
+	los cuales verás que tienen	
+	en cada pie ocho dedos.	
+Pl.	Sin conquistas,	
+	vernán los ginosofistas,	
+	de los cuales te repito	
+	que miran el sol de hito,	
+	sin agravio de sus vistas.	
+P.	Cosas pocas	
+	se han visto de las que tocas.	
+D.	Pues verás otros matizes:	
+	los ciritas sin narizes,	
+	los astonomos sin bocas.	
+Pl.	En volandas,	
+	vernán acá coromandas	
+	gloria les será el destierro	
+	y con sus dientes de perro	
+	mascarán nuestras viandas.	
+D.	Sin recelos	
+	tú verás los monocelos,	
+	que vienen a sendos pies,	
+	y los sátiros después,	
+	que vuelan sin tener vuelos.	
+Pl.	Tus desseos	
+	han de ver otros más feos	
+	passearse por nuestras rúas,	
+	caballeros los pigmeos	
+	en cabrones contra grúas.	
+J.	¡Oh, qué edad,	
+	qué tiempo de caridad,	
+	es llegado a nuestra España!	
+T.	Cada cual en su cabaña	
+	terná gran seguridad.	
+M.	Ya es tornada	
+	otra vez la edad dorada,	
+	Saturno ya resucita,	
+	la plata y cobre se quita,	
+	la de hierro es acabada.	
+D.	Los pertrechos	
+	daldos todos por deshechos,	
+	los trabucos y lombardas,	
+	y las picas y alabardas	
+	y las casas y los techos.	
+Pl.	Los zagales	
+	ternán tales temporales,	
+	que desnudos se andarán	
+	y la tierra dará pan,	
+	sin arar los andurriales.	
+D.	Arboledas	
+	habrá por todas veredas,	
+	siempre estará el mundo ufano,	
+	contino será verano,	
+	nadie querrá las monedas.	
+Pl.	La verdad,	
+	la virtud, la castidad,	
+	que andaban cuasi perdidas,	
+	todas andarán floridas,	
+	cobrada su auctoridad.	
+D.	La lujuria,	
+	la soberbia con la furia,	
+	las cautelas y traiciones	
+	y los saltos de ladrones	
+	ya no nos harán injuria.	
+Pl.	Nuestros hatos,	
+	cabras, ovejas, chivatos	
+	no habrán miedo a lobatones,	
+	ni las vacas a leones,	
+	ni los mures a los gatos.	
+D.	Las espadas,	
+	todas serán olvidadas,	
+	carcomidas del orín;	
+	todas las armas, en fin,	
+	serán en hoces tornadas.	
+Pl.	Provechosa	
+	eres, Paz, a toda cosa.	
+P.	Tú verás, andar, hermano,	
+	con los pollos el milano,	
+	con el gallo la raposa.	
+D.	Y aun verán	
+	tener paz el gavilán	
+	con los tordos y pardales	
+	y las águilas caudales	
+	las perdizes amarán.	
+Pl.	A manadas,	
+	las liebres acobardadas	
+	andarán entre los galgos;	
+	todos seremos hidalgos,	
+	las alcabalas dejadas.	
+D.	Los venados	
+	andarán muy hermanados	
+	con los canes más ventores,	
+	y las palomas y açores	
+	conformes por los collados.	
+Pl.	Y aun saldrán	
+	las lechuzas donde están,	
+	sin temor a mediodía,	
+	y las garças tomarán	
+	halcones en compañía.	
+T.	Razón sobra,	
+	pues la paz haze tal obra	
+	que todos nos gasagemos.	
+M.	Bien has dicho, ¡sus, bailemos,	
+	que tal tiempo ya se cobra!	
+T.	Hora, pues,	
+	de cuatro bailemos los tres,	
+	tú, Mundo, haznos el son.	
+M.	Poneos todos en jubón	
+	y sacudid bien los pies.	
+	¡Sus, que taño!	
+D.	Pardiós, que es son de picaño.	
+Pl.	Bailemos a la barrisca.	
+T.	No nos tañas la morisca,	
+	sino el villano de antaño.	
+M.	Soy contento,	
+	andad todos con buen tiento.	
+T.	Apártate allá, rapaz.	
+	¡A la gala de la Paz,	
+	que con su vista me aliento!	
+Pl.	Ande más	
+	y no mudes el compás,	
+	que el son mismo da codicia.	
+	¡La gala de la Justicia!	
+M.	¡Buena çapateta das!	
+	Yo he gozado	
+	de las vueltas que habéis dado,	
+	táñeme tú, Tiempo, un poco	
+	y verás como las floco.	
+	Hazme un son muy repicado.	
+T.	¡Alto, Mundo!	
+M.	Juro a mí que ya le tundo.	
+D.	Dale a tu baile favor.	
+M.	¡Viva nuestro Emperador,	
+	pues que no tiene segundo!	
+D.	¡Más, más, más!	
+T.	¡Cómo! ¿Por bailar estás?	
+D.	Sí estoy, bien será que hipe:	
+	¡Viva el Príncipe Filipe!	
+Pl.	Juro al Mundo, bueno vas.	
+M.	Paz, señora,	
+	bailad vos un poco agora	
+	por libertad tan feliz.	
+P.	¡Guarde Dios la Emperatriz,	
+	que a su César tanto adora!	
+Pl.	Entre cien	
+	ninguna baila tan bien.	
+J.	Muy gentil gracia le da.	
+T.	Salid vos, Justicia, acá.	
+J.	Que me plaze sin desdén.	
+D.	¡Qué plazer	
+	es de vella revolver!	
+M.	Juro a diez que a mí me espanta.	
+J.	¡Viva mil años la Infanta,	
+	con lo que está por nacer!	
+T.	Bien está.	
+	Muy noche se haze ya,	
+	que hemos estado mil horas.	
+Pl.	Pues digan estas señoras	
+	qué mandan y ansí será.	
+P.	Que os vistáis	
+	y con nosotras os vais,	
+	pues que sois de nuestro bando.	
+D.	Alto, pues. Vamos cantando.	
+J.	Hágase como mandáis.	
+P.	Pues, pastores,	
+	dezid los dos los tenores;	
+	las dos diremos el alto	
+	otros dos contras mayores.	
+M.	Alto, nadie quede falto.	
+
+
+Villancico
+ 	De allá vienen bienes
+	
+	do está nuestro bien.
+	
+	En nuestros extremos,
+	
+	tal César tenemos,
+	
+	que por él veremos
+	
+a Jerusalem.	
+	
+Él quita los clavos	
+	
+de nuestros rebaños;	
+	
+pues ¡viva los años	
+	
+de Matusalén!	
+Fin
+ 	Roguemos hoy día,
+	
+	pues paz nos invía,
+	
+que mucha alegría	
+	
+le dé Dios. Amén.	
+Yanguas.
+ Dedicación de esta obra al ilustre y muy magnífico señor el señor don Francisco de la Cueva. En la cual dize el autor cuánto le debe por las mercedes que de él recibe.
+ 	Del pelicano se cuenta
+	
+	ser un ave en los desiertos
+	
+	que a sí misma se ensangrienta
+	
+	por no ver sus hijos muertos.
+	
+	Item por dalles cebico,
+	
+	se pone en tan gran estrecho
+	
+	que se saca con su pico
+	
+	sangre viva de su pecho.
+	
+	Y dado que aquesto haga
+	
+	con tormentos tan esquivos,
+	
+	al fin él mismo se paga
+	
+	con tornar sus hijos vivos.
+	
+	Mas si vos a vos quitáis
+	
+	del pecho lo que coméis
+	
+	y a vuestro Yanguas lo dais,
+	
+	gran ventaja le hacéis.
+	
+	El cisne siempre fue blanco,
+	
+	no puede dejar de sello;
+	
+	el gallo contino es franco,
+	
+	nadie tiene duda de ello.
+	
+	Pues assí se me figura
+	
+	que es blanca vuestra nobleza;
+	
+	y faltaros la franqueza
+	
+	ya sería contra natura.
+	
+	Suele el águila soltar
+	
+	la presa cuando es pequeña;
+	
+	y también dar la cigüeña
+	
+	a los suyos ruin manjar.
+	
+	Mas vos, ilustre señor,
+	
+	la presa mayor soltáis
+	
+y el manjar que a vos quitáis	
+	
+es lo más dulce y mejor.	
+	
+El hidalgo gavilán,	
+	
+cuando prende al pajarico,	
+	
+a veces sufre el afán	
+	
+sin cebar en él su pico.	
+	
+Y por sus obras süaves,	
+	
+manda la ley y el derecho	
+	
+que franquee las otras aves	
+	
+y por él no paguen pecho.	
+	
+Son en vos estos esmaltes	
+	
+tan probados y tan ciertos,	
+	
+que a sacres y girifaltes	
+	
+les podéis franquear los puertos.	
+	
+Yo, un cernícalo de orçuelo,	
+	
+con ver cuál os hizo Dios,	
+	
+no he hallado otro consuelo	
+	
+para mi bien, sino a vos.	
+	
+Pluguiera Dios que yo fuera	
+	
+otro fénix en la vida,	
+	
+para que yo os la ofreciera	
+	
+y fuera bien ofrecida.	
+	
+Mas ofrezcoos, gran señor,	
+	
+mi farsa, que tenga escudo,	
+	
+pues sois tal y tan deudo	
+	
+de aquel gran Emperador.	
+	
+Porque si se sella en ella	
+	
+vuestro nombre ilustre y claro,	
+	
+ella terná tal mamparo,	
+	
+que ninguno ose mordella.	
+Yanguas.
 
